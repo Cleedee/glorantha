@@ -19,6 +19,7 @@ status: draft
 - Mantém um servidor Discord para mesas de Glorantha
 - Mestreando a campanha **[[Valley of Plenty]]** no sistema [[QuestWorlds]]
 - Planeja aventuras de [[The Horse and His Children]] para público infanto-juvenil
+- Acompanha as campanhas do canal **Por Um Punhado de Dados** no YouTube
 
 ### Campanha Atual
 A **Saga dos Jaldonkillers** usa o material de **Valley of Plenty** de Shawn e Peggy Carpenter. Os heróis começam como crianças e a campanha está em fase inicial.

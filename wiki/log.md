@@ -19,4 +19,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-13] ingest | Processado "Interview with Robin D. Laws" (Juegos y Dados, 2016) — 7 páginas criadas: King of Dragon Pass, Six Ages, GUMSHOE, Hillfolk, Feng Shui, Ken and Robin Talk About Stuff, Alarums & Excursions. 2 páginas atualizadas: Robin D. Laws (reescrita completa com carreira detalhada), Greg Stafford (relação com Robin). Index atualizado.
 
+## [2026-04-13] ingest | Processado "Drops Glorantha #5 - Dorastor" — 10 páginas criadas: Ralzakark, Dorasta, Arkat o Destruidor, Simon Phipp, Secrets of Dorastor, Broo, Amal-See Calax, Tratado da Sétima Lua Minguante, Tomate, Talastar, Glamour, Holiday Dorastor, God Learners, Genert, Pelora. 4 páginas atualizadas: Dorastor (reescrita completa com lore), Dorastor Land of Doom, Claudio Torcato, RuneQuest Warlords. Index atualizado.
+
 ---

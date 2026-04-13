@@ -27,6 +27,15 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Lokamayadon]] | Figura da Primeira Era mencionada no romance de Stafford | `Primeira Era` | draft |
 | [[Andrew Logan Montgomery]] | Escritor convidado para finalizar romance de Stafford; 5 meses isolado | `escritor` `A Pyre` | draft |
 | [[Susan O'Brien]] | Editora do romance de Stafford; compilava manuscritos desde 2015 | `editora` `Chaosium` | draft |
+| [[Ralzakark]] | Rei dos Broos e Senhor de Dorastor; Tratado de 1580 com Império Lunar | `Broo` `Dorastor` | draft |
+| [[Dorasta]] | Deusa da terra de Dorastor; filha de Genert e Pelora | `deusa` `terra` | draft |
+| [[Arkat, o Destruidor]] | Devastou Dorastor e causou mal à deusa Dorasta | `destruidor` `Caos` | draft |
+| [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
+| [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
+| [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
+| [[Genert]] | Pai de Dorasta (deusa da terra de Dorastor) | `deus` `pai` | draft |
+| [[Pelora]] | Mãe de Dorasta (deusa da terra de Dorastor) | `deusa` `mãe` | draft |
+| [[Tomate]] | Mestre das campanhas Reino do Trovão e Caminho Lunar (YouTube) | `mestre` `YouTube` | draft |
 
 ---
 
@@ -38,8 +47,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Templo da Espada de Madeira]] | Santuário de Humakt em Sartar; trolls participaram do culto | `Humakt` `templo` `Sartar` | draft |
 | [[Big Rubble e Pavis]] | Ruínas e cidade estratégica; foco do futuro RQ Fantasy Roleplaying | `Pavis` `ruínas` `Império Lunar` | draft |
 | [[Puerta Rúnica]] | Pequena cidade assolada por plaga; aventura A Darkness at Runegate | `cidade` `plaga` | draft |
-| [[Dorastor]] | Terra maldita do Caos; cenário de Warlords e suplemento RQ3 | `terra maldita` `Caos` | draft |
+| [[Dorastor]] | Terra maldita do Caos; nome vem de Dorasta; devastada por Arkat; Rei Ralzakark | `terra maldita` `Caos` `Dorasta` | draft |
 | [[Hogar Audaz]] | Capital de Sartar; detalhada no futuro Lands of RuneQuest | `capital` `Sartar` | draft |
+| [[Talastar]] | Região vizinha de Dorastor; cenário de RuneQuest Warlords | `região` `Warlords` | draft |
+| [[Glamour]] | Cidade do Grande Templo do Imperador Vermelho; vitrais do Tratado | `cidade` `Império Lunar` | draft |
 
 ---
 
@@ -48,7 +59,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
-| *(nenhuma página ainda)* | — | — | — |
+| [[Tratado da Sétima Lua Minguante]] | Acordo comercial Lunar-Dorastano de 1580; Ralzakark + Amal-See Calax; 14 vitrais | `tratado` `1580` | draft |
 
 ---
 
@@ -99,9 +110,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[The Hunt for the Storm Calf]] | Aventura RuneQuest; demonstração revisada | `aventura` `PDF` | draft |
 | [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi | `suplemento` `Sartar` | draft |
 | [[Cults of RuneQuest - Darkness]] | Suplemento com cultos de deusas da escuridão; trolls; inframundo | `suplemento` `cultos` | draft |
-| [[Dorastor - Land of Doom]] | Suplemento clássico RQ3 (1993); reedição planejada | `suplemento` `reedição` | draft |
+| [[Dorastor - Land of Doom]] | Suplemento clássico RQ3 (1993) por Sandy Petersen e Greg Stafford; reedição | `suplemento` `reedição` | draft |
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |
-| [[RuneQuest Warlords]] | Videojogo de estratégia da Slitherine; Hahlgrim vs Caos em Dorastor | `videojogo` `Slitherine` | draft |
+| [[RuneQuest Warlords]] | Videojogo de estratégia da Slitherine; Hahlgrim vs Caos em Dorastor e Talastar | `videojogo` `Slitherine` | draft |
 | [[Rune Marked Miniatures]] | Miniaturas oficiais de plástico para RuneQuest; crowdfunding maio 2026 | `miniaturas` `crowdfunding` | draft |
 | [[King of Dragon Pass]] | Jogo de computador de Glorantha; escrita de Robin D. Laws | `videojogo` `computador` | draft |
 | [[Six Ages]] | Sucessor de King of Dragon Pass; escrita de Robin Laws | `videojogo` `computador` | draft |
@@ -109,6 +120,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Feng Shui]] | RPG de ação/artes marciais de Robin Laws; Daedalus/Atlas Games | `RPG` `ação` | draft |
 | [[Ken and Robin Talk About Stuff]] | Podcast de Ken Hite e Robin Laws; RPG, história, ocultismo | `podcast` `Robin Laws` | draft |
 | [[Alarums & Excursions]] | Zine que conectou Robin Laws, Rob Heinsoo, Jonathan Tweet | `zine` `RPG` | draft |
+| [[Secrets of Dorastor]] | Guia de Dorastor por Simon Phipp; baseado em campanha dos anos 80 | `suplemento` `Dorastor` | draft |
+| [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
+| [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
 
 ---
 

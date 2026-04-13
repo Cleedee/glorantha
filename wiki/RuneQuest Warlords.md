@@ -21,6 +21,9 @@ status: draft
 - **Campanha** — Conduzir Hahlgrim na luta contra o Caos em Dorastor
 - **Batalha** — Combate entre jogadores, com escolha de exércitos
 
+### Cenário
+- **Regiões:** [[Dorastor]] e [[Talastar]]
+
 ### Facções Disponíveis
 1. **Orlanthi** — Seguidores de Orlanth
 2. **Império Lunar** — Soldados da Lua Vermelha

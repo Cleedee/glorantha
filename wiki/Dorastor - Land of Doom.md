@@ -17,7 +17,12 @@ status: draft
 ### Publicação Original
 - **Ano:** 1993
 - **Sistema:** RuneQuest 3ª edição
+- **Autores:** [[Sandy Petersen]] e [[Greg Stafford]]
+- **Editora:** Avalon Hill
 - **Tema:** A terra maldita de Dorastor, domínio do Caos
+
+### Conteúdo
+A capa mostra **[[Ralzakark]]**, o Rei dos [[Broo]]s de Dorastor, representado como um homem com cabeça de unicórnio. A ilustração é baseada no vitral monumental "**O Tratado da Sétima Lua Minguante**" do Grande Templo do Imperador Vermelho em **Glamour**, retratando Ralzakark e [[Amal-See Calax]] concluindo o **Tratado Comercial Lunar-Dorastano de 1580**.
 
 ### Reedição
 A reedição seguirá o mesmo modelo de **Sun County** (também reeditado pela Chaosium). Detalhes da reedição ainda não foram divulgados.
