@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md",
+                "file": "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker"
+              "title": "Jogando A Saga dos Matadores de Jaldon"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md",
+                "file": "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker"
+              "title": "Links inversos para Jogando A Saga dos Matadores de Jaldon"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md",
+                "file": "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker"
+              "title": "Links de saída para Jogando A Saga dos Matadores de Jaldon"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md",
+                "file": "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker"
+              "title": "Sumário de Jogando A Saga dos Matadores de Jaldon"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "2c33818b42df9573",
   "lastOpenFiles": [
-    "wiki/index.md",
+    "wiki/O Bugurso Domesticado.md",
+    "wiki/Compacto RPG.md",
     "raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md",
+    "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md",
+    "wiki/index.md",
     "An Open Letter to Chaosium.md",
     "raw/clippings/Hub do Cláudio.md",
     "wiki/Pelora.md",
@@ -208,9 +211,6 @@
     "wiki/Lands of RuneQuest - Sartar.md",
     "wiki/Robin D. Laws.md",
     "raw/clippings/Interview with Robin D. Laws.md",
-    "wiki/Alarums & Excursions.md",
-    "wiki/Ken and Robin Talk About Stuff.md",
-    "wiki/Feng Shui.md",
     "raw/clippings"
   ]
 }

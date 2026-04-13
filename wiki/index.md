@@ -20,7 +20,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Ian Cooper]] | Designer liderando HeroQuest → QuestWorlds; visa sistema agnóstico | `designer` `QuestWorlds` | draft |
 | [[Robin D. Laws]] | Designer de Hero Wars, criador do GUMSHOE, Feng Shui, Hillfolk, nasc. 1964 | `designer` `Hero Wars` `GUMSHOE` | draft |
 | [[Greg Stafford]] | Criador de Glorantha e da Chaosium; campanha Colymar; romance póstumo | `criador` `Chaosium` | draft |
-| [[Claudio Torcato]] | Mestre de QuestWorlds, campanha Valley of Plenty, blog Jogatinas em Teresina | `mestre` `QuestWorlds` | draft |
+| [[Claudio Torcato]] | Mestre de QuestWorlds, campanha Valley of Plenty; alias Cleedee; criador do Compacto RPG | `mestre` `QuestWorlds` `Cleedee` | draft |
 | [[Harmast, o Descalço]] | Herói da Primeira Era, protagonista do romance de Stafford | `herói` `Primeira Era` | draft |
 | [[Nysalor]] | Deus ambíguo; nascimento mostrado no romance de Stafford | `deus` `ambíguo` `Primeira Era` | draft |
 | [[Hahlgrim]] | Herói do videojogo RuneQuest Warlords contra o Caos | `herói` `Warlords` | draft |
@@ -123,6 +123,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Secrets of Dorastor]] | Guia de Dorastor por Simon Phipp; baseado em campanha dos anos 80 | `suplemento` `Dorastor` | draft |
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
 | [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
+| [[O Bugurso Domesticado]] | Blog de RPG de Claudio Torcato; relatos de Numenera, Arkanun, Cripta | `blog` `Cleedee` | draft |
+| [[Compacto RPG]] | Sistema de RPG criado por Claudio Torcato; playtests solo no Itch.io | `sistema` `Cleedee` | draft |
 
 ---
 
