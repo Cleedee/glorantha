@@ -22,9 +22,11 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Greg Stafford]] | Criador de Glorantha e da Chaosium; campanha Colymar; romance póstumo | `criador` `Chaosium` | draft |
 | [[Claudio Torcato]] | Mestre de QuestWorlds, campanha Valley of Plenty, blog Jogatinas em Teresina | `mestre` `QuestWorlds` | draft |
 | [[Harmast, o Descalço]] | Herói da Primeira Era, protagonista do romance de Stafford | `herói` `Primeira Era` | draft |
-| [[Nysalor]] | Deus ambíguo da Primeira Era | `deus` `ambíguo` | draft |
+| [[Nysalor]] | Deus ambíguo; nascimento mostrado no romance de Stafford | `deus` `ambíguo` `Primeira Era` | draft |
 | [[Hahlgrim]] | Herói do videojogo RuneQuest Warlords contra o Caos | `herói` `Warlords` | draft |
 | [[Lokamayadon]] | Figura da Primeira Era mencionada no romance de Stafford | `Primeira Era` | draft |
+| [[Andrew Logan Montgomery]] | Escritor convidado para finalizar romance de Stafford; 5 meses isolado | `escritor` `A Pyre` | draft |
+| [[Susan O'Brien]] | Editora do romance de Stafford; compilava manuscritos desde 2015 | `editora` `Chaosium` | draft |
 
 ---
 
@@ -69,6 +71,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Glorantha]] | Universo de fantasia de Greg Stafford; cenário de RuneQuest e QuestWorlds | `cenário` `mundo` `Dragon Pass` | draft |
 | [[RuneQuest Fantasy Roleplaying]] | Edição paralela simplificada de RuneQuest; D100; Sartar + Pavis | `sistema` `simplificado` `Jeff Richard` | draft |
 | [[Caos]] | Força antagonista; associada a Dorastor; inimiga de Orlanthi e Lunar | `inimigo` `Dorastor` | draft |
+| [[Primeiro Conselho]] | Instituição da Primeira Era; ruptura mostrada no romance de Stafford | `Primeira Era` `ruptura` | draft |
 
 ---
 
@@ -88,7 +91,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[The Horse and His Children]] | Aventura QuestWorlds para público infanto-juvenil | `aventura` `infanto-juvenil` | draft |
 | [[Moon Design Publications]] | Editora de HeroQuest Glorantha; vendeu marca para Hasbro em 2020 | `editora` `Moon Design` | draft |
 | [[Hasbro]] | Adquiriu marca HeroQuest em 2020; motivou criação do QuestWorlds | `empresa` `marca` | draft |
-| [[A Pyre for Gods and Heroes]] | Romance inacabado de Stafford; Primeira Era; Harmast; ficção oficial Chaosium | `romance` `Stafford` | draft |
+| [[A Pyre for Gods and Heroes]] | Romance inacabado de Stafford; finalizado por Montgomery; 50º aniversário; Harmast's Saga | `romance` `Stafford` `Montgomery` | draft |
 | [[White Bear and Red Moon]] | Jogo de batalha; reedição com regras simplificadas | `tabuleiro` `batalha` | draft |
 | [[Stealing the Eye]] | Aventura breve RuneQuest; infiltração em templo; 14 págs | `aventura` `PDF` | draft |
 | [[A Darkness at Runegate]] | Aventura RuneQuest; plaga em Puerta Rúnica; rainha Leika; 35 págs | `aventura` `PDF` | draft |

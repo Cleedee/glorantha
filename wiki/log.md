@@ -15,4 +15,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-13] ingest | Processado "Noticias D100 do blog Runeblog.md" — 21 páginas criadas: A Pyre for Gods and Heroes, White Bear and Red Moon, Stealing the Eye, A Darkness at Runegate, The Hunt for the Storm Calf, RuneQuest Fantasy Roleplaying, Lands of RuneQuest: Sartar, Cults of RuneQuest: Darkness, Dorastor: Land of Doom, Puerta Rúnica, Dorastor, Hogar Audaz, Harmast o Descalço, Nysalor, Hahlgrim, RuneQuest Warlords, Rune Marked Miniatures, Jonstown Compendium, Lokamayadon, Caos. 2 páginas atualizadas: Greg Stafford, Big Rubble e Pavis. Index atualizado.
 
+## [2026-04-13] ingest | Processado "Greg Stafford's A Pyre for Gods and Heroes at Long Last" (blog de Montgomery) — 3 páginas criadas: Andrew Logan Montgomery, Susan O'Brien, Primeiro Conselho. 4 páginas atualizadas: A Pyre for Gods and Heroes (reescrita completa com detalhes do processo), Greg Stafford, Harmast o Descalço, Nysalor. Index atualizado.
+
 ---

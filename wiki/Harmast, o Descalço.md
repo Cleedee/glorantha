@@ -15,11 +15,12 @@ status: draft
 ## Conteúdo
 
 ### No Romance
-- **Época:** Primeira Era, ano 411 (carreira heroica a partir de 440)
-- **Obra:** [[A Pyre for Gods and Heroes]]
+- **Época:** Primeira Era, ano 411 ST (carreira heroica a partir de ~440); o romance cobre anos e décadas anteriores também
+- **Obra:** [[A Pyre for Gods and Heroes]] (originalmente "Harmast's Saga")
 - **Eventos associados:**
-  - A Batalha do Dia e a Noite
-  - O deus ambíguo [[Nysalor]]
+  - A ruptura do Primeiro Conselho
+  - O nascimento de [[Nysalor]]
+  - A Batalha do Dia e da Noite
   - [[Lokamayadon]]
 
 ## Referências Cruzadas

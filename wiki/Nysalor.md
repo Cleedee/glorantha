@@ -17,6 +17,9 @@ status: draft
 ### Deus Ambíguo
 Nysalor é mencionado no contexto da Primeira Era de Glorantha, no romance de Greg Stafford. O epíteto "ambíguo" sugere que não é claramente alinhado com ordem ou caos, tendo aspectos de ambos.
 
+### No Romance
+O romance **[[A Pyre for Gods and Heroes]]** mostra o **nascimento de Nysalor** e permite que o leitor conheça o personagem em profundidade, conforme declarado por [[Andrew Logan Montgomery]].
+
 ## Referências Cruzadas
 - [[A Pyre for Gods and Heroes]]
 - [[Greg Stafford]]

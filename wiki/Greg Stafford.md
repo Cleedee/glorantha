@@ -31,7 +31,7 @@ Stafford pediu a [[Robin D. Laws]] que criasse um *storytelling game* para facil
 A visão de Stafford para Glorantha influenciou gerações de jogadores e mestres. Suas campanhas pessoais se tornaram cenários clássicos usados até hoje.
 
 ### Obra Póstuma
-Seu romance inacabado **[[A Pyre for Gods and Heroes]]**, completado por Andrew Logan Montgomery, será a primeira obra de uma nova linha de ficção oficial da Chaosium para Glorantha.
+Seu romance inacabado **[[A Pyre for Gods and Heroes]]** (originalmente conhecido como **"Harmast's Saga"**) foi completado por [[Andrew Logan Montgomery]] após cinco meses de trabalho (Julho–Dezembro 2025), com edição de Susan O'Brien. O projeto foi encomendado para o **50º aniversário da Chaosium**. Desde 2015, [[Jeff Richard]] e Susan O'Brien já compilavam os manuscritos de Greg — o romance estava cerca de 90% completo, com Greg deixando notas, rascunhos e diagramas para as partes faltantes.
 
 ## Referências Cruzadas
 - [[Glorantha]]
