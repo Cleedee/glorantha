@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md",
+                "file": "raw/clippings/Interview with Robin D. Laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery"
+              "title": "Interview with Robin D. Laws"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md",
+                "file": "raw/clippings/Interview with Robin D. Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery"
+              "title": "Links inversos para Interview with Robin D. Laws"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md",
+                "file": "raw/clippings/Interview with Robin D. Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery"
+              "title": "Links de saída para Interview with Robin D. Laws"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md",
+                "file": "raw/clippings/Interview with Robin D. Laws.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery"
+              "title": "Sumário de Interview with Robin D. Laws"
             }
           }
         ]
@@ -185,11 +185,19 @@
   },
   "active": "2c33818b42df9573",
   "lastOpenFiles": [
+    "wiki/Alarums & Excursions.md",
+    "wiki/Ken and Robin Talk About Stuff.md",
+    "wiki/Feng Shui.md",
+    "wiki/Hillfolk.md",
+    "wiki/GUMSHOE.md",
+    "wiki/Six Ages.md",
+    "wiki/King of Dragon Pass.md",
+    "raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md",
+    "raw/clippings/Interview with Robin D. Laws.md",
     "wiki/Primeiro Conselho.md",
     "wiki/Susan O'Brien.md",
     "wiki/Andrew Logan Montgomery.md",
     "wiki/A Pyre for Gods and Heroes.md",
-    "raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md",
     "wiki/Lokamayadon.md",
     "wiki/Lands of RuneQuest - Sartar.md",
     "wiki/Hogar Audaz.md",
@@ -203,14 +211,6 @@
     "wiki/Harmast, o Descalço.md",
     "wiki/Dorastor.md",
     "wiki/Puerta Rúnica.md",
-    "wiki/Dorastor - Land of Doom.md",
-    "wiki/Cults of RuneQuest - Darkness.md",
-    "wiki/RuneQuest Fantasy Roleplaying.md",
-    "wiki/The Hunt for the Storm Calf.md",
-    "wiki/A Darkness at Runegate.md",
-    "wiki/Stealing the Eye.md",
-    "wiki/White Bear and Red Moon.md",
-    "wiki/index.md",
     "raw/clippings"
   ]
 }

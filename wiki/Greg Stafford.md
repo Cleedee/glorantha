@@ -27,6 +27,13 @@ A campanha Colymar de Stafford é uma das campanhas mais icônicas de Glorantha,
 ### Pedidos a Outros Designers
 Stafford pediu a [[Robin D. Laws]] que criasse um *storytelling game* para facilitar a colaboração em narrativas de Glorantha. O resultado foi o **Hero Wars** (2000), que evoluiria para [[HeroQuest]] e [[QuestWorlds]].
 
+#### Relação com Robin D. Laws
+- Robin conheceu Greg através de **Rob Heinsoo** (D&D 4E, 13th Age)
+- Robin trabalhou em **[[King of Dragon Pass]]** (jogo de computador de Glorantha) com David Dunham, a pedido de Greg
+- Greg usou um "precursor de crowdfunding" para financiar Hero Wars
+- Robin descreve Greg como *"um pure auteur que cria seu mundo não como exercício intelectual mas vendo-o revelar-se em sua mente"* e *"o grand shaman of gaming"*
+- Robin também escreveu por meses o sucessor de King of Dragon Pass: **[[Six Ages]]**
+
 ### Legado
 A visão de Stafford para Glorantha influenciou gerações de jogadores e mestres. Suas campanhas pessoais se tornaram cenários clássicos usados até hoje.
 

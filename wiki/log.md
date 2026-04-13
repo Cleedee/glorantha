@@ -17,4 +17,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-13] ingest | Processado "Greg Stafford's A Pyre for Gods and Heroes at Long Last" (blog de Montgomery) — 3 páginas criadas: Andrew Logan Montgomery, Susan O'Brien, Primeiro Conselho. 4 páginas atualizadas: A Pyre for Gods and Heroes (reescrita completa com detalhes do processo), Greg Stafford, Harmast o Descalço, Nysalor. Index atualizado.
 
+## [2026-04-13] ingest | Processado "Interview with Robin D. Laws" (Juegos y Dados, 2016) — 7 páginas criadas: King of Dragon Pass, Six Ages, GUMSHOE, Hillfolk, Feng Shui, Ken and Robin Talk About Stuff, Alarums & Excursions. 2 páginas atualizadas: Robin D. Laws (reescrita completa com carreira detalhada), Greg Stafford (relação com Robin). Index atualizado.
+
 ---

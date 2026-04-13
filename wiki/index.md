@@ -18,7 +18,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Humakt]] | Deus da guerra e da morte; culto aceita trolls | `deus` `guerra` `morte` | draft |
 | [[Kallyr Testa-Estrelada]] | Líder da Rebelião de Starbrow em Sartar | `Kallyr` `rebelião` `Sartar` | draft |
 | [[Ian Cooper]] | Designer liderando HeroQuest → QuestWorlds; visa sistema agnóstico | `designer` `QuestWorlds` | draft |
-| [[Robin D. Laws]] | Criador do Hero Wars, autor de GUMSHOE, Hillfolk, Dying Earth | `designer` `Hero Wars` | draft |
+| [[Robin D. Laws]] | Designer de Hero Wars, criador do GUMSHOE, Feng Shui, Hillfolk, nasc. 1964 | `designer` `Hero Wars` `GUMSHOE` | draft |
 | [[Greg Stafford]] | Criador de Glorantha e da Chaosium; campanha Colymar; romance póstumo | `criador` `Chaosium` | draft |
 | [[Claudio Torcato]] | Mestre de QuestWorlds, campanha Valley of Plenty, blog Jogatinas em Teresina | `mestre` `QuestWorlds` | draft |
 | [[Harmast, o Descalço]] | Herói da Primeira Era, protagonista do romance de Stafford | `herói` `Primeira Era` | draft |
@@ -72,6 +72,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest Fantasy Roleplaying]] | Edição paralela simplificada de RuneQuest; D100; Sartar + Pavis | `sistema` `simplificado` `Jeff Richard` | draft |
 | [[Caos]] | Força antagonista; associada a Dorastor; inimiga de Orlanthi e Lunar | `inimigo` `Dorastor` | draft |
 | [[Primeiro Conselho]] | Instituição da Primeira Era; ruptura mostrada no romance de Stafford | `Primeira Era` `ruptura` | draft |
+| [[GUMSHOE]] | Sistema de investigação de Robin Laws; Pelgrane Press; 10 anos em 2016 | `sistema` `investigação` `Pelgrane` | draft |
 
 ---
 
@@ -102,6 +103,12 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |
 | [[RuneQuest Warlords]] | Videojogo de estratégia da Slitherine; Hahlgrim vs Caos em Dorastor | `videojogo` `Slitherine` | draft |
 | [[Rune Marked Miniatures]] | Miniaturas oficiais de plástico para RuneQuest; crowdfunding maio 2026 | `miniaturas` `crowdfunding` | draft |
+| [[King of Dragon Pass]] | Jogo de computador de Glorantha; escrita de Robin D. Laws | `videojogo` `computador` | draft |
+| [[Six Ages]] | Sucessor de King of Dragon Pass; escrita de Robin Laws | `videojogo` `computador` | draft |
+| [[Hillfolk]] | RPG com DramaSystem; crowdfunding $93k; Diana Jones 2014 | `RPG` `DramaSystem` | draft |
+| [[Feng Shui]] | RPG de ação/artes marciais de Robin Laws; Daedalus/Atlas Games | `RPG` `ação` | draft |
+| [[Ken and Robin Talk About Stuff]] | Podcast de Ken Hite e Robin Laws; RPG, história, ocultismo | `podcast` `Robin Laws` | draft |
+| [[Alarums & Excursions]] | Zine que conectou Robin Laws, Rob Heinsoo, Jonathan Tweet | `zine` `RPG` | draft |
 
 ---
 
