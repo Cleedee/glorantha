@@ -30,6 +30,9 @@ Stafford pediu a [[Robin D. Laws]] que criasse um *storytelling game* para facil
 ### Legado
 A visão de Stafford para Glorantha influenciou gerações de jogadores e mestres. Suas campanhas pessoais se tornaram cenários clássicos usados até hoje.
 
+### Obra Póstuma
+Seu romance inacabado **[[A Pyre for Gods and Heroes]]**, completado por Andrew Logan Montgomery, será a primeira obra de uma nova linha de ficção oficial da Chaosium para Glorantha.
+
 ## Referências Cruzadas
 - [[Glorantha]]
 - [[Chaosium]]
@@ -46,3 +49,4 @@ A visão de Stafford para Glorantha influenciou gerações de jogadores e mestre
 ## Questões em Aberto
 - [ ] Qual foi o papel exato de Stafford na fundação da Chaosium?
 - [ ] Stafford participou diretamente do design de RuneQuest?
+- [ ] Há mais detalhes sobre a vida de Stafford fora do contexto de Glorantha?

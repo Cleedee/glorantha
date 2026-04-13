@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/clippings/QuestWorlds e Glorantha.md",
+                "file": "raw/clippings/Noticias D100 do blog Runeblog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QuestWorlds e Glorantha"
+              "title": "Noticias D100 do blog Runeblog"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/clippings/QuestWorlds e Glorantha.md",
+                "file": "raw/clippings/Noticias D100 do blog Runeblog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para QuestWorlds e Glorantha"
+              "title": "Links inversos para Noticias D100 do blog Runeblog"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/clippings/QuestWorlds e Glorantha.md",
+                "file": "raw/clippings/Noticias D100 do blog Runeblog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para QuestWorlds e Glorantha"
+              "title": "Links de saída para Noticias D100 do blog Runeblog"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/clippings/QuestWorlds e Glorantha.md",
+                "file": "raw/clippings/Noticias D100 do blog Runeblog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de QuestWorlds e Glorantha"
+              "title": "Sumário de Noticias D100 do blog Runeblog"
             }
           }
         ]
@@ -185,32 +185,32 @@
   },
   "active": "2c33818b42df9573",
   "lastOpenFiles": [
-    "wiki/Hasbro.md",
-    "wiki/Claudio Torcato.md",
-    "wiki/Greg Stafford.md",
-    "wiki/Glorantha.md",
-    "wiki/Moon Design Publications.md",
-    "wiki/Robin D. Laws.md",
-    "wiki/Ian Cooper.md",
-    "wiki/The Horse and His Children.md",
-    "wiki/The Coming Storm.md",
-    "wiki/Valley of Plenty.md",
-    "wiki/HeroQuest Glorantha.md",
-    "wiki/Hero Wars.md",
-    "wiki/QuestWorlds.md",
-    "wiki/Kallyr Testa-Estrelada.md",
-    "raw/clippings/QuestWorlds e Glorantha.md",
-    "wiki/Templo da Espada de Madeira.md",
-    "wiki/The Eleven Lights.md",
-    "wiki/Wyrms' Footnotes.md",
-    "wiki/Humakt.md",
-    "wiki/The Red Cow.md",
-    "wiki/Big Rubble e Pavis.md",
-    "wiki/Trollball.md",
+    "wiki/Caos.md",
+    "wiki/Lokamayadon.md",
+    "wiki/Jonstown Compendium.md",
+    "wiki/Rune Marked Miniatures.md",
+    "wiki/RuneQuest Warlords.md",
+    "wiki/Hahlgrim.md",
+    "wiki/Nysalor.md",
+    "wiki/Harmast, o Descalço.md",
+    "wiki/Hogar Audaz.md",
+    "wiki/Dorastor.md",
+    "wiki/Puerta Rúnica.md",
+    "wiki/Dorastor - Land of Doom.md",
+    "wiki/Cults of RuneQuest - Darkness.md",
+    "wiki/Lands of RuneQuest - Sartar.md",
+    "wiki/RuneQuest Fantasy Roleplaying.md",
+    "wiki/The Hunt for the Storm Calf.md",
+    "wiki/A Darkness at Runegate.md",
+    "wiki/Stealing the Eye.md",
+    "wiki/White Bear and Red Moon.md",
+    "wiki/A Pyre for Gods and Heroes.md",
     "wiki/index.md",
-    "wiki/Trollpak.md",
-    "raw/clippings/Drops Glorantha 4 - Trollball.md",
-    "qwen.md",
+    "raw/clippings/Noticias D100 do blog Runeblog.md",
+    "wiki/QuestWorlds.md",
+    "wiki/The Horse and His Children.md",
+    "wiki/Humakt.md",
+    "wiki/log.md",
     "raw/clippings"
   ]
 }

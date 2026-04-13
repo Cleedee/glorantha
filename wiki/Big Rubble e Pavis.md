@@ -30,7 +30,10 @@ Conforme a cronologia publicada na seção "Dragon Past" da **Wyrms' Footnotes n
 A campanha de caça ao tesouro ambientada nas ruínas do Big Rubble é citada como um dos cenários clássicos de Glorantha, ao lado da campanha Colymar. Foi originalmente liderada por **Steve Perrin**.
 
 ### Cenários Futuros
-O futuro suplemento **RuneQuest: Fantasy RolePlaying** terá como centro Pavis e o Big Rubble, indicando a importância contínua desta localização no cenário de Glorantha.
+O futuro suplemento **[[RuneQuest Fantasy Roleplaying]]** terá como centro Pavis e o Big Rubble, indicando a importância contínua desta localização no cenário de Glorantha. Além disso, um livro dedicado **Pavis and the Big Rubble** está planeado com pelo menos **seis aventuras**, uma delas pensada especificamente para introduzir novos jogadores ao mundo.
+
+### Aventuras em Pavis (Jonstown Compendium)
+- **As the Appearance of Horses** — Campanha de 200 páginas começando em Pavis com uma plaga de gafanhotos + heroquest
 
 ## Referências Cruzadas
 - [[Wyrms' Footnotes]]
@@ -38,6 +41,8 @@ O futuro suplemento **RuneQuest: Fantasy RolePlaying** terá como centro Pavis e
 - [[Sartar]]
 - [[Prax]]
 - [[Império Lunar]]
+- [[RuneQuest Fantasy Roleplaying]]
+- [[Jonstown Compendium]]
 - [[Passagem do Dragão]]
 
 ## Referências

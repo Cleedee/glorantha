@@ -1,0 +1,76 @@
+
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijNnRe3lh_lmnrxtG8PwSV-xGdDuS0dQjYRAcIw9F5Pi_ZytwUGmlUa34SuvlGwmt4qTkdUYhxxHH2dM4ZmbbIixBHP1-RGU2gwyzltGpTY34FZpS2ACwFgKwX8P5HVEjNFdjsfUqucZUs3FgbLapjtPjLwER9OyKH7cQUw7Cb77V4eKH43xo84CHVEjc/w121-h200/Pyre%20for%20Gods%20and%20Heroes%20by%20Greg%20Stafford.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijNnRe3lh_lmnrxtG8PwSV-xGdDuS0dQjYRAcIw9F5Pi_ZytwUGmlUa34SuvlGwmt4qTkdUYhxxHH2dM4ZmbbIixBHP1-RGU2gwyzltGpTY34FZpS2ACwFgKwX8P5HVEjNFdjsfUqucZUs3FgbLapjtPjLwER9OyKH7cQUw7Cb77V4eKH43xo84CHVEjc/s400/Pyre%20for%20Gods%20and%20Heroes%20by%20Greg%20Stafford.jpg)
+
+  
+
+Se están preparando varias cosas sobre el mundo de **Glorantha**: una muy sonada es una **novela inacabada de [Greg Stafford](https://elruneblog.blogspot.com/2022/10/entrevista-greg-stafford-de-2002.html)** (que ha terminado **Andrew Logan Montgomery**) titulada **A Pyre for Gods and Heroes** situada en la Primera Edad de **Glorantha** (año 411) y con el héroe **Harmast el Descalzo** en los inicios de su carrera heroica (440 páginas). Incluirá cosas como la Batalla del Día y la Noche, el ambiguo dios Nysalor y Lokamayadon. Puedes **leer un [avance](https://downloads.chaosium.com/fiction/samples/Invitations_An_excerpt_from_A_Pyre_for_Gods_and_Heroes_by_Greg_Stafford.pdf) gratis**. Tal vez incluso más emocionante es el hecho de que esta novela encabezará una sección de **ficción gloranthana oficial** de Chaosium. ¡Viva! Por otro lado, ya está casi listo el juego de batallas **White Bear and Red Moon**, que se reeditará con **reglas más sencillas**, nuevas **ilustraciones** y **fichas de tropas** más grandes y visibles.
+
+  
+
+Luego en febrero salió a la venta la **aventura breve** **[Stealing the Eye](https://www.drivethrurpg.com/en/product/556838/runequest-stealing-the-eye?affiliate_id=187051)** **en PDF**. Este módulo trata de **infiltrarse en un templo enemigo** y se inspira en la portada de Tom Sullivan del antiguo suplemento **Dioses de Glorantha** de la época de Avalon Hill que, a su vez, es un homenaje a la portada de **AD&D 1.ª ed**. Son solo 14 páginas por 7$. A finales de marzo salió otra aventura en **PDF**: **[A Darkness at Runegate](https://www.drivethrurpg.com/en/product/562558/runequest-a-darkness-at-runegate?affiliate_id=187051)**. En esta, los aventureros llegan a la pequeña ciudad de **Puerta Rúnica** como representantes de la reina Leika, pero al llegar ven que la población ha caído presa de una **terrible plaga**. Son 35 páginas por 7$. Las dos tienen **personajes pregenerados** para empezar a jugar de inmediato. Hace años estas dos aventuras estaban disponibles para las directoras de juego que quisieran dirigir partidas cortas de **[RuneQuest](https://elruneblog.blogspot.com/2018/06/resena-de-runequest-roleplaying-in.html)** en jornadas como demostración, pero ahora les han hecho un lavado de cara y han añadido **mapas a color** e **ilustraciones** de Ossi Hiekkala. Igual que la que salió a finales del año pasado también en PDF (**[The Hunt for the Storm Calf](https://www.drivethrurpg.com/es/product/542148/runequest-the-hunt-for-the-storm-calf?affiliate_)**) y algunas más se recopilarán en un **suplemento de aventuras** más adelante que saldrá también en **físico**. Sin embargo, si ya has comprado estas aventuras en PDF, parece que no te restarán el precio de la compra del PDF, lo que es decepcionante, ya que en otras ocasiones sí lo habían hecho así.
+
+  
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDr9ow6Q7sF1-9En8AZ8cYuWmhzmNWsAUQycpO7bf5E9cJVJbL8ceUjPivFOINA97IXQhSNuQF1ExOWdHfBajRXL_U1E-ZYTn44YLRMjt7r00msgx0JStO9aZHb7s0uDl0KpLNJZzy2lNf2TWDhIogaxTK0VVFgEyxjsS1Y5OgdFxDvSjSlItCruzNJ0/s16000/RuneQuest%20scenarios%20Glorantha%20adventures.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDr9ow6Q7sF1-9En8AZ8cYuWmhzmNWsAUQycpO7bf5E9cJVJbL8ceUjPivFOINA97IXQhSNuQF1ExOWdHfBajRXL_U1E-ZYTn44YLRMjt7r00msgx0JStO9aZHb7s0uDl0KpLNJZzy2lNf2TWDhIogaxTK0VVFgEyxjsS1Y5OgdFxDvSjSlItCruzNJ0/s640/RuneQuest%20scenarios%20Glorantha%20adventures.jpg)
+
+_Portadas de las aventuras Stealing the Eye y A Darkness at Runegate, con un mapa de la ciudad._
+
+  
+
+A principios de marzo, Chaosium compartió cuáles son los planes de la compañía para **RuneQuest**. Por un lado, Jeff Richard está trabajando en una **edición paralela** del juego que se llamará **RuneQuest** **Fantasy Roleplaying**: también **D100** pero más **sencilla**, con **menos habilidades**, combate más **rápido**, creación de personajes más rápida, sin reglas de chamanismo ni hechicería, que irá acompañada del trasfondo de **Sartar**, la **ciudad de [Pavis](https://www.drivethrurpg.com/es/product/282448/pavis?affiliate_id=187051) y la Gran Ruina**, con aventuras. Está claramente orientada a presentar el juego a nuevos jugadores y tendrá unas 250 páginas para que no abrume. Todavía no tiene fecha de salida. Según el autor, el resumen de reglas, incluyendo la magia y los conjuros rúnicos comunes ocupan solo **3 páginas**. Este libro irá seguido de la **GM Guide** o Guía para Directores de Juego, que en unas 300 páginas explicará **cómo crear campañas** en Sartar y Prax, **cómo crear encuentros** ajustados al poder de los personajes, cómo dirigir **interacciones sociales**, cómo usar los **espíritus**, qué hacer **entre aventuras**, y cómo usar el **tesoro** (con varios objetos únicos descritos). Pero sobre todo, incluirá **reglas completas de búsquedas heroicas** y de **batallas en masa**. Y luego un libro de trasfondo (**Pavis and the Big Rubble**) con al menos **seis aventuras**, una de ellas pensada específicamente para presentar el mundo de juego a jugadores nuevos.
+
+  
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnVHATJqZkBde3bpLwD-ufEUdrG-G5DLpodT096zKi8E9acbNQK-KQfSh59sDGb95TI0hCukn-JRzu5Pjt62IyMFsRPfbEYbO3kAK3iMvtYZyYNHX-jF13bQtbYXMgrXV4Bs1HXyQAmtddichrihUCwVadjMkJcE24RfQTzcYabb3N6f7RfNkUYMZ0hbA/s16000/RQGR%20at%20Genghis%20Con%20by%20Chaosium2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnVHATJqZkBde3bpLwD-ufEUdrG-G5DLpodT096zKi8E9acbNQK-KQfSh59sDGb95TI0hCukn-JRzu5Pjt62IyMFsRPfbEYbO3kAK3iMvtYZyYNHX-jF13bQtbYXMgrXV4Bs1HXyQAmtddichrihUCwVadjMkJcE24RfQTzcYabb3N6f7RfNkUYMZ0hbA/s640/RQGR%20at%20Genghis%20Con%20by%20Chaosium2.jpg)
+
+_Foto que compartió Chaosium de una partida de prueba del futuro RuneQuest Fantasy Roleplay en las jornadas Genghis Con_
+
+  
+
+Al mismo tiempo, Michael O'Brien encabeza el trabajo en una **edición revisada del reglamento actual** con todas las **erratas corregidas** y **más claro y fácil de usar**, con un 60% del tamaño actual del reglamento, menos trasfondo, también sin reglas de chamanismo ni hechicería, con un pequeño **bestiario**, creación de PJ más rápida y totalmente **compatible** con los suplementos que ya hay porque es el mismo juego. De hecho, no sustituirá a la edición actual, que se seguirá vendiendo como está. Este podría estar para finales de año o principios de 2027.
+
+  
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5taWtCeEq118po9UOvsve9q9hyphenhyphenfCQoiTFCSrzaNtRDxcs2LnXr0syymSsiC_oTuNTkbx_Hpo_khMRQpteIQeLh1q0xJNJAbXlJK8pHtVznPn17PSHRRAkemOsLgSQiH7ar9LGt4huBXAeZRg7HK7zfm9MemhdIMSCly2LQ0k1C7-ip1K_sWgFFabpkaQ/s320/Lands%20of%20RuneQuest%20Sartar.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5taWtCeEq118po9UOvsve9q9hyphenhyphenfCQoiTFCSrzaNtRDxcs2LnXr0syymSsiC_oTuNTkbx_Hpo_khMRQpteIQeLh1q0xJNJAbXlJK8pHtVznPn17PSHRRAkemOsLgSQiH7ar9LGt4huBXAeZRg7HK7zfm9MemhdIMSCly2LQ0k1C7-ip1K_sWgFFabpkaQ/s342/Lands%20of%20RuneQuest%20Sartar.jpg)
+
+Aparte, para la segunda mitad de año se prevén dos suplementos: **Lands of RuneQuest: Sartar**, que describirá con detalle está **tierra natal** de aventureros, con mapas de las tierras de todas las **tribus y clanes** del reino, información sobre la **capital de Hogar Audaz** y las **costumbres** de la cultura orlanthi sartarita. También saldrá el libro **Cults of RuneQuest: Darkness** que incluirá los cultos de las **diosas de la oscuridad** a las que rinden culto los **troles** y otros seres del **inframundo**. Aparte, han comentado que quieren centrarse en sacar **sobre todo aventuras** y que acompañarán los libros de cultos con **material jugable** como **PNJ con datos de juego** de integrantes de cada uno de los cultos. Si recuerdas el antiguo suplemento **Lords of Terror** de la época de Avalon Hill, ya te haces una idea. Esto se hará incluso para los libros de cultos que ya se han publicado, ya que estarán en PDF de **descarga** **gratis**. En las jornadas Chaosium Con de Michigan, Reino Unido, Polonia, Australia y Nueva Zelanda que se celebrarán este año supuestamente darán más información. Además, también van a reeditar el antiguo suplemento de RQ3 **[Dorastor: Land of Doom](https://elruneblog.blogspot.com/2025/01/los-suplementos-de-runequest-3-ed-la-de.html)** (1993) igual que hicieron con **[Sun County](https://www.drivethrurpg.com/en/product/503811/sun-county-1992?affiliate_id=187051)**.
+
+  
+
+Por otro lado, dos noticias relacionadas son que salió el **videojuego** de batallas y estrategia **RuneQuest** **Warlords**. Mediante el modo de juego campaña, puedes conducir al héroe **Hahlgrim** en su lucha contra los seres del **Caos** de la **tierra maldita de Dorastor**, y con el modo de batallas puedes jugar batallas contra otros jugadores, eligiendo entre **3 posibles ejércitos**: orlanthis, soldados del Imperio Lunar y los monstruos del Caos. Puede que en el futuro amplíen el videojuego con **más facciones**.
+
+  
+
+  
+
+_Trailer con escenas del videojuego RuneQuest Warlords de la empresa Slitherine_
+
+  
+
+Finalmente, **[Rune Marked Miniatures](https://www.runemarked.com)** prevé que la campaña de **mecenazgo** de sus **miniaturas oficiales** de plástico para **RuneQuest** será en **mayo de 2026**. Puedes ver algunas fotos de las **miniaturas** en la entrada sobre las **[jornadas Chaosium Con de Reino Unido de 2025](https://elruneblog.blogspot.com/2025/06/the-chaosium-con-uk-2025-write-up-part-1.html)**.
+
+  
+
+Aparte de las novedades oficiales, los fans han seguido publicando **aventuras** y demás material en el **Jonstown Compendium** de **DrivethruRPG:**
+
+- [**Duckpac Confidential: The Duck Roles**](https://www.drivethrurpg.com/en/product/544418/duckpac-confidential-the-duck-roles?affiliate_id=187051)**:** 300 PNJ **durulz**, 20 de cada ocupación, en formato breve, con 10 historias familiares y 15 PJ listos para usar. No sé si hacían falta tantos, pero ahí están por 5,5$.
+- **[Bad Omens](https://www.drivethrurpg.com/en/product/548092/bad-omens?affiliate_id=187051):** Acompaña a un clan de **jinetes de bisontes** para ayudarle a hacer frente a los malos augurios que se desprenden de un ritual chamánico y el culto a un antiguo espíritu ya olvidado. 40 páginas por 6$.
+- **[Magra](https://www.drivethrurpg.com/en/product/548776/magra-grandmother-harpy?affiliate_id=187051):** Descripción de un **culto** al que adoran las **arpías** y datos de juego para las de dos cabezas. Incluye un relato al estilo de **Lords of Terror**. 11 páginas por 1,5$.
+- **[The Whispering Flowers of Lorthing Vale](https://www.drivethrurpg.com/en/product/549181/the-whispering-flowers-of-lorthing-vale?affiliate_id=187051):** Una aventura cerca de Jonvilla, en Sartar, donde los aventureros tienen que encontrar a una niña que se ha perdido en el valle de Lorthing. Al mismo tiempo, unas extrañas flores susurrantes se están extendiendo por la zona... 97 páginas poe 13$.
+- **[The Sorcerer's Laboratory](https://www.drivethrurpg.com/en/product/549761/the-sorcerer-s-laboratory?affiliate_id=187051):** En este grimorio de 203 páginas se describen unas **reglas alternativas de hechicería**, con más de 170 hechizos nuevos, 18 cultos y reglas de creación de personajes de culturas como los aeolianos, los malkionitas de los príncipes mercaderes o los temibles vadelinos. Además, alquimia, demonología, nuevos monstruos, ocupaciones y objetos encantados. 20$.
+- **[As the Appearance of Horses](https://legacy.drivethrurpg.com/product/551260/As-the-Appearance-of-Horses?affiliate_id=187051):** Campaña de 200 páginas que empieza en la ciudad de **Pavis** cuando llega una terrible **plaga de langostas**. Los aventureros deberán emprender un viaje peligroso hast adentrarse en los mitos para llegar al origen del problema. Con ilustraciones de Simon Bray. 19,90$
+- **[Nochet: Serpents & Shadows Book 1](https://www.drivethrurpg.com/en/product/551454/nochet-serpents-and-shadows-book-1-runequest?affiliate_id=187051):** El autor del suplemento sobre la urbe de **[Nochet](https://www.drivethrurpg.com/en/product/446503/nochet-queen-of-cities-runequest?affiliate_id=187051)** ofrece **3 aventuras** **largas** en la ciudad que giran en torno a una misma casa noble y que permite a los aventureros labrarse una buena reputación.. si tienen éxito. 276 páginas por 20$.
+- **[Durulz of Darkness](https://www.drivethrurpg.com/en/product/557875/durulz-of-darkness?affiliate_id=187051):** Un extraño **durulz** parece estar creando una tribu en las profundidades del **Pantano de las Tierras Altas**. Tu misión es encontrarlo, averiguar sus intenciones y, en caso necesario, acabar con él. 176 páginas por 15$. Se puede incluir en tu campaña o jugarla con los PJ pregenerados incluidos (todos patos).
+- **[The Fall of Whitewall](https://www.drivethrurpg.com/en/product/559290/the-fall-of-whitewall?affiliate_id=187051):** Juega el asedio de **Murallas Blancas** de 1620, en el que las tropas lunares tratan de acabar con el último reducto de rebeldía orlanthi. ¿Lograrán los héroes resistir? Contiene una **búsqueda heroica** para entrar en la ciudad y la aventura de resistir al asedio. 25 páginas por 6$.
+- **[Dara Happan Primer](https://www.drivethrurpg.com/en/product/561123/dara-happa-primer?affiliate_id=187051):** Si te molan los cultos dara happanos descritos en **Cults of** **RuneQuest: Gods of Fire & Sky** ahora con este minisuplemento puedes **crear personajes de esta tierra solar** y tener 4 cultos más, como **Avivorus**, el dios de la lanza, o **Saggitus**, el dios del arco. Son 26 páginas por un precio recomendado de solo 2$.
+
+  
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8voyy-K-KyUq7O2SZ_s8kWmDbRqw5Hd5ugXCfAEkbjrY5cX4oz9l4OKePtEYDpfKjOgVrlFyZU_-BV3LssNRX10HYGAjS8QrG0obz_mBdGstHg446m_JlDhrch_lJEGfnnz5Wno-8r2G5WMdIkPGzbRPld9F9bsrAKaZIRn_45viuXHjwqE87nP1dGEQ/s16000/RuneQuest%20Jonstown%20Compendium%202026.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8voyy-K-KyUq7O2SZ_s8kWmDbRqw5Hd5ugXCfAEkbjrY5cX4oz9l4OKePtEYDpfKjOgVrlFyZU_-BV3LssNRX10HYGAjS8QrG0obz_mBdGstHg446m_JlDhrch_lJEGfnnz5Wno-8r2G5WMdIkPGzbRPld9F9bsrAKaZIRn_45viuXHjwqE87nP1dGEQ/s640/RuneQuest%20Jonstown%20Compendium%202026.jpg)
+
+_Portadas de las últimas novedades de aventuras y suplementos creados por fans de RuneQuest_
+
+  
+
+Además, **Tentacles Press** ha publicado un nuevo **relato:** [The Return to Pavis](https://www.drivethrurpg.com/en/product/548706/the-return-to-pavis-a-griselda-story?affiliate_id=187051). La pícara heroína **Griselda** regresa a la ciudad después de que **Argrath** haya expulsado al ejército lunar. 44 páginas por 6$.
