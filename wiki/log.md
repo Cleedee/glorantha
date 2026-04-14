@@ -37,6 +37,8 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-14] ingest | Processados 4 reviews de Cults of RuneQuest + Runeblog — 4 páginas novas: Cults of RQ The Earth Goddesses (review), Cults of RQ The Gods of Fire and Sky (review), Cults of RQ The Lightbringers (review), RuneQuest 2ª Edição. 1 atualizada: Cults of RQ Mythology (revisão detalhada). Index atualizado. Wiki agora com ~146 páginas.
 
-## [2026-04-14] ingest | Processados 2 reviews finais: Cults of RQ The Lunar Way (15 cultos Lunares, Deusa Vermelha, iluminação, 151 págs) + RuneQuest Classic Edition RQ2 review (histórico completo, sistema, lista de 17+ suplementos, arte, BRP). 2 páginas: 1 nova (Cults of RQ The Lunar Way), 1 atualizada (RQ2 reescrita completa com lista detalhada de suplementos, combate, magia, bestiário). Index atualizado. **TODOS OS ARQUIVOS RAW PROCESSADOS.** Wiki agora com ~147 páginas.
+## [2026-04-14] ingest | Processados 2 reviews finais: Cults of RQ The Lunar Way (15 cultos Lunares, Deusa Vermelha, iluminação, 151 págs) + RuneQuest Classic Edition RQ2 review (histórico completo, sistema, lista de 17+ suplementos, arte, BRP). 2 páginas: 1 nova (Cults of RQ The Lunar Way), 1 atualizada (RQ2 reescrita completa com lista detalhada de suplementos, combate, magia, bestiário). Index atualizado.
+
+## [2026-04-14] ingest | Processados 3 reviews finais: Prosopaedia (dicionário de deuses/heróis, 140 págs, Katrin Dirim), RQG review (7ª ed 2018, 446 págs, Stafford+Perrin+Richard+Durall), Six Ages Ride Like the Wind (sucessor de King of Dragon Pass). 3 páginas novas/renomeadas: Cults of RQ The Prosopaedia (rewritten), RQG (nova), Six Ages - Ride Like the Wind (renomeada). 1 removida: Prosopaedia duplicate. Index atualizado. **TODOS OS ARQUIVOS RAW PROCESSADOS.** Wiki agora com ~149 páginas.
 
 ---

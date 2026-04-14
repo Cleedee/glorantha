@@ -126,7 +126,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest Warlords]] | Videojogo de estratégia da Slitherine; Hahlgrim vs Caos em Dorastor e Talastar | `videojogo` `Slitherine` | draft |
 | [[Rune Marked Miniatures]] | Miniaturas oficiais de plástico para RuneQuest; crowdfunding maio 2026 | `miniaturas` `crowdfunding` | draft |
 | [[King of Dragon Pass]] | Jogo de computador de Glorantha; escrita de Robin D. Laws | `videojogo` `computador` | draft |
-| [[Six Ages]] | Sucessor de King of Dragon Pass; escrita de Robin Laws | `videojogo` `computador` | draft |
+| [[Six Ages - Ride Like the Wind]] | Sucessor de King of Dragon Pass; Orlanthi pré-históricos; Robin Laws | `videojogo` `computador` | draft |
 | [[Hillfolk]] | RPG com DramaSystem; crowdfunding $93k; Diana Jones 2014 | `RPG` `DramaSystem` | draft |
 | [[Feng Shui]] | RPG de ação/artes marciais de Robin Laws; Daedalus/Atlas Games | `RPG` `ação` | draft |
 | [[Ken and Robin Talk About Stuff]] | Podcast de Ken Hite e Robin Laws; RPG, história, ocultismo | `podcast` `Robin Laws` | draft |
@@ -134,6 +134,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Secrets of Dorastor]] | Guia de Dorastor por Simon Phipp; baseado em campanha dos anos 80 | `suplemento` `Dorastor` | draft |
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
 | [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
+| [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
 | [[Cults of RuneQuest - Mythology]] | Vol introdutório; Monomyth, mapas míticos, genealogias; 158 págs | `suplemento` `mitologia` `cultos` | draft |
@@ -141,7 +142,6 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - The Gods of Fire and Sky]] | 13 cultos solares; Yelm, Yelmalio, Entekos; 154 págs | `suplemento` `cultos` `solar` | draft |
 | [[Cults of RuneQuest - The Lunar Way]] | 15 cultos Lunares; Deusa Vermelha, Imperador Vermelho, iluminação, Glowline; 151 págs | `suplemento` `cultos` `Lunar` | draft |
 | [[Cults of RuneQuest - Lightbringers]] | 19 cultos da Tempestade; Orlanth, Humakt, Storm Bull; 70% Cults of Prax | `suplemento` `cultos` `Tempestade` | draft |
-| [[Cults of RuneQuest - Prosopaedia]] | Vol 2 de 11; compêndio de divindades | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Earth]] | Vol 4 de 11; cultos da terra (mesmo que The Earth Goddesses?) | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Water]] | Vol remanescente; divindades aquáticas | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Horned God]] | Vol remanescente; Deus Chifrudo/espírito | `suplemento` `cultos` | draft |
