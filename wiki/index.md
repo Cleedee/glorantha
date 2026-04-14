@@ -156,6 +156,22 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[QuestWorlds Worlds & Quests]] | Como criar pacotes de gênero; 3 exemplos; Ian Cooper | `suplemento` `QuestWorlds` | draft |
 | [[Gamemaster Sourcebook]] | Regras de heroquestes + batalhas em massa; 4º-5º na fila | `suplemento` `mestre` | draft |
 | [[Publicações Futuras de Glorantha]] | Lista compilada de roadmaps e pipeline da Chaosium | `roadmap` `pipeline` | draft |
+| [[Durulz of Darkness]] | Aventura inspirada em Apocalypse Now; durulz rebelde no Upland Marsh; Max Bantleman | `aventura` `Jonstown` `durulz` | draft |
+| [[The Shimmering Lake]] | Lago misterioso com 3 heroquestes; arte Attila Nagy; Max Bantleman | `aventura` `Jonstown` `heroquest` | draft |
+| [[How Elmal Wooed the King]] | 5 heroquestes; culto Karad Lightningblade; Bell + Phipp | `aventura` `Jonstown` `heroquest` | draft |
+| [[Bad Omens]] | Aventura em Prax; clã Straw Weaver; ritual de presságios; Diana Probst | `aventura` `Jonstown` `Prax` | draft |
+| [[As the Appearance of Horses]] | Campanha Pavis; praga de gafanhotos; Argrath; Vivien Prigent | `campanha` `Jonstown` `Pavis` | draft |
+| [[The Whispering Flowers of Lorthing Vale]] | Investigação no Lorthing Vale; Sia; Lhankor Mhy; Max Bantleman | `aventura` `Jonstown` | draft |
+| [[Nochet - Serpents and Shadows Book 1]] | Campanha em Nochet; 1625; início Hero Wars; Harald Smith | `campanha` `Jonstown` `Nochet` | draft |
+| [[Magra - Grandmother Harpy]] | Culto de harpias; estilo Cults of Terror; Peter Hart | `culto` `Jonstown` `harpias` | draft |
+| [[The Sorcerer's Laboratory]] | Guia de feitiçaria; 170+ feitiços; 18 cultos; Paul Watts | `feitiçaria` `Jonstown` `magia` | draft |
+| [[Max Bantleman]] | Autor Jonstown: Durulz of Darkness, Shimmering Lake, Whispering Flowers | `autor` `Jonstown` | draft |
+| [[Vivien Prigent]] | Autor Jonstown: As the Appearance of Horses; campanha Pavis | `autor` `Jonstown` | draft |
+| [[Paul Watts]] | Autor Jonstown: The Sorcerer's Laboratory; 170+ feitiços | `autor` `Jonstown` | draft |
+| [[Peter Hart]] | Autor Jonstown: Magra Grandmother Harpy; culto harpias | `autor` `Jonstown` | draft |
+| [[Diana Probst]] | Autora Jonstown (Beer with Teeth): Bad Omens; Prax | `autora` `Jonstown` `Prax` | draft |
+| [[Dario Corallo]] | Artista Jonstown: Zenith Counters VTT + Artpacks | `artista` `VTT` | draft |
+| [[Beer with Teeth]] | Grupo de criadores Jonstown; Diana Probst | `grupo` `Jonstown` | draft |
 | [[O Bugurso Domesticado]] | Blog de RPG de Claudio Torcato; relatos de Numenera, Arkanun, Cripta | `blog` `Cleedee` | draft |
 | [[Compacto RPG]] | Sistema de RPG criado por Claudio Torcato; playtests solo no Itch.io | `sistema` `Cleedee` | draft |
 
