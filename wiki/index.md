@@ -135,8 +135,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Secrets of Dorastor]] | Guia de Dorastor por Simon Phipp; baseado em campanha dos anos 80 | `suplemento` `Dorastor` | draft |
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
 | [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
-| [[RuneQuest - Fantasy Roleplaying]] | Edição paralela simplificada; 2027+; core + GM Guide + campanha 4 partes | `sistema` `RQFR` `2027` | draft |
-| [[RRQG]] | RuneQuest revisado; erratas corrigidas; 60% tamanho; compatível | `sistema` `revisão` `2026` | draft |
+| [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
+| [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
 | [[Cults of RuneQuest - Mythology]] | Vol 1 de 11; 144-168 págs; escrito e editado | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Prosopaedia]] | Vol 2 de 11; compêndio de divindades | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Lightbringers]] | Vol 3 de 11; cultos dos Lightbringers | `suplemento` `cultos` | draft |
@@ -185,6 +185,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Beer with Teeth]] | Grupo de criadores Jonstown; Diana Probst | `grupo` `Jonstown` | draft |
 | [[O Bugurso Domesticado]] | Blog de RPG de Claudio Torcato; relatos de Numenera, Arkanun, Cripta | `blog` `Cleedee` | draft |
 | [[Compacto RPG]] | Sistema de RPG criado por Claudio Torcato; playtests solo no Itch.io | `sistema` `Cleedee` | draft |
+| [[Appendix N de RuneQuest]] | Inspirações literárias de Jeff Richard para RQG revisado; 26+ obras | `literatura` `mitologia` | draft |
+| [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
+| [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |
 
 ---
 
