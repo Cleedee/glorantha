@@ -23,4 +23,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-13] ingest | Processado "Hub do Cláudio" — 2 páginas criadas: Compacto RPG, O Bugurso Domesticado. 1 página atualizada: Claudio Torcato (reescrita completa com alias Cleedee, blogs, criações). Fonte revisada mas maioria do conteúdo é pessoal e não relacionado a Glorantha. Index atualizado.
 
+## [2026-04-13] ingest | Processado "Jogando A Saga dos Matadores de Jaldon" — 12 páginas criadas: Tribo dos Dundealos, Dundealosford, Elmal, Redalda, Orlanth, Ernalda, Losoric, Galak, Derikos, Enmul, Jabba, Os Selvagens, Tula, Orlanthi das Colinas. 1 página atualizada: Valley of Plenty (reescrita completa com estrutura de 3 capítulos, interlúdios, cenário). Index atualizado.
+
 ---

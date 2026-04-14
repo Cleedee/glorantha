@@ -33,8 +33,18 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
 | [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
+| [[Orlanth]] | Rei dos deuses Orlanthi; marido de Ernalda | `deus` `rei` `Orlanthi` | draft |
+| [[Ernalda]] | Rainha dos deuses Orlanthi; esposa de Orlanth; terra e fertilidade | `deusa` `rainha` `Orlanthi` | draft |
+| [[Elmal]] | Deus da caça e proteção; feriado na Estação do Fogo | `deus` `caça` `proteção` | draft |
+| [[Redalda]] | Deusa da cultura equina; também Redaylda; Estação do Fogo | `deusa` `cavalos` | draft |
+| [[Tribo dos Dundealos]] | Tribo Orlanthi de Sartar; cultura baseada em cavalos; Matadores de Jaldon | `tribo` `Orlanthi` `cavalos` | draft |
+| [[Losoric]] | Xamã de Dundealosford; mentora de Derikos | `xamã` `Dundealosford` | draft |
+| [[Galak]] | PJ criança; curioso; pai caçador idoso; não gosta de montaria | `PJ` `criança` | draft |
+| [[Derikos]] | PJ criança; predisposição espiritual; potencial aprendiz de Losoric | `PJ` `xamanismo` | draft |
+| [[Enmul]] | PJ criança; espião da turma | `PJ` `espião` | draft |
 | [[Genert]] | Pai de Dorasta (deusa da terra de Dorastor) | `deus` `pai` | draft |
 | [[Pelora]] | Mãe de Dorasta (deusa da terra de Dorastor) | `deusa` `mãe` | draft |
+| [[Jabba]] | PJ criança; filho de comerciante | `PJ` `comércio` | draft |
 | [[Tomate]] | Mestre das campanhas Reino do Trovão e Caminho Lunar (YouTube) | `mestre` `YouTube` | draft |
 
 ---
@@ -48,6 +58,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Big Rubble e Pavis]] | Ruínas e cidade estratégica; foco do futuro RQ Fantasy Roleplaying | `Pavis` `ruínas` `Império Lunar` | draft |
 | [[Puerta Rúnica]] | Pequena cidade assolada por plaga; aventura A Darkness at Runegate | `cidade` `plaga` | draft |
 | [[Dorastor]] | Terra maldita do Caos; nome vem de Dorasta; devastada por Arkat; Rei Ralzakark | `terra maldita` `Caos` `Dorasta` | draft |
+| [[Dundealosford]] | Cidade da Tribo dos Dundealos; cenário do Capítulo 1 de Valley of Plenty | `cidade` `Dundealos` | draft |
 | [[Hogar Audaz]] | Capital de Sartar; detalhada no futuro Lands of RuneQuest | `capital` `Sartar` | draft |
 | [[Talastar]] | Região vizinha de Dorastor; cenário de RuneQuest Warlords | `região` `Warlords` | draft |
 | [[Glamour]] | Cidade do Grande Templo do Imperador Vermelho; vitrais do Tratado | `cidade` `Império Lunar` | draft |
@@ -83,6 +94,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest Fantasy Roleplaying]] | Edição paralela simplificada de RuneQuest; D100; Sartar + Pavis | `sistema` `simplificado` `Jeff Richard` | draft |
 | [[Caos]] | Força antagonista; associada a Dorastor; inimiga de Orlanthi e Lunar | `inimigo` `Dorastor` | draft |
 | [[Primeiro Conselho]] | Instituição da Primeira Era; ruptura mostrada no romance de Stafford | `Primeira Era` `ruptura` | draft |
+| [[Tula]] | Território ou terras de um clã; explorado por adolescentes no Capítulo 2 | `território` `clã` | draft |
 | [[GUMSHOE]] | Sistema de investigação de Robin Laws; Pelgrane Press; 10 anos em 2016 | `sistema` `investigação` `Pelgrane` | draft |
 
 ---
@@ -99,7 +111,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hero Wars]] | Primeiro nome do sistema de Robin D. Laws para Glorantha (2000) | `sistema` `2000` `Robin Laws` | draft |
 | [[HeroQuest Glorantha]] | Versão Glorantha do HeroQuest; Moon Design 2015; marca vendida para Hasbro | `sistema` `Moon Design` `2015` | draft |
 | [[The Coming Storm]] | Volume 1 da campanha Red Cow; detalhamento do cenário | `campanha` `cenário` `Moon Design` | draft |
-| [[Valley of Plenty]] | Campanha QuestWorlds; heróis crianças; Saga dos Jaldonkillers | `campanha` `QuestWorlds` | draft |
+| [[Valley of Plenty]] | Campanha QuestWorlds; 3 capítulos (criança→adulto); Dundealos; Os Selvagens | `campanha` `QuestWorlds` `Dundealos` | draft |
 | [[The Horse and His Children]] | Aventura QuestWorlds para público infanto-juvenil | `aventura` `infanto-juvenil` | draft |
 | [[Moon Design Publications]] | Editora de HeroQuest Glorantha; vendeu marca para Hasbro em 2020 | `editora` `Moon Design` | draft |
 | [[Hasbro]] | Adquiriu marca HeroQuest em 2020; motivou criação do QuestWorlds | `empresa` `marca` | draft |
@@ -133,11 +145,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
-| *(nenhuma página ainda)* | — | — | — |
-
----
-
-## Cronologia
+| [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
+| [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
 > Linhas temporais, eras, calendários
 
 | Página | Resumo | Tags | Status |
