@@ -39,6 +39,8 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-14] ingest | Processados 2 reviews finais: Cults of RQ The Lunar Way (15 cultos Lunares, Deusa Vermelha, iluminação, 151 págs) + RuneQuest Classic Edition RQ2 review (histórico completo, sistema, lista de 17+ suplementos, arte, BRP). 2 páginas: 1 nova (Cults of RQ The Lunar Way), 1 atualizada (RQ2 reescrita completa com lista detalhada de suplementos, combate, magia, bestiário). Index atualizado.
 
-## [2026-04-14] ingest | Processados 3 reviews finais: Prosopaedia (dicionário de deuses/heróis, 140 págs, Katrin Dirim), RQG review (7ª ed 2018, 446 págs, Stafford+Perrin+Richard+Durall), Six Ages Ride Like the Wind (sucessor de King of Dragon Pass). 3 páginas novas/renomeadas: Cults of RQ The Prosopaedia (rewritten), RQG (nova), Six Ages - Ride Like the Wind (renomeada). 1 removida: Prosopaedia duplicate. Index atualizado. **TODOS OS ARQUIVOS RAW PROCESSADOS.** Wiki agora com ~149 páginas.
+## [2026-04-14] ingest | Processados 3 reviews finais: Prosopaedia (dicionário de deuses/heróis, 140 págs, Katrin Dirim), RQG review (7ª ed 2018, 446 págs, Stafford+Perrin+Richard+Durall), Six Ages Ride Like the Wind (sucessor de King of Dragon Pass). 3 páginas novas/renomeadas: Cults of RQ The Prosopaedia (rewritten), RQG (nova), Six Ages - Ride Like the Wind (renomeada). 3 removidas: Prosopaedia, Lightbringers, Earth duplicatas. Index atualizado.
+
+## [2026-04-14] ingest | Processados 2 reviews do God Learners (Ludovic) — Mythology e Lunar Way atualizados com perspectivas únicas: sim-Glorantha, PCs vs NPCs, teoria conspiratória Lunar, enigmas Nysaloreanos, Cult Distribution. 1 página nova: Ludovic (God Learners). Limpeza de duplicatas (Prosopaedia, Lightbringers, Earth placeholders removidos). Index atualizado. **TODOS OS ARQUIVOS RAW PROCESSADOS.** Wiki agora com ~148 páginas.
 
 ---

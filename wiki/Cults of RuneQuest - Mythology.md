@@ -33,6 +33,12 @@ status: draft
 - Livro útil mas um pouco curto (158 páginas)
 - Arte excelente
 - Viés para deuses Lightbringer e panteão Orlanthi
+- **Problemas:** sobreposição com Sourcebook e Guide; regras de heroquestes ainda ausentes
+- **Foreword** escrito diegeticamente por Greg Stafford como trickster-shaman; livro abre com "This book is not for everyone"
+- Capítulo "Sky Gods" (pág. 80) é brilhante — analisa arquétipos do panteão do Céu
+- **Universal Cult Format** — expandido do "Sample Cult" de Cults of Prax (1979); sacerdotes agora podem usar DEXx5 para Manipulation (correção de edição do Lightbringers)
+- **Cult Distribution** — percentuais de população iniciada em cada culto por região (Peloria, Dragon Pass, Prax, Holy Country, Maniria); útil para world-building e rolagem de NPCs aleatórios
+- Edição OK mas com typos, frases incompletas, parênteses não fechados
 - Essencial para GMs que querem profundidade mitológica
 
 ### Publicação

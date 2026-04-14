@@ -141,8 +141,6 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - The Earth Goddesses]] | 16 cultos da Terra; Ernalda, Aldrya, Pamalt; review | `suplemento` `cultos` `terra` | draft |
 | [[Cults of RuneQuest - The Gods of Fire and Sky]] | 13 cultos solares; Yelm, Yelmalio, Entekos; 154 págs | `suplemento` `cultos` `solar` | draft |
 | [[Cults of RuneQuest - The Lunar Way]] | 15 cultos Lunares; Deusa Vermelha, Imperador Vermelho, iluminação, Glowline; 151 págs | `suplemento` `cultos` `Lunar` | draft |
-| [[Cults of RuneQuest - Lightbringers]] | 19 cultos da Tempestade; Orlanth, Humakt, Storm Bull; 70% Cults of Prax | `suplemento` `cultos` `Tempestade` | draft |
-| [[Cults of RuneQuest - Earth]] | Vol 4 de 11; cultos da terra (mesmo que The Earth Goddesses?) | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Water]] | Vol remanescente; divindades aquáticas | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Horned God]] | Vol remanescente; Deus Chifrudo/espírito | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
@@ -194,6 +192,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Appendix N de RuneQuest]] | Inspirações literárias de Jeff Richard para RQG revisado; 26+ obras | `literatura` `mitologia` | draft |
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; strike ranks, battle magic, rune magic; lista completa de suplementos; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
+| [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
 | [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |
 
 ---

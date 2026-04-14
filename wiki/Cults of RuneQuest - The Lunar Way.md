@@ -48,6 +48,24 @@ status: draft
 ### Arte
 Loïc Muzy (capa: Deusa Vermelha no Morcego Carmesim), Agathe Pitié (fresco Seven Steps), [[Katrin Dirim]] (Seven Steps como imagens da Antiguidade), Ossi Hiekkala
 
+### Avaliações
+
+#### El Runeblog
+- Fascinante mas com mistérios não explicados; iluminação deveria ser melhor detalhada
+- Repetição desnecessária (Lunar Timetable repetido 8 vezes)
+- Fãs antigos podem sentir falta de "We Are All Us"
+
+#### God Learners (Ludovic)
+- **Favorito de Ludovic** entre os livros de panteão até agora
+- **Sim-Glorantha** — cultos modelam o que são na ficção, não mecânicas de gameplay
+- **PCs vs NPCs** — mais útil para GMs; muitos cultos Lunares difíceis para PCs em campanha Sartarita
+- **Deezola** — fracamente definida; "Ernalda com desconto"
+- **Iluminação** — enigmas Nysaloreanos; +1% por enigma; rolagem Sacred Time; poderes pelo GM
+- **Magia Lunar** — Amplify, Combine, Distance, Prolong; requer iniciado da Deusa Vermelha
+- **Nuidez** — estética do mundo antigo; inclui nudez de menores (Teelo Norri, Sete Passos)
+- **Hwarin Dalthippa** — Create Bridge e Daughter's Road; bom casamento lore/mecânica
+- **Teoria conspiratória:** Sete Mães antes da Deusa Vermelha = elas são as verdadeiras cabeças; Deusa Vermelha é uma "atriz" do God Time ou o Morcego Carmesim voltou com o cadáver dela nas costas
+
 ### Publicação
 - **Preço:** $40 hardcover (inclui PDF), $20 PDF, $90 leatherette
 - **Páginas:** 151
