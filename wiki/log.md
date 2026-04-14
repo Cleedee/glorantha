@@ -33,4 +33,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-14] ingest | Processados 4 arquivos restantes: RQG revised project (MOB), Appendix N (Jeff Richard), RQ vs 5e (filosofia), Update on RQ — 3 páginas novas (Appendix N de RuneQuest, RuneQuest vs D&D 5e, Michael O'Brien), 2 atualizadas (RRQG reescrita completa, RQFR atualizada). 4 arquivos RAW restantes processados. Wiki agora com ~135 páginas.
 
+## [2026-04-14] ingest | Processado "Noticias D100 abr 2026" (El Runeblog, conteúdo Glorantha apenas) — 7 páginas novas: The Fall of Whitewall, Dara Happan Primer, Duckpac Confidential, The Return to Pavis, Argrath, Whitewall, Durulz, Duck Point, Necromante Delecti. Index atualizado. Wiki agora com ~142 páginas. Conteúdo não-Glorantha (Cthulhu, Mythras, Vikings, BRP) ignorado propositalmente.
+
 ---

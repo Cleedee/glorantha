@@ -181,6 +181,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Peter Hart]] | Autor Jonstown: Magra Grandmother Harpy; culto harpias | `autor` `Jonstown` | draft |
 | [[Diana Probst]] | Autora Jonstown (Beer with Teeth): Bad Omens; Prax | `autora` `Jonstown` `Prax` | draft |
 | [[Dario Corallo]] | Artista Jonstown: Zenith Counters VTT + Artpacks | `artista` `VTT` | draft |
+| [[Duckpac Confidential]] | 300 PNJ durulz; 20 por ocupação; 10 histórias familiares | `PNJ` `Jonstown` `durulz` | draft |
+| [[The Fall of Whitewall]] | Cerco de Whitewall 1620; heroqueste + resistência; Império Lunar | `aventura` `Jonstown` `cerco` | draft |
+| [[Dara Happan Primer]] | Minisuplemento; 4 cultos solares; Avivorus, Saggitus | `suplemento` `Jonstown` `Dara Happa` | draft |
+| [[The Return to Pavis]] | Conto de Griselda; Pavis pós-Argrath; Tentacles Press | `conto` `ficção` `Pavis` | draft |
 | [[Beer with Teeth]] | Grupo de criadores Jonstown; Diana Probst | `grupo` `Jonstown` | draft |
 | [[O Bugurso Domesticado]] | Blog de RPG de Claudio Torcato; relatos de Numenera, Arkanun, Cripta | `blog` `Cleedee` | draft |
 | [[Compacto RPG]] | Sistema de RPG criado por Claudio Torcato; playtests solo no Itch.io | `sistema` `Cleedee` | draft |
@@ -195,6 +199,11 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
+| [[Durulz]] | Raça dos patos de Glorantha; Duck Point; Upland Marsh | `raça` `patos` | draft |
+| [[Duck Point]] | Assentamento de durulz; Conselho; trégua frágil com Delecti | `assentamento` `durulz` | draft |
+| [[Necromante Delecti]] | Necromante do Upland Marsh; hordas de mortos-vivos | `necromante` `mortos-vivos` | draft |
+| [[Argrath]] | O Libertador; expulsou Império Lunar de Pavis; fim da Terceira Era | `herói` `Libertador` `Pavis` | draft |
+| [[Whitewall]] | Último reduto Orlanthi; cerco de 1620 pelo Império Lunar | `cidade` `cerco` `1620` | draft |
 | [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
 > Linhas temporais, eras, calendários
