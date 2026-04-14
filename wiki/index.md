@@ -136,10 +136,12 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
-| [[Cults of RuneQuest - Mythology]] | Vol 1 de 11; 144-168 págs; escrito e editado | `suplemento` `cultos` | draft |
+| [[Cults of RuneQuest - Mythology]] | Vol introdutório; Monomyth, mapas míticos, genealogias; 158 págs | `suplemento` `mitologia` `cultos` | draft |
+| [[Cults of RuneQuest - The Earth Goddesses]] | 16 cultos da Terra; Ernalda, Aldrya, Pamalt; review | `suplemento` `cultos` `terra` | draft |
+| [[Cults of RuneQuest - The Gods of Fire and Sky]] | 13 cultos solares; Yelm, Yelmalio, Entekos; 154 págs | `suplemento` `cultos` `solar` | draft |
+| [[Cults of RuneQuest - Lightbringers]] | 19 cultos da Tempestade; Orlanth, Humakt, Storm Bull; 70% Cults of Prax | `suplemento` `cultos` `Tempestade` | draft |
 | [[Cults of RuneQuest - Prosopaedia]] | Vol 2 de 11; compêndio de divindades | `suplemento` `cultos` | draft |
-| [[Cults of RuneQuest - Lightbringers]] | Vol 3 de 11; cultos dos Lightbringers | `suplemento` `cultos` | draft |
-| [[Cults of RuneQuest - Earth]] | Vol 4 de 11; cultos da terra | `suplemento` `cultos` | draft |
+| [[Cults of RuneQuest - Earth]] | Vol 4 de 11; cultos da terra (mesmo que The Earth Goddesses?) | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Water]] | Vol remanescente; divindades aquáticas | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Horned God]] | Vol remanescente; Deus Chifrudo/espírito | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
@@ -190,6 +192,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Compacto RPG]] | Sistema de RPG criado por Claudio Torcato; playtests solo no Itch.io | `sistema` `Cleedee` | draft |
 | [[Appendix N de RuneQuest]] | Inspirações literárias de Jeff Richard para RQG revisado; 26+ obras | `literatura` `mitologia` | draft |
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
+| [[RuneQuest 2ª Edição]] | Segunda edição (1978/79); skills, strike ranks, combate realista | `sistema` `clássico` `1978` | draft |
 | [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |
 
 ---

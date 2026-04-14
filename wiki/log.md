@@ -35,4 +35,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-14] ingest | Processado "Noticias D100 abr 2026" (El Runeblog, conteúdo Glorantha apenas) — 7 páginas novas: The Fall of Whitewall, Dara Happan Primer, Duckpac Confidential, The Return to Pavis, Argrath, Whitewall, Durulz, Duck Point, Necromante Delecti. Index atualizado. Wiki agora com ~142 páginas. Conteúdo não-Glorantha (Cthulhu, Mythras, Vikings, BRP) ignorado propositalmente.
 
+## [2026-04-14] ingest | Processados 4 reviews de Cults of RuneQuest + Runeblog — 4 páginas novas: Cults of RQ The Earth Goddesses (review), Cults of RQ The Gods of Fire and Sky (review), Cults of RQ The Lightbringers (review), RuneQuest 2ª Edição. 1 atualizada: Cults of RQ Mythology (revisão detalhada). Index atualizado. Wiki agora com ~146 páginas.
+
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Cults of RuneQuest: Mythology"
 category: "Fonte"
-tags: [suplemento, cultos, mitologia, RuneQuest, 144-168 páginas]
-sources: ["raw/notas/Publicações Futuras.md"]
+tags: [suplemento, mitologia, cultos, Chaosium, review, 158 páginas]
+sources: ["raw/clippings/Cults of RuneQuest Mythology, a review.md"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -10,27 +10,44 @@ status: draft
 # Cults of RuneQuest: Mythology
 
 ## Resumo
-**Cults of RuneQuest: Mythology** é o primeiro volume da série de 11 livros de cultos para [[RuneQuest]]. 144-168 páginas. Todos os 11 volumes estão escritos e editados, aguardando arte e layout final.
+**Cults of RuneQuest: Mythology** é o volume introdutório da série de suplementos de cultos para [[RuneQuest]]. Cobre a mitologia de [[Glorantha]] em geral, incluindo o **Jrustelan Monomyth**, mapas míticos, genealogias de divindades e o formato universal de cultos. 158 páginas.
 
 ## Conteúdo
 
-### Série Cults of RuneQuest
-- 11 volumes no total, cada um 144-168 páginas
-- Primeiros 4: Mythology, Prosopaedia, Lightbringers, Earth
-- Todos escritos e editados
-- Aguardando arte para os 6 volumes restantes
-- Serão intercalados com outros sourcebooks e aventuras
+### Estrutura
+- **Foreword** de [[Greg Stafford]] e **Introdução** — Mitos vs verdade, o que é um culto, tempo, magia, heroquestes
+- **Cosmologia** — Vista transversal do mundo, do Reino do Céu ao Submundo
+- **Jrustelan Monomyth** — Narrativa coerente da história mítica de Glorantha; síntese imperfeita mas útil
+- **Monomyth em duas formas** — Narração dos eventos míticos + resumo histórico das Eras Primeira, Segunda e Terceira
+- **Mapas Míticos** — Cada era mítica com localizações e eventos; 66 entradas na Idade de Ouro (vs ~30 no Guide)
+- **Understanding Mythology** — Como os cultos mediam entre indivíduos e deuses
+- **Catalogue of the Gods** — Genealogias de [[Katrin Dirim]] com inspiração mesoamericana/egípcia
+- **Universal Cult Format** — Template usado nos suplementos de cultos
+- **Cult Distribution Charts** — Onde cada culto é predominante
+- **Primeiro mapa político** da Genertela central nesta edição
 
-### Status
-- Escrito e editado
-- Aguardando layout e arte
+### Arte
+- **Loïc Muzy** (capa), **Lionel Marty**, **Ossi Hiekkala**, **Katrin Dirim** (genealogias), **Francesca Baerald**, **Agathe Pitié** (ilustração do Monomyth de 4 páginas)
+
+### Avaliação
+- Livro útil mas um pouco curto (158 páginas)
+- Arte excelente
+- Viés para deuses Lightbringer e panteão Orlanthi
+- Essencial para GMs que querem profundidade mitológica
+
+### Publicação
+- **Preço:** $25 PDF
+- **Páginas:** 158
+- **[DriveThruRPG](https://www.drivethrurpg.com/product/455886/Cults-of-RuneQuest-Mythology)**
 
 ## Referências Cruzadas
 - [[RuneQuest]]
-- [[Cults of RuneQuest - Darkness]]
+- [[Glorantha]]
+- [[Katrin Dirim]]
+- [[Jrustelan Monomyth]]
 
 ## Referências
-- Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
+- Fonte: [Cults of RuneQuest: Mythology review — El Runeblog](raw/clippings/Cults of RuneQuest Mythology, a review.md)
 
 ## Questões em Aberto
-- [ ] Quais mitos específicos estão cobertos em Mythology?
+- [ ] Os mapas míticos cobrem todo Glorantha ou apenas Genertela central?
