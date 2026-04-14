@@ -91,7 +91,6 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Trollball]] | Esporte praticado por trolls (Uz); regras no Trollpak | `troll` `esporte` `Uz` | draft |
 | [[QuestWorlds]] | Sistema derivado do HeroQuest; Chaosium 2025; agnóstico de cenário | `sistema` `SRD` `Chaosium` | draft |
 | [[Glorantha]] | Universo de fantasia de Greg Stafford; cenário de RuneQuest e QuestWorlds | `cenário` `mundo` `Dragon Pass` | draft |
-| [[RuneQuest Fantasy Roleplaying]] | Edição paralela simplificada de RuneQuest; D100; Sartar + Pavis | `sistema` `simplificado` `Jeff Richard` | draft |
 | [[Caos]] | Força antagonista; associada a Dorastor; inimiga de Orlanthi e Lunar | `inimigo` `Dorastor` | draft |
 | [[Primeiro Conselho]] | Instituição da Primeira Era; ruptura mostrada no romance de Stafford | `Primeira Era` `ruptura` | draft |
 | [[Tula]] | Território ou terras de um clã; explorado por adolescentes no Capítulo 2 | `território` `clã` | draft |
