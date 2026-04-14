@@ -120,7 +120,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Stealing the Eye]] | Aventura breve RuneQuest; infiltração em templo; 14 págs | `aventura` `PDF` | draft |
 | [[A Darkness at Runegate]] | Aventura RuneQuest; plaga em Puerta Rúnica; rainha Leika; 35 págs | `aventura` `PDF` | draft |
 | [[The Hunt for the Storm Calf]] | Aventura RuneQuest; demonstração revisada | `aventura` `PDF` | draft |
-| [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi | `suplemento` `Sartar` | draft |
+| [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi; indo para layout | `suplemento` `Sartar` `layout` | draft |
 | [[Cults of RuneQuest - Darkness]] | Suplemento com cultos de deusas da escuridão; trolls; inframundo | `suplemento` `cultos` | draft |
 | [[Dorastor - Land of Doom]] | Suplemento clássico RQ3 (1993) por Sandy Petersen e Greg Stafford; reedição | `suplemento` `reedição` | draft |
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |
@@ -135,6 +135,27 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Secrets of Dorastor]] | Guia de Dorastor por Simon Phipp; baseado em campanha dos anos 80 | `suplemento` `Dorastor` | draft |
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
 | [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
+| [[RuneQuest - Fantasy Roleplaying]] | Edição paralela simplificada; 2027+; core + GM Guide + campanha 4 partes | `sistema` `RQFR` `2027` | draft |
+| [[RRQG]] | RuneQuest revisado; erratas corrigidas; 60% tamanho; compatível | `sistema` `revisão` `2026` | draft |
+| [[Cults of RuneQuest - Mythology]] | Vol 1 de 11; 144-168 págs; escrito e editado | `suplemento` `cultos` | draft |
+| [[Cults of RuneQuest - Prosopaedia]] | Vol 2 de 11; compêndio de divindades | `suplemento` `cultos` | draft |
+| [[Cults of RuneQuest - Lightbringers]] | Vol 3 de 11; cultos dos Lightbringers | `suplemento` `cultos` | draft |
+| [[Cults of RuneQuest - Earth]] | Vol 4 de 11; cultos da terra | `suplemento` `cultos` | draft |
+| [[Cults of RuneQuest - Water]] | Vol remanescente; divindades aquáticas | `suplemento` `cultos` | draft |
+| [[Cults of RuneQuest - Horned God]] | Vol remanescente; Deus Chifrudo/espírito | `suplemento` `cultos` | draft |
+| [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
+| [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
+| [[Prax]] | Região de nômades; sourcebook futuro; manuscrito voltou da edição | `região` `nômades` | draft |
+| [[Heortland & Hendrikland]] | Sourcebook por Harald Smith; manuscrito aceito 2022 | `sourcebook` `região` | draft |
+| [[The Dragon's Eye]] | Aventura RQ anunciada Ago 2020 | `aventura` | draft |
+| [[Glorantha Cookbook]] | Receitas + guia de viagem; Yanioth e Sorala; 95% | `culinária` `viagem` | draft |
+| [[Elf Pack]] | Suplemento de elfos por Shannon Appelcline | `suplemento` `elfos` | draft |
+| [[Upland Marsh]] | Sourcebook; manuscrito completo; arte e edição | `sourcebook` `pântano` | draft |
+| [[The Dragonrise]] | Material offstage de Eleven Lights; QuestWorlds; Ian Cooper | `aventura` `QuestWorlds` | draft |
+| [[Fonrit]] | Sourcebook região; QuestWorlds; Ian Cooper | `região` `QuestWorlds` | draft |
+| [[QuestWorlds Worlds & Quests]] | Como criar pacotes de gênero; 3 exemplos; Ian Cooper | `suplemento` `QuestWorlds` | draft |
+| [[Gamemaster Sourcebook]] | Regras de heroquestes + batalhas em massa; 4º-5º na fila | `suplemento` `mestre` | draft |
+| [[Publicações Futuras de Glorantha]] | Lista compilada de roadmaps e pipeline da Chaosium | `roadmap` `pipeline` | draft |
 | [[O Bugurso Domesticado]] | Blog de RPG de Claudio Torcato; relatos de Numenera, Arkanun, Cripta | `blog` `Cleedee` | draft |
 | [[Compacto RPG]] | Sistema de RPG criado por Claudio Torcato; playtests solo no Itch.io | `sistema` `Cleedee` | draft |
 

@@ -1,44 +1,38 @@
 ---
 title: "Cults of RuneQuest: Darkness"
 category: "Fonte"
-tags: [suplemento, RuneQuest, cultos, escuridão, trolls, inframundo, deusas]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
-last_updated: 2026-04-13
+tags: [suplemento, cultos, escuridão, trolls, inframundo, RuneQuest, segunda metade 2026]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/notas/Publicações Futuras.md"]
+last_updated: 2026-04-14
 status: draft
 ---
 
 # Cults of RuneQuest: Darkness
 
 ## Resumo
-**Cults of RuneQuest: Darkness** é um suplemento previsto para a segunda metade de 2026 que incluirá os cultos das **deusas da escuridão** adoradas pelos **trolls** e outros seres do **inframundo**. A Chaosium planeja acompanhar os livros de cultos com **material jogável**, incluindo **PNJs com dados de jogo** de membros de cada culto.
+**Cults of RuneQuest: Darkness** é um dos volumes da série de 11 livros de cultos para [[RuneQuest]]. Inclui os cultos das deusas da escuridão adoradas pelos [[trolls]] e outros seres do **inframundo**. Previsto para segunda metade de 2026. Em "finalizações pré-layout" (jan 2024).
 
 ## Conteúdo
 
 ### Conteúdo Previsto
-- **Cultos das deusas da escuridão**
-- **Trolls (Uz)** e seus cultos
-- **Seres do inframundo**
-- **Material jogável complementar** — PNJs com estatísticas de membros dos cultos
-- Inspirado no antigo suplemento **Lords of Terror** da época de Avalon Hill
+- Cultos das deusas da escuridão
+- Trolls (Uz) e seus cultos
+- Seres do inframundo
+- Material jogável complementar — PNJs com estatísticas de membros dos cultos
+- Inspirado no antigo suplemento **Lords of Terror** da era Avalon Hill
 
-### Material Complementar Gratuito
-A Chaosium planeja disponibilizar **PDFs de descarga gratuita** com material jogável complementar, mesmo para livros de cultos já publicados.
-
-### Publicação
-- **Sistema:** RuneQuest
-- **Previsão:** Segunda metade de 2026
-- **Editora:** Chaosium
+### Status
+- Finalizações pré-layout (jan 2024)
+- Previsão: segunda metade de 2026
 
 ## Referências Cruzadas
 - [[RuneQuest]]
 - [[Uz (Trolls)]]
-- [[Trollpak]]
 - [[Lords of Terror]]
 
 ## Referências
 - Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
 
 ## Questões em Aberto
 - [ ] Quais deusas da escuridão serão incluídas?
-- [ ] Haverá sobreposição com o material do Trollpak?
-- [ ] Quais outros livros de Cults estão planejados?

@@ -23,6 +23,8 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-13] ingest | Processado "Hub do Cláudio" — 2 páginas criadas: Compacto RPG, O Bugurso Domesticado. 1 página atualizada: Claudio Torcato (reescrita completa com alias Cleedee, blogs, criações). Fonte revisada mas maioria do conteúdo é pessoal e não relacionado a Glorantha. Index atualizado.
 
-## [2026-04-13] ingest | Processado "Jogando A Saga dos Matadores de Jaldon" — 12 páginas criadas: Tribo dos Dundealos, Dundealosford, Elmal, Redalda, Orlanth, Ernalda, Losoric, Galak, Derikos, Enmul, Jabba, Os Selvagens, Tula, Orlanthi das Colinas. 1 página atualizada: Valley of Plenty (reescrita completa com estrutura de 3 capítulos, interlúdios, cenário). Index atualizado.
+## [2026-04-13] ingest | Processado "Jogando A Saga dos Matadores de Jaldon" — 14 páginas criadas: Tribo dos Dundealos, Dundealosford, Elmal, Redalda, Orlanth, Ernalda, Losoric, Galak, Derikos, Enmul, Jabba, Os Selvagens, Tula, Orlanthi das Colinas. 1 página atualizada: Valley of Plenty (reescrita completa com estrutura de 3 capítulos, interlúdios, cenário). Index atualizado.
+
+## [2026-04-14] ingest | Processado "Publicações Futuras" (BRP Central thread) — 21 páginas criadas: RQFR, RRQG, Cults of RQ (Mythology, Prosopaedia, Lightbringers, Earth, Water, Horned God, Lords of Terror, Invisible God, Darkness atualizada), Prax, Heortland & Hendrikland, The Dragon's Eye, Glorantha Cookbook, Elf Pack, Upland Marsh, The Dragonrise, Fonrit, QW Worlds & Quests, Gamemaster Sourcebook, Publicações Futuras de Glorantha. 1 atualizada: Lands of Sartar. Index atualizado. 100+ páginas na wiki.
 
 ---

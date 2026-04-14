@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qwen.md",
+                "file": "wiki/A Darkness at Runegate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qwen"
+              "title": "A Darkness at Runegate"
             }
           }
         ]
@@ -183,34 +183,38 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2c33818b42df9573",
+  "active": "ee7a44f3bfce6ebd",
   "lastOpenFiles": [
+    "wiki/Publicações Futuras de Glorantha.md",
+    "wiki/Gamemaster Sourcebook.md",
+    "wiki/QuestWorlds Worlds & Quests.md",
+    "wiki/Fonrit.md",
+    "wiki/The Dragonrise.md",
+    "wiki/Upland Marsh.md",
+    "wiki/Elf Pack.md",
+    "wiki/Glorantha Cookbook.md",
+    "wiki/The Dragon's Eye.md",
+    "wiki/Heortland & Hendrikland.md",
+    "wiki/Prax.md",
+    "wiki/Cults of RuneQuest - Invisible God.md",
+    "wiki/Cults of RuneQuest - Lords of Terror.md",
+    "wiki/Cults of RuneQuest - Horned God.md",
+    "wiki/Cults of RuneQuest - Water.md",
+    "wiki/Cults of RuneQuest - Earth.md",
+    "wiki/Cults of RuneQuest - Lightbringers.md",
+    "wiki/Cults of RuneQuest - Prosopaedia.md",
+    "wiki/Cults of RuneQuest - Mythology.md",
+    "wiki/RRQG.md",
+    "wiki/RuneQuest - Fantasy Roleplaying.md",
+    "raw/notas/Publicações Futuras.md",
+    "Pasted image 20260414100001.png",
+    "Pasted image 20260414095718.png",
+    "Pasted image 20260414095652.png",
+    "qwen.md",
+    "raw/notas",
     "wiki/Nysalor.md",
     "wiki/Ken and Robin Talk About Stuff.md",
     "wiki/Os Selvagens.md",
-    "wiki/Valley of Plenty.md",
-    "wiki/Derikos.md",
-    "wiki/Losoric.md",
-    "wiki/Jabba.md",
-    "wiki/Kallyr Testa-Estrelada.md",
-    "wiki/Greg Stafford.md",
-    "wiki/index.md",
-    "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md",
-    "wiki/O Bugurso Domesticado.md",
-    "wiki/Compacto RPG.md",
-    "raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md",
-    "An Open Letter to Chaosium.md",
-    "raw/clippings/Hub do Cláudio.md",
-    "wiki/Pelora.md",
-    "wiki/Genert.md",
-    "wiki/God Learners.md",
-    "wiki/Holiday Dorastor - Spider Woods.md",
-    "wiki/Talastar.md",
-    "wiki/Tomate.md",
-    "wiki/Tratado da Sétima Lua Minguante.md",
-    "wiki/Amal-See Calax.md",
-    "wiki/Broo.md",
-    "wiki/Secrets of Dorastor.md",
     "raw/clippings"
   ]
 }

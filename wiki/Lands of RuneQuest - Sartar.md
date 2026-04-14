@@ -20,10 +20,13 @@ status: draft
 - **Costumes Orlanthi** — Cultura sartarita em detalhe
 - Informações sobre a organização tribal e clanica
 
-### Publicação
-- **Sistema:** RuneQuest
+### Status
+- **Autor:** Jeff Richard (implícito)
+- **Estado:** Indo para layout (novembro 2025)
 - **Previsão:** Segunda metade de 2026
-- **Editora:** Chaosium
+
+### Snippets
+Snippets do livro foram compartilhados em novembro de 2025 mostrando conteúdo detalhado sobre Sartar.
 
 ## Referências Cruzadas
 - [[Sartar]]
