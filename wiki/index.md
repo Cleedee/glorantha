@@ -45,7 +45,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Genert]] | Pai de Dorasta (deusa da terra de Dorastor) | `deus` `pai` | draft |
 | [[Pelora]] | Mãe de Dorasta (deusa da terra de Dorastor) | `deusa` `mãe` | draft |
 | [[Jabba]] | PJ criança; filho de comerciante | `PJ` `comércio` | draft |
-| [[Tomate]] | Mestre das campanhas Reino do Trovão e Caminho Lunar (YouTube) | `mestre` `YouTube` | draft |
+| [[Lawrence Whitaker]] | Autor Mongoose/Glorantha: Dragonewts, Mostali, Fronela, Pavis, Dara Happa | `autor` `Mongoose` | draft |
 
 ---
 
@@ -155,7 +155,18 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Fonrit]] | Sourcebook região; QuestWorlds; Ian Cooper | `região` `QuestWorlds` | draft |
 | [[QuestWorlds Worlds & Quests]] | Como criar pacotes de gênero; 3 exemplos; Ian Cooper | `suplemento` `QuestWorlds` | draft |
 | [[Gamemaster Sourcebook]] | Regras de heroquestes + batalhas em massa; 4º-5º na fila | `suplemento` `mestre` | draft |
+| [[Mongoose Publishing]] | Editora Mongoose; licença Glorantha 2006-2010; Laws + Whitaker | `editora` `Mongoose` | draft |
+| [[Glorantha - The Second Age]] | Suplemento Mongoose; 1ª ed 2006 (Laws), 2ª ed 2010 (Laws+Steele+Whitaker) | `suplemento` `Mongoose` | draft |
+| [[Ralios]] | Região de Glorantha; sourcebook Mongoose por Robin Laws | `região` `Mongoose` | draft |
+| [[Dragonewts - Guide to the Eravssarr]] | Suplemento Mongoose sobre Dragonewts; Lawrence Whitaker | `suplemento` `Mongoose` `Dragonewts` | draft |
+| [[Dara Happa Stirs]] | Suplemento Mongoose sobre Dara Happa; Lawrence Whitaker | `suplemento` `Mongoose` | draft |
+| [[Fronela]] | Região de Glorantha; sourcebook Mongoose por Lawrence Whitaker | `região` `Mongoose` | draft |
+| [[Dwarfs - A Guide to the Mostali]] | Suplemento Mongoose sobre anões/Mostali; Lawrence Whitaker | `suplemento` `Mongoose` `Mostali` | draft |
+| [[Pavis Rises]] | Suplemento Mongoose sobre Pavis; Lawrence Whitaker | `suplemento` `Mongoose` `Pavis` | draft |
+| [[Cults of Glorantha - Mongoose]] | Suplemento de cultos; 2ª ed Mongoose; Lawrence Whitaker | `suplemento` `Mongoose` `cultos` | draft |
+| [[The Abiding Book]] | Suplemento Mongoose final (2010); Lawrence Whitaker | `suplemento` `Mongoose` | draft |
 | [[Publicações Futuras de Glorantha]] | Lista compilada de roadmaps e pipeline da Chaosium | `roadmap` `pipeline` | draft |
+| [[Tomate]] | Mestre das campanhas Reino do Trovão e Caminho Lunar (YouTube) | `mestre` `YouTube` | draft |
 | [[Durulz of Darkness]] | Aventura inspirada em Apocalypse Now; durulz rebelde no Upland Marsh; Max Bantleman | `aventura` `Jonstown` `durulz` | draft |
 | [[The Shimmering Lake]] | Lago misterioso com 3 heroquestes; arte Attila Nagy; Max Bantleman | `aventura` `Jonstown` `heroquest` | draft |
 | [[How Elmal Wooed the King]] | 5 heroquestes; culto Karad Lightningblade; Bell + Phipp | `aventura` `Jonstown` `heroquest` | draft |

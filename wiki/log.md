@@ -29,4 +29,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-14] ingest | Processado "Journey to Jonstown #80" — 18 páginas criadas: Durulz of Darkness, The Shimmering Lake, How Elmal Wooed the King, Bad Omens (atualizado), As the Appearance of Horses (atualizado), The Whispering Flowers (atualizado), Nochet Serpents & Shadows (atualizado), Magra (atualizado), The Sorcerer's Lab (atualizado), Max Bantleman, Vivien Prigent, Paul Watts, Peter Hart, Diana Probst, Dario Corallo. Index atualizado. 120+ páginas na wiki.
 
+## [2026-04-14] ingest | Processado "Mongoose Glorantha Titles" (Well of Daliath) — 9 páginas criadas: Lawrence Whitaker, Mongoose Publishing, Glorantha The Second Age, Ralios, Dragonewts, Dara Happa Stirs, Fronela, Dwarfs Mostali, Pavis Rises, Cults of Glorantha Mongoose, The Abiding Book. 1 atualizada: Robin D. Laws (seção Mongoose). Index atualizado. **ÚLTIMO ARQUIVO RAW PROCESSADO** — todos os arquivos de raw/clippings e raw/notas foram ingeridos. Wiki agora com ~130 páginas.
+
 ---

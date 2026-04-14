@@ -35,6 +35,10 @@ status: draft
 - **HeroQuest** (2003) — Hero Wars republicado quando a marca expirou
 - **HeroQuest 2ª edição** (2009)
 
+#### Mongoose Publishing — Glorantha
+- **Glorantha: The Second Age** (1ª ed. 2006, 2ª ed. 2010 com Bryan Steele e [[Lawrence Whitaker]])
+- **Ralios** (2006)
+
 #### Pelgrane Press
 - **The Dying Earth RPG** (2000) — Senior designer, baseado em Jack Vance; escreveu sourcebook *White-Walled Kaiin*
 - **Sistema GUMSHOE** — Criado por Laws; primeiro lançamento: [[The Esoterrorists]] (2006)
