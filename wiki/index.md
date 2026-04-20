@@ -119,7 +119,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Stealing the Eye]] | Aventura breve RuneQuest; infiltração em templo; 14 págs | `aventura` `PDF` | draft |
 | [[A Darkness at Runegate]] | Aventura RuneQuest; plaga em Puerta Rúnica; rainha Leika; 35 págs | `aventura` `PDF` | draft |
 | [[The Hunt for the Storm Calf]] | Aventura RuneQuest; demonstração revisada | `aventura` `PDF` | draft |
-| [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi; indo para layout | `suplemento` `Sartar` `layout` | draft |
+| [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi; cenário incluso | `suplemento` `Sartar` `layout` | draft |
+| [[Welcome to Boldhome]] | Cenário de 40 páginas em Boldhome; três partes; Andrew Logan Montgomery | `aventura` `Sartar` `Boldhome` | draft |
 | [[Cults of RuneQuest - Darkness]] | Suplemento com cultos de deusas da escuridão; trolls; inframundo | `suplemento` `cultos` | draft |
 | [[Dorastor - Land of Doom]] | Suplemento clássico RQ3 (1993) por Sandy Petersen e Greg Stafford; reedição | `suplemento` `reedição` | draft |
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |

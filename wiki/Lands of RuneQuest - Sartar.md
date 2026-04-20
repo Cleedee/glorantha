@@ -19,6 +19,7 @@ status: draft
 - **Hogar Audaz** (Boldhome) — Informações sobre a capital do reino
 - **Costumes Orlanthi** — Cultura sartarita em detalhe
 - Informações sobre a organização tribal e clanica
+- **Welcome to Boldhome** — Cenário de 40 páginas incluído gratuitamente (Andrew Logan Montgomery)
 
 ### Status
 - **Autor:** Jeff Richard (implícito)

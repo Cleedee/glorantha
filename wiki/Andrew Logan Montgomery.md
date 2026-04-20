@@ -10,7 +10,7 @@ status: draft
 # Andrew Logan Montgomery
 
 ## Resumo
-**Andrew Logan Montgomery** é o escritor convidado pela Chaosium para finalizar o romance inacabado de [[Greg Stafford]], **[[A Pyre for Gods and Heroes]]**. Passou cinco meses (Julho–Dezembro 2025) trabalhando exclusivamente neste projeto, isolado com os manuscritos e notas de Stafford. Mantém um blog ativo desde 2012.
+**Andrew Logan Montgomery** é o escritor convidado pela Chaosium para finalizar o romance inacabado de [[Greg Stafford]], **[[A Pyre for Gods and Heroes]]**. Passou cinco meses (Julho–Dezembro 2025) trabalhando exclusivamente neste projeto, isolado com os manuscritos e notas de Stafford. Também escreveu o cenário **[[Welcome to Boldhome]]** (40 páginas) incluído gratuitamente no livro **[[Lands of RuneQuest: Sartar]]**. Mantém um blog ativo desde 2012.
 
 ## Conteúdo
 
@@ -39,6 +39,7 @@ Montgomery declara que considera a obra como **inteiramente de Greg Stafford**: 
 
 ## Referências Cruzadas
 - [[A Pyre for Gods and Heroes]]
+- [[Welcome to Boldhome]]
 - [[Greg Stafford]]
 - [[Susan O'Brien]]
 - [[Jeff Richard]]
@@ -51,5 +52,5 @@ Montgomery declara que considera a obra como **inteiramente de Greg Stafford**: 
 - [Blog de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/)
 
 ## Questões em Aberto
-- [ ] Andrew Logan Montgomery tem outros trabalhos publicados em Glorantha?
+- [x] Andrew Logan Montgomery tem outros trabalhos publicados em Glorantha? (Welcome to Boldhome)
 - [ ] Haverá outros projetos de Montgomery para a Chaosium?
