@@ -171,6 +171,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Durulz of Darkness]] | Aventura inspirada em Apocalypse Now; durulz rebelde no Upland Marsh; Max Bantleman | `aventura` `Jonstown` `durulz` | draft |
 | [[The Shimmering Lake]] | Lago misterioso com 3 heroquestes; arte Attila Nagy; Max Bantleman | `aventura` `Jonstown` `heroquest` | draft |
 | [[How Elmal Wooed the King]] | 5 heroquestes; culto Karad Lightningblade; Bell + Phipp | `aventura` `Jonstown` `heroquest` | draft |
+| [[Uleria Loves You]] | Aventura 205 págs; festival de Uleria em Apple Lane; CJ Håkansson + Malin Rydén | `aventura` `festival` `Uleria` `Apple Lane` | draft |
 | [[Bad Omens]] | Aventura em Prax; clã Straw Weaver; ritual de presságios; Diana Probst | `aventura` `Jonstown` `Prax` | draft |
 | [[As the Appearance of Horses]] | Campanha Pavis; praga de gafanhotos; Argrath; Vivien Prigent | `campanha` `Jonstown` `Pavis` | draft |
 | [[The Whispering Flowers of Lorthing Vale]] | Investigação no Lorthing Vale; Sia; Lhankor Mhy; Max Bantleman | `aventura` `Jonstown` | draft |

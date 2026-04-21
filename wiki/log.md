@@ -23,6 +23,10 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-20] ingest | Processado "Levels of The Big Rubble" (Well of Daliath) — 1 página atualizada: Big Rubble e Pavis (adicionada seção dos quatro níveis do Big Rubble). Index atualizado.
 
+## [2026-04-20] ingest | Processado "Layout of the Big Rubble" (Well of Daliath) — 1 página atualizada: Big Rubble e Pavis (dimensões, população, três towns, grupos menores).
+
+## [2026-04-20] ingest | Processado "Notes on the Big Rubble" (Well of Daliath) — 1 página atualizada: Big Rubble e Pavis (estágios históricos, Manside, Four Great Clans, Zebra Fort, túneis).
+
 ## [2026-04-13] ingest | Processado "Drops Glorantha #5 - Dorastor" — 10 páginas criadas: Ralzakark, Dorasta, Arkat o Destruidor, Simon Phipp, Secrets of Dorastor, Broo, Amal-See Calax, Tratado da Sétima Lua Minguante, Tomate, Talastar, Glamour, Holiday Dorastor, God Learners, Genert, Pelora. 4 páginas atualizadas: Dorastor (reescrita completa com lore), Dorastor Land of Doom, Claudio Torcato, RuneQuest Warlords. Index atualizado.
 
 ## [2026-04-13] ingest | Processado "Hub do Cláudio" — 2 páginas criadas: Compacto RPG, O Bugurso Domesticado. 1 página atualizada: Claudio Torcato (reescrita completa com alias Cleedee, blogs, criações). Fonte revisada mas maioria do conteúdo é pessoal e não relacionado a Glorantha. Index atualizado.
@@ -46,5 +50,7 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-04-14] ingest | Processados 3 reviews finais: Prosopaedia (dicionário de deuses/heróis, 140 págs, Katrin Dirim), RQG review (7ª ed 2018, 446 págs, Stafford+Perrin+Richard+Durall), Six Ages Ride Like the Wind (sucessor de King of Dragon Pass). 3 páginas novas/renomeadas: Cults of RQ The Prosopaedia (rewritten), RQG (nova), Six Ages - Ride Like the Wind (renomeada). 3 removidas: Prosopaedia, Lightbringers, Earth duplicatas. Index atualizado.
 
 ## [2026-04-14] ingest | Processados 2 reviews do God Learners (Ludovic) — Mythology e Lunar Way atualizados com perspectivas únicas: sim-Glorantha, PCs vs NPCs, teoria conspiratória Lunar, enigmas Nysaloreanos, Cult Distribution. 1 página nova: Ludovic (God Learners). Limpeza de duplicatas (Prosopaedia, Lightbringers, Earth placeholders removidos). Index atualizado. **TODOS OS ARQUIVOS RAW PROCESSADOS.** Wiki agora com ~148 páginas.
+
+## [2026-04-21] ingest | Processado "Uleria Loves You" (Chaosium/Jonstown) — 1 página nova: Uleria Loves You (aventura 205 págs, festival de Uleria em Apple Lane, CJ Håkansson + Malin Rydén, $19.99 PDF). Index atualizado.
 
 ---
