@@ -215,7 +215,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
-| *(nenhuma página ainda)* | — | — | — |
+| [[As Eras de Glorantha]] | Cronologia completa: Green Age, Golden Age, Storm Age, Chaos Age, Silver Age + First/Second/Third Age | `eras` `cronologia` `mitologia` `história` | draft |
 
 ---
 

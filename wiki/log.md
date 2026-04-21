@@ -53,4 +53,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-21] ingest | Processado "Uleria Loves You" (Chaosium/Jonstown) — 1 página nova: Uleria Loves You (aventura 205 págs, festival de Uleria em Apple Lane, CJ Håkansson + Malin Rydén, $19.99 PDF). Index atualizado.
 
+## [2026-04-21] ingest | Processado "Drops Glorantha 6 - As Eras de Glorantha" — 1 página nova: As Eras de Glorantha (Green Age, Golden Age, Storm Age, Chaos Age, Silver Age + First/Second/Third Age). Index atualizado.
+
 ---
