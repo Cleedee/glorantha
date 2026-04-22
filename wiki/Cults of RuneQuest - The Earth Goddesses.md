@@ -16,13 +16,13 @@ status: draft
 
 ### Cultos Incluídos
 16 cultos das deusas da Terra, incluindo:
-- **Ernalda** — 14 páginas (vs 24 de Orlanth no Lightbringers)
+- **[[Ernalda]]** — 14 páginas (vs 24 de Orlanth no Lightbringers)
 - Subcultos associados
 - Cultos pamaltelan
 
 ### Avaliação
 - **Inconsistências:** Fleetfoot Rune spell, enchantments temporários de Mostal
-- **Uleria** — mitologia desapontadoramente curta
+- **[[Uleria]]** — mitologia desapontadoramente curta
 - **Arte:** Loïc Muzy, Agathe Pithie, Antonia Doncheva, Katrin Dirim, Ossi Hiekkala
 
 ## Referências Cruzadas

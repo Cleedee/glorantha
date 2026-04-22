@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27fee9eac69b169e",
+        "id": "46634ad36916d97d",
         "type": "tabs",
         "children": [
           {
-            "id": "2c33818b42df9573",
+            "id": "daa140db23f4975e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Uleria Loves You.md",
+                "file": "wiki/Valley of Plenty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uleria Loves You"
+              "title": "Valley of Plenty"
             }
           }
         ]
@@ -183,11 +183,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2c33818b42df9573",
+  "active": "daa140db23f4975e",
   "lastOpenFiles": [
+    "raw/clippings/Jonstown Jottings 26 Valley of Plenty.md",
+    "wiki/Valley of Plenty.md",
+    "qwen.md",
+    "wiki/Trollball.md",
+    "raw/Trollball-Rules-EN.pdf",
+    "wiki/Uleria Loves You.md",
+    "Uleria.md",
+    "wiki/Cults of RuneQuest - The Earth Goddesses.md",
     "wiki/As Eras de Glorantha.md",
     "raw/clippings/Uleria Loves You - Chaosium  Jonstown Compendium.md",
-    "wiki/Uleria Loves You.md",
     "raw/clippings/Notes on the Big Rubble.md",
     "raw/clippings/Layout of the Big Rubble.md",
     "raw/clippings/Levels of The Big Rubble.md",
@@ -201,16 +208,10 @@
     "raw/clippings/Drops Glorantha 6 - As Eras de Glorantha.md",
     "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md",
     "wiki/Ernalda.md",
-    "wiki/Cults of RuneQuest - The Earth Goddesses.md",
     "wiki/Cults of RuneQuest - The Lunar Way.md",
     "wiki/Cults of RuneQuest - The Lightbringers.md",
     "wiki/Cults of RuneQuest - Lords of Terror.md",
     "wiki/Cults of RuneQuest - Mythology.md",
-    "wiki/Dorastor.md",
-    "wiki/Ludovic (God Learners).md",
-    "wiki/Six Ages - Ride Like the Wind.md",
-    "wiki/RuneQuest - Roleplaying in Glorantha (RQG).md",
-    "wiki/index.md",
     "Pasted image 20260414100001.png",
     "Pasted image 20260414095718.png",
     "Pasted image 20260414095652.png",

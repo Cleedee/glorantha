@@ -36,10 +36,10 @@ Os PJs são membros dos **Selvagens** (Wildings), o bando liderado pelas filhas 
 
 ### Cultos Cobertos
 O suplemento inclui writes-ups detalhados de cultos:
-- **Elmal** — deus da caça e proteção (Jaldonkillers são Horse Orlanthi)
-- **Redalda** — deusa da cultura equina
-- **Andred** — deusa da vitória e justiça adiada (nova)
-- **Drogarsi the Skald** — tradição de poeta/guerreiro
+- **[[Elmal]]** — deus da caça e proteção (Jaldonkillers são Horse Orlanthi)
+- **[[Redalda]]** — deusa da cultura equina
+- **[[Andred]]** — deusa da vitória e justiça adiada (nova)
+- **[[Drogarsi the Skald]]** — tradição de poeta/guerreiro
 - **Tradição Xamânica do Steadfast Circle** — (nova)
 
 ### Handouts
@@ -50,7 +50,7 @@ O suplemento inclui writes-ups detalhados de cultos:
 ### Avaliação (Jonstown Jottings #26)
 > *"Valley of Plenty é uma campanha excelente, uma campanha excelente para Glorantha, e um excelente ponto de entrada para jogar em Glorantha — tão boa que poderia facilmente ter sido publicada pela Chaosium."*
 
-- **Prós:** Introdução gentle a Glorantha e QuestWorlds, personagens crescendo mecanicamente e narrativamente, handouts bem feitos, estrutura episódica com tarefas apropriadas para cada idade
+- **Prós:** Introdução gentil a Glorantha e QuestWorlds, personagens crescendo mecanicamente e narrativamente, handouts bem feitos, estrutura episódica com tarefas apropriadas para cada idade
 - **Contras:** Alguns handouts são extensos, não cobre todos os cultos dos Blue Jays, não chega ao evento de "sundering" da tribo
 
 ### Estrutura da Saga

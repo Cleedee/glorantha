@@ -58,7 +58,7 @@ O livro inclui:
 
 ## Conexões
 
-- Compatível com *Gods of Glorantha: The Earth Goddesses*
+- Compatível com [[Cults of RuneQuest - The Earth Goddesses]] 
 - Complemento: *Three Doors to Your Heart*
 - Similar a *Life and Traditions Under the Sun Dome* em atenção aos detalhes
 
