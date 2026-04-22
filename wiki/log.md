@@ -55,4 +55,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-21] ingest | Processado "Drops Glorantha 6 - As Eras de Glorantha" — 1 página nova: As Eras de Glorantha (Green Age, Golden Age, Storm Age, Chaos Age, Silver Age + First/Second/Third Age). Index atualizado.
 
+## [2026-04-21] ingest | Processado "Trollball-Rules-EN.pdf" via markitdown — 1 página atualizada: Trollball (regras completas: Dark Trolls, Great Trolls, Troll Mother, Giant Referee, armas, plateia). Index atualizado.
+
 ---
