@@ -57,4 +57,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-21] ingest | Processado "Trollball-Rules-EN.pdf" via markitdown — 1 página atualizada: Trollball (regras completas: Dark Trolls, Great Trolls, Troll Mother, Giant Referee, armas, plateia). Index atualizado.
 
+## [2026-04-21] ingest | Processado "Jonstown Jottings 26 Valley of Plenty" — 1 página atualizada: Valley of Plenty (150p, Blue Jay clan, Dundealos, Elmal/Redalda/Andred/Drogarsi cults, 1602-1608, review positivo). Index atualizado.
+
 ---

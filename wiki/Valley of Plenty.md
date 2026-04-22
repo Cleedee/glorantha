@@ -1,9 +1,9 @@
 ---
 title: "Valley of Plenty"
 category: "Fonte"
-tags: [campanha, QuestWorlds, Jaldonkillers, crianças, Dundealos, Shawn Carpenter, Peggy Carpenter]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
-last_updated: 2026-04-13
+tags: [campanha, QuestWorlds, Jaldonkillers, crianças, Dundealos, Shawn Carpenter, Peggy Carpenter, review, Jonstown]
+sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Jonstown Jottings 26 Valley of Plenty.md"]
+last_updated: 2026-04-21
 status: draft
 ---
 
@@ -14,9 +14,44 @@ status: draft
 
 ## Conteúdo
 
+### Detalhes da Publicação
+- **150 páginas**, coloridas, capa acolhoada, Print on Demand
+- Primeiro lançamento para **QuestWorlds** no Jonstown Compendium
+- ISBN: N/A
+
 ### Autores
 - **Shawn Carpenter**
 - **Peggy Carpenter**
+
+### Localização e Época
+- **Local:** terras do clã Blue Jay da tribo Dundealos no sudoeste de Sartar, na fronteira com Prax
+- **Época:** começa em **1602**, cobre eventos de **1602, 1605, 1607 e 1608**
+
+### Personagens
+Os PJs são membros dos **Selvagens** (Wildings), o bando liderado pelas filhas mais novas de **Dinorth Many-Spears**, líder do clã Blue Jay e rei da tribo Dundealos. Começam como crianças e crescem até a vida adulta.
+
+### Requisitos
+- **QuestWorlds** (ou HeroQuest: Glorantha)
+- Referências: *Sartar: Kingdom of Heroes*, *Sartar Companion*, *Sartar Player's Primer*, *The Coming Storm*, *The Eleven Lights*, *The Guide to Glorantha*, *The Glorantha Sourcebook*
+
+### Cultos Cobertos
+O suplemento inclui writes-ups detalhados de cultos:
+- **Elmal** — deus da caça e proteção (Jaldonkillers são Horse Orlanthi)
+- **Redalda** — deusa da cultura equina
+- **Andred** — deusa da vitória e justiça adiada (nova)
+- **Drogarsi the Skald** — tradição de poeta/guerreiro
+- **Tradição Xamânica do Steadfast Circle** — (nova)
+
+### Handouts
+- **"Child's Knowledge"** — visão de mundo das crianças
+- **"Youngster's Knowledge"** — visão de mundo dos jovens
+- Handouts sobre deuses, Dundealosford e área circundante
+
+### Avaliação (Jonstown Jottings #26)
+> *"Valley of Plenty é uma campanha excelente, uma campanha excelente para Glorantha, e um excelente ponto de entrada para jogar em Glorantha — tão boa que poderia facilmente ter sido publicada pela Chaosium."*
+
+- **Prós:** Introdução gentle a Glorantha e QuestWorlds, personagens crescendo mecanicamente e narrativamente, handouts bem feitos, estrutura episódica com tarefas apropriadas para cada idade
+- **Contras:** Alguns handouts são extensos, não cobre todos os cultos dos Blue Jays, não chega ao evento de "sundering" da tribo
 
 ### Estrutura da Saga
 A campanha é dividida em três volumes:
@@ -66,8 +101,9 @@ A campanha está sendo mestreada por [[Claudio Torcato]] no servidor Discord man
 ## Referências
 - Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
 - Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Jonstown Jottings #26: Valley of Plenty](raw/clippings/Jonstown Jottings 26 Valley of Plenty.md) — Review por pookie (2020-08-17)
 - [Valley of Plenty — DriveThruRPG](https://www.drivethrurpg.com/en/product/316797/valley-of-plenty)
 
 ## Questões em Aberto
 - [ ] Quando serão publicados Rise of the Wildlings e Lances at Dusk?
-- [ ] A localização exata do Valley of Plenty em Glorantha é canônica ou adaptada pelo mestre?
+- [x] A localização exata do Valley of Plenty em Glorantha é canônica ou adaptada pelo mestre? — Clã Blue Jay no sudoeste de Sartar (1602, 1605, 1607, 1608)
