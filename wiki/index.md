@@ -62,6 +62,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hogar Audaz]] | Capital de Sartar; detalhada no futuro Lands of RuneQuest | `capital` `Sartar` | draft |
 | [[Talastar]] | Região vizinha de Dorastor; cenário de RuneQuest Warlords | `região` `Warlords` | draft |
 | [[Glamour]] | Cidade do Grande Templo do Imperador Vermelho; vitrais do Tratado | `cidade` `Império Lunar` | draft |
+| [[Genertela]] | Continente setentrional; Fronela, Kralorela, Peloria, Kethaela | `continente` `norte` `regiões` | draft |
+| [[Pamaltela]] | Continente meridional; errinoru, fonrit, kothar, tarien | `continente` `sul` `regiões` | draft |
 
 ---
 
@@ -90,6 +92,12 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 |--------|--------|------|--------|
 | [[Trollball]] | Esporte praticado por trolls (Uz); regras no Trollpak | `troll` `esporte` `Uz` | draft |
 | [[QuestWorlds]] | Sistema derivado do HeroQuest; Chaosium 2025; agnóstico de cenário | `sistema` `SRD` `Chaosium` | draft |
+| [[Cosmologia de Glorantha]] | Cosmologia do mundo cubo, sol, luas, underworld, maelstrom | `cosmologia` `mundo` `estrutura` | draft |
+| [[Mito de Criação de Glorantha]] | Mito de criação: Yelm, Orlanth, Umath, Grande Escuridão | `mito` `criação` `Yelm` `Orlanth` | draft |
+| [[Genertela]] | Continente setentrional de Glorantha; regiões: Fronela, Kralorela, Peloria | `continente` `norte` `regiões` | draft |
+| [[Pamaltela]] | Continente meridional; errinoru, fonrit, kothar, tarien | `continente` `sul` `regiões` | draft |
+| [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde | `raça` `elfos` `Aldryami` | draft |
+| [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
 | [[Glorantha]] | Universo de fantasia de Greg Stafford; cenário de RuneQuest e QuestWorlds | `cenário` `mundo` `Dragon Pass` | draft |
 | [[Caos]] | Força antagonista; associada a Dorastor; inimiga de Orlanthi e Lunar | `inimigo` `Dorastor` | draft |
 | [[Primeiro Conselho]] | Instituição da Primeira Era; ruptura mostrada no romance de Stafford | `Primeira Era` `ruptura` | draft |
@@ -211,6 +219,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Whitewall]] | Último reduto Orlanthi; cerco de 1620 pelo Império Lunar | `cidade` `cerco` `1620` | draft |
 | [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
+| [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde | `raça` `elfos` `Aldryami` | draft |
+| [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
 > Linhas temporais, eras, calendários
 
 | Página | Resumo | Tags | Status |
@@ -228,4 +238,4 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-04-13*
+*Última atualização: 2026-04-27*

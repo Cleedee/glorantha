@@ -1,48 +1,69 @@
 ---
 title: "Glorantha"
 category: "Conceito"
-tags: [cenário, campanha, mundo, fantasia, Greg Stafford, Dragon Pass, Sartar]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md"]
-last_updated: 2026-04-13
+tags: [cenário, campanha, mundo, fantasia, Greg Stafford, Dragon Pass, Sartar, cosmologia]
+sources: ["raw/clippings/Glorantha.md", "raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md"]
+last_updated: 2026-04-27
 status: draft
 ---
 
 # Glorantha
 
 ## Resumo
-**Glorantha** é o universo de fantasia criado por [[Greg Stafford]], cenário central de jogos como [[RuneQuest]], [[Hero Wars]], [[HeroQuest Glorantha]] e [[QuestWorlds]]. É um mundo rico em mitologia, geografia, facções e sistemas de magia, com regiões icônicas como [[Sartar]], [[Prax]], [[Pavis]] e a [[Passagem do Dragão]].
+**Glorantha** é o universo de fantasia criado por [[Greg Stafford]], cenário central de jogos como [[RuneQuest]], [[Hero Wars]], [[HeroQuest Glorantha]] e [[QuestWorlds]]. É um mundo rico em mitologia, geografia, facções e sistemas de magia, regiões icônicas como [[Sartar]], [[Prax]], [[Pavis]] e a [[Passagem do Dragão]], e raças anciãs como Aldryami, Mostali e Uz.
 
 ## Conteúdo
 
 ### Criação
-Glorantha foi criado por **Greg Stafford**, que também conduziu campanhas memoráveis no cenário, como a **campanha Colymar**, documentada nas páginas da **[[Wyrms' Footnotes]]**.
+Glorantha foi criado por **Greg Stafford** em 1966, quando ele tentou atrair mulheres wiccan para seu grupo de wargaming. É baseado em temas de mitos da Era do Bronze, não em obras de Tolkien.
+
+### Estrutura do Mundo
+- O "mundo" é um cubo flutuante num mar sem fim
+- Acima está o Sol, o céu de Orlanth e as estrelas
+- Abaixo está o Underworld
+- No centro está o Maelstrom
+
+### Continentes
+- [[Genertela]] — o continente setentrional
+- [[Pamaltela]] — o continente meridional
+
+### Cosmologia
+Ver: [[Cosmologia de Glorantha]]
+
+### Mito de Criação
+Ver: [[Mito de Criação de Glorantha]]
 
 ### Sistemas de RPG que Usam Glorantha
-- [[RuneQuest]] — Sistema original, focado na Passagem do Dragão
-- [[Hero Wars]] (2000) — Criado por [[Robin D. Laws]] a pedido de Stafford
+- [[RuneQuest]] — Sistema original
+- [[Hero Wars]] (2000) — Criado por [[Robin D. Laws]]
 - [[HeroQuest Glorantha]] (2015) — Moon Design Publications
-- [[QuestWorlds]] (2025) — Evolução do HeroQuest, liderada por [[Ian Cooper]]
+- [[QuestWorlds]] (2025) — Evolução do HeroQuest
 
 ### Regiões Conhecidas
-- [[Sartar]] — Território lutando pela libertação do [[Império Lunar]]
-- [[Prax]] — Região a leste da Passagem do Dragão, parcialmente livre do Império
-- [[Pavis]] — Cidade estratégica, capturada pelo Império Lunar em 1610
-- [[Big Rubble]] — Ruínas adjacentes a Pavis
-- [[Passagem do Dragão]] (Dragon Pass) — Região central de muitas campanhas
+- [[Sartar]] — Território lutando pela libertação
+- [[Prax]] — Região de nômades
+- [[Pavis]] — Cidade estratégica
+- [[Big Rubble]] — Ruínas
+- [[Passagem do Dragão]] — Região central
 
 ### Marcos Temporais
 - **1610** — Império Lunar invade Prax e captura Pavis
-- **1611** — Início da campanha de conquista de Sartar
-- **Terceira Era** — Época das "Hero Wars" ( Guerras dos Heróis)
+- **1611** — Início da conquista de Sartar
+- **Terceira Época** — Éoca das "Hero Wars"
 
 ### Temas Centrais
-- Libertação de povos oprimidos (clãs sartaritas)
-- Mitologia viva e interação com o mundo divino
-- Heroquestes — jornadas míticas ao mundo dos deuses
+- Libertação de povos oprimidos
+- Mitologia viva
+- Heroquestes
 - Conflito entre ordem e caos
+- "Your Glorantha Will Vary" (YGWV)
 
 ## Referências Cruzadas
 - [[Greg Stafford]]
+- [[Genertela]]
+- [[Pamaltela]]
+- [[Cosmologia de Glorantha]]
+- [[Mito de Criação de Glorantha]]
 - [[Sartar]]
 - [[Prax]]
 - [[Pavis]]
@@ -54,12 +75,16 @@ Glorantha foi criado por **Greg Stafford**, que também conduziu campanhas memor
 - [[HeroQuest Glorantha]]
 - [[QuestWorlds]]
 - [[Wyrms' Footnotes]]
+- [[Aldryami]]
+- [[Uz (Trolls)]]
+- [[Mostali]]
 
 ## Referências
+- Fonte: [Glorantha](raw/clippings/Glorantha.md)
 - Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
 - Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
 
 ## Questões em Aberto
-- [ ] Qual é a cosmologia completa de Glorantha?
-- [ ] Quais são as raças jogáveis disponíveis?
-- [ ] Qual é a timeline atual de Glorantha?
+- [x] Qual é a cosmologia completa? — Cosmologia de Glorantha criada
+- [x] Quais são as raças jogáveis? — Aldryami, Mostali, Uz, Dragonewts, Durulz, Beast Men
+- [ ] Timeline completa?

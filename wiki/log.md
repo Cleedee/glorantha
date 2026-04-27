@@ -57,6 +57,8 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-21] ingest | Processado "Trollball-Rules-EN.pdf" via markitdown — 1 página atualizada: Trollball (regras completas: Dark Trolls, Great Trolls, Troll Mother, Giant Referee, armas, plateia). Index atualizado.
 
-## [2026-04-21] ingest | Processado "Jonstown Jottings 26 Valley of Plenty" — 1 página atualizada: Valley of Plenty (150p, Blue Jay clan, Dundealos, Elmal/Redalda/Andred/Drogarsi cults, 1602-1608, review positivo). Index atualizado.
+## [2026-04-21] ingest | Processado "Jonstown Jottings 26 Valley of Plenty" — 1 página atualizada: Valley of Plenty (150p, Blue Jay clan, Dundealos, Elmal/Redalda/Andred/Drogarsi cults, 1602-1608, review positivo). Index atualizado. 
+
+## [2026-04-27] ingest | Processado "Glorantha.md" (clipping 1d6chan) — 10 páginas criadas: Cosmologia de Glorantha, Mito de Criação, Genertela, Pamaltela, Aldryami, Uz (Trolls), Glorantha (atualizada com cosmology e raças). Index atualizado. Wiki agora com ~155+ páginas.
 
 ---
