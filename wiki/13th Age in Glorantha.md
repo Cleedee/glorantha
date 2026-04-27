@@ -15,15 +15,15 @@ status: draft
 ## Conteúdo
 
 ### Introdução e Contexto
-O review de Andrew Logan Montgomery (2018) contextualiza 13G como uma das três interpretações modernas de Glorantha no RPG:
-- **RuneQuest** — abordagem simulationista, realista
-- **HeroQuest** — abordagem narrativista, storytelling
+O review de [[Andrew Logan Montgomery]] (2018) contextualiza 13G como uma das três interpretações modernas de [[Glorantha]] no RPG:
+- **[[RuneQuest]]** — abordagem simulationista, realista
+- **[[HeroQuest]]** — abordagem narrativista, storytelling
 - **13th Age in Glorantha** — abordagem gamista, focada em divertimento
 
-Heinsoo e Tweet já haviam mencionadas influências gloranadianas no sistema 13th Age. A dedicação do livro menciona Greg Stafford e o deus Orlanth.
+Heinsoo e Tweet já haviam mencionadas influências gloranadianas no sistema 13th Age. A dedicação do livro menciona [[Greg Stafford]] e o deus [[Orlanth]].
 
 ### Região: Dragon Pass
-Foco estrito em **Dragon Pass**, uma região contestada do norte de Genertela, durante as Hero Wars:
+Foco estrito em **Dragon Pass**, uma região contestada do norte de [[Genertela]], durante as [[Hero Wars]]:
 - Tribos bárbaras de **Sartar** (storm worshippers) vs.
 - **Império Lunar** (influência romano-persa)
 - Presença das Raças Anciãs (Aldryami, Uz)
@@ -31,20 +31,20 @@ Foco estrito em **Dragon Pass**, uma região contestada do norte de Genertela, d
 ### Mecânica Central: as Runas
 Sistema substituindo os "Icon relationships" do 13th Age base:
 - Cada personagem possui três Runas (duas do deus adorado, uma pessoal)
-- **Attunement daily** — determines Rune ativo do dia
-- **Narração** — jogador pode descrever benefício não-combat do Rune
-- Complicações quando Rune falha (1-5 em d20)
+- **Attunement daily** — determina a Runa ativa do dia
+- **Narração** — jogador pode descrever benefício de não-combate da Runa
+- Complicações quando Runa falha (1-5 em d20)
 
 ### Raças/Culturas
 Quatro "cultural traits" no lugar de raças:
 - **Heortlings** — bárbaros de Sartar (storm worshippers)
-- **Esrolians** — adoradores da Terra
-- **Praxians** — nômades das الشرقية
-- **Tarshites** — primos que abraçaram o Império Lunar
+- **Esrolianos** — adoradores da Terra
+- **Praxianos** — nômades de Prax
+- **Tarshitas** — primos que abraçaram o Império Lunar
 
 Opções não-humanas:
-- **Uz** (Trolls) — raça subterrânea associada à Runa Darkness
-- **Durulz** (Ducks) — raças parcialmente animis, adoradores de Humakt
+- **Uz** (Trolls) — raça subterrânea associada à Runa da Escuridão (Darkness)
+- **Durulz** (Ducks) — raça parcialmente animal, adoradores de Humakt
 
 ### Classes (11 novas)
 O review destaca:
@@ -55,13 +55,13 @@ O review destaca:
 - **Monk** — adaptação menos convincente
 - **Orlanthi Warrior** — a classe mais simples
 - **Rebel** — adaptação de Rogue para guerrilha
-- **Storm Voice** — priests de Orlanth (sorcerer base)
-- **Trickster** — adoradores de Eurmal ( Disorder + Illusion)
+- **Storm Voice** — sacerdotes de Orlanth (sorcerer base)
+- **Trickster** — adoradores de Eurmal ( Disordem + Ilusão)
 - **Troll Warrior** — versão troll do Orlanthi Warrior
 - **Wind Lord** — versão mais complexa do Orlanthi Warrior
 
-### Heroquestes
-13G dedica um capítulo inteiro às heroquestes, com regras completas:
+### Heroquests
+13G dedica um capítulo inteiro às heroquests, com regras completas:
 - Viajem ao God Time (mundo mito)
 - Recriação de mitos dos deuses
 - Recompensas: Runic Gifts (poderes)
@@ -75,11 +75,11 @@ Mecânica especial:
 
 ### Comparação com Outras Versões
 | Aspecto | RuneQuest | HeroQuest | 13th Age in Glorantha |
-|--------|----------|-----------|---------------------|
-| Foco | Simulação | Narrativa | Jogo/Fun |
-| Tom | Sombrio | Erudito | Passional |
-| Níveis | Baixos | Médio | Alto |
-| Sistema | skills | keywords | classes |
+| ------- | --------- | --------- | --------------------- |
+| Foco    | Simulação | Narrativa | Jogo/Fun              |
+| Tom     | Sombrio   | Erudito   | Passional             |
+| Níveis  | Baixos    | Médio     | Alto                  |
+| Sistema | skills    | keywords  | classes               |
 
 ### Conclusão do Review
 > "13G gets an enthusiastic thumbs up from this Gloranthan grognard."
@@ -111,5 +111,7 @@ Recomendado para quem quer níveis de poder mais altos com abordagem gamista.
 - Fonte: [13TH AGE GLORANTHA A REVIEW](raw/clippings/13TH AGE GLORANTHA A REVIEW.md) — Andrew Logan Montgomery, 2018-03-06
 
 ## Questões em Aberto
-- [ ] Quais as diferenças específicas entre as classes de 13G e as equivalentes em QuestWorlds?
-- [ ] O sistema de Runas de 13G foi adaptado em edições posteriores?
+- [x] Quais as diferenças específicas entre as classes de 13G e as equivalentes em QuestWorlds?
+      [[QuestWorlds]] não possuem classes. As ocupações e especialidades são definidas por palavras-chaves.
+- [x] O sistema de Runas de 13G foi adaptado em edições posteriores?
+      Não existe uma segunda edição de 13ª Era Glorantha (13th Age in Glorantha).
