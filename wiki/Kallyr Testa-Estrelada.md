@@ -1,10 +1,19 @@
 ---
-title: "Kallyr Testa-Estrelada"
-category: "Entidade"
-tags: [Kallyr, Starbrow, rebelião, Sartar, HeroQuest, líder]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md"]
+title: Kallyr Testa-Estrelada
+category: Entidade
+tags:
+  - Kallyr
+  - Starbrow
+  - rebelião
+  - Sartar
+  - HeroQuest
+  - líder
+sources:
+  - raw/clippings/Drops Glorantha 4 - Trollball.md
 last_updated: 2026-04-13
 status: draft
+aliases:
+  - Kallyr Starbrow
 ---
 
 # Kallyr Testa-Estrelada

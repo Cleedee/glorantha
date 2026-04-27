@@ -23,7 +23,7 @@ Glorantha é um dos cenários de RPG mais antigos e ricamente detalhados do mund
 ```
 glorantha/
 ├── README.md              ← Você está aqui
-├── qwen.md                ← Schema operacional (constituição do sistema)
+├── constitution.md        ← Schema operacional (constituição do sistema)
 ├── raw/                   ← Fontes imutáveis (documentos, artigos, clippings)
 │   ├── clippings/         ← Artigos de blogs, entrevistas, notícias
 │   └── notas/             ← Notas e roadmaps de publicações
@@ -81,7 +81,7 @@ Este projeto segue o modelo de **Knowledge Base assistida por LLM** com as segui
 
 1. **Fontes imutáveis** — Documentos em `/raw` nunca são modificados pelo LLM
 2. **Ingestão um-a-um** — Um arquivo fonte por vez, com revisão humana obrigatória
-3. **Schema persistente** — `qwen.md` define regras, templates e workflows
+3. **Schema persistente** — `constitution.md` define regras, templates e workflows
 4. **Log auditável** — `wiki/log.md` registra todas as ações cronologicamente
 5. **Versionamento** — Git com commits convencionais (`feat:`, `fix:`, `docs:`, `chore:`)
 
