@@ -61,4 +61,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-27] ingest | Processado "Glorantha.md" (clipping 1d6chan) — 10 páginas criadas: Cosmologia de Glorantha, Mito de Criação, Genertela, Pamaltela, Aldryami, Uz (Trolls), Glorantha (atualizada com cosmology e raças). Index atualizado. Wiki agora com ~155+ páginas.
 
+## [2026-04-27] ingest | Processado "13TH AGE GLORANTHA A REVIEW" (Andrew Logan Montgomery, 2018) — 1 página criada: 13th Age in Glorantha (466p sourcebook, Rob Heinsoo + Jonathan Tweet, sistema de Runas, 11 classes, foco Dragon Pass, comparada com RuneQuest e HeroQuest). Index atualizado.
+
 ---

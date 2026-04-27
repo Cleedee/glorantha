@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-04-13
+last_updated: 2026-04-27
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -92,17 +92,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 |--------|--------|------|--------|
 | [[Trollball]] | Esporte praticado por trolls (Uz); regras no Trollpak | `troll` `esporte` `Uz` | draft |
 | [[QuestWorlds]] | Sistema derivado do HeroQuest; Chaosium 2025; agnóstico de cenário | `sistema` `SRD` `Chaosium` | draft |
-| [[Cosmologia de Glorantha]] | Cosmologia do mundo cubo, sol, luas, underworld, maelstrom | `cosmologia` `mundo` `estrutura` | draft |
-| [[Mito de Criação de Glorantha]] | Mito de criação: Yelm, Orlanth, Umath, Grande Escuridão | `mito` `criação` `Yelm` `Orlanth` | draft |
-| [[Genertela]] | Continente setentrional de Glorantha; regiões: Fronela, Kralorela, Peloria | `continente` `norte` `regiões` | draft |
-| [[Pamaltela]] | Continente meridional; errinoru, fonrit, kothar, tarien | `continente` `sul` `regiões` | draft |
-| [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde | `raça` `elfos` `Aldryami` | draft |
-| [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
-| [[Glorantha]] | Universo de fantasia de Greg Stafford; cenário de RuneQuest e QuestWorlds | `cenário` `mundo` `Dragon Pass` | draft |
-| [[Caos]] | Força antagonista; associada a Dorastor; inimiga de Orlanthi e Lunar | `inimigo` `Dorastor` | draft |
-| [[Primeiro Conselho]] | Instituição da Primeira Era; ruptura mostrada no romance de Stafford | `Primeira Era` `ruptura` | draft |
-| [[Tula]] | Território ou terras de um clã; explorado por adolescentes no Capítulo 2 | `território` `clã` | draft |
-| [[GUMSHOE]] | Sistema de investigação de Robin Laws; Pelgrane Press; 10 anos em 2016 | `sistema` `investigação` `Pelgrane` | draft |
+| [[13th Age in Glorantha]] | Sourcebook 466p; Heinsoo+Tweet; Runas substituem Icons; foco Dragon Pass | `sistema` `13th Age` `Dragon Pass` | draft |
 
 ---
 
