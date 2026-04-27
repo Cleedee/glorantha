@@ -1,10 +1,16 @@
 ---
-title: "Genertela"
-category: "Localização"
-tags: [continente, norte, Genertela, Pamaltela, regiões]
-sources: ["raw/clippings/Glorantha.md"]
+title: Genertela
+category: Localização
+tags:
+  - continente
+  - norte
+  - Genertela
+  - Pamaltela
+  - regiões
+sources:
+  - raw/clippings/Glorantha.md
 last_updated: 2026-04-27
-status: draft
+status: estavel
 ---
 
 # Genertela
@@ -18,7 +24,7 @@ status: draft
 Genertela é um continente do tamanho da América do Norte. Ao norte há um glaciar enorme — lar de trolls de gelo, espíritos de gelo e ocasionais saqueadores marítimos. O Maelstrom está no meio do continente. Ao sul está o outro grande continente, **Pamaltela** (a "Not-Africa").
 
 ### Criação
-**Genert**, o deus da terra, foi morto pelo Diabão (The Devil), deixando uma cicatriz massiva de deserto — **as Wastes** (As Terras Baldias). Esta divisão tornou a unity entre os povos do continente mais difícil.
+**Genert**, o deus da terra, foi morto pelo Diabo (The Devil), deixando uma cicatriz massiva de deserto — **as Wastes** (As Terras Baldias). Esta divisão tornou a unidade entre os povos do continente mais difícil.
 
 ### Regiões de Genertela
 
@@ -35,7 +41,7 @@ As terras costeiras do sul de Genertela, estendendo-se de Seshnela a Prax. Após
 As terras ao redor da **Mirrorsea Bay** — a Santa Pátria — sempre tiveram um lugar importante na história. A baía pode ser dividida em seis regiões distintas: as Rightarm Islands, Caladraland, Esrolia, o Shadow Plateau, Heortland e God Forgot.
 
 ##### Dragon Pass
-Ao norte de Kethaela, onde as Rockwood mountains se encontram no centro do continente, é o único lugar onde você pode entrar em Peloria, Kethaela ou Ralios pelo mesmo lugar. Atualmente dividido entre os reinos de **Sartar** e **Tarsh**.
+Ao norte de Kethaela, onde as Rockwood Mountains se encontram no centro do continente, é o único lugar onde você pode entrar em Peloria, Kethaela ou Ralios pelo mesmo lugar. Atualmente dividido entre os reinos de **Sartar** e **Tarsh**.
 
 #### Peloria
 O celeiro do continente — uma gramínea seca e fresca atravessada pelo massivo Rio Oslir.
@@ -56,7 +62,7 @@ Uma vez uma grande ilha, agora conhecida como as **Wenelian Isles** após o Fech
 Pense na Índia fantástica e você está no caminho certo. Uma península com três ilhas offshore: Melib, Trowjang e Fanzai.
 
 #### The Wastes
-Formeramente o jardim de Genert até ele ser nukado pelo Diabão — agora um vasto deserto que corta o continente quase em dois.
+No passado o jardim de Genert até ele ser devastado pelo Diabo — agora um vasto deserto que corta o continente quase em dois.
 
 ## Referências Cruzadas
 - [[Genert]]

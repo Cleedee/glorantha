@@ -50,14 +50,14 @@ A wiki está organizada em **8 categorias**:
 
 | Categoria | Conteúdo | Páginas |
 |-----------|----------|---------|
-| **Entidade** | Deuses, heróis, figuras históricas, NPCs | 25+ |
-| **Localização** | Regiões, cidades, templos, marcos geográficos | 15+ |
-| **Evento** | Batalhas, heroquestes, marcos temporais | 1+ |
-| **Magia** | Feitiços, runas, sistemas mágicos | 0+ *(a expandir)* |
-| **Conceito** | Ideias abstratas, mecânicas, cosmologia | 8+ |
-| **Fonte** | Livros, suplementos, campanhas, aventuras | 55+ |
-| **Cultura** | Povos, tribos, nações, organizações | 3+ |
-| **Cronologia** | Linhas temporais, eras, calendários | 0+ *(a expandir)* |
+| **Entidade** | Deuses, heróis, figuras históricas, NPCs | 31 |
+| **Localização** | Regiões, cidades, templos, marcos geográficos | 10 |
+| **Evento** | Batalhas, heroquestes, marcos temporais | 1 |
+| **Magia** | Feitiços, runas, sistemas mágicos | 0 |
+| **Conceito** | Ideias abstratas, mecânicas, cosmologia | 3 |
+| **Fonte** | Livros, suplementos, campanhas, aventuras | 93 |
+| **Cultura** | Povos, tribos, nações, organizações | 9 |
+| **Cronologia** | Linhas temporais, eras, calendários | 1 |
 
 ---
 
