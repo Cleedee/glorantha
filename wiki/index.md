@@ -100,6 +100,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Sample Combat]] | Exemplo prático: Vasana vs Broo; aplicação de Strike Ranks | `RuneQuest` `combate` `exemplo` | draft |
 | [[Hit Locations]] | Sistema de locais de impacto; 7 regiões; efeitos de dano; membros decepados | `RuneQuest` `combate` `hit points` | draft |
 | [[Armor Points]] | Sistema de proteção; armaduras; escudos; redução de dano | `RuneQuest` `combate` `defesa` | draft |
+| [[Heroquesting]] | Exploração do inconsciente coletivo; reino da mitologia; arquétipos | `RuneQuest` `heroquest` `mitologia` | draft |
+| [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
 
 ---
 
@@ -202,6 +204,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
 | [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |
 | [[Marsh Attacks]] | Sourcebook 120p (2026); David Hall; Upland Marsh; durulz; Lismelder/Greydog; Blackthorn | `sourcebook` `Jonstown` | draft |
+| [[Stafford House Campaign]] | Arquivos de Greg Stafford 1978-1981; 84p; Berkeley | `sourcebook` `Chaosium` `arquivo` | draft |
+| [[Eyes' Rise]] | Vilarejo no Rio dos Berços; 19 NPCs; River Folk | `sourcebook` `Jonstown` | draft |
 
 ---
 
@@ -239,4 +243,4 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-04-27*
+*Última atualização: 2026-05-05*
