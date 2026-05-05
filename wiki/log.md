@@ -29,6 +29,8 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-13] ingest | Processado "Drops Glorantha #5 - Dorastor" — 10 páginas criadas: Ralzakark, Dorasta, Arkat o Destruidor, Simon Phipp, Secrets of Dorastor, Broo, Amal-See Calax, Tratado da Sétima Lua Minguante, Tomate, Talastar, Glamour, Holiday Dorastor, God Learners, Genert, Pelora. 4 páginas atualizadas: Dorastor (reescrita completa com lore), Dorastor Land of Doom, Claudio Torcato, RuneQuest Warlords. Index atualizado.
 
+## [2026-05-05] ingest | Processado "Journey to Jonstown 82 Marsh Attacks!" — 8 páginas criadas: Marsh Attacks, David Hall, Reaching Moon Megacorp, Lismelder tribe, Greydog clan, Templo das Seis Pedras. 1 página atualizada: Upland Marsh (geografia, habitantes, referências cruzadas). Index atualizado.
+
 ## [2026-04-13] ingest | Processado "Hub do Cláudio" — 2 páginas criadas: Compacto RPG, O Bugurso Domesticado. 1 página atualizada: Claudio Torcato (reescrita completa com alias Cleedee, blogs, criações). Fonte revisada mas maioria do conteúdo é pessoal e não relacionado a Glorantha. Index atualizado.
 
 ## [2026-04-13] ingest | Processado "Jogando A Saga dos Matadores de Jaldon" — 14 páginas criadas: Tribo dos Dundealos, Dundealosford, Elmal, Redalda, Orlanth, Ernalda, Losoric, Galak, Derikos, Enmul, Jabba, Os Selvagens, Tula, Orlanthi das Colinas. 1 página atualizada: Valley of Plenty (reescrita completa com estrutura de 3 capítulos, interlúdios, cenário). Index atualizado.
@@ -62,5 +64,7 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-04-27] ingest | Processado "Glorantha.md" (clipping 1d6chan) — 10 páginas criadas: Cosmologia de Glorantha, Mito de Criação, Genertela, Pamaltela, Aldryami, Uz (Trolls), Glorantha (atualizada com cosmology e raças). Index atualizado. Wiki agora com ~155+ páginas.
 
 ## [2026-04-27] ingest | Processado "13TH AGE GLORANTHA A REVIEW" (Andrew Logan Montgomery, 2018) — 1 página criada: 13th Age in Glorantha (466p sourcebook, Rob Heinsoo + Jonathan Tweet, sistema de Runas, 11 classes, foco Dragon Pass, comparada com RuneQuest e HeroQuest). Index atualizado.
+
+## [2026-04-28] ingest | Processado "Drops RuneQuest 11 - Dralas contra Seis.md" — 1 página criada: Drops RuneQuest #11 - Dralas contra Seis (exercício teórico de combate em RuneQuest 7ª edição, demonstra personagem derrotando 6 oponentes usando magias Multispell, Coordenation, Befuddle e sistema de Strike Ranks). Index atualizado.
 
 ---

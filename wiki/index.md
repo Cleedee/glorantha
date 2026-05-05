@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-04-27
+last_updated: 2026-05-05
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -46,6 +46,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Pelora]] | Mãe de Dorasta (deusa da terra de Dorastor) | `deusa` `mãe` | draft |
 | [[Jabba]] | PJ criança; filho de comerciante | `PJ` `comércio` | draft |
 | [[Lawrence Whitaker]] | Autor Mongoose/Glorantha: Dragonewts, Mostali, Fronela, Pavis, Dara Happa | `autor` `Mongoose` | draft |
+| [[David Hall]] | Autor Jonstown; vencedor Greg Stafford Memorial Award 2024; líder Reaching Moon Megacorp | `autor` `Jonstown` `award` | draft |
 
 ---
 
@@ -64,6 +65,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Glamour]] | Cidade do Grande Templo do Imperador Vermelho; vitrais do Tratado | `cidade` `Império Lunar` | draft |
 | [[Genertela]] | Continente setentrional; Fronela, Kralorela, Peloria, Kethaela | `continente` `norte` `regiões` | draft |
 | [[Pamaltela]] | Continente meridional; errinoru, fonrit, kothar, tarien | `continente` `sul` `regiões` | draft |
+| [[Templo das Seis Pedras]] | Templo de Humakt em regeneração; Upland Marsh; Six Stones | `templo` `Humakt` `Upland Marsh` | draft |
 
 ---
 
@@ -93,6 +95,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Trollball]] | Esporte praticado por trolls (Uz); regras no Trollpak | `troll` `esporte` `Uz` | draft |
 | [[QuestWorlds]] | Sistema derivado do HeroQuest; Chaosium 2025; agnóstico de cenário | `sistema` `SRD` `Chaosium` | draft |
 | [[13th Age in Glorantha]] | Sourcebook 466p; Heinsoo+Tweet; Runas substituem Icons; foco Dragon Pass | `sistema` `13th Age` `Dragon Pass` | draft |
+| [[Drops RuneQuest #11 - Dralas contra Seis]] | Exercício teórico de combate em RQ7; 6 oponentes vs magias + Strike Ranks | `RuneQuest` `combate` `Strike Ranks` | draft |
 
 ---
 
@@ -194,6 +197,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; strike ranks, battle magic, rune magic; lista completa de suplementos; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
 | [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |
+| [[Marsh Attacks]] | Sourcebook 120p (2026); David Hall; Upland Marsh; durulz; Lismelder/Greydog; Blackthorn | `sourcebook` `Jonstown` | draft |
 
 ---
 
@@ -211,6 +215,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
 | [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde | `raça` `elfos` `Aldryami` | draft |
 | [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
+| [[Reaching Moon Megacorp]] | Empresa de David Hall; Tales of the Reaching Moon; títulos Jonstown | `empresa` `Jonstown` | draft |
+| [[Lismelder tribe]] | Tribo do Upland Marsh; detalhada em Marsh Attacks | `tribo` `Upland Marsh` | draft |
+| [[Greydog clan]] | Clã famoso do Upland Marsh; Greydog Inn; brewing | `clã` `Upland Marsh` | draft |
 > Linhas temporais, eras, calendários
 
 | Página | Resumo | Tags | Status |
