@@ -96,6 +96,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[QuestWorlds]] | Sistema derivado do HeroQuest; Chaosium 2025; agnóstico de cenário | `sistema` `SRD` `Chaosium` | draft |
 | [[13th Age in Glorantha]] | Sourcebook 466p; Heinsoo+Tweet; Runas substituem Icons; foco Dragon Pass | `sistema` `13th Age` `Dragon Pass` | draft |
 | [[Drops RuneQuest #11 - Dralas contra Seis]] | Exercício teórico de combate em RQ7; 6 oponentes vs magias + Strike Ranks | `RuneQuest` `combate` `Strike Ranks` | draft |
+| [[Combat]] | Sistema de combate de RuneQuest; Strike Ranks; melee/missile; tabela de resultados | `RuneQuest` `combate` `Strike Ranks` | draft |
+| [[Hit Locations]] | Sistema de locais de impacto; 7 regiões; efeitos de dano; membros decepados | `RuneQuest` `combate` `hit points` | draft |
+| [[Armor Points]] | Sistema de proteção; armaduras; escudos; redução de dano | `RuneQuest` `combate` `defesa` | draft |
 
 ---
 
