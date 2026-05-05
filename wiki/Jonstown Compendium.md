@@ -3,7 +3,7 @@ title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
 sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
-last_updated: 2026-04-13
+last_updated: 2026-05-05
 status: draft
 ---
 
@@ -28,6 +28,7 @@ O **Jonstown Compendium** é a plataforma de material criado por fãs para [[Run
 | [[Durulz of Darkness]] | Durulz misterioso criando tribo no Pantano das Terras Altas | 176 | $15 |
 | [[The Fall of Whitewall]] | Cerco de Murallas Brancas de 1620; heroquest + resistência | 25 | $6 |
 | [[Dara Happan Primer]] | Criação de personagens de terra solar, 4 cultos adicionais | 26 | $2 |
+| [[Marsh Attacks]] | Upland Marsh; tribo Lismelder; clã Greydog; templo Humakti | 120 | $15.95 |
 
 ## Referências Cruzadas
 - [[RuneQuest]]
