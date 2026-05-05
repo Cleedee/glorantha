@@ -60,4 +60,4 @@ A **Saga dos Jaldonkillers** usa o material de **Valley of Plenty** de Shawn e P
 - [Jogatinas em Teresina](https://jogatinasemteresina.blogspot.com/)
 
 ## Questões em Aberto
-- [ ] Compacto RPG tem alguma conexão com Glorantha?
+- [x] Compacto RPG tem alguma conexão com Glorantha? - Nenhuma conexão.

@@ -33,6 +33,8 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-05-05] ingest | Processado "The RuneQuest RPG Wiki - Combat.md" — 3 páginas criadas: Combat, Hit Locations, Armor Points. Index atualizado.
 
+## [2026-05-05] ingest | Processado "RuneQuest Sample Combat.md" — 1 página criada: Sample Combat (exemplo prático: Vasana vs Broo). Index atualizado.
+
 ## [2026-04-13] ingest | Processado "Hub do Cláudio" — 2 páginas criadas: Compacto RPG, O Bugurso Domesticado. 1 página atualizada: Claudio Torcato (reescrita completa com alias Cleedee, blogs, criações). Fonte revisada mas maioria do conteúdo é pessoal e não relacionado a Glorantha. Index atualizado.
 
 ## [2026-04-13] ingest | Processado "Jogando A Saga dos Matadores de Jaldon" — 14 páginas criadas: Tribo dos Dundealos, Dundealosford, Elmal, Redalda, Orlanth, Ernalda, Losoric, Galak, Derikos, Enmul, Jabba, Os Selvagens, Tula, Orlanthi das Colinas. 1 página atualizada: Valley of Plenty (reescrita completa com estrutura de 3 capítulos, interlúdios, cenário). Index atualizado.

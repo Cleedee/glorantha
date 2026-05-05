@@ -55,9 +55,9 @@ A tabela de resultados compara o resultado do ataque (coluna) com o resultado da
 | D20 | Resultado |
 |-----|----------|
 | 01-04 | Não pode Parry na próxima rodada |
-| 05-08 | Não pode攻击ar na próxima rodada |
-| 09-12 | Não pode攻击ar ou Parry na próxima rodada |
-| 13-15 | Não pode攻击ar, Parry ou esquivar na próxima rodada |
+| 05-08 | Não pode atacar na próxima rodada |
+| 09-12 | Não pode atacar ou Parry na próxima rodada |
+| 13-15 | Não pode atacar, Parry ou esquivar na próxima rodada |
 | 16-18 | Perde uma peça de armadura |
 | 19-20 | Deixa cair arma/escudo, +5 SR para recuperar |
 
