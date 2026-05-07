@@ -73,4 +73,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-04-28] ingest | Processado "Drops RuneQuest 11 - Dralas contra Seis.md" — 1 página criada: Drops RuneQuest #11 - Dralas contra Seis (exercício teórico de combate em RuneQuest 7ª edição, demonstra personagem derrotando 6 oponentes usando magias Multispell, Coordenation, Befuddle e sistema de Strike Ranks). Index atualizado.
 
+## [2026-05-06] ingest | Processado "Journal of Runic Studies 2.md" — 11 páginas criadas: Journal of Runic Studies 2, Brithini, Império Lunar, Malkionismo, País Santo, Belintar, Cidade das Maravilhas, Monomito, Deusa Vermelha, Jar-Eel, Arkat Caosban. 1 página atualizada: Heroquesting (seções de interação divina e histórico). Index e log atualizados.
+
 ---

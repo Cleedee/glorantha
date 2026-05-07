@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-05
+last_updated: 2026-05-06
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -30,7 +30,11 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Ralzakark]] | Rei dos Broos e Senhor de Dorastor; Tratado de 1580 com Império Lunar | `Broo` `Dorastor` | draft |
 | [[Dorasta]] | Deusa da terra de Dorastor; filha de Genert e Pelora | `deusa` `terra` | draft |
 | [[Arkat, o Destruidor]] | Devastou Dorastor e causou mal à deusa Dorasta | `destruidor` `Caos` | draft |
+| [[Arkat Caosban]] | Pioneiro do heroquesting transcultural; múltiplas iniciações secretas | `herói` `heroquesting` `transcultural` | draft |
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
+| [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
+| [[Belintar]] | Deus-Rei do País Santo (1318+); Cidade das Maravilhas; pouco expansionista | `deus-rei` `país santo` `1318` | draft |
+| [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça" pelos orlanthi | `deusa` `lunar` `orlanthi` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
 | [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
 | [[Orlanth]] | Rei dos deuses Orlanthi; marido de Ernalda | `deus` `rei` `Orlanthi` | draft |
@@ -59,6 +63,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Big Rubble e Pavis]] | Ruínas e cidade estratégica; foco do futuro RQ Fantasy Roleplaying | `Pavis` `ruínas` `Império Lunar` | draft |
 | [[Puerta Rúnica]] | Pequena cidade assolada por plaga; aventura A Darkness at Runegate | `cidade` `plaga` | draft |
 | [[Dorastor]] | Terra maldita do Caos; nome vem de Dorasta; devastada por Arkat; Rei Ralzakark | `terra maldita` `Caos` `Dorasta` | draft |
+| [[País Santo]] | Região de Kethaela; governo de Belintar (1318+); Cidade das Maravilhas | `região` `kethaela` `belintar` | draft |
+| [[Cidade das Maravilhas]] | Capital do País Santo; deuses/mortais conviviam; portões para Outro Mundo | `cidade` `deuses` `outro mundo` | draft |
 | [[Dundealosford]] | Cidade da Tribo dos Dundealos; cenário do Capítulo 1 de Valley of Plenty | `cidade` `Dundealos` | draft |
 | [[Hogar Audaz]] | Capital de Sartar; detalhada no futuro Lands of RuneQuest | `capital` `Sartar` | draft |
 | [[Talastar]] | Região vizinha de Dorastor; cenário de RuneQuest Warlords | `região` `Warlords` | draft |
@@ -100,8 +106,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Sample Combat]] | Exemplo prático: Vasana vs Broo; aplicação de Strike Ranks | `RuneQuest` `combate` `exemplo` | draft |
 | [[Hit Locations]] | Sistema de locais de impacto; 7 regiões; efeitos de dano; membros decepados | `RuneQuest` `combate` `hit points` | draft |
 | [[Armor Points]] | Sistema de proteção; armaduras; escudos; redução de dano | `RuneQuest` `combate` `defesa` | draft |
-| [[Heroquesting]] | Exploração do inconsciente coletivo; reino da mitologia; arquétipos | `RuneQuest` `heroquest` `mitologia` | draft |
+| [[Heroquesting]] | Exploração do inconsciente coletivo; reino da mitologia; arquétipos; descoberto por Arkat Caosban | `RuneQuest` `heroquest` `mitologia` | draft |
+| [[Monomito]] | Visão filosófica malkioni; traduz particularidades em universalidades; God Learners | `filosofia` `malkioni` `God Learners` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
+| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; comparado ao Império Romano; Jar-Eel | `lunar` `império` `população` | draft |
 
 ---
 
@@ -142,6 +150,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Secrets of Dorastor]] | Guia de Dorastor por Simon Phipp; baseado em campanha dos anos 80 | `suplemento` `Dorastor` | draft |
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
 | [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
+| [[Journal of Runic Studies 2]] | 2ª edição do periódico malkioni; insights de Jeff Richard; Lore de Glorantha | `periódico` `malkioni` `Jeff Richard` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |

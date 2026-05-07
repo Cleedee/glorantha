@@ -19,6 +19,17 @@ De acordo com Jeff Richard ( designer atual de Glorantha na Chaosium):
 
 > Um heroquest é uma exploração do inconsciente coletivo de Glorantha — o reino da mitologia. Em um heroquest, os questers interagem diretamente com as forças primais e arquétipos que compõem o mundo.
 
+### Interação com o Reino Divino
+> Um heroquest é uma interação direta com o reino divino dos mitos e arquétipos. Em um heroquest, você interage e experiencia o reino divino e traz de volta magia, seja feitiços runicos, espíritos guardiões, boa colheita, uma terrível maldição, algo há muito esquecido e escondido, etc.
+
+> Ao interagirmos com o reino divino caleidoscópico, naturalmente mudamos seu arranjo. Como entrar em uma sala com fumaça giratória, nossa presença faz com que a névoa gire ao nosso redor, mudando sua direção e padrões. Na maioria das vezes, temos pouco controle sobre as mudanças – entramos na sala, a fumaça gira devido à nossa mera presença.
+
+### Histórico de Heroquesting
+> Arkat Caosban foi o primeiro indivíduo a descobrir heroquesting fora de um mito de culto específico. Ele passou por várias iniciações secretas (e excomunhões) que lhe deram uma visão transcultural incomum do mundo secreto do mito. Suas experiências pessoais deram-lhe pistas que ele seguiu, explorou e ensinou a outros.
+
+### Do Alvorecer às Guerras Heroicas
+O heroquesting evoluiu ao longo das eras, de práticas ritualísticas de cultos específicos até descobertas individuais transculturais como as de Arkat.
+
 ### Características
 - Habilidades mundanas são largely irrelevantes — este é o reino das Runas e magia
 - Limites materiais não se aplicam: coisas podem mudar de forma e tamanho; rios fluem uphill; pode-se respirar bajo o mar e caminhar no Céu; a paisagem pode mudar sem aviso

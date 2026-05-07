@@ -2,7 +2,7 @@
 title: "God Learners"
 category: "Fonte"
 tags: [podcast, Dorastor, Simon Phipp, entrevista]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 2.md"]
 last_updated: 2026-04-13
 status: draft
 ---
