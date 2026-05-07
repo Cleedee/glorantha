@@ -75,4 +75,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-05-06] ingest | Processado "Journal of Runic Studies 2.md" — 11 páginas criadas: Journal of Runic Studies 2, Brithini, Império Lunar, Malkionismo, País Santo, Belintar, Cidade das Maravilhas, Monomito, Deusa Vermelha, Jar-Eel, Arkat Caosban. 1 página atualizada: Heroquesting (seções de interação divina e histórico). Index e log atualizados.
 
+## [2026-05-07] ingest | Processado "Journal of Runic Studies 3.md" — 6 páginas criadas: Journal of Runic Studies 3, Lunar Heartlands, Inkarne, Sete Mães, Sartar Homeland Boxed Set, Geografia de Glorantha, Grungnak Fearless. 4 páginas atualizadas: Argrath (Ormsword, Rune, Inkarne), Jonstown Compendium (novos títulos), Welcome to Boldhome (mapas), God Learners (fontes). Index e log atualizados.
+
 ---

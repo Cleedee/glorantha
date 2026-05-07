@@ -20,6 +20,11 @@ O cenário é ambientado em [[Hogar Audaz|Boldhome]], a capital do reino de [[Sa
 - **Formato:** Três partes
 - **Arte de capa:** Ossi Hiekkala
 
+### Novos Mapas de Boldhome
+- **Cartografia:** Matt Ryan (para Sartar Homeland Boxed Set).
+- **Fotos:** Jeff Richard © 2021 Chaosium Inc.
+- Visualizações mais próximas reveladas no Journal of Runic Studies #3.
+
 ## Disponibilidade
 O PDF será incluído gratuitamente na compra de *Lands of RuneQuest: Sartar* em:
 - Chaosium.com

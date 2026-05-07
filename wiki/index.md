@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-06
+last_updated: 2026-05-07
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -31,6 +31,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Dorasta]] | Deusa da terra de Dorastor; filha de Genert e Pelora | `deusa` `terra` | draft |
 | [[Arkat, o Destruidor]] | Devastou Dorastor e causou mal à deusa Dorasta | `destruidor` `Caos` | draft |
 | [[Arkat Caosban]] | Pioneiro do heroquesting transcultural; múltiplas iniciações secretas | `herói` `heroquesting` `transcultural` | draft |
+| [[Inkarne]] | Atual Feathered Horse Queen; relacionamento com Argrath White Bull | `rainha` `sartar` `lunar` | draft |
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
 | [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
 | [[Belintar]] | Deus-Rei do País Santo (1318+); Cidade das Maravilhas; pouco expansionista | `deus-rei` `país santo` `1318` | draft |
@@ -65,6 +66,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Dorastor]] | Terra maldita do Caos; nome vem de Dorasta; devastada por Arkat; Rei Ralzakark | `terra maldita` `Caos` `Dorasta` | draft |
 | [[País Santo]] | Região de Kethaela; governo de Belintar (1318+); Cidade das Maravilhas | `região` `kethaela` `belintar` | draft |
 | [[Cidade das Maravilhas]] | Capital do País Santo; deuses/mortais conviviam; portões para Outro Mundo | `cidade` `deuses` `outro mundo` | draft |
+| [[Lunar Heartlands]] | 5,4M pessoas; 80% camponeses; cidades refoundadas no "séc.XIX/XX" | `terras centrais` `camponeses` `dara happa` | draft |
 | [[Dundealosford]] | Cidade da Tribo dos Dundealos; cenário do Capítulo 1 de Valley of Plenty | `cidade` `Dundealos` | draft |
 | [[Hogar Audaz]] | Capital de Sartar; detalhada no futuro Lands of RuneQuest | `capital` `Sartar` | draft |
 | [[Talastar]] | Região vizinha de Dorastor; cenário de RuneQuest Warlords | `região` `Warlords` | draft |
@@ -108,6 +110,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Armor Points]] | Sistema de proteção; armaduras; escudos; redução de dano | `RuneQuest` `combate` `defesa` | draft |
 | [[Heroquesting]] | Exploração do inconsciente coletivo; reino da mitologia; arquétipos; descoberto por Arkat Caosban | `RuneQuest` `heroquest` `mitologia` | draft |
 | [[Monomito]] | Visão filosófica malkioni; traduz particularidades em universalidades; God Learners | `filosofia` `malkioni` `God Learners` | draft |
+| [[Sete Mães]] | Culto lunar central; 100% membros leigos, 25% iniciados entre camponeses | `lunar` `culto` `camponeses` | draft |
+| [[Geografia de Glorantha]] | Mundo plano, quadrado, 8000 km lado; Lua Vermelha ~35 km diâmetro | `geografia` `plano` `lua vermelha` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
 | [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; comparado ao Império Romano; Jar-Eel | `lunar` `império` `população` | draft |
 
@@ -151,6 +155,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
 | [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
 | [[Journal of Runic Studies 2]] | 2ª edição do periódico malkioni; insights de Jeff Richard; Lore de Glorantha | `periódico` `malkioni` `Jeff Richard` | draft |
+| [[Journal of Runic Studies 3]] | 3ª edição; Sartar Homeland Boxed Set; Império Lunar moderno; Glorantha plana | `periódico` `sartar` `lunar` `geografia` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
@@ -162,6 +167,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Horned God]] | Vol remanescente; Deus Chifrudo/espírito | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
+| [[Sartar Homeland Boxed Set]] | Próximo lançamento; arte Ossi Hiekkala/Anna Orlova; mapas Boldhome | `boxed set` `sartar` `arte` | draft |
 | [[Prax]] | Região de nômades; sourcebook futuro; manuscrito voltou da edição | `região` `nômades` | draft |
 | [[Heortland & Hendrikland]] | Sourcebook por Harald Smith; manuscrito aceito 2022 | `sourcebook` `região` | draft |
 | [[The Dragon's Eye]] | Aventura RQ anunciada Ago 2020 | `aventura` | draft |
@@ -211,6 +217,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; strike ranks, battle magic, rune magic; lista completa de suplementos; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
+| [[Grungnak Fearless]] | Vol 2 Monster of the Month; Mestre das Runas de Zorak Zoran | `monster` `zorak zoran` `jonstown` | draft |
 | [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |
 | [[Marsh Attacks]] | Sourcebook 120p (2026); David Hall; Upland Marsh; durulz; Lismelder/Greydog; Blackthorn | `sourcebook` `Jonstown` | draft |
 | [[Stafford House Campaign]] | Arquivos de Greg Stafford 1978-1981; 84p; Berkeley | `sourcebook` `Chaosium` `arquivo` | draft |

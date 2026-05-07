@@ -20,6 +20,12 @@ Argrath é o herói que libertou Pavis do controle do [[Império Lunar]]. Sua ex
 ### Nas Hero Wars
 Segundo a campanha *As the Appearance of Horses*, os aventureiros ajudam a "moldar o destino do Libertador que trará o fim da Terceira Era" — referindo-se a Argrath.
 
+### Argrath White Bull
+- Conhecido como "Argrath White Bull".
+- Porta sua famosa **Ormsword** (espada).
+- Runa de **Stafford/Sartar** em seu ombro (visível em arte de Anna Orlova).
+- Futuro relacionamento amoroso com **Inkarne** (atual Feathered Horse Queen), conforme arte prévia do Sartar Homeland Boxed Set.
+
 ## Referências Cruzadas
 - [[Pavis]]
 - [[Império Lunar]]

@@ -30,6 +30,10 @@ O **Jonstown Compendium** é a plataforma de material criado por fãs para [[Run
 | [[Dara Happan Primer]] | Criação de personagens de terra solar, 4 cultos adicionais | 26 | $2 |
 | [[Marsh Attacks]] | Upland Marsh; tribo Lismelder; clã Greydog; templo Humakti | 120 | $15.95 |
 | [[Eyes' Rise]] | Vilarejo no Rio dos berços; 19 NPCs; Rio Folk | — | — |
+| [[LEGION Games Mega-Bundle]] | Pacote com todos os títulos: LEGION, Rubble Redux, QAD series | — | Bundle |
+| [[Grungnak Fearless]] | Mestre das Runas de Zorak Zoran; itens mágicos, PNJs | — | $— |
+| [[Cups of Clearwine]] | Bairro típico de Clearwine; PNJs diversos, ganchos de aventura | — | $— |
+| [[Holiday Dorastor: Spider Woods]] | Floresta de aranhas; PNJs aracnídeos, monstros, cenários | — | $— |
 
 ## Referências Cruzadas
 - [[RuneQuest]]
