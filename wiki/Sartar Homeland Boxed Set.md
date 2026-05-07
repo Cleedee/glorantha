@@ -28,6 +28,18 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 - **Fotos:** Jeff Richard.
 - Visualizações mais próximas de Boldhome reveladas.
 
+### Clãs Detalhados
+- **Ernaldori**: Clã grande e rico.
+- **Varmandi**: Muito mais modesto, mas guerreiro.
+- **Hiording**: Escrita incompleta (pode não entrar no texto final); mapa por Matt Ryan.
+
+### Dados Demográficos
+- ~14 adultos por agregado (household), ~20 pessoas total em média.
+- Boldhome: 15-40 pessoas por edifício residencial.
+- 70 agregados em Clearwine Fort.
+- Maioridade em ~13 anos (Bronze Age verossímil).
+- Taxa atual: ~70% adultos, 30% crianças (anteriormente ~55% adultos, 45% crianças).
+
 ### Cronograma de Produção
 - Após *Weapons & Equipment Guide* (em layout) e *Cults of Glorantha* (gigante).
 - Antes do *Gamemaster's Guide* (início de 2022).

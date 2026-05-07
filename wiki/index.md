@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-07
+last_updated: 2026-05-08
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -67,6 +67,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[País Santo]] | Região de Kethaela; governo de Belintar (1318+); Cidade das Maravilhas | `região` `kethaela` `belintar` | draft |
 | [[Cidade das Maravilhas]] | Capital do País Santo; deuses/mortais conviviam; portões para Outro Mundo | `cidade` `deuses` `outro mundo` | draft |
 | [[Lunar Heartlands]] | 5,4M pessoas; 80% camponeses; cidades refoundadas no "séc.XIX/XX" | `terras centrais` `camponeses` `dara happa` | draft |
+| [[Copper Town]] | 2000 pessoas; minas cobre Barastaros; Asrelia padroeira mineração | `cobre` `mineração` `asrelia` | draft |
+| [[Clã Ernaldori]] | Clã grande e rico Sartar; ~14 adultos/agregado; Boxed Set | `sartar` `clã` `grande` `rico` | draft |
+| [[Clã Varmandi]] | Clã modesto e guerreiro Sartar; dados demográficos Boxed Set | `sartar` `clã` `guerreiro` `modesto` | draft |
+| [[Clã Hiording]] | Clã incompleto para Boxed Set; mapa Matt Ryan | `sartar` `clã` `incompleto` | draft |
 | [[Dundealosford]] | Cidade da Tribo dos Dundealos; cenário do Capítulo 1 de Valley of Plenty | `cidade` `Dundealos` | draft |
 | [[Hogar Audaz]] | Capital de Sartar; detalhada no futuro Lands of RuneQuest | `capital` `Sartar` | draft |
 | [[Talastar]] | Região vizinha de Dorastor; cenário de RuneQuest Warlords | `região` `Warlords` | draft |
@@ -112,6 +116,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Monomito]] | Visão filosófica malkioni; traduz particularidades em universalidades; God Learners | `filosofia` `malkioni` `God Learners` | draft |
 | [[Sete Mães]] | Culto lunar central; 100% membros leigos, 25% iniciados entre camponeses | `lunar` `culto` `camponeses` | draft |
 | [[Geografia de Glorantha]] | Mundo plano, quadrado, 8000 km lado; Lua Vermelha ~35 km diâmetro | `geografia` `plano` `lua vermelha` | draft |
+| [[Jolly Fat Man]] | Filho de Ernalda; figura Baco/Sileno no País Santo; festivais | `ernalda` `país santo` `baco` | draft |
+| [[Two Hour Town]] | Competição atlética Sartar; corrida 20km em armadura bronze | `sartar` `esportes` `orlanth` `ernalda` | draft |
+| [[Beastlords]] | Cabala feiticeiros metamorfose; artigo D-Infinity | `feitiçaria` `metamorfose` `animais` | draft |
+| [[Guilda Trabalhadores em Bronze]] | Guilda Boldhome; culto Gustbran; exemplo guildas Sartar | `boldhome` `guilda` `gustbran` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
 | [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; comparado ao Império Romano; Jar-Eel | `lunar` `império` `população` | draft |
 
@@ -156,6 +164,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
 | [[Journal of Runic Studies 2]] | 2ª edição do periódico malkioni; insights de Jeff Richard; Lore de Glorantha | `periódico` `malkioni` `Jeff Richard` | draft |
 | [[Journal of Runic Studies 3]] | 3ª edição; Sartar Homeland Boxed Set; Império Lunar moderno; Glorantha plana | `periódico` `sartar` `lunar` `geografia` | draft |
+| [[Journal of Runic Studies 4]] | 4ª edição; Torre God Learners; clãs Sartar; demografia; esportes | `periódico` `sartar` `demografia` `esportes` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
@@ -168,6 +177,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
 | [[Sartar Homeland Boxed Set]] | Próximo lançamento; arte Ossi Hiekkala/Anna Orlova; mapas Boldhome | `boxed set` `sartar` `arte` | draft |
+| [[Sartar Homeland Boxed Set]] | Clãs Ernaldori, Varmandi, Hiording; demografia: ~14 adultos/agregado | `clãs` `demografia` `boldhome` | draft |
 | [[Prax]] | Região de nômades; sourcebook futuro; manuscrito voltou da edição | `região` `nômades` | draft |
 | [[Heortland & Hendrikland]] | Sourcebook por Harald Smith; manuscrito aceito 2022 | `sourcebook` `região` | draft |
 | [[The Dragon's Eye]] | Aventura RQ anunciada Ago 2020 | `aventura` | draft |
@@ -218,6 +228,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; strike ranks, battle magic, rune magic; lista completa de suplementos; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
 | [[Grungnak Fearless]] | Vol 2 Monster of the Month; Mestre das Runas de Zorak Zoran | `monster` `zorak zoran` `jonstown` | draft |
+| [[Torre dos God Learners]] | Nova morada; escola malkioni 2ª Era → bandidos → biblioteca Lhankor Mhy | `torre` `malkioni` `biblioteca` | draft |
+| [[Campanha White Bull]] | Campanha casa Chaosium retornando ao YouTube após heroquest Kallyr | `white bull` `youtube` `kallyr` | draft |
+| [[Alakoring's Legacy]] | Questionário clãs pai/filho Jones; para QuestWorlds | `jonstown` `clãs` `questionário` | draft |
+| [[Argentus]] | Última Máscara Imperador Vermelho; afastou dragão de Glamour | `máscara` `glamour` `dragão` | draft |
 | [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |
 | [[Marsh Attacks]] | Sourcebook 120p (2026); David Hall; Upland Marsh; durulz; Lismelder/Greydog; Blackthorn | `sourcebook` `Jonstown` | draft |
 | [[Stafford House Campaign]] | Arquivos de Greg Stafford 1978-1981; 84p; Berkeley | `sourcebook` `Chaosium` `arquivo` | draft |

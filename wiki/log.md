@@ -77,4 +77,6 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-05-07] ingest | Processado "Journal of Runic Studies 3.md" — 6 páginas criadas: Journal of Runic Studies 3, Lunar Heartlands, Inkarne, Sete Mães, Sartar Homeland Boxed Set, Geografia de Glorantha, Grungnak Fearless. 4 páginas atualizadas: Argrath (Ormsword, Rune, Inkarne), Jonstown Compendium (novos títulos), Welcome to Boldhome (mapas), God Learners (fontes). Index e log atualizados.
 
+## [2026-05-08] ingest | Processado "Journal of Runic Studies 4.md" — 11 páginas criadas: Journal of Runic Studies 4, Torre dos God Learners, Campanha White Bull, Alakoring's Legacy, Argentus, Clã Ernaldori, Clã Varmandi, Clã Hiording, Jolly Fat Man, Copper Town, Two Hour Town, Beastlords, Guilda Trabalhadores em Bronze. 3 páginas atualizadas: God Learners (torre, taxonomia), Sartar Homeland Boxed Set (clãs, demografia), País Santo e Lunar Heartlands (cultura bebida). Index e log atualizados.
+
 ---
