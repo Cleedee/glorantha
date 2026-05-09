@@ -155,9 +155,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest Warlords]] | Videojogo de estratégia da Slitherine; Hahlgrim vs Caos em Dorastor e Talastar | `videojogo` `Slitherine` | draft |
 | [[Rune Marked Miniatures]] | Miniaturas oficiais de plástico para RuneQuest; crowdfunding maio 2026 | `miniaturas` `crowdfunding` | draft |
 | [[King of Dragon Pass]] | Jogo de computador (1999); A Sharp; Robin Laws; fracasso comercial (8k cópias); sucesso cult pós-iOS 2011 | `videojogo` `computador` `1999` `A Sharp` | draft |
-| [[Six Ages]] | Série de jogos A Sharp; Ride Like the Wind (2018-19) + Lights Going Out | `videojogo` `computador` `série` `A Sharp` | draft |
+| [[Six Ages]] | Série de jogos A Sharp; Ride Like the Wind (2018-19) + Lights Going Out (2023, Kitfox Games) | `videojogo` `computador` `série` `A Sharp` | draft |
+| [[Six Ages 2 Lights Going Out]] | Sequência de Six Ages; 2023; A Sharp + Kitfox Games; tema apocalíptico; aclamação universal | `videojogo` `computador` `A Sharp` `Kitfox` | draft |
 | [[Six Ages - Ride Like the Wind]] | Sequência de KoDP; iOS 2018/PC 2019; 468k palavras; 87/100 Metacritic; A Sharp | `videojogo` `computador` `A Sharp` `Robin Laws` | draft |
-| [[A Sharp]] | Desenvolvedora de KoDP e Six Ages; Tacoma, WA; David Dunham e Robin Laws | `desenvolvedora` `Tacoma` `David Dunham` | draft |
+| [[A Sharp]] | Desenvolvedora de KoDP e Six Ages (1 & 2); Tacoma, WA; David Dunham e Robin Laws | `desenvolvedora` `Tacoma` `David Dunham` `Kitfox` | draft |
 | [[Hillfolk]] | RPG com DramaSystem; crowdfunding $93k; Diana Jones 2014 | `RPG` `DramaSystem` | draft |
 | [[Feng Shui]] | RPG de ação/artes marciais de Robin Laws; Daedalus/Atlas Games | `RPG` `ação` | draft |
 | [[Ken and Robin Talk About Stuff]] | Podcast de Ken Hite e Robin Laws; RPG, história, ocultismo | `podcast` `Robin Laws` | draft |

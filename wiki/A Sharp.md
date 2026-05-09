@@ -2,7 +2,7 @@
 title: "A Sharp"
 category: "Conceito"
 tags: [desenvolvedora, videojogo, King of Dragon Pass, Six Ages, Tacoma, David Dunham]
-sources: ["raw/clippings/Six Ages Ride Like the Wind.md"]
+sources: ["raw/clippings/Six Ages Ride Like the Wind.md", "raw/clippings/Six Ages 2 Lights Going Out.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -28,6 +28,11 @@ status: draft
 - iOS: 28 jun 2018; Windows: 17 out 2019.
 - 468.000+ palavras de texto.
 
+#### Six Ages 2: Lights Going Out (2023)
+- Lançamento: 21 de agosto de 2023 (macOS, Windows, iOS).
+- Publicado por **Kitfox Games**.
+- Tema apocalíptico: forças do Caos matam os deuses.
+
 ### Leads
 - **David Dunham** — co-criador, programador
 - **Robin D. Laws** — escritor principal, designer
@@ -35,12 +40,14 @@ status: draft
 ## Referências Cruzadas
 - [[King of Dragon Pass]]
 - [[Six Ages - Ride Like the Wind]]
+- [[Six Ages 2 Lights Going Out]]
 - [[Six Ages]]
 - [[Robin D. Laws]]
 - [[David Dunham]]
 
 ## Referências
 - Fonte: [Six Ages: Ride Like the Wind — Wikipedia](raw/clippings/Six Ages Ride Like the Wind.md)
+- Fonte: [Six Ages 2: Lights Going Out — Wikipedia](raw/clippings/Six Ages 2 Lights Going Out.md)
 - [Site oficial da A Sharp](https://a-sharp.com/)
 
 ## Questões em Aberto
