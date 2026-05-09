@@ -1,38 +1,68 @@
 ---
 title: "Six Ages: Ride Like the Wind"
 category: "Fonte"
-tags: [videojogo, computador, Glorantha, Six Ages, Orlanthi, pré-história]
-sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
-last_updated: 2026-04-14
+tags: [videojogo, computador, Glorantha, Six Ages, Orlanthi, pré-história, A Sharp, Robin Laws, David Dunham]
+sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md", "raw/clippings/Six Ages Ride Like the Wind.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
 # Six Ages: Ride Like the Wind
 
 ## Resumo
-**Six Ages: Ride Like the Wind** é um jogo de computador ambientado em [[Glorantha]], sucessor de **[[King of Dragon Pass]]**. Desenvolvido por **A Sharp**, com escrita de [[Robin D. Laws]]. Focado nos **Orlanthi** da pré-história de Glorantha.
+**Six Ages: Ride Like the Wind** é um jogo de estratégia/simulação/fantasia desenvolvido pela **A Sharp**, sequência de **[[King of Dragon Pass]]** (1999). Lançado para iOS em 28 de junho de 2018 e para Windows em 17 de outubro de 2019. Ambientado em [[Glorantha]] durante o período mítico em que divindades ainda caminhavam entre os mortais, o jogador controla o destino de um clã semi-nômade. Recebeu 87/100 no Metacritic e foi aclamado pela crítica.
 
 ## Conteúdo
 
-### Descrição
-- Sucessor espiritual de King of Dragon Pass
-- Focado na cultura Orlanthi pré-histórica
-- Escrita por Robin D. Laws
+### Jogabilidade
+Segue o mesmo formato de *King of Dragon Pass*, combinando:
+- **Ficção interativa**
+- **RPG**
+- **Estratégia baseada em turnos**
 
-### Relação com King of Dragon Pass
-- Mesmo universo de Glorantha
-- Mesmo tipo de jogabilidade (gestão de clã + eventos narrativos)
-- Escritor principal: Robin D. Laws
+O jogador controla o **conselho do clã** (clan ring) de sete membros, que lidera o clã em todos os aspectos: comércio, guerra, agricultura e diplomacia. Duas decisões macro por estação (5 estações no ano gloranthano). Centenas de eventos aleatórios, desde disputas legais mundanas a incursões espirituais ou demoníacas. As decisões anteriores influenciam eventos futuros. Em batalha, o jogador determina objetivos, preparações e, em momentos cruciais, as ações dos nobres.
+
+Diferentemente de *King of Dragon Pass*, este jogo **abandona o conflito guerreiro-agricultor** do título anterior, introduzindo em vez disso a **política familiar** entre os diferentes conselheiros do clã.
+
+### Desenvolvimento
+- **Desenvolvedora:** [[A Sharp]] (Tacoma, Washington)
+- **Leads:** David Dunham e [[Robin D. Laws]]
+- **Tempo de desenvolvimento:** 4 anos
+- **Texto:** Mais de 468.000 palavras; jogadores encontram ~25% em uma única partida
+- **Anúncio:** 2014
+- **Motivação:** O relançamento de *King of Dragon Pass* para iOS em 2011 foi um sucesso surpresa (vendendo muito mais que as 8.000 cópias originais), gerando interesse numa sequência.
+
+### Recepção
+- **Metacritic:** 87/100 ("generally favorable reviews")
+- **PCMag:** Editor's Choice — "experiência única", "história rica, arte adorável, mundo assombroso"
+- **Rock Paper Shotgun:** Bestest Bests — "melhora King of Dragon Pass em todos os aspectos"
+- **PC Gamer:** 88% — "não há experiência como Six Ages"
+- Comparado a *Crusader Kings 2* com mais eventos estranhos e sem mapa de estratégia em tempo real
+
+### Prêmios
+- 18º melhor jogo de estratégia no PC (Rock Paper Shotgun)
+- 38º melhor RPG no PC (Rock Paper Shotgun)
+- Um dos jogos com maior nota da década (PC Gamer)
+- Melhor jogo para iPad de 2022 (PCMag)
+
+### Sequência
+- Seguido por **[[Six Ages 2: Lights Going Out]]**
 
 ## Referências Cruzadas
 - [[King of Dragon Pass]]
-- [[Glorantha]]
+- [[Six Ages]]
+- [[Six Ages 2: Lights Going Out]]
+- [[A Sharp]]
 - [[Robin D. Laws]]
+- [[David Dunham]]
 - [[Orlanthi]]
 
 ## Referências
 - Fonte: [Six Ages Ride like the Wind — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)
+- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](raw/clippings/Six Ages Ride Like the Wind.md)
+- [Site oficial](https://sixages.com/)
 
 ## Questões em Aberto
 - [ ] Six Ages: Ride Like the Wind está disponível em português?
-- [ ] Há outros volumes de Six Ages além de Ride Like the Wind?
+- [ ] Quantas cópias vendeu até o momento?
+- [ ] Há planos de lançamento para consoles?

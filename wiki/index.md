@@ -154,8 +154,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |
 | [[RuneQuest Warlords]] | Videojogo de estratégia da Slitherine; Hahlgrim vs Caos em Dorastor e Talastar | `videojogo` `Slitherine` | draft |
 | [[Rune Marked Miniatures]] | Miniaturas oficiais de plástico para RuneQuest; crowdfunding maio 2026 | `miniaturas` `crowdfunding` | draft |
-| [[King of Dragon Pass]] | Jogo de computador de Glorantha; escrita de Robin D. Laws | `videojogo` `computador` | draft |
-| [[Six Ages - Ride Like the Wind]] | Sucessor de King of Dragon Pass; Orlanthi pré-históricos; Robin Laws | `videojogo` `computador` | draft |
+| [[King of Dragon Pass]] | Jogo de computador (1999); A Sharp; Robin Laws; fracasso comercial (8k cópias); sucesso cult pós-iOS 2011 | `videojogo` `computador` `1999` `A Sharp` | draft |
+| [[Six Ages]] | Série de jogos A Sharp; Ride Like the Wind (2018-19) + Lights Going Out | `videojogo` `computador` `série` `A Sharp` | draft |
+| [[Six Ages - Ride Like the Wind]] | Sequência de KoDP; iOS 2018/PC 2019; 468k palavras; 87/100 Metacritic; A Sharp | `videojogo` `computador` `A Sharp` `Robin Laws` | draft |
+| [[A Sharp]] | Desenvolvedora de KoDP e Six Ages; Tacoma, WA; David Dunham e Robin Laws | `desenvolvedora` `Tacoma` `David Dunham` | draft |
 | [[Hillfolk]] | RPG com DramaSystem; crowdfunding $93k; Diana Jones 2014 | `RPG` `DramaSystem` | draft |
 | [[Feng Shui]] | RPG de ação/artes marciais de Robin Laws; Daedalus/Atlas Games | `RPG` `ação` | draft |
 | [[Ken and Robin Talk About Stuff]] | Podcast de Ken Hite e Robin Laws; RPG, história, ocultismo | `podcast` `Robin Laws` | draft |
