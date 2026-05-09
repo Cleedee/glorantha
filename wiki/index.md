@@ -16,7 +16,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
 | [[Humakt]] | Deus da guerra e da morte; culto aceita trolls | `deus` `guerra` `morte` | draft |
-| [[Kallyr Testa-Estrelada]] | Líder da Rebelião de Starbrow em Sartar | `Kallyr` `rebelião` `Sartar` | draft |
+| [[Kallyr Testa-Estrelada]] | Rex tribal de Sartar, líder da Rebelião de Starbrow, esposa de Ernaldesta a Vigorosa | `Kallyr` `rebelião` `Sartar` `rex` `Orlanth` | draft |
+| [[Leika Blacksper]] | Rex tribal dos Colymar, manifestação de Orlanth Rex, casada com Ereneva Chan | `sartar` `rex` `rainha` `colymar` | draft |
 | [[Ian Cooper]] | Designer liderando HeroQuest → QuestWorlds; visa sistema agnóstico | `designer` `QuestWorlds` | draft |
 | [[Robin D. Laws]] | Designer de Hero Wars, criador do GUMSHOE, Feng Shui, Hillfolk, nasc. 1964 | `designer` `Hero Wars` `GUMSHOE` | draft |
 | [[Greg Stafford]] | Criador de Glorantha e da Chaosium; campanha Colymar; romance póstumo | `criador` `Chaosium` | draft |
@@ -30,7 +31,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Ralzakark]] | Rei dos Broos e Senhor de Dorastor; Tratado de 1580 com Império Lunar | `Broo` `Dorastor` | draft |
 | [[Dorasta]] | Deusa da terra de Dorastor; filha de Genert e Pelora | `deusa` `terra` | draft |
 | [[Arkat, o Destruidor]] | Devastou Dorastor e causou mal à deusa Dorasta | `destruidor` `Caos` | draft |
-| [[Arkat Caosban]] | Pioneiro do heroquesting transcultural; múltiplas iniciações secretas | `herói` `heroquesting` `transcultural` | draft |
+| [[Arkat Caosban]] | Pioneiro do heroquesting transcultural; Queda de Arkat; reencarnado como Argrath; Culto de Arkat Kingtroll | `herói` `heroquesting` `transcultural` `Queda` `Gbaji` | draft |
 | [[Inkarne]] | Atual Feathered Horse Queen; relacionamento com Argrath White Bull | `rainha` `sartar` `lunar` | draft |
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
 | [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
@@ -40,7 +41,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
 | [[Orlanth]] | Rei dos deuses Orlanthi; marido de Ernalda | `deus` `rei` `Orlanthi` | draft |
 | [[Ernalda]] | Rainha dos deuses Orlanthi; esposa de Orlanth; terra e fertilidade | `deusa` `rainha` `Orlanthi` | draft |
-| [[Elmal]] | Deus da caça e proteção; feriado na Estação do Fogo | `deus` `caça` `proteção` | draft |
+| [[Elmal]] | Deus solar menor; culto do Pequeno Sol; história de Elmal vs Yelmalio resolvida por Monrogh | `deus` `caça` `proteção` `solar` `Yelmalio` | draft |
 | [[Redalda]] | Deusa da cultura equina; também Redaylda; Estação do Fogo | `deusa` `cavalos` | draft |
 | [[Tribo dos Dundealos]] | Tribo Orlanthi de Sartar; cultura baseada em cavalos; Matadores de Jaldon | `tribo` `Orlanthi` `cavalos` | draft |
 | [[Losoric]] | Xamã de Dundealosford; mentora de Derikos | `xamã` `Dundealosford` | draft |
@@ -121,7 +122,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Beastlords]] | Cabala feiticeiros metamorfose; artigo D-Infinity | `feitiçaria` `metamorfose` `animais` | draft |
 | [[Guilda Trabalhadores em Bronze]] | Guilda Boldhome; culto Gustbran; exemplo guildas Sartar | `boldhome` `guilda` `gustbran` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
-| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; comparado ao Império Romano; Jar-Eel | `lunar` `império` `população` | draft |
+| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; conquista de Dara Happa; relação complexa Yelm-Lua | `lunar` `império` `população` `Dara Happa` | draft |
 
 ---
 
@@ -161,10 +162,11 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Alarums & Excursions]] | Zine que conectou Robin Laws, Rob Heinsoo, Jonathan Tweet | `zine` `RPG` | draft |
 | [[Secrets of Dorastor]] | Guia de Dorastor por Simon Phipp; baseado em campanha dos anos 80 | `suplemento` `Dorastor` | draft |
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
-| [[God Learners]] | Podcast; entrevistou Simon Phipp sobre Dorastor (Ep. 35) | `podcast` `Dorastor` | draft |
+| [[God Learners]] | Podcast + periódico JRS; estudo de feitiçaria, Monomito e legado dos God Learners históricos | `podcast` `Dorastor` `feitiçaria` `monomito` | draft |
 | [[Journal of Runic Studies 2]] | 2ª edição do periódico malkioni; insights de Jeff Richard; Lore de Glorantha | `periódico` `malkioni` `Jeff Richard` | draft |
 | [[Journal of Runic Studies 3]] | 3ª edição; Sartar Homeland Boxed Set; Império Lunar moderno; Glorantha plana | `periódico` `sartar` `lunar` `geografia` | draft |
 | [[Journal of Runic Studies 4]] | 4ª edição; Torre God Learners; clãs Sartar; demografia; esportes | `periódico` `sartar` `demografia` `esportes` | draft |
+| [[Journal of Runic Studies 5]] | 5ª edição; Elmal vs Yelmalio; feitiçaria God Learners; conquista Dara Happa; Queda de Arkat | `periódico` `elmal` `arkat` `lunar` `feitiçaria` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
@@ -177,15 +179,15 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
 | [[Sartar Homeland Boxed Set]] | Próximo lançamento; arte Ossi Hiekkala/Anna Orlova; mapas Boldhome | `boxed set` `sartar` `arte` | draft |
-| [[Sartar Homeland Boxed Set]] | Clãs Ernaldori, Varmandi, Hiording; demografia: ~14 adultos/agregado | `clãs` `demografia` `boldhome` | draft |
+| [[Sartar Homeland Boxed Set]] | Clãs, demografia, moda/aparência sartarita, org tribal, arte Leika e Sartar Faces | `clãs` `demografia` `boldhome` `moda` `tribal` | draft |
 | [[Prax]] | Região de nômades; sourcebook futuro; manuscrito voltou da edição | `região` `nômades` | draft |
 | [[Heortland & Hendrikland]] | Sourcebook por Harald Smith; manuscrito aceito 2022 | `sourcebook` `região` | draft |
-| [[The Dragon's Eye]] | Aventura RQ anunciada Ago 2020 | `aventura` | draft |
+| [[The Dragon's Eye]] | Coleção de locais de Dragon Pass por Jonathan Tweet; manuscrito finalizado Jul 2021 | `aventura` `Jonathan Tweet` `Dragon Pass` | draft |
 | [[Glorantha Cookbook]] | Receitas + guia de viagem; Yanioth e Sorala; 95% | `culinária` `viagem` | draft |
 | [[Elf Pack]] | Suplemento de elfos por Shannon Appelcline | `suplemento` `elfos` | draft |
 | [[Upland Marsh]] | Sourcebook; manuscrito completo; arte e edição | `sourcebook` `pântano` | draft |
 | [[The Dragonrise]] | Material offstage de Eleven Lights; QuestWorlds; Ian Cooper | `aventura` `QuestWorlds` | draft |
-| [[Fonrit]] | Sourcebook região; QuestWorlds; Ian Cooper | `região` `QuestWorlds` | draft |
+| [[Fonrit]] | Sourcebook região; comércio de açúcar na Baía de Koraru; QuestWorlds; Ian Cooper | `região` `QuestWorlds` `açúcar` `comércio` | draft |
 | [[QuestWorlds Worlds & Quests]] | Como criar pacotes de gênero; 3 exemplos; Ian Cooper | `suplemento` `QuestWorlds` | draft |
 | [[Gamemaster Sourcebook]] | Regras de heroquestes + batalhas em massa; 4º-5º na fila | `suplemento` `mestre` | draft |
 | [[Mongoose Publishing]] | Editora Mongoose; licença Glorantha 2006-2010; Laws + Whitaker | `editora` `Mongoose` | draft |
@@ -247,7 +249,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Durulz]] | Raça dos patos de Glorantha; Duck Point; Upland Marsh | `raça` `patos` | draft |
 | [[Duck Point]] | Assentamento de durulz; Conselho; trégua frágil com Delecti | `assentamento` `durulz` | draft |
 | [[Necromante Delecti]] | Necromante do Upland Marsh; hordas de mortos-vivos | `necromante` `mortos-vivos` | draft |
-| [[Argrath]] | O Libertador; expulsou Império Lunar de Pavis; fim da Terceira Era | `herói` `Libertador` `Pavis` | draft |
+| [[Argrath]] | O Libertador; expulsou Império Lunar de Pavis; reencarnação de Arkat; Argrath vs Gbaji | `herói` `Libertador` `Pavis` `Arkat` `reencarnação` | draft |
 | [[Whitewall]] | Último reduto Orlanthi; cerco de 1620 pelo Império Lunar | `cidade` `cerco` `1620` | draft |
 | [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
@@ -273,4 +275,4 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-05*
+*Última atualização: 2026-05-09*

@@ -1,25 +1,20 @@
 ---
-title: Kallyr Testa-Estrelada
-category: Entidade
-tags:
-  - Kallyr
-  - Starbrow
-  - rebelião
-  - Sartar
-  - HeroQuest
-  - líder
+title: "Kallyr Testa-Estrelada"
+category: "Entidade"
+tags: [Kallyr, Starbrow, rebelião, Sartar, HeroQuest, líder, rex, orlanth, Ernaldesta]
 sources:
   - raw/clippings/Drops Glorantha 4 - Trollball.md
-last_updated: 2026-04-13
+  - raw/clippings/Journal of Runic Studies 5.md
+last_updated: 2026-05-09
 status: draft
 aliases:
-  - Kallyr Starbrow
+  - "Kallyr Starbrow"
 ---
 
 # Kallyr Testa-Estrelada
 
 ## Resumo
-**Kallyr Testa-Estrelada** (Kallyr Starbrow) é uma figura importante de Glorantha, líder da **Rebelião de Starbrow** em Sartar. Sua rebelião é mencionada como parte das aventuras da campanha Colymar de Greg Stafford, publicadas na **Wyrms' Footnotes**.
+**Kallyr Testa-Estrelada** (Kallyr Starbrow) é uma importante figura de [[Sartar]], líder da **Rebelião de Starbrow**. Como manifestação local de **Orlanth Rex**, Kallyr é um Rex tribal — um rei — e, para fins cerimoniais, tem uma esposa: [[Ernaldesta a Vigorosa]].
 
 ## Conteúdo
 
@@ -32,18 +27,29 @@ A rebelião se insere no contexto mais amplo da luta dos clãs sartaritas contra
 ### O Teste da Coroa
 Os personagens da campanha Colymar realizaram um **Teste da Coroa** (Crown Test) na tentativa de conquistar o governo da tribo Colymar. Este teste é parte das aventuras que incluem a participação na Rebelião de Starbrow.
 
+### Kallyr como Rex
+- Kallyr é um **Rex tribal** (rei), manifestação local de Orlanth Rex.
+- Como Rex, tem uma **esposa cerimonial**: Ernaldesta a Vigorosa.
+- Relatos sugerem que Kallyr e Ernaldesta eram muito próximas, possivelmente um "casamento por amor".
+- Forma um par paralelo com [[Leika Blacksper]] e [[Ereneva Chan]] — duas parcerias rei-fêmea/sacerdotisa-da-Terra em Sartar.
+- Ereneva Chan (esposa de Leika) intensely despreza Kallyr, culpando Starbrow pela morte de seu pai, exílio de sua mãe, e loucura/traição de seu irmão.
+
 ## Referências Cruzadas
 - [[Rebelião de Starbrow]]
 - [[Sartar]]
 - [[Império Lunar]]
 - [[Wyrms' Footnotes]]
 - [[The Red Cow]]
+- [[Leika Blacksper]]
+- [[Orlanth]]
 
 ## Referências
 - Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
+- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
 - Wyrms' Footnotes nº 11 — Chaosium (1981)
+- Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto
 - [ ] Qual foi o destino de Kallyr Testa-Estrelada?
 - [ ] A Rebelião de Starbrow foi bem-sucedida?
-- [ ] Kallyr Testa-Estrelada aparece em outros materiais de Glorantha?
+- [ ] Ernaldesta a Vigorosa teve outros maridos?

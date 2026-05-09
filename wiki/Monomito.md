@@ -2,8 +2,8 @@
 title: "Monomito"
 category: "Conceito"
 tags: [mitologia, filosofia, deus invisível, god learners]
-sources: ["raw/clippings/Journal of Runic Studies 2.md"]
-last_updated: 2026-05-06
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -39,9 +39,11 @@ A cosmologia brithini reinterpreta a maioria dos grandes eventos do monomito com
 - [[Zzabur]]
 - [[Gbaji]]
 - [[Síntese Mítica]]
+- [[God Learners]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
+- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

@@ -1,16 +1,19 @@
 ---
 title: "Arkat Caosban"
 category: "Entidade"
-tags: [heroi, heroquesting, caos, transcultural]
-sources: ["raw/clippings/Journal of Runic Studies 2.md"]
-last_updated: 2026-05-06
+tags: [heroi, heroquesting, caos, transcultural, queda, arkati, halikiv, Gbaji]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md"]
+last_updated: 2026-05-09
 status: draft
+aliases:
+  - "Arkat"
+  - "Arkat Kingtroll"
 ---
 
 # Arkat Caosban
 
 ## Resumo
-Primeiro indivíduo a descobrir heroquesting fora de mitos de cultos específicos, usando iniciações secretas e visão transcultural do mundo mítico.
+Primeiro indivíduo a descobrir heroquesting fora de mitos de cultos específicos, usando iniciações secretas e visão transcultural do mundo mítico. Participou da Lightbringers' Quest de [[Harmast, o Descalço]] mas "recusou a Luz", mergulhando na Escuridão. Sua **Queda** — ao encontrar a si mesmo no Plano Heróico — é um dos eventos mais enigmáticos e importantes da mitologia de Glorantha.
 
 ## Conteúdo
 ### Descoberta do Heroquesting
@@ -22,20 +25,51 @@ Primeiro indivíduo a descobrir heroquesting fora de mitos de cultos específico
 - Visão transcultural incomum do mundo secreto do mito.
 - Professor e mentor de outros em heroquesting.
 
+### A Queda de Arkat
+Arkat encontrou a si mesmo no Plano Heróico, mas a confusão encobre a história:
+
+- Alguns dizem que **não reconheceu seu eu futuro** até ser tarde demais.
+- Outros dizem que **se recusou a dar o golpe fatal**, e assim recebeu sua ferida incurável.
+- Outros ainda afirmam que **deu o golpe fatal**, e assim recebeu a ferida.
+- O evento é chamado **Arkat's Fall** (A Queda de Arkat).
+- A ferida atormentou Arkat até seu último dia, embora curandeiros troll tenham proporcionado alívio temporário anos depois.
+
+### Arkat e os God Learners
+Os God Learners seguiram os caminhos revelados por Arkat para explorar o God Time. Após a aposentadoria de Arkat, seu culto tinha uma escola estritamente regulada de heroquesting exploratório — os God Learners destruíram tudo em meados de 700 e tomaram todos os segredos (menos a parte "estritamente regulada").
+
+### Arkat vs Gbaji
+> "Arkat v Gbaji está gravado no Tempo e talvez até antes da Guerra dos Deuses. É um dos mitos mais antigos de Glorantha. É mais antigo que Orlanth, os Lightbringers ou a Deusa Vermelha. Está lá em cima com Eurmal encontrando a Morte como parte dos ur-arquétipos de Glorantha."
+
+### Os Cultos de Arkat
+Após a destruição do culto original pelos God Learners, vários grupos reivindicaram ser sucessores:
+- Cada um com **seus próprios segredos e alegações de linhagem direta**.
+- Qualquer um pode estar certo, errado, ou ambos — a critério do mestre.
+- **Culto de Arkat Kingtroll em Halikiv**: o único que **pode** ter linhagem direta com o Deus.
+  - Fundado pelos **Wizard Children** (Crianças Feiticeiras).
+  - Não são humanos, mas **trolls escuros** (dark trolls) que vivem para sempre na Escuridão.
+  - **Não ensinam seus segredos a não-trolls.**
+
 ### Legado
 - Pioneiro no heroquesting independente de cultos específicos.
 - Suas descobertas permitiram que outros explorassem o reino divino sem restrições de culto único.
+- [[Argrath]] é uma **reencarnação de Arkat** — mais que mero background, uma "verdade criativa sobre a origem de ambos os personagens".
 
 ## Referências Cruzadas
 - [[Heroquesting]]
 - [[Caos]]
-- [[Iniciação Secreta]]
+- [[Argrath]]
+- [[Arkat, o Destruidor]]
+- [[God Learners]]
+- [[Gbaji]]
+- [[Harmast, o Descalço]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
+- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto
 - [ ] Detalhar as iniciações secretas de Arkat.
-- [ ] Confirmar se há relação direta com Arkat, o Destruidor (Dorastor).
-- [ ] Listar ensinamentos específicos que Arkat passou a outros.
+- [ ] Confirmar a relação exata entre Arkat Caosban e Arkat, o Destruidor.
+- [ ] Investigar o Culto de Arkat Kingtroll em Halikiv.
+- [ ] Qual é a natureza exata da ferida incurável de Arkat?
