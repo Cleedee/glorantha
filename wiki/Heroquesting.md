@@ -2,8 +2,8 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard]
-sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md"]
-last_updated: 2026-05-05
+sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md", "raw/clippings/Journal of Runic Studies 6.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -29,6 +29,14 @@ De acordo com Jeff Richard ( designer atual de Glorantha na Chaosium):
 
 ### Do Alvorecer às Guerras Heroicas
 O heroquesting evoluiu ao longo das eras, de práticas ritualísticas de cultos específicos até descobertas individuais transculturais como as de Arkat.
+
+### Pesquisa Jrustelana — Plano Divino Multi-Dimensional
+Documentos acadêmicos de [[Jrustela]] sobre heroquesting experimental distinguem **níveis de imersão**:
+
+- **Níveis 5+:** onde os mitos "puros e originais" são experienciados. O hiper-ângulo é maximizado e aproxima-se do limite de uma realidade de bolso — independente das demais, mas conectada em seu resultado ao presente Mundo Material. Trabalho de [[Jirtsyl]].
+- **Níveis 3 e abaixo:** foco dos pesquisadores que produziram o documento. Imersão mais rasa, mais próxima do mundo material.
+
+Este tipo de heroquesting experimental — reviver os mitos sem roteiro fixo — tem potencial para ser revivido.
 
 ### Características
 - Habilidades mundanas são largely irrelevantes — este é o reino das Runas e magia

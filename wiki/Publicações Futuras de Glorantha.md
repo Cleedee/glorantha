@@ -2,8 +2,8 @@
 title: "Publicações Futuras de Glorantha"
 category: "Fonte"
 tags: [roadmap, publicações, Chaosium, upcoming, pipeline]
-sources: ["raw/notas/Publicações Futuras.md"]
-last_updated: 2026-04-14
+sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 6.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -36,6 +36,17 @@ Lista compilada de **publicações futuras** de [[Glorantha]] pela Chaosium, com
 ### Gamemaster Sourcebook
 - **Status:** Bastante avançado, não em layout
 - Incluirá regras de heroquestes
+
+### Pipeline RuneQuest Homeland (Jason Durall, Jul 2021)
+Conforme atualização do editor de linha [[Jason Durall]]:
+
+- **[[Sartar Homeland Boxed Set]]:** Indo para layout logo após os livros Cults. Arte e cartografia quase prontas. Direção de arte: [[Jaye Kovach]].
+- **[[Esrolia Homeland]]:** Expansão de um livro anterior de Nochet. Em desenvolvimento.
+- **[[Heortland & Hendrikland]]:** Manuscrito próximo da conclusão.
+- **[[Grazelands]]:** Sendo trabalhado por [[Chris Klug]].
+- **[[Prax]]:** Em hiato, mas [[David Scott]] (especialista em Prax e xamanismo) deve assumir em breve. Diferente do projeto [[Pavis & Big Rubble]] (Robin Laws).
+- **Lunar Homeland / Old Tarsh Homeland:** Sem planos.
+- **[[Weapons & Equipment sourcebook]]** e **[[Gamemaster Guide]]:** Também em desenvolvimento, fora dos projetos Homeland.
 
 ### Outros (sem detalhes recentes, provavelmente distantes)
 - **Elder Races book** — 12 raças

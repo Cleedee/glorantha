@@ -2,7 +2,7 @@
 title: "Império Lunar"
 category: "Cultura"
 tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -35,6 +35,15 @@ A aristocracia de Yelm suspeitava do Imperador Vermelho como feiticeiro quando e
 - Deuses Celestiais foram ofuscados pela Luz Carmesim da Lua Vermelha.
 - Jeff Richard nota que poderiam ter apresentado Deuses Celestiais e Lunares como **um panteão celestial único**, agora liderado pela Deusa Vermelha (similar a Marduk suplantando Enlil).
 - **Mais provável: há tramas lunares por independência do domínio Dara Happano** do que o contrário.
+
+### O Paradoxo do Império Lunar
+Segundo [[Jeff Richard]], o paradoxo central do Império Lunar é: nos últimos 150 anos, o coração lunar tem sido o lugar mais civilizado e pacífico do losango, mas simultaneamente a [[Deusa Vermelha]] é a maior ameaça cósmica desde [[Nysalor]].
+
+> O Caminho Dela é ainda mais perigoso, pois muitos já começaram a experimentar com as potencialidades mais perigosas. Heroquesters lunares — mais notavelmente [[Jar-Eel]] — exploraram caminhos proibidos e saquearam o Outro Mundo tão impiedosamente quanto qualquer God Learner.
+
+Alguns filósofos sugerem que isto é [[Gbaji]] — não uma entidade, não um culto, mas **uma abordagem ao cosmos facilitada pela [[Iluminação]]**.
+
+> Como nas Guerras Gbaji, aqueles que se opõem à Deusa Vermelha adotarão seus próprios métodos para derrotá-la e mudarão o mundo no processo. Esta é a história mais antiga de Glorantha, e é a história das Guerras Heroicas.
 
 ### Estrutura de Poder em Dara Happa
 - Famílias Yelmite são subservientes à instituição de **Moonson** (competindo para ser a próxima Máscara) — assim como Yelm é subserviente à Deusa Vermelha.

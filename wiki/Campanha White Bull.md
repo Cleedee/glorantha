@@ -2,8 +2,8 @@
 title: "Campanha White Bull"
 category: "Evento"
 tags: [white bull, chaosium, youtube, kallyr, lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
-last_updated: 2026-05-07
+sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -17,6 +17,13 @@ Campanha da casa da Chaosium ("White Bull campaign") retornando ao YouTube após
 - Conhecida como "Chaosium house campaign" ou "White Bull campaign".
 - Jogadores retornaram recentemente de heroquest de Kallyr (Lightbringers Heroquest).
 - Retornando ao YouTube para continuação das aventuras.
+
+### Episódios Recentes (JRS #6)
+- **Enkala** viaja para "Troll Town" em [[Boldhome]] para tentar juntar-se ao culto de [[Arachne Solara]].
+- Sessão de "Between Adventures" — melhoria de personagem entre aventuras (primeira vez em vídeo).
+- O grupo segue para [[Clearwine Fort]], com paradas e desvios no caminho.
+- Política da corte dos [[Colymar]].
+- **Jeff Richard** interpreta [[Orlanth]] respondendo à pergunta: "qual dos seus aspectos é o mais divertido?"
 
 ### Contexto
 - Provavelmente relacionada a Argrath White Bull e eventos das Guerras Heroicas.

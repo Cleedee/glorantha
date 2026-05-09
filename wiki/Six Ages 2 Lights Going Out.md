@@ -10,7 +10,7 @@ status: draft
 # Six Ages 2: Lights Going Out
 
 ## Resumo
-**Six Ages 2: Lights Going Out** é um jogo de estratégia/RPG desenvolvido pela [[A Sharp]] e publicado pela **Kitfox Games**, sequência de **[[Six Ages: Ride Like the Wind]]**. Lançado em 21 de agosto de 2023 para macOS, Windows e iOS. Ambientado em [[Glorantha]] durante eventos apocalípticos, o jogador lidera uma tribo bárbara enquanto as forças do Caos matam os deuses e assaultam a própria realidade. Recebeu "aclamação universal" no Metacritic (versão iOS).
+**Six Ages 2: Lights Going Out** é um jogo de estratégia/RPG desenvolvido pela [[A Sharp]] e publicado pela **Kitfox Games**, sequência de **[[Six Ages: Ride Like the Wind]]**. Lançado em 21 de agosto de 2023 para macOS, Windows e iOS. Ambientado em [[Glorantha]] durante eventos apocalípticos, o jogador lidera uma tribo bárbara enquanto as forças do Caos matam os deuses e assautam a própria realidade. Recebeu "aclamação universal" no Metacritic (versão iOS).
 
 ## Conteúdo
 
@@ -18,7 +18,7 @@ status: draft
 - Liderança de um clã em [[Glorantha]] combinando estratégia e RPG.
 - Decisões sobre várias questões que afetam o clã, auxiliado pelos conselhos de um **conselho** (council).
 - Cenários apresentam múltiplas escolhas — por exemplo, interromper um ataque a uma tribo rival para combater um inimigo comum.
-- **Tema apocalíptico:** forças do Caos começam a matar os deuses e assaultar a própria realidade.
+- **Tema apocalíptico:** forças do Caos começam a matar os deuses e assautar a própria realidade.
 - Decisões do jogador devem proteger o clã durante estes eventos e dar aos seus descendentes uma chance de sobreviver.
 - Cenários selecionados **aleatoriamente** em cada sessão.
 - Membros do conselho também são aleatórios, cada um com suas próprias histórias.

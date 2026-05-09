@@ -2,8 +2,8 @@
 title: "País Santo"
 category: "Localização"
 tags: [kethaela, belintar, deus-rei, holy country]
-sources: ["raw/clippings/Journal of Runic Studies 2.md"]
-last_updated: 2026-05-06
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 6.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -32,10 +32,40 @@ Região de Kethaela governada por Belintar, o Deus-Rei a partir de 1318; conheci
 - Possibilidade de encontrar um Triton ou filho do Touro da Tempestade vindo de Stormwalk Mountain.
 - Portões secretos para o Outro Mundo.
 
+### O Torneio dos Mestres da Sorte e da Morte
+O [[Torneio dos Mestres da Sorte e da Morte]] é o concurso que definia quem seria a próxima encarnação de [[Belintar]]. Cada participante identifica-se com Belintar enquanto percorre as **estradas mágicas do Plano Heróico do País Santo** — o vencedor é, efetivamente, Belintar. Isto é menos uma reencarnação (como o Imperador Vermelho) e mais uma possessão alcançada através de identificação por heroquest.
+
+**O Torneio não é uma repetição robótica:** é uma reexperiência criativa dos feitos de Belintar, com a mesma falta de conhecimento, falta de roteiro e possibilidades criativas.
+
+**O País Santo é magicamente refeito** a cada Torneio: deuses e espíritos são novamente nomeados (talvez com títulos mais relevantes), alianças antigas são reforjadas e novas alianças são feitas. Cada vez que Belintar é invocado pelo vencedor, a magia do País Santo e sua proximidade com o reino divino são restauradas.
+
+Participantes notáveis do Torneio incluem [[Sartar]], [[Tarkalor]], [[Broyan de Whitewall]] — esta experiência mágica e experimental influenciou significativamente os Orlanthi de Sartar.
+
 ### Queda do País Santo
+- Belintar não retornou após os últimos Torneios, e o País Santo fragmentou-se.
+- Esrolia e God Forgot mantiveram sua forma; outros lugares como Heortland quebraram-se em partes menores.
 - Jar-Eel, a "Rainha-Bruxa de Sangue Venenoso", acusada de assassinar Belintar.
 - Lunares "se gabavam" do assassinato para facilitar conquistas imperiais.
 - Fim da proximidade divina do País Santo.
+
+### Invasão Lunar de 1619
+Após a Batalha do Muro em Construção (Building Wall Battle), os Lunares sabiam que o País Santo ainda tinha muito poder. Passaram uma década tramando para eliminar Belintar como espírito, e então lançaram uma invasão massiva:
+
+**Forças Lunares:**
+- Colégio de Campo de Magia
+- [[Crimson Bat]]
+- Mercenários Praxianos, Sartaritas, Sun Dome e Dragonewts
+- Tropas provinciais e do coração
+- [[Wolf Pirates]] (para o comboio de [[Corflu]] — não haviam navios lunares)
+
+**Estratégia:** Atacaram Heortland, o ponto fraco do pós-Belintar Kethaela (em vez de Esrolia, como em 1605), que estava dividido em dois.
+
+**Comandante:** [[Fazzur Wideread]], descrito como "o Grande Embaralhador" — sempre capaz de se reagrupar e corrigir seus erros com criatividade notável. Mesmo com todas essas forças, a invasão foi uma vitória por pouco até o fim.
+
+**Os Wolf Pirates:**
+- [[Harrek]] já odiava o Império Lunar, mas a oferta foi grande demais: saquear [[Karse]] e domínio da [[Baía de Mirrorsea]].
+- Fazzur decretou que Karse não seria saqueada (tinha objetivos próprios).
+- Os Wolf Pirates ficaram de mãos vazias. Após isso, Harrek rejeitou qualquer oferta Lunar, e prejudicar o Império tornou-se um tesouro tão valioso quanto ouro ou prata.
 
 ## Referências Cruzadas
 - [[Belintar]]
@@ -45,13 +75,21 @@ Região de Kethaela governada por Belintar, o Deus-Rei a partir de 1318; conheci
 - [[Kethaela]]
 - [[Maniria]]
 - [[Ralios]]
+- [[Torneio dos Mestres da Sorte e da Morte]]
+- [[Wolf Pirates]]
+- [[Fazzur Wideread]]
+- [[Broyan de Whitewall]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
+- Fonte: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
 - Jeff Richard no RuneQuest Facebook Group
 - Mapa de Greg Stafford para o País Santo
+- Mapa de Colin Driver © 2021 Chaosium Inc.
 
 ## Questões em Aberto
 - [ ] Detalhar os "portões secretos" do País Santo.
 - [ ] Confirmar data exata da queda do País Santo.
 - [ ] Listar todos os deuses que visitavam regularmente a Cidade das Maravilhas.
+- [ ] Detalhar a "Batalha do Muro em Construção" (Building Wall Battle).
+- [ ] Investigar a "convergência mítica" de Belintar com seus competidores.

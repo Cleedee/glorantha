@@ -2,7 +2,7 @@
 title: "Sartar Homeland Boxed Set"
 category: "Fonte"
 tags: [sartar, boxed set, arte, chaosium, moda, tribal, clãs, Leika]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md"]
+sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -27,7 +27,7 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 ### Capítulo de Moda e Aparência
 - Ilustração "Sartar Faces" por Anna Orlova mostra a diversidade de aparência e estilo sartarita.
 - Capítulo dedicado a **fashion, hairstyles, and tattoos** entre os sartaritas.
-- Direção de arte: Jaye Kovach.
+- Direção de arte: [[Jaye Kovach]] (entrevistada por James Coquillat sobre seu trabalho no Boxed Set, Jul 2021).
 
 ### Organização Tribal
 - Gráfico de organização tribal e de clãs, conforme notas de Jeff Richard.
@@ -57,6 +57,7 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 ### Cronograma de Produção
 - Após *Weapons & Equipment Guide* (em layout) e *Cults of Glorantha* (gigante).
 - Antes do *Gamemaster's Guide* (início de 2022).
+- Conforme Jason Durall (2021): indo para layout após os livros Cults. Arte e cartografia quase prontas.
 
 ## Referências Cruzadas
 - [[Sartar]]
@@ -69,6 +70,8 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 ## Referências
 - Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
 - Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
+- [Jaye Kovach Interview no YouTube](https://www.youtube.com/watch?v=0fxvPG7WYwg)
 - Arte © 2021 Chaosium Inc.
 
 ## Questões em Aberto

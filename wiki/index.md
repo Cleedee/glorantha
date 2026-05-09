@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-08
+last_updated: 2026-05-09
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -35,7 +35,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Inkarne]] | Atual Feathered Horse Queen; relacionamento com Argrath White Bull | `rainha` `sartar` `lunar` | draft |
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
 | [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
-| [[Belintar]] | Deus-Rei do País Santo (1318+); Cidade das Maravilhas; pouco expansionista | `deus-rei` `país santo` `1318` | draft |
+| [[Belintar]] | Deus-Rei do País Santo (1318+); Torneio dos Mestres; convergência mítica; não retornou | `deus-rei` `país santo` `1318` `Torneio` | draft |
 | [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça" pelos orlanthi | `deusa` `lunar` `orlanthi` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
 | [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
@@ -65,7 +65,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Big Rubble e Pavis]] | Ruínas e cidade estratégica; foco do futuro RQ Fantasy Roleplaying | `Pavis` `ruínas` `Império Lunar` | draft |
 | [[Puerta Rúnica]] | Pequena cidade assolada por plaga; aventura A Darkness at Runegate | `cidade` `plaga` | draft |
 | [[Dorastor]] | Terra maldita do Caos; nome vem de Dorasta; devastada por Arkat; Rei Ralzakark | `terra maldita` `Caos` `Dorasta` | draft |
-| [[País Santo]] | Região de Kethaela; governo de Belintar (1318+); Cidade das Maravilhas | `região` `kethaela` `belintar` | draft |
+| [[País Santo]] | Região de Kethaela; Belintar; Torneio; invasão lunar 1619; Fazzur; Wolf Pirates | `região` `kethaela` `belintar` `Torneio` `invasão` | draft |
 | [[Cidade das Maravilhas]] | Capital do País Santo; deuses/mortais conviviam; portões para Outro Mundo | `cidade` `deuses` `outro mundo` | draft |
 | [[Lunar Heartlands]] | 5,4M pessoas; 80% camponeses; cidades refoundadas no "séc.XIX/XX" | `terras centrais` `camponeses` `dara happa` | draft |
 | [[Copper Town]] | 2000 pessoas; minas cobre Barastaros; Asrelia padroeira mineração | `cobre` `mineração` `asrelia` | draft |
@@ -105,6 +105,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
+| [[Desafios Mágicos]] | Prática de provar verdade através de competições thaumaturgicas em Glorantha | `magia` `competição` `heroquesting` `verdade` | draft |
 | [[Trollball]] | Esporte praticado por trolls (Uz); regras no Trollpak | `troll` `esporte` `Uz` | draft |
 | [[QuestWorlds]] | Sistema derivado do HeroQuest; Chaosium 2025; agnóstico de cenário | `sistema` `SRD` `Chaosium` | draft |
 | [[13th Age in Glorantha]] | Sourcebook 466p; Heinsoo+Tweet; Runas substituem Icons; foco Dragon Pass | `sistema` `13th Age` `Dragon Pass` | draft |
@@ -113,7 +114,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Sample Combat]] | Exemplo prático: Vasana vs Broo; aplicação de Strike Ranks | `RuneQuest` `combate` `exemplo` | draft |
 | [[Hit Locations]] | Sistema de locais de impacto; 7 regiões; efeitos de dano; membros decepados | `RuneQuest` `combate` `hit points` | draft |
 | [[Armor Points]] | Sistema de proteção; armaduras; escudos; redução de dano | `RuneQuest` `combate` `defesa` | draft |
-| [[Heroquesting]] | Exploração do inconsciente coletivo; reino da mitologia; arquétipos; descoberto por Arkat Caosban | `RuneQuest` `heroquest` `mitologia` | draft |
+| [[Heroquesting]] | Exploração do inconsciente coletivo; níveis de imersão de Jirtsyl; Plano Divino Multi-Dimensional | `RuneQuest` `heroquest` `mitologia` `Jrustela` | draft |
 | [[Monomito]] | Visão filosófica malkioni; traduz particularidades em universalidades; God Learners | `filosofia` `malkioni` `God Learners` | draft |
 | [[Sete Mães]] | Culto lunar central; 100% membros leigos, 25% iniciados entre camponeses | `lunar` `culto` `camponeses` | draft |
 | [[Geografia de Glorantha]] | Mundo plano, quadrado, 8000 km lado; Lua Vermelha ~35 km diâmetro | `geografia` `plano` `lua vermelha` | draft |
@@ -122,7 +123,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Beastlords]] | Cabala feiticeiros metamorfose; artigo D-Infinity | `feitiçaria` `metamorfose` `animais` | draft |
 | [[Guilda Trabalhadores em Bronze]] | Guilda Boldhome; culto Gustbran; exemplo guildas Sartar | `boldhome` `guilda` `gustbran` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
-| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; conquista de Dara Happa; relação complexa Yelm-Lua | `lunar` `império` `população` `Dara Happa` | draft |
+| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; paradoxo: pacífico mas maior ameaça cósmica; Gbaji como abordagem | `lunar` `império` `população` `Dara Happa` `Gbaji` | draft |
 
 ---
 
@@ -166,10 +167,13 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Secrets of Dorastor]] | Guia de Dorastor por Simon Phipp; baseado em campanha dos anos 80 | `suplemento` `Dorastor` | draft |
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
 | [[God Learners]] | Podcast + periódico JRS; estudo de feitiçaria, Monomito e legado dos God Learners históricos | `podcast` `Dorastor` `feitiçaria` `monomito` | draft |
+| [[Desafios Mágicos]] | Prática de provar verdade através de competições thaumaturgicas em Glorantha | `magia` `competição` `heroquesting` `verdade` | draft |
+| [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619 | `wolf pirates` `harrek` `mercenários` `Império Lunar` | draft |
 | [[Journal of Runic Studies 2]] | 2ª edição do periódico malkioni; insights de Jeff Richard; Lore de Glorantha | `periódico` `malkioni` `Jeff Richard` | draft |
 | [[Journal of Runic Studies 3]] | 3ª edição; Sartar Homeland Boxed Set; Império Lunar moderno; Glorantha plana | `periódico` `sartar` `lunar` `geografia` | draft |
 | [[Journal of Runic Studies 4]] | 4ª edição; Torre God Learners; clãs Sartar; demografia; esportes | `periódico` `sartar` `demografia` `esportes` | draft |
 | [[Journal of Runic Studies 5]] | 5ª edição; Elmal vs Yelmalio; feitiçaria God Learners; conquista Dara Happa; Queda de Arkat | `periódico` `elmal` `arkat` `lunar` `feitiçaria` | draft |
+| [[Journal of Runic Studies 6]] | 6ª edição; paradoxo Lunar, Torneio dos Mestres, desafios mágicos, invasão 1619, pipeline Chaosium | `periódico` `malkioni` `País Santo` `Torneio` `Lunar` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
@@ -203,7 +207,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Pavis Rises]] | Suplemento Mongoose sobre Pavis; Lawrence Whitaker | `suplemento` `Mongoose` `Pavis` | draft |
 | [[Cults of Glorantha - Mongoose]] | Suplemento de cultos; 2ª ed Mongoose; Lawrence Whitaker | `suplemento` `Mongoose` `cultos` | draft |
 | [[The Abiding Book]] | Suplemento Mongoose final (2010); Lawrence Whitaker | `suplemento` `Mongoose` | draft |
-| [[Publicações Futuras de Glorantha]] | Lista compilada de roadmaps e pipeline da Chaosium | `roadmap` `pipeline` | draft |
+| [[Publicações Futuras de Glorantha]] | Lista compilada de roadmaps e pipeline da Chaosium; inclui Homeland projects e Jason Durall updates | `roadmap` `pipeline` `Homeland` | draft |
 | [[Tomate]] | Mestre das campanhas Reino do Trovão e Caminho Lunar (YouTube) | `mestre` `YouTube` | draft |
 | [[Durulz of Darkness]] | Aventura inspirada em Apocalypse Now; durulz rebelde no Upland Marsh; Max Bantleman | `aventura` `Jonstown` `durulz` | draft |
 | [[The Shimmering Lake]] | Lago misterioso com 3 heroquestes; arte Attila Nagy; Max Bantleman | `aventura` `Jonstown` `heroquest` | draft |
@@ -228,13 +232,13 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Beer with Teeth]] | Grupo de criadores Jonstown; Diana Probst | `grupo` `Jonstown` | draft |
 | [[O Bugurso Domesticado]] | Blog de RPG de Claudio Torcato; relatos de Numenera, Arkanun, Cripta | `blog` `Cleedee` | draft |
 | [[Compacto RPG]] | Sistema de RPG criado por Claudio Torcato; playtests solo no Itch.io | `sistema` `Cleedee` | draft |
-| [[Appendix N de RuneQuest]] | Inspirações literárias de Jeff Richard para RQG revisado; 26+ obras | `literatura` `mitologia` | draft |
+| [[Appendix N de RuneQuest]] | Inspirações literárias; Appendix M (RQ1 1978) → Appendix N (RQ2 1979); coincidência com AD&D | `literatura` `mitologia` `história` `RQ1` `RQ2` | draft |
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
-| [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; strike ranks, battle magic, rune magic; lista completa de suplementos; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
+| [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; Appendix N (bibliografia), Appendix O; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
 | [[Grungnak Fearless]] | Vol 2 Monster of the Month; Mestre das Runas de Zorak Zoran | `monster` `zorak zoran` `jonstown` | draft |
 | [[Torre dos God Learners]] | Nova morada; escola malkioni 2ª Era → bandidos → biblioteca Lhankor Mhy | `torre` `malkioni` `biblioteca` | draft |
-| [[Campanha White Bull]] | Campanha casa Chaosium retornando ao YouTube após heroquest Kallyr | `white bull` `youtube` `kallyr` | draft |
+| [[Campanha White Bull]] | Campanha casa Chaosium; episódios com Enkala, Troll Town, Clearwine Fort, Jeff Richard como Orlanth | `white bull` `youtube` `kallyr` `colymar` | draft |
 | [[Alakoring's Legacy]] | Questionário clãs pai/filho Jones; para QuestWorlds | `jonstown` `clãs` `questionário` | draft |
 | [[Argentus]] | Última Máscara Imperador Vermelho; afastou dragão de Glamour | `máscara` `glamour` `dragão` | draft |
 | [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |
@@ -261,6 +265,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Reaching Moon Megacorp]] | Empresa de David Hall; Tales of the Reaching Moon; títulos Jonstown | `empresa` `Jonstown` | draft |
 | [[Lismelder tribe]] | Tribo do Upland Marsh; detalhada em Marsh Attacks | `tribo` `Upland Marsh` | draft |
 | [[Greydog clan]] | Clã famoso do Upland Marsh; Greydog Inn; brewing | `clã` `Upland Marsh` | draft |
+| [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619 | `wolf pirates` `harrek` `mercenários` `Império Lunar` | draft |
 > Linhas temporais, eras, calendários
 
 | Página | Resumo | Tags | Status |

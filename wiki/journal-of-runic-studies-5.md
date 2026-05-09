@@ -59,12 +59,12 @@ Quinta edição do periódico malkioni, com notícias da Chaosium (Meints Index,
 - **Razão do ódio aos God Learners**: não pelo Monomito, Império do Mar Médio, Goddess Switch ou Cidade das Máquinas — mas pelo **impacto corrosivo de sua abordagem na experimentação espiritual**.
 - Na 3ª Era, pessoas temiam heroquesting por causa do que os God Learners fizeram e do que aconteceu com eles.
 
-#### Leika Blacksper e realeza feminina
+#### Leika Blackspear e realeza feminina
 - Leika é uma Rex tribal (rei), manifestação local de [[Orlanth Rex]].
 - Leika tem uma esposa para propósitos cerimoniais: [[Ereneva Chan]].
 - [[Kallyr Testa-Estrelada]] tem paralelo: sua esposa era [[Ernaldesta a Vigorosa]].
 - Dois pares paralelos de parcerias rei-fêmea/sacerdotisa-da-Terra em Sartar.
-- Ereneva Chan intensely despreza Kallyr, culpando Starbrow pela morte de seu pai, exílio de sua mãe, e loucura/ traição de seu irmão.
+- Ereneva Chan intensivamente despreza Kallyr, culpando Starbrow pela morte de seu pai, exílio de sua mãe, e loucura/ traição de seu irmão.
 - Nome completo: "Leika Beti Ballista" — originalmente "Betty Ballista" (PJ), renomeada por Greg Stafford.
 - Conexões familiares: Kallai é primo de segundo grau de Leika, que é prima de Londra. Korlmhy "Blackmor" é filho de Kallai e Beneva Chan, irmão de Ereneva Chan.
 - Yanioth e Vasana são primas de Korlmhy e Ereneva Chan; Harmast é primo de segundo grau de quase todos.

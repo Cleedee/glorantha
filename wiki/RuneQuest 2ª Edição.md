@@ -2,8 +2,8 @@
 title: "RuneQuest 2ª Edição (RQ2)"
 category: "Fonte"
 tags: [RuneQuest, 1979, segunda edição, Steve Perrin, Greg Stafford, clássico, Rurik]
-sources: ["raw/clippings/RuneQuest Classic Edition review (RQ2).md", "raw/clippings/Runeblog.md"]
-last_updated: 2026-04-14
+sources: ["raw/clippings/RuneQuest Classic Edition review (RQ2).md", "raw/clippings/Runeblog.md", "raw/clippings/Out of the Suitcase 17 the first Appendix N.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -57,6 +57,8 @@ status: draft
 
 ### Apêndices
 - Regras opcionais: stat x5, dano dobrado com armas cortantes, escuridão, encumbrance, quedas
+- **Appendix N:** Bibliografia de livros inspiradores (14º tópico, p.116). Precedeu em um mês o Appendix N de AD&D (coincidência histórica).
+- **Appendix O:** Lista de jogos gloranthanos, outros RPGs, contatos da SCA e do fabricante de dados Lou Zocchi.
 - **Como rodar campanhas** — recomenda dungeons pequenos e coerentes
 - **Línguas e doenças** de Glorantha
 - Tabelas de encontro para Dragon Pass e Prax
