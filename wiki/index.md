@@ -35,12 +35,12 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Inkarne]] | Atual Feathered Horse Queen; relacionamento com Argrath White Bull | `rainha` `sartar` `lunar` | draft |
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
 | [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
-| [[Belintar]] | Deus-Rei do País Santo (1318+); Torneio dos Mestres; convergência mítica; não retornou | `deus-rei` `país santo` `1318` `Torneio` | draft |
+| [[Belintar]] | Deus-Rei do País Santo; expirou 1616; Jar-Eel caça no Portal; Torneio quebrado alimenta Hero Wars | `deus-rei` `país santo` `1318` `Torneio` `Hero Wars` | draft |
 | [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça" pelos orlanthi | `deusa` `lunar` `orlanthi` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
 | [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
-| [[Orlanth]] | Rei dos deuses Orlanthi; marido de Ernalda | `deus` `rei` `Orlanthi` | draft |
-| [[Ernalda]] | Rainha dos deuses Orlanthi; esposa de Orlanth; terra e fertilidade | `deusa` `rainha` `Orlanthi` | draft |
+| [[Orlanth]] | Rei dos deuses Orlanthi; Thunderous (50%), Adventurous (20%), Rex (25%), Vinga, Barntar | `deus` `rei` `Orlanthi` `culto` `Sartar` | draft |
+| [[Ernalda]] | Rainha dos deuses Orlanthi; autoridade máxima sobre a terra; Babeester Gor; concursos matrimoniais | `deusa` `rainha` `Orlanthi` `terra` `Sartar` | draft |
 | [[Elmal]] | Deus solar menor; culto do Pequeno Sol; história de Elmal vs Yelmalio resolvida por Monrogh | `deus` `caça` `proteção` `solar` `Yelmalio` | draft |
 | [[Redalda]] | Deusa da cultura equina; também Redaylda; Estação do Fogo | `deusa` `cavalos` | draft |
 | [[Tribo dos Dundealos]] | Tribo Orlanthi de Sartar; cultura baseada em cavalos; Matadores de Jaldon | `tribo` `Orlanthi` `cavalos` | draft |
@@ -65,7 +65,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Big Rubble e Pavis]] | Ruínas e cidade estratégica; foco do futuro RQ Fantasy Roleplaying | `Pavis` `ruínas` `Império Lunar` | draft |
 | [[Puerta Rúnica]] | Pequena cidade assolada por plaga; aventura A Darkness at Runegate | `cidade` `plaga` | draft |
 | [[Dorastor]] | Terra maldita do Caos; nome vem de Dorasta; devastada por Arkat; Rei Ralzakark | `terra maldita` `Caos` `Dorasta` | draft |
-| [[País Santo]] | Região de Kethaela; Belintar; Torneio; invasão lunar 1619; Fazzur; Wolf Pirates | `região` `kethaela` `belintar` `Torneio` `invasão` | draft |
+| [[País Santo]] | Kethaela; Belintar; Torneio como reator nuclear mágico; invasão 1619; colapso alimenta Hero Wars | `região` `kethaela` `belintar` `Torneio` `invasão` `Hero Wars` | draft |
 | [[Cidade das Maravilhas]] | Capital do País Santo; deuses/mortais conviviam; portões para Outro Mundo | `cidade` `deuses` `outro mundo` | draft |
 | [[Lunar Heartlands]] | 5,4M pessoas; 80% camponeses; cidades refoundadas no "séc.XIX/XX" | `terras centrais` `camponeses` `dara happa` | draft |
 | [[Copper Town]] | 2000 pessoas; minas cobre Barastaros; Asrelia padroeira mineração | `cobre` `mineração` `asrelia` | draft |
@@ -79,6 +79,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Genertela]] | Continente setentrional; Fronela, Kralorela, Peloria, Kethaela | `continente` `norte` `regiões` | draft |
 | [[Pamaltela]] | Continente meridional; errinoru, fonrit, kothar, tarien | `continente` `sul` `regiões` | draft |
 | [[Templo das Seis Pedras]] | Templo de Humakt em regeneração; Upland Marsh; Six Stones | `templo` `Humakt` `Upland Marsh` | draft |
+| [[Durengard]] | Maior cidade leste do Planalto das Sombras em Heortland; porto; templo Belintar | `cidade` `Heortland` `porto` `Belintar` | draft |
 
 ---
 
@@ -174,6 +175,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 4]] | 4ª edição; Torre God Learners; clãs Sartar; demografia; esportes | `periódico` `sartar` `demografia` `esportes` | draft |
 | [[Journal of Runic Studies 5]] | 5ª edição; Elmal vs Yelmalio; feitiçaria God Learners; conquista Dara Happa; Queda de Arkat | `periódico` `elmal` `arkat` `lunar` `feitiçaria` | draft |
 | [[Journal of Runic Studies 6]] | 6ª edição; paradoxo Lunar, Torneio dos Mestres, desafios mágicos, invasão 1619, pipeline Chaosium | `periódico` `malkioni` `País Santo` `Torneio` `Lunar` | draft |
+| [[Journal of Runic Studies 7]] | 7ª edição; colapso do Torneio, Hero Wars, cultos Orlanth/Ernalda em Sartar, Durengard | `periódico` `Belintar` `Torneio` `Orlanth` `Ernalda` `Sartar` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
@@ -185,10 +187,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Horned God]] | Vol remanescente; Deus Chifrudo/espírito | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
-| [[Sartar Homeland Boxed Set]] | Próximo lançamento; arte Ossi Hiekkala/Anna Orlova; mapas Boldhome | `boxed set` `sartar` `arte` | draft |
-| [[Sartar Homeland Boxed Set]] | Clãs, demografia, moda/aparência sartarita, org tribal, arte Leika e Sartar Faces | `clãs` `demografia` `boldhome` `moda` `tribal` | draft |
+| [[Sartar Homeland Boxed Set]] | Boxed set RQ; arte Ossi Hiekkala/Anna Orlova; culto Orlanth/Ernalda/Lightbringers; clãs; moda | `boxed set` `sartar` `arte` `clãs` `culto` | draft |
 | [[Prax]] | Região de nômades; sourcebook futuro; manuscrito voltou da edição | `região` `nômades` | draft |
-| [[Heortland & Hendrikland]] | Sourcebook por Harald Smith; manuscrito aceito 2022 | `sourcebook` `região` | draft |
+| [[Heortland & Hendrikland]] | Sourcebook Jeff Richard + Harald Smith; Durengard, maior cidade leste do Planalto das Sombras | `sourcebook` `região` `Heortland` | draft |
 | [[The Dragon's Eye]] | Coleção de locais de Dragon Pass por Jonathan Tweet; manuscrito finalizado Jul 2021 | `aventura` `Jonathan Tweet` `Dragon Pass` | draft |
 | [[Glorantha Cookbook]] | Receitas + guia de viagem; Yanioth e Sorala; 95% | `culinária` `viagem` | draft |
 | [[Elf Pack]] | Suplemento de elfos por Shannon Appelcline | `suplemento` `elfos` | draft |
@@ -238,7 +239,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
 | [[Grungnak Fearless]] | Vol 2 Monster of the Month; Mestre das Runas de Zorak Zoran | `monster` `zorak zoran` `jonstown` | draft |
 | [[Torre dos God Learners]] | Nova morada; escola malkioni 2ª Era → bandidos → biblioteca Lhankor Mhy | `torre` `malkioni` `biblioteca` | draft |
-| [[Campanha White Bull]] | Campanha casa Chaosium; episódios com Enkala, Troll Town, Clearwine Fort, Jeff Richard como Orlanth | `white bull` `youtube` `kallyr` `colymar` | draft |
+| [[Campanha White Bull]] | Campanha casa Chaosium; Ep4 Gamemaster Adventures; Enkala/Troll Town/Clearwine Fort | `white bull` `youtube` `kallyr` `colymar` | draft |
 | [[Alakoring's Legacy]] | Questionário clãs pai/filho Jones; para QuestWorlds | `jonstown` `clãs` `questionário` | draft |
 | [[Argentus]] | Última Máscara Imperador Vermelho; afastou dragão de Glamour | `máscara` `glamour` `dragão` | draft |
 | [[Michael O'Brien]] | MOB; Chaosium; líder do projeto RRQG | `Chaosium` `RRQG` | draft |

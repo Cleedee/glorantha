@@ -2,34 +2,58 @@
 title: "Ernalda"
 category: "Entidade"
 tags: [deusa, rainha dos deuses, Orlanthi, terra, fertilidade, Glorantha]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
-last_updated: 2026-04-13
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
 # Ernalda
 
 ## Resumo
-**Ernalda** é a **rainha dos deuses** no panteão **Orlanthi** de [[Glorantha]], esposa de [[Orlanth]]. Os **Orlanthi das Colinas** — parte da **[[Tribo dos Dundealos]]** — são mais voltados para a agricultura e ao culto de Orlanth e Ernalda.
+**Ernalda** é a **rainha dos deuses** no panteão **Orlanthi** de [[Glorantha]], esposa de [[Orlanth]]. Principal culto da Terra em [[Sartar]], autoridade máxima sobre a própria terra, com templos que abrigam santuários de todo o panteão da Terra e dos Husband Protectors.
 
 ## Conteúdo
 
 ### Domínios
 - **Rainha dos deuses Orlanthi** — Consorte de Orlanth
-- Associada à terra e fertilidade (contexto agrícola dos Orlanthi das Colinas)
+- Associada à terra e fertilidade
 
-### Culto
-Os Orlanthi das Colinas da Tribo dos Dundealos são mais voltados para o culto de Orlanth e Ernalda, refletindo sua orientação agrícola.
+### Culto em Sartar
+
+#### Autoridade sobre a Terra
+O culto de Ernalda é a **autoridade máxima sobre a própria terra** em Sartar, delegando cuidado de áreas específicas a cultos, tribos ou outras entidades. As **pedras de limite** que marcam as terras delegadas a tribos, clãs, templos ou indivíduos são protegidas por **Babeester Gor** — as Irmãs do Machado.
+
+Templos da Terra em Sartar abrigam santuários de uma variedade de cultos associados:
+- Todo o panteão da Terra (Babeester Gor, Asrelia, Voria, etc.)
+- Todos os **Husband Protectors** (Orlanth, Storm Bull, Yelmalio, etc.)
+
+#### Concursos Matrimoniais
+O culto de Ernalda frequentemente organiza concursos matrimoniais para sacerdotistas da Terra que consentem. Os concursos testam os pretendentes em:
+- Combate
+- Atletismo
+- Habilidades sociais
+- Magia
+
+O vencedor é escolhido como **marido do ano** da participante. A comunidade vencedora ganha bênçãos e aliados mágicos. Sacerdotistas importantes realizam concursos de relevância regional, com trégua suspendendo hostilidades entre seguidores dos Husband-Deities durante o concurso.
+
+#### Influência da Feathered Horse Queen
+Ernalda beneficia-se da proximidade de [[Esrolia]] e dos [[Grazelands]], onde os cultos da Terra têm mais poder. A **Feathered Horse Queen** tem grande influência mesmo não presidindo templos sartaritas — seus heroquests têm repercussões importantes para qualquer culto da Terra próximo.
 
 ## Referências Cruzadas
 - [[Orlanth]]
 - [[Orlanthi]]
 - [[Glorantha]]
-- [[Tribo dos Dundealos]]
+- [[Sartar]]
+- [[Sartar Homeland Boxed Set]]
+- [[Babeester Gor]]
+- [[Feathered Horse Queen]]
 
 ## Referências
 - Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
+- Sartar Homeland Boxed Set (excerto), via Jeff Richard no Facebook
 
 ## Questões em Aberto
 - [ ] Ernalda tem conexão com a deusa da terra Dorasta?
 - [ ] Quais são os mitos centrais de Ernalda?
+- [ ] Como funciona a hierarquia dos templos da Terra em Sartar?

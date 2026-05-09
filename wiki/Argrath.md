@@ -38,6 +38,8 @@ Esta conexão vincula Argrath ao mito primordial de **Arkat vs Gbaji**, um confl
 
 ## Referências Cruzadas
 - [[Arkat Caosban]]
+- [[Belintar]]
+- [[Hero Wars]]
 - [[Arkat, o Destruidor]]
 - [[Pavis]]
 - [[Império Lunar]]
@@ -51,6 +53,9 @@ Esta conexão vincula Argrath ao mito primordial de **Arkat vs Gbaji**, um confl
 - Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
 - Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
 - Jeff Richard no RuneQuest Facebook Group, 2021
+
+### Sartar Magical Union
+A **Sartar Magical Union** de Argrath é alimentada pela energia mágica liberada pelo colapso do [[Torneio dos Mestres da Sorte e da Morte]] — a enorme potencialidade liberada desde que Belintar expirou e [[Jar-Eel]] passou a caçar competidores no Portal.
 
 ## Questões em Aberto
 - [ ] Qual é a relação exata entre Argrath e Gbaji?

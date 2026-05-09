@@ -2,7 +2,7 @@
 title: "Sartar Homeland Boxed Set"
 category: "Fonte"
 tags: [sartar, boxed set, arte, chaosium, moda, tribal, clãs, Leika]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md"]
+sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -54,6 +54,21 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 - Motivado pelo aumento da familiaridade do público com cultura Viking (Skyrim, Valheim, Vikings, Banner Saga).
 - Discussão entre Greg Stafford e Jeff Richard durante o trabalho no Guide.
 
+### Culto de Orlanth em Sartar
+O culto de Orlanth é o mais desenvolvido em Sartar. Distribuição de atividade do culto:
+- **Orlanth Thunderous** (~50%) — controle do clima, rural, ligado a Ernalda
+- **Orlanth Adventurous** (~20%) — guerreiro, nível tribal+
+- **Orlanth Rex** (~25%) — governantes, nível tribal+
+- **Outros** (~5%) — Vinga (guerreiras), Barntar (agricultura), e outros subcultos
+
+Thunderous e Barntar operam em áreas rurais; Adventurous, Vinga e Rex no nível tribal e acima.
+
+### Culto de Ernalda em Sartar
+Principal culto da Terra. Autoridade máxima sobre a terra, delegando áreas a cultos, tribos ou entidades. Pedras de limite protegidas por **Babeester Gor**. Concursos matrimoniais para sacerdotistas — testes de combate, atletismo, habilidades sociais e magia — com vencedor como marido do ano.
+
+### Outros Lightbringers em Sartar
+Chalana Arroy, Eurmal, Issaries e Lhankor Mhy são centrados nas cidades, não nos clãs — a Dinastia Sartar construiu templos para eles. Perspectiva mais ampla que cultos de clã/tribo; neutros em conflitos tribais. Durante a Ocupação Lunar, continuaram praticamente intocados. Humakt opera de forma similar.
+
 ### Cronograma de Produção
 - Após *Weapons & Equipment Guide* (em layout) e *Cults of Glorantha* (gigante).
 - Antes do *Gamemaster's Guide* (início de 2022).
@@ -71,6 +86,7 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 - Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
 - Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
 - Fonte: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
+- Fonte: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
 - [Jaye Kovach Interview no YouTube](https://www.youtube.com/watch?v=0fxvPG7WYwg)
 - Arte © 2021 Chaosium Inc.
 
