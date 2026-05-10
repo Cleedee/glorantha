@@ -2,7 +2,7 @@
 title: "Campanha White Bull"
 category: "Evento"
 tags: [white bull, chaosium, youtube, kallyr, lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md"]
+sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -17,6 +17,9 @@ Campanha da casa da Chaosium ("White Bull campaign") retornando ao YouTube após
 - Conhecida como "Chaosium house campaign" ou "White Bull campaign".
 - Jogadores retornaram recentemente de heroquest de Kallyr (Lightbringers Heroquest).
 - Retornando ao YouTube para continuação das aventuras.
+
+### Episódio 6 (JRS #9)
+A campanha da casa Chaosium continua sua jornada através da aventura "Dragon of Thunder Hills" do **RuneQuest Gamemaster Screen Pack**. Dica do mestre: "É sempre importante ter uma boa cara de pôquer quando se diz 'viemos negociar os termos de sua rendição'."
 
 ### Episódio 5 (JRS #8)
 Novo episódio: os jogadores ficam muito "amigáveis" com Tarndisi enquanto buscam mais informações sobre dragões.

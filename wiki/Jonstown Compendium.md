@@ -2,8 +2,8 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
-last_updated: 2026-05-05
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -13,6 +13,12 @@ status: draft
 O **Jonstown Compendium** é a plataforma de material criado por fãs para [[RuneQuest]], disponível no DriveThruRPG. Inclui aventuras, suplementos, cultos e regras alternativas.
 
 ## Conteúdo
+
+### Prêmios e Indicações
+Em 2021, dois produtos do Jonstown Compendium foram nomeados na categoria "Community Content" do **Ennie Awards**: Allan Carey, Chris Gidlow (duas vezes!), Mike Hagen, Nick Brooke, Michael O'Brien, Jeff Richard e Greg Stafford.
+
+### Company of the Dragon (Print-on-Demand)
+[[Andrew Logan Montgomery]] compartilhou provas de POD para **The Company of the Dragon**. Custos de impressão: ~$45 (Premium color) vs $20 (Standard). O preço de venda planejado era $29.99, com desconto de ~$10 no primeiro mês.
 
 ### Novidades Recentes (2026)
 

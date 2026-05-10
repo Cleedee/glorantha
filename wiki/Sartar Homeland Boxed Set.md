@@ -2,7 +2,7 @@
 title: "Sartar Homeland Boxed Set"
 category: "Fonte"
 tags: [sartar, boxed set, arte, chaosium, moda, tribal, clãs, Leika]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -36,6 +36,26 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 ### Mapa de Boldhome
 - **Cartografia:** Matt Ryan.
 - **Fotos:** Jeff Richard.
+
+### Pockets de Boldhome
+Os "pockets" de Boldhome são moradias construídas por anões **(Mostali)** diretamente nas falésias da montanha. Organizados em:
+
+- **Terraces** (terraços): múltiplos níveis verticais
+- **Galleries** (galerias): coleções de moradias no mesmo nível. Tipicamente nomeadas após a galeria (ex: "Bonesmith Feasting Hall"). Uma gallery abriga "muitas famílias, geralmente organizadas em torno de atividades de guildas, clãs ou cultos"
+
+Cada gallery possui:
+- Grande área comunal de refeições ou salão de banquetes
+- Depósitos, cozinhas e salas de jantar privadas
+- Múltiplos **hearths** (lares): residências onde famílias dormem, tecem e guardam pertences
+- Câmaras próximas aos hearths para urnas funerárias e santuários aos deuses da família
+- Canais de água corrente, alguns com latrinas de pedra
+- Iluminação por fogo ventilado por chaminés anãs misteriosas
+
+Espaços comuns incluem: santuários a deuses Lightbringer e da Terra, forjas e fornos, banhos e salas de vapor (com mais chaminés anãs misteriosas).
+
+No fundo de cada gallery há um **santuário de Ar sagrado**, onde todas as chaminés e túneis Mostali se reúnem. O ar entra e sai destes dutos, assistido por elementais e espíritos do ar. Há santuários ao **Breather Within**, onde os habitantes invocam os poderes do Ar para manter o Pocket habitável. Durante a Ocupação Lunar, estes serviram como **templo oculto de Orlanth Victorious**.
+
+**Nota:** Jeff Richard sugere que muitos dos designs de Boldhome podem estar sendo usados "do jeito errado" por seus habitantes humanos. A arquitetura foi encomendada pelo próprio Sartar, mas apenas os Anões sabem para que algumas das chaminés e mecanismos realmente servem. Podem ter assumido erroneamente o que os humanos precisam para viver, e os humanos podem ter assumido erroneamente o que os Anões construíram para eles.
 
 ### Clãs Detalhados
 - **Ernaldori**: Clã grande e rico.

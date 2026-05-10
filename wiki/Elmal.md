@@ -2,7 +2,7 @@
 title: "Elmal"
 category: "Entidade"
 tags: [deus, caça, proteção, Orlanthi, cavalos, Tribo dos Dundealos, sol, Yelmalio, Lightfore, Dragon Pass, Monrogh]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -36,6 +36,27 @@ Monrogh não "converteu" Elmal — mostrou a verdade nos ritos de adoração int
 
 Elmal ainda existe agora como um **subculto menor de Yelmalio**.
 
+### A Crise Elmali em Sartar (Séc. XVI)
+Jeff Richard forneceu detalhes adicionais sobre o declínio do culto de Elmal. Por volta de **1540**, o culto de Elmal em Sartar estava espiritualmente desintegrado sob influência do coração lunar e do culto de Yelm:
+
+> "Yelm É o Sol. Não há como contornar isso — o culto de Yelm pode provar isso, tem recursos massivos para prová-lo, conhece os caminhos míticos do Sol mil vezes melhor do que qualquer adorador do sol orlanthi."
+
+Muitos Elmali abraçaram Yelm. Estes Elmali guerrearam contra seus próprios clãs e tribos, e **assassinaram um Príncipe de Sartar** — [[Jarosar]] (ou [[Jarolar]]). Em *King of Sartar* (2ª ed.), Prince Jarosar é descrito como tendo sido morto por "espíritos lunares" (p154) e também envenenado "por mão de um amigo" (p30). Jeff Richard atribui esta "mão de amigo" a Elmali traidores:
+
+> "Sim, o amigo era um Elmali. E os Elmali ferraram completamente com Jarolar e Jarosar. O crescente culto de Yelmalio, por outro lado, ajudou Dorasor a estabelecer New Pavis e ajudou Tarkalor contra os trolls."
+
+### A Reforma de Monrogh (1550s-1560s)
+Monrogh corrigiu a situação mostrando nos próprios ritos internos do culto que **Elmal é Yelmalio** — não Yelm. Monrogh provou suas reivindicações através de **desafios mágicos**: começava as cerimônias para Elmal e mostrava como ir mais fundo nos ritos, limpando as nuvens e névoa, revelando a "verdadeira luz brilhante".
+
+> "Monrogh corrigiu tudo isso, mostrando que Elmal é apenas um nome para YELMALIO. Que não é Yelm. Que tem seus próprios mitos e caminhos que Yelm não conhece. Que perseverou na Escuridão e nunca foi extinto (ao contrário de Yelm)."
+
+Por volta de **1560**, havia um culto Yelmalio estabelecido em Sartar que:
+- Lutava contra trolls
+- Apoiava a Casa de Sartar
+- Apoiava os direitos dos Templos da Terra
+
+O nome **Elmal** tornou-se sinônimo de traição, assassinato e conflito entre clãs ("kinstrife"). Exceto por algumas centenas de teimosos perto de Runegate, os cultistas Elmali deixaram suas tribos e se estabeleceram no recém-criado Sun Dome County. O culto de Yelmalio tornou-se a forma como os sartaritas adoram a Luz — um "frenemy" de Orlanth, o que não é incomum em panteões politeístas. O culto de Orlanth apoia Yelmalio, e Orlanth Rex construiu para ele templos finos (incluindo o Sun Dome temple).
+
 ### Legado nos Jogos
 Os livros da **HeroWars** (especialmente o suplemento "Storm Tribe") perpetuaram Elmal no imaginário dos jogadores, listando-o ao lado de Chalana Arroy, Storm Bull, Yinkin, etc. Aparece em questionários de clã como possível divindade do clã, "recebendo adoração comunal de todos os Heortlings em seus dias sagrados". Foi apenas nos livros posteriores de HeroQuest (como *Sartar: Kingdom of Heroes*) que o heroquest de Monrogh Lantern ganhou mais peso, especificando que o culto estava "em declínio" em Sartar e muitos adoradores haviam convertido para Yelmalio ou migrado para o Sun Dome.
 
@@ -60,3 +81,5 @@ Os livros da **HeroWars** (especialmente o suplemento "Storm Tribe") perpetuaram
 - [x] Confirmar o status atual do culto de Elmal em Dragon Pass (circa 1625). — Subculto menor de Yelmalio, conforme Monrogh.
 - [ ] Há templos de Elmal ainda ativos em Sartar?
 - [ ] Yelmalianos e Elmali são hostis entre si ou coexistem?
+- [ ] Investigar o assassinato do Príncipe Jarosar pelos Elmali
+- [ ] Detalhar o culto de Yelmalio em Sartar após a reforma de Monrogh

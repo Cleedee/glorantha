@@ -2,7 +2,7 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md"]
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -35,6 +35,9 @@ Montgomery declara que considera a obra como **inteiramente de Greg Stafford**: 
 
 ### The Final Riddle (2021)
 Mini-campanha ambientada no Grande Inverno de 1622 em [[New Pavis]]. Aventureiros desempregados e famintos são contratados por Unva Prithverna, uma nobre esroliana, para uma expedição ao coração dos Ermos (Wastes) em busca do palácio de uma deusa da terra perdida. Inspirada em *Coração das Trevas* (Heart of Darkness). Quatro cenários conectados que desafiam as crenças e percepções dos jogadores enquanto descem ao coração do Caos.
+
+### Company of the Dragon (POD)
+Montgomery produziu **The Company of the Dragon** para o Jonstown Compendium, que recebeu provas de Print-on-Demand em 2021. Custo de impressão estimado: $45 (Premium color) ou $20 (Standard).
 
 ### Blog
 - Ativo desde 2012

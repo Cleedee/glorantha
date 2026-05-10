@@ -83,6 +83,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Durengard]] | Maior cidade leste do Planalto das Sombras em Heortland; porto; templo Belintar | `cidade` `Heortland` `porto` `Belintar` | draft |
 | [[Alkoth]] | Cidade Dara Happana, borda do Pântano Henjarl; entrada para o Submundo; culto de Shargash | `cidade` `Dara Happa` `Submundo` `Shargash` | draft |
 | [[Pelória]] | Bacia Pelória; celeiro do Império Lunar; clima, vestuário, pré-história das culturas equinas | `região` `Peloria` `Império Lunar` `clima` | draft |
+| [[Saird]] | Região das Províncias Lunares; lar original de Yelmalio; história desde Conselho Quebrado | `região` `Yelmalio` `Império Lunar` `Saird` | draft |
 
 ---
 
@@ -182,6 +183,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 6]] | 6ª edição; paradoxo Lunar, Torneio dos Mestres, desafios mágicos, invasão 1619, pipeline Chaosium | `periódico` `malkioni` `País Santo` `Torneio` `Lunar` | draft |
 | [[Journal of Runic Studies 7]] | 7ª edição; colapso do Torneio, Hero Wars, cultos Orlanth/Ernalda em Sartar, Durengard | `periódico` `Belintar` `Torneio` `Orlanth` `Ernalda` `Sartar` | draft |
 | [[Journal of Runic Studies 8]] | 8ª edição; Pelória, Alkoth, Shargash, The Final Riddle, Tradetalk, QuestWorlds draft | `periódico` `Pelória` `Alkoth` `Shargash` `QuestWorlds` | draft |
+| [[Journal of Runic Studies 9]] | 9ª edição; Steve Perrin, Saird, Pockets Boldhome, Elmal vs Yelmalio | `periódico` `Steve Perrin` `Saird` `Elmal` `Yelmalio` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
@@ -193,7 +195,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Horned God]] | Vol remanescente; Deus Chifrudo/espírito | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
-| [[Sartar Homeland Boxed Set]] | Boxed set RQ; arte Ossi Hiekkala/Anna Orlova; culto Orlanth/Ernalda/Lightbringers; clãs; moda | `boxed set` `sartar` `arte` `clãs` `culto` | draft |
+| [[Sartar Homeland Boxed Set]] | Boxed set RQ; arte Ossi Hiekkala/Anna Orlova; culto Orlanth/Ernalda/Lightbringers; clãs; moda; Pockets Boldhome | `boxed set` `sartar` `arte` `clãs` `culto` | draft |
 | [[Prax]] | Região de nômades; sourcebook futuro; manuscrito voltou da edição | `região` `nômades` | draft |
 | [[Heortland & Hendrikland]] | Sourcebook Jeff Richard + Harald Smith; Durengard, maior cidade leste do Planalto das Sombras | `sourcebook` `região` `Heortland` | draft |
 | [[The Dragon's Eye]] | Coleção de locais de Dragon Pass por Jonathan Tweet; manuscrito finalizado Jul 2021 | `aventura` `Jonathan Tweet` `Dragon Pass` | draft |
@@ -243,6 +245,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; Appendix N (bibliografia), Appendix O; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
+| [[Steve Perrin]] | Co-criador de RuneQuest (1946-2021); série Creating RuneQuest em 6 partes | `designer` `RuneQuest` `Chaosium` `criador` | draft |
 | [[Grungnak Fearless]] | Vol 2 Monster of the Month; Mestre das Runas de Zorak Zoran | `monster` `zorak zoran` `jonstown` | draft |
 | [[Torre dos God Learners]] | Nova morada; escola malkioni 2ª Era → bandidos → biblioteca Lhankor Mhy | `torre` `malkioni` `biblioteca` | draft |
 | [[Campanha White Bull]] | Campanha casa Chaosium; Ep4 Gamemaster Adventures; Enkala/Troll Town/Clearwine Fort | `white bull` `youtube` `kallyr` `colymar` | draft |
