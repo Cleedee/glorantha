@@ -44,7 +44,7 @@ As terras ao redor da **Mirrorsea Bay** — a Santa Pátria — sempre tiveram u
 Ao norte de Kethaela, onde as Rockwood Mountains se encontram no centro do continente, é o único lugar onde você pode entrar em Peloria, Kethaela ou Ralios pelo mesmo lugar. Atualmente dividido entre os reinos de **Sartar** e **Tarsh**.
 
 #### Peloria
-O celeiro do continente — uma gramínea seca e fresca atravessada pelo massivo Rio Oslir.
+O celeiro do continente — vasta bacia de gramínea temperada. Berço da civilização Dara Happana e das culturas equinas do Amanhecer. Ver página dedicada: [[Pelória]].
 
 #### Pent
 Mais ou menos a estepe eurasiática — uma grande gramínea similar a Peloria, mas menos fértil pois não tem uma deusa do grão pessoal.

@@ -2,8 +2,8 @@
 title: "QuestWorlds"
 category: "Conceito"
 tags: [sistema, regras, QuestWorlds, SRD, Chaosium, Ian Cooper, storytelling]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md"]
-last_updated: 2026-04-13
+sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Journal of Runic Studies 8.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -13,6 +13,9 @@ status: draft
 **QuestWorlds** é o sistema de RPG derivado do **HeroQuest**, com SRD aberto no GitHub. O livro de regras oficial pela **Chaosium** foi publicado em 2025 (PDF), com livro impresso prometido para fevereiro de 2026. O sistema é liderado por [[Ian Cooper]] e busca ser agnóstico de cenário, embora tenha nascido intimamente ligado a [[Glorantha]].
 
 ## Conteúdo
+
+### Primeiro Draft (2021)
+Em agosto de 2021, [[Ian Cooper]] anunciou que o **primeiro draft do QuestWorlds Core Book** estava quase completo, necessitando apenas de alguns ajustes (exemplo de sequência de grupo, exemplo de cenário caseiro do GM). O processo de desenvolvimento foi aberto, com feedback da comunidade HeroQuest. O SRD já estava disponível no site oficial. Descrito como essencialmente **HeroQuest 2.5** com limpeza, simplificação e unificação de mecânicas.
 
 ### Origem
 O QuestWorlds nasceu de profundas mudanças no sistema HeroQuest, lideradas por [[Ian Cooper]]. As transformações foram compiladas num **SRD** (System Reference Document) disponível em [github.com/ChaosiumInc/QuestWorlds](https://github.com/ChaosiumInc/QuestWorlds).

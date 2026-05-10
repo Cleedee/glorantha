@@ -2,8 +2,8 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md"]
-last_updated: 2026-04-13
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -32,6 +32,9 @@ Montgomery dedicou **cinco meses** (Julho–Dezembro 2025) ao projeto — o per�
 
 ### Filosofia do Projeto
 Montgomery declara que considera a obra como **inteiramente de Greg Stafford**: "foi, é e permanece o romance de Greg". Não planeja discutir o que escreveu e o que não escreveu, pois todo o material foi baseado nos personagens, notas e enredo de Stafford.
+
+### The Final Riddle (2021)
+Mini-campanha ambientada no Grande Inverno de 1622 em [[New Pavis]]. Aventureiros desempregados e famintos são contratados por Unva Prithverna, uma nobre esroliana, para uma expedição ao coração dos Ermos (Wastes) em busca do palácio de uma deusa da terra perdida. Inspirada em *Coração das Trevas* (Heart of Darkness). Quatro cenários conectados que desafiam as crenças e percepções dos jogadores enquanto descem ao coração do Caos.
 
 ### Blog
 - Ativo desde 2012

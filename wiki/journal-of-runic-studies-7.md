@@ -60,7 +60,7 @@ Chalana Arroy, Eurmal, Issaries e Lhankor Mhy são centrados nas cidades, não n
 Monrogh não "converteu" Elmal — mostrou a verdade nos ritos de adoração internos: "Seus olhos estavam nublados, lavai-os, e agora olhai para a Verdadeira Luz. Esse é Yelmalio." Monrogh foi desafiado e testado, e cada vez provou suas reivindicações neste mundo e no Plano Heróico. Elmal ainda existe como subculto menor de Yelmalio.
 
 ### Heortland: Durengard
-[[Durengard]] é a maior cidade a leste do Planalto das Sombras, um importante porto fluvial que contrasta com [[Nochet]] no outro lado da Baía de Mirrorsea — dominada por ar tonitruante em vez de terranas. Foi brevemente ocupada pelos Malkioni, tendo um templo ao Deus Invisível além dos locais de adoração orlanthi. Há também um templo a Belintar com design [[Jack Kirby]]-esque.
+[[Durengard]] é a maior cidade a leste do Planalto das Sombras, um importante porto fluvial que contrasta com [[Nochet]] no outro lado da Baía de Mirrorsea — dominada por ar tonitruante em vez de terranas. Foi brevemente ocupada pelos Malkioni, tendo um templo ao Deus Invisível além dos locais de adoração orlanthi. Há também um templo a Belintar com design ao estilo [[Jack Kirby]] como imaginado por Jeff Richard.
 
 ### White Bull Campaign — Episódio 4
 Os jogadores aceitam a chamada do Mestre para uma aventura paralela do livreto *RuneQuest Gamemaster Adventures*. Jeff canta e diz "corporeal love" muitas vezes.

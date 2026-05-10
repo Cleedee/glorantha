@@ -2,7 +2,7 @@
 title: "Campanha White Bull"
 category: "Evento"
 tags: [white bull, chaosium, youtube, kallyr, lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -17,6 +17,9 @@ Campanha da casa da Chaosium ("White Bull campaign") retornando ao YouTube após
 - Conhecida como "Chaosium house campaign" ou "White Bull campaign".
 - Jogadores retornaram recentemente de heroquest de Kallyr (Lightbringers Heroquest).
 - Retornando ao YouTube para continuação das aventuras.
+
+### Episódio 5 (JRS #8)
+Novo episódio: os jogadores ficam muito "amigáveis" com Tarndisi enquanto buscam mais informações sobre dragões.
 
 ### Episódio 4 (JRS #7)
 Na 2ª temporada, episódio 4, os jogadores aceitam a chamada do Mestre para uma aventura paralela do livreto *RuneQuest Gamemaster Adventures*. Jeff canta e diz "corporeal love" muitas vezes.

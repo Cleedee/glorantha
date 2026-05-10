@@ -80,6 +80,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Pamaltela]] | Continente meridional; errinoru, fonrit, kothar, tarien | `continente` `sul` `regiões` | draft |
 | [[Templo das Seis Pedras]] | Templo de Humakt em regeneração; Upland Marsh; Six Stones | `templo` `Humakt` `Upland Marsh` | draft |
 | [[Durengard]] | Maior cidade leste do Planalto das Sombras em Heortland; porto; templo Belintar | `cidade` `Heortland` `porto` `Belintar` | draft |
+| [[Alkoth]] | Cidade Dara Happana, borda do Pântano Henjarl; entrada para o Submundo; culto de Shargash | `cidade` `Dara Happa` `Submundo` `Shargash` | draft |
+| [[Pelória]] | Bacia Pelória; celeiro do Império Lunar; clima, vestuário, pré-história das culturas equinas | `região` `Peloria` `Império Lunar` `clima` | draft |
 
 ---
 
@@ -177,6 +179,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 5]] | 5ª edição; Elmal vs Yelmalio; feitiçaria God Learners; conquista Dara Happa; Queda de Arkat | `periódico` `elmal` `arkat` `lunar` `feitiçaria` | draft |
 | [[Journal of Runic Studies 6]] | 6ª edição; paradoxo Lunar, Torneio dos Mestres, desafios mágicos, invasão 1619, pipeline Chaosium | `periódico` `malkioni` `País Santo` `Torneio` `Lunar` | draft |
 | [[Journal of Runic Studies 7]] | 7ª edição; colapso do Torneio, Hero Wars, cultos Orlanth/Ernalda em Sartar, Durengard | `periódico` `Belintar` `Torneio` `Orlanth` `Ernalda` `Sartar` | draft |
+| [[Journal of Runic Studies 8]] | 8ª edição; Pelória, Alkoth, Shargash, The Final Riddle, Tradetalk, QuestWorlds draft | `periódico` `Pelória` `Alkoth` `Shargash` `QuestWorlds` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |

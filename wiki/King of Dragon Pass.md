@@ -2,7 +2,7 @@
 title: "King of Dragon Pass"
 category: "Fonte"
 tags: [videojogo, computador, Glorantha, David Dunham, Robin D. Laws, Issaries, Orlanthi, A Sharp, 1999]
-sources: ["raw/clippings/Interview with Robin D. Laws.md", "raw/clippings/Six Ages Ride Like the Wind.md"]
+sources: ["raw/clippings/Interview with Robin D. Laws.md", "raw/clippings/Six Ages Ride Like the Wind.md", "raw/clippings/Journal of Runic Studies 8.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -27,6 +27,9 @@ status: draft
 - Relançado para **iOS em 2011** — sucesso surpresa.
 - O sucesso do relançamento gerou ports para outras plataformas móveis e PC.
 - Este ressurgimento de interesse levou ao desenvolvimento de uma sequência.
+
+### 50 Years of Text Games
+O blog "50 Years of Text Games" publicou um artigo extenso sobre King of Dragon Pass (2021), coletando citações de várias críticas que o descrevem como "o melhor jogo que você nunca jogou", "um dos melhores jogos já feitos", "atemporal", "flui como um romance, mas você ajuda a escrevê-lo".
 
 ### Legado
 King of Dragon Pass é amplamente considerado um dos melhores jogos de RPG digitais já feitos. Seu sucessor espiritual, **[[Six Ages: Ride Like the Wind]]**, foi lançado em 2018-2019, também pela A Sharp.
