@@ -107,6 +107,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
 | [[Desafios Mágicos]] | Prática de provar verdade através de competições thaumaturgicas em Glorantha | `magia` `competição` `heroquesting` `verdade` | draft |
+| [[Membresia Dupla de Cultos]] | Iniciação em múltiplos cultos rúnicos e de espíritos; mecânicas e teologia | `cultos` `iniciação` `RQG` `religião` | draft |
 | [[Trollball]] | Esporte praticado por trolls (Uz); regras no Trollpak | `troll` `esporte` `Uz` | draft |
 | [[QuestWorlds]] | Sistema derivado do HeroQuest; Chaosium 2025; agnóstico de cenário | `sistema` `SRD` `Chaosium` | draft |
 | [[13th Age in Glorantha]] | Sourcebook 466p; Heinsoo+Tweet; Runas substituem Icons; foco Dragon Pass | `sistema` `13th Age` `Dragon Pass` | draft |

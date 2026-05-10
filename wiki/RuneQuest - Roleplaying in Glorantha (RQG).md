@@ -2,8 +2,8 @@
 title: "RuneQuest: Roleplaying in Glorantha (RQG)"
 category: "Fonte"
 tags: [RuneQuest, 7ª edição, 2018, Glorantha, Greg Stafford, Steve Perrin, Jeff Richard, Jason Durall]
-sources: ["raw/clippings/Review of RuneQuest Roleplaying in Glorantha.md"]
-last_updated: 2026-04-14
+sources: ["raw/clippings/Review of RuneQuest Roleplaying in Glorantha.md", "raw/clippings/Dual Cult Membership.md"]
+last_updated: 2026-05-09
 status: draft
 ---
 
@@ -26,6 +26,9 @@ status: draft
 - **Steve Perrin** — criador original de RuneQuest
 - **Jeff Richard** — atual gerente criativo da Chaosium
 - **Jason Durall** — line developer de Glorantha
+
+### Sistema de Cultos
+Ver página dedicada: [[Membresia Dupla de Cultos]].
 
 ### Inovação
 - Primeira edição desde **RQ2 (1978)** a integrar regras e cenário desde o início
