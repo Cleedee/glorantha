@@ -94,3 +94,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-09] ingest | Processado "Dual Cult Membership.md" (Well of Daliath) — 1 página criada: Membresia Dupla de Cultos (iniciação em múltiplos cultos rúnicos e de espíritos, mecânicas RQG). 1 página atualizada: RuneQuest - Roleplaying in Glorantha (RQG) (link para página de cultos). Index e log atualizados.
 
 ## [2026-05-09] ingest | Processado "Journal of Runic Studies 8.md" — 4 páginas criadas: Journal of Runic Studies 8, Alkoth, Pelória, Shargash. 5 páginas atualizadas: Genertela (link Pelória), Andrew Logan Montgomery (The Final Riddle), Campanha White Bull (Ep5 dragões/Tarndisi), King of Dragon Pass (50 Years of Text Games), QuestWorlds (primeiro draft 2021). Index e log atualizados.
+
+## [2026-05-09] ingest | Processado "Draconic Mysticism, the Void, and the Kralori.md" (Well of Daliath) — 2 páginas criadas: Misticismo Dracônico (Vazio, barreira cintilante, Gbaji como libertador), Kralorela (região, Imperadores Dragão, religião). 1 página atualizada: Genertela (Kralorela expandido com link). Index e log atualizados.

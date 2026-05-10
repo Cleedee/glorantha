@@ -78,6 +78,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Glamour]] | Cidade do Grande Templo do Imperador Vermelho; vitrais do Tratado | `cidade` `Império Lunar` | draft |
 | [[Genertela]] | Continente setentrional; Fronela, Kralorela, Peloria, Kethaela | `continente` `norte` `regiões` | draft |
 | [[Pamaltela]] | Continente meridional; errinoru, fonrit, kothar, tarien | `continente` `sul` `regiões` | draft |
+| [[Kralorela]] | Região leste de Genertela; Imperadores Dragão; Misticismo Dracônico; kralori | `região` `Kralorela` `dragões` `Genertela` | draft |
 | [[Templo das Seis Pedras]] | Templo de Humakt em regeneração; Upland Marsh; Six Stones | `templo` `Humakt` `Upland Marsh` | draft |
 | [[Durengard]] | Maior cidade leste do Planalto das Sombras em Heortland; porto; templo Belintar | `cidade` `Heortland` `porto` `Belintar` | draft |
 | [[Alkoth]] | Cidade Dara Happana, borda do Pântano Henjarl; entrada para o Submundo; culto de Shargash | `cidade` `Dara Happa` `Submundo` `Shargash` | draft |
@@ -110,6 +111,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 |--------|--------|------|--------|
 | [[Desafios Mágicos]] | Prática de provar verdade através de competições thaumaturgicas em Glorantha | `magia` `competição` `heroquesting` `verdade` | draft |
 | [[Membresia Dupla de Cultos]] | Iniciação em múltiplos cultos rúnicos e de espíritos; mecânicas e teologia | `cultos` `iniciação` `RQG` `religião` | draft |
+| [[Misticismo Dracônico]] | Vazio como origem mística; barreira cintilante; Kralorela; conexão com Gbaji | `misticismo` `dragões` `Vazio` `Kralorela` | draft |
 | [[Trollball]] | Esporte praticado por trolls (Uz); regras no Trollpak | `troll` `esporte` `Uz` | draft |
 | [[QuestWorlds]] | Sistema derivado do HeroQuest; Chaosium 2025; agnóstico de cenário | `sistema` `SRD` `Chaosium` | draft |
 | [[13th Age in Glorantha]] | Sourcebook 466p; Heinsoo+Tweet; Runas substituem Icons; foco Dragon Pass | `sistema` `13th Age` `Dragon Pass` | draft |

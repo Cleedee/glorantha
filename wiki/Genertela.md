@@ -32,7 +32,7 @@ Genertela é um continente do tamanho da América do Norte. Ao norte há um glac
 Uma área fria que apenas recentemente se recuperou de uma catástrofe mágica chamada **Syndics Ban**, que dividiu a terra em pequenos bolsões separados por neblina impenetrável por 40 anos. O estado mais importante é **Loskalm**, uma colônia Malkioni que usou a Syndics Ban para transformar sua sociedade numa república platônica.
 
 #### Kralorela
-Frequentemente ridicularizada como "China fantástica", é um país que adora Yelm como Dara Happa, mas governado pelos **Imperadores Dragão** aparentemente imortais. A terra é uma extensão subtropical de colinas e vales fluviais, com muitas florestas de bambu e campos de arroz, quase completamente isolada do resto de Genertela pelas **Shan Shan Mountains** a oeste.
+Frequentemente ridicularizada como "China fantástica", é um país que adora Yelm como Dara Happa, mas governado pelos **Imperadores Dragão** aparentemente imortais. Terra de [[Misticismo Dracônico]] — seus habitantes, os kralori, consideram o Vazio a origem mística do universo e os dragões seus professores. Geografia subtropical de colinas, vales fluviais, florestas de bambu e arrozais. Quase completamente isolada pelas **Shan Shan Mountains** a oeste. Ver página dedicada: [[Kralorela]].
 
 #### Maniria
 As terras costeiras do sul de Genertela, estendendo-se de Seshnela a Prax. Após o **Fechamento** (The Closing), tornou-se a rota de comércio terrestre mais importante do continente.
