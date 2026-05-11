@@ -2,8 +2,8 @@
 title: "Valley of Plenty"
 category: "Fonte"
 tags: [campanha, QuestWorlds, Jaldonkillers, crianças, Dundealos, Shawn Carpenter, Peggy Carpenter, review, Jonstown]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Jonstown Jottings 26 Valley of Plenty.md"]
-last_updated: 2026-04-21
+sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Jonstown Jottings 26 Valley of Plenty.md", "raw/clippings/Journal of Runic Studies 11.md"]
+last_updated: 2026-05-10
 status: draft
 ---
 
@@ -54,11 +54,18 @@ O suplemento inclui writes-ups detalhados de cultos:
 - **Contras:** Alguns handouts são extensos, não cobre todos os cultos dos Blue Jays, não chega ao evento de "sundering" da tribo
 
 ### Estrutura da Saga
-A campanha é dividida em três volumes:
+A campanha foi originalmente planejada em três volumes:
 
-1. **Valley of Plenty** — Publicado e disponível
+1. **Valley of Plenty** — Publicado
 2. **Rise of the Wildlings** — Pronto, mas aguardando lançamento de QuestWorlds: Glorantha
 3. **Lances at Dusk** — Planejado
+
+### Cancelamento
+Em agosto de 2021, a **Troupe Games** anunciou o cancelamento de toda a sequência, direcionando esforços para criar seu próprio sistema e cenário baseado no QuestWorlds SRD:
+
+> "Decidimos que nossos esforços são melhor direcionados à criação de nossas próprias regras e cenário, em vez de conteúdo para Glorantha. Valley of Plenty não está à venda agora. Não queremos decepcionar quem o comprou esperando ver o resto da saga desenvolvido."
+
+A versão impressa foi removida do DriveThruRPG após o aumento de preço do premium color, e posteriormente o PDF também foi removido.
 
 ### Estrutura do Livro
 
@@ -105,5 +112,5 @@ A campanha está sendo mestreada por [[Claudio Torcato]] no servidor Discord man
 - [Valley of Plenty — DriveThruRPG](https://www.drivethrurpg.com/en/product/316797/valley-of-plenty)
 
 ## Questões em Aberto
-- [ ] Quando serão publicados Rise of the Wildlings e Lances at Dusk?
+- [x] Quando serão publicados Rise of the Wildlings e Lances at Dusk? — Série cancelada pela Troupe Games em 2021
 - [x] A localização exata do Valley of Plenty em Glorantha é canônica ou adaptada pelo mestre? — Clã Blue Jay no sudoeste de Sartar (1602, 1605, 1607, 1608)

@@ -9,7 +9,8 @@ tags:
   - regiões
 sources:
   - raw/clippings/Glorantha.md
-last_updated: 2026-04-27
+  - raw/clippings/Journal of Runic Studies 11.md
+last_updated: 2026-05-10
 status: estavel
 ---
 
@@ -24,7 +25,11 @@ status: estavel
 Genertela é um continente do tamanho da América do Norte. Ao norte há um glaciar enorme — lar de trolls de gelo, espíritos de gelo e ocasionais saqueadores marítimos. O Maelstrom está no meio do continente. Ao sul está o outro grande continente, **Pamaltela** (a "Not-Africa").
 
 ### Criação
-**Genert**, o deus da terra, foi morto pelo Diabo (The Devil), deixando uma cicatriz massiva de deserto — **as Wastes** (As Terras Baldias). Esta divisão tornou a unidade entre os povos do continente mais difícil.
+**Genert**, o deus da terra, foi morto pelo Diabo (The Devil), deixando uma cicatriz massiva de deserto — **as Wastes** (As Terras Baldias), onde antes era o Jardim de Genert (Genert's Garden). Esta divisão tornou a unidade entre os povos do continente mais difícil.
+
+Genert teve sete filhas, as principais deusas da Terra, que nomeiam as regiões de Genertela: **Frona** ([[Fronela]]), **Seshna** ([[Seshnela]]), **Ralia** ([[Ralios]]), **Ernalda** (Ernaldela, atual [[País Santo]]/Kethaela), **Pelora** ([[Pelória]]), **Kralora** ([[Kralorela]]) e **Teshna** ([[Teshnos]]).
+
+O termo **Ernaldela** (inicialmente "Ernaldi") aparece nos primeiros materiais de Greg Stafford, mas foi substituído por "Holy Country" e Kethaela. Jeff Richard o usou no Glorantha Sourcebook e Cults Book para ancorar a mitologia da Deusa da Terra.
 
 ### Regiões de Genertela
 

@@ -48,7 +48,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Galak]] | PJ criança; curioso; pai caçador idoso; não gosta de montaria | `PJ` `criança` | draft |
 | [[Derikos]] | PJ criança; predisposição espiritual; potencial aprendiz de Losoric | `PJ` `xamanismo` | draft |
 | [[Enmul]] | PJ criança; espião da turma | `PJ` `espião` | draft |
-| [[Genert]] | Pai de Dorasta (deusa da terra de Dorastor) | `deus` `pai` | draft |
+| [[Genert]] | Deus continental; pai das 7 deusas da Terra (Frona, Seshna, Ralia, Ernalda, Pelora, Kralora, Teshna); morto na Guerra dos Deuses | `deus` `Genertela` `Earth goddesses` | draft |
 | [[Pelora]] | Mãe de Dorasta (deusa da terra de Dorastor) | `deusa` `mãe` | draft |
 | [[Jabba]] | PJ criança; filho de comerciante | `PJ` `comércio` | draft |
 | [[Lawrence Whitaker]] | Autor Mongoose/Glorantha: Dragonewts, Mostali, Fronela, Pavis, Dara Happa | `autor` `Mongoose` | draft |
@@ -146,7 +146,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hero Wars]] | Primeiro nome do sistema de Robin D. Laws para Glorantha (2000) | `sistema` `2000` `Robin Laws` | draft |
 | [[HeroQuest Glorantha]] | Versão Glorantha do HeroQuest; Moon Design 2015; marca vendida para Hasbro | `sistema` `Moon Design` `2015` | draft |
 | [[The Coming Storm]] | Volume 1 da campanha Red Cow; detalhamento do cenário | `campanha` `cenário` `Moon Design` | draft |
-| [[Valley of Plenty]] | Campanha QuestWorlds; 3 capítulos (criança→adulto); Dundealos; Os Selvagens | `campanha` `QuestWorlds` `Dundealos` | draft |
+| [[Valley of Plenty]] | Campanha QuestWorlds; 3 capítulos (criança→adulto); Dundealos; Os Selvagens; série cancelada 2021 | `campanha` `QuestWorlds` `Dundealos` | draft |
 | [[The Horse and His Children]] | Aventura QuestWorlds para público infanto-juvenil | `aventura` `infanto-juvenil` | draft |
 | [[Moon Design Publications]] | Editora de HeroQuest Glorantha; vendeu marca para Hasbro em 2020 | `editora` `Moon Design` | draft |
 | [[Hasbro]] | Adquiriu marca HeroQuest em 2020; motivou criação do QuestWorlds | `empresa` `marca` | draft |
@@ -185,6 +185,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 8]] | 8ª edição; Pelória, Alkoth, Shargash, The Final Riddle, Tradetalk, QuestWorlds draft | `periódico` `Pelória` `Alkoth` `Shargash` `QuestWorlds` | draft |
 | [[Journal of Runic Studies 9]] | 9ª edição; Steve Perrin, Saird, Pockets Boldhome, Elmal vs Yelmalio | `periódico` `Steve Perrin` `Saird` `Elmal` `Yelmalio` | draft |
 | [[Journal of Runic Studies 10]] | 10ª edição; GRRM eulogia Perrin, quatro braços Orlanth, demografia clãs, exército sartarita | `periódico` `Steve Perrin` `Orlanth` `Sartar` `exército` | draft |
+| [[Journal of Runic Studies 11]] | 11ª edição; sete deusas da Terra filhas de Genert, Pendragon/Passions, Valley of Plenty cancelado | `periódico` `Genert` `Earth goddesses` `Valley of Plenty` `Pendragon` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |

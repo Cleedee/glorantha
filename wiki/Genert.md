@@ -1,30 +1,69 @@
 ---
 title: "Genert"
 category: "Entidade"
-tags: [deus, pai, Dorasta, Genert]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
-last_updated: 2026-04-13
+tags: [deus, pai, Genertela, Earth goddesses, Frona, Seshna, Ralia, Ernalda, Pelora, Kralora, Teshna, Wastes]
+sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 11.md"]
+last_updated: 2026-05-10
 status: draft
 ---
 
 # Genert
 
 ## Resumo
-**Genert** é uma figura divina em [[Glorantha]], pai de [[Dorasta]] (deusa da terra de [[Dorastor]]) com [[Pelora]].
+**Genert** é o deus continental que dá nome a [[Genertela]], o continente setentrional de [[Glorantha]]. Pai das sete principais deusas da Terra, foi morto pelo Diabo (The Devil) na Guerra dos Deuses, deixando uma cicatriz massiva de deserto — **Genert's Wastes** (As Terras Baldias). Seu jardim paradisíaco, Genert's Garden, nunca se recuperou de sua morte.
 
 ## Conteúdo
 
+### As Sete Filhas (Deusas da Terra)
+Genert teve sete filhas, deusas da Terra, que se deitaram nas regiões que hoje levam seus nomes:
+
+| Filha | Região |
+|-------|--------|
+| **Frona** | [[Fronela]] (noroeste) |
+| **Seshna** | [[Seshnela]] (sudoeste) |
+| **Ralia** | [[Ralios]] (oeste) |
+| **Ernalda** | Ernaldela (atual [[País Santo]] / Kethaela) |
+| **Pelora** | [[Pelória]] (nordeste) |
+| **Kralora** | [[Kralorela]] (leste) |
+| **Teshna** | [[Teshnos]] (sudeste) |
+
+### Ernaldela
+O termo **Ernaldela** aparece nos materiais mais antigos de Greg Stafford (inicialmente como "Ernaldi"). Há uma referência no texto antigo do culto de Argan Argar, mas foi geralmente substituído por "Holy Country" ([[País Santo]]) e Kethaela em livros posteriores. Jeff Richard usou o termo no Glorantha Sourcebook e Cults Book para ancorar a mitologia da Deusa da Terra e fornecer mais contexto para [[Ernalda]].
+
+### Kralora
+Kralora foi muito importante na Segunda Era. Na Terceira Era, seu culto foi submerso no de **Miyo**.
+
+### Genert's Wastes
+Onde antes era o Jardim de Genert (Genert's Garden) — um paraíso — agora é um deserto devastado que nunca se recuperou após a morte do deus. Corta [[Genertela]] quase em dois.
+
+### Pent
+Segundo os mapas mitológicos fabulosos de [[Zzabur]], Pent era uma vez parte dos Jardins de Genert. Não há uma deusa Penta.
+
 ### Linhagem
+- **Filhas:** Frona, Seshna, Ralia, [[Ernalda]], Pelora, Kralora, Teshna
 - **Filha:** [[Dorasta]] (com [[Pelora]])
 
 ## Referências Cruzadas
+- [[Genertela]]
+- [[Ernalda]]
 - [[Dorasta]]
 - [[Pelora]]
-- [[Dorastor]]
+- [[País Santo]]
+- [[Fronela]]
+- [[Seshnela]]
+- [[Ralios]]
+- [[Pelória]]
+- [[Kralorela]]
+- [[Teshnos]]
 
 ## Referências
 - Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Journal of Runic Studies #11](raw/clippings/Journal of Runic Studies 11.md)
+- *Glorantha Sourcebook* (Chaosium)
+- Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto
 - [ ] Genert é um deus primordial de Glorantha?
-- [ ] Genert teve outros filhos além de Dorasta?
+- [ ] Genert teve outros filhos além das sete deusas e Dorasta?
+- [ ] Investigar o culto de Kralora/Miyo em Kralorela
+- [ ] Detalhar a história de Zzabur e seus mapas mitológicos

@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md"]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -28,6 +28,9 @@ Em 2021, dois produtos do Jonstown Compendium foram nomeados na categoria "Commu
 
 ### Armies and Enemies of Dragon Pass
 **Martin Helsdon**, autor da referência militar *The Armies and Enemies of Dragon Pass*, anunciou progresso em uma versão Print-on-Demand — 50 páginas da formatação estavam pendentes.
+
+### QAD: Pimper's Block
+**Drew Baker** compilou toda a série "Quick and Dirty" em um gigantesco PDF de **2000 páginas**. Inclui personagens detalhados, esquadrões de NPCs "mook", e notas sobre ocupações e culturas para todas as terras natais do RuneQuest rulebook.
 
 ### Novidades Recentes (2026)
 

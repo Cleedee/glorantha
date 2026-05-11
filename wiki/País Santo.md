@@ -2,7 +2,7 @@
 title: "País Santo"
 category: "Localização"
 tags: [kethaela, belintar, deus-rei, holy country]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 11.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -14,6 +14,7 @@ Região de Kethaela governada por Belintar, o Deus-Rei a partir de 1318; conheci
 
 ## Conteúdo
 ### História
+- O nome antigo da região era **Ernaldela** (inicialmente "Ernaldi" nos primeiros materiais de Greg Stafford). Substituído por "Holy Country" (País Santo) e [[Kethaela]] em livros posteriores, mas usado no Glorantha Sourcebook para ancorar a mitologia da Deusa da Terra.
 - **1318:** Acesso de Belintar como Deus-Rei marca o início do termo "País Santo" para Kethaela.
 - Belintar mantinha bons contatos com todos os deuses do País Santo.
 - Visto como parte do Outro Mundo manifestado no mundo mundano.

@@ -2,7 +2,7 @@
 title: "Orlanth"
 category: "Entidade"
 tags: [deus, rei dos deuses, Orlanthi, tempestade, Glorantha]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 10.md"]
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -52,7 +52,7 @@ Em algumas representações, Orlanth tem três ou quatro cabeças — cada uma r
 Outra característica artística notável: Orlanth é sempre retratado **em movimento** — uma de suas Runas é a do Movimento.
 
 ### Arte de Vinga
-**Katrin Dirim** produziu uma ilustração de [[Vinga]], descrita como filha de Orlanth ou como um aspecto feminino de Orlanth.
+**Katrin Dirim** produziu ilustrações de [[Vinga]], descrita como filha de Orlanth ou como um aspecto feminino de Orlanth. Uma delas mostra uma **Vingan thane do clã Hiording** (aka "Swan clan") conjurando um raio (Thunderbolt spell).
 
 ### Os Orlanthi
 Os Orlanthi são a cultura dominante em [[Sartar]]. Incluem diversos subgrupos:
