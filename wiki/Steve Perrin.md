@@ -1,8 +1,8 @@
 ---
 title: "Steve Perrin"
 category: "Entidade"
-tags: [designer, RuneQuest, Chaosium, criador, co-criador, RQ1, RQ2, Perrin, Luise Perrin]
-sources: ["raw/clippings/Journal of Runic Studies 9.md"]
+tags: [designer, RuneQuest, Chaosium, criador, co-criador, RQ1, RQ2, Perrin, Luise Perrin, Superworld, Wild Cards, GRRM]
+sources: ["raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -32,18 +32,32 @@ Antes de seu falecimento, Perrin trabalhou na nova edição de RuneQuest "Rolepl
 - **The Smoking Ruin**: "The Lost Valley" (sandbox de aventura com elenco diverso de NPCs) e "Urvantan's Tower" (primeiro vislumbre de feitiçaria Malkioni em ação)
 - **The Pegasus Plateau**: "The Pairing Stones" — assim nomeada em homenagem a ele e sua esposa Luise (Pairing = Perrin), descrita por Michael O'Brien como "algo de uma carta de amor para sua esposa"
 
-### Superworld
-Além de RuneQuest, Perrin também criou **Superworld**, outro jogo da Chaosium.
+### Superworld e Wild Cards
+Além de RuneQuest, Perrin também criou **Superworld**, outro jogo da Chaosium. **George R.R. Martin** foi o mestre de uma campanha de Superworld que originou o universo compartilhado **Wild Cards**. Perrin fez parte de Wild Cards desde o início e contribuiu com uma história em *Joker Moon*, o volume mais recente da série à época de seu falecimento. Martin escreveu:
+
+> "Sem o jogo dele, nunca teria existido uma série Wild Cards."
+
+### Worlds of Wonder e BRP
+**James Davis Nicoll**, escrevendo no TOR, destacou a contribuição de Perrin ao **Worlds of Wonder** e ao BRP como sistema genérico — "a primeira vez que encontrei uma tentativa de estabelecer o santo graal dos RPGs: o sistema universal de roleplaying."
+
+### Shannon Appelcline
+Para uma visão geral completa da carreira de Perrin como designer de RPG, veja a entrada de Shannon Appelcline em *Advanced Designers & Dragons* no RPG.net.
 
 ### Vida Pessoal
 Perrin foi casado com **Luise Perenne** (Luise Perrin), cujo nome e arte também graciaram a capa da primeira edição de RuneQuest. Ele estava recentemente fazendo crowdfunding para o cuidado de sua esposa. Faleceu em 3 de agosto de 2021.
 
 ## Referências
 - Fonte: [Journal of Runic Studies #9](raw/clippings/Journal of Runic Studies 9.md)
+- Fonte: [Journal of Runic Studies #10](raw/clippings/Journal of Runic Studies 10.md)
 - [Chaosium Blog: Vale and Farewell Steve Perrin](https://www.chaosium.com/blogvale-and-farewell-steve-perrin-1946-2021/)
+- [George R.R. Martin: Farewell to an Ace](https://georgerrmartin.com/notablog/2021/08/15/farewell-to-an-ace/)
+- [James Davis Nicoll: Steve Perrin's Worlds of Wonder (TOR)](https://www.tor.com/2021/08/20/steve-perrins-worlds-of-wonder-changed-the-game-for-rpgs/)
+- [Shannon Appelcline: Advanced Designers & Dragons](https://www.rpg.net/columns/advanced-designers-and-dragons/advanced-designers-and-dragons54.phtml)
 - [Steve Perrin's Final Design Work](https://www.chaosium.com/blogsteve-perrins-final-design-work-for-runequest-was-something-of-a-love-letter-to-his-wife-luise/)
 - [Anniceris Blog: Steve Perrin Eulogy (FR)](https://anniceris.blogspot.com/2021/08/steve-perrin-1946-2021.html)
 
 ## Questões em Aberto
-- [ ] Coletar mais detalhes sobre o envolvimento de Perrin na criação de Black Panther
+- [x] Coletar mais detalhes sobre o envolvimento de Perrin na criação de Black Panther
 - [ ] Investigar as regras alternativas SPQR de Perrin
+- [ ] Detalhar a história de Superworld e sua influência em Wild Cards
+- [ ] Coletar a entrada completa de Shannon Appelcline sobre Perrin

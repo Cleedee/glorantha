@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md"]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -18,7 +18,16 @@ O **Jonstown Compendium** é a plataforma de material criado por fãs para [[Run
 Em 2021, dois produtos do Jonstown Compendium foram nomeados na categoria "Community Content" do **Ennie Awards**: Allan Carey, Chris Gidlow (duas vezes!), Mike Hagen, Nick Brooke, Michael O'Brien, Jeff Richard e Greg Stafford.
 
 ### Company of the Dragon (Print-on-Demand)
-[[Andrew Logan Montgomery]] compartilhou provas de POD para **The Company of the Dragon**. Custos de impressão: ~$45 (Premium color) vs $20 (Standard). O preço de venda planejado era $29.99, com desconto de ~$10 no primeiro mês.
+[[Andrew Logan Montgomery]] compartilhou provas de POD para **The Company of the Dragon**. Custos de impressão: ~$45 (Premium color) vs $20 (Standard). O preço de venda planejado era $29.99, com desconto de ~$10 no primeiro mês. **Lançado em print** em agosto de 2021. Sequência de *Six Seasons in Sartar* (embora os dois sejam vagamente conectados).
+
+### South Pelorian Highlands
+**Anders Tonnberg**, autor de mapas de Balazar e Elder Wilds, lançou cartografia para o **South Pelorian Highlands** no DriveThruRPG. Inclui quatro mapas base (Players', Game Master's, Detailed e Political), em formatos hex-free e 5-mile hex.
+
+### LEGION em Print
+**Neil Gibson** colocou **LEGION** em promoção em honra ao lançamento de Company of the Dragon.
+
+### Armies and Enemies of Dragon Pass
+**Martin Helsdon**, autor da referência militar *The Armies and Enemies of Dragon Pass*, anunciou progresso em uma versão Print-on-Demand — 50 páginas da formatação estavam pendentes.
 
 ### Novidades Recentes (2026)
 

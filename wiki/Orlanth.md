@@ -2,7 +2,7 @@
 title: "Orlanth"
 category: "Entidade"
 tags: [deus, rei dos deuses, Orlanthi, tempestade, Glorantha]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 10.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -39,6 +39,21 @@ O culto de Orlanth em Sartar tem três aspectos principais:
 - **Thunderous** e **Barntar** são frequentemente encontrados em áreas rurais, ligados à adoração local de Ernalda
 - **Adventurous**, **Vinga** e **Rex** operam no nível tribal e acima
 
+### Os Quatro Braços de Orlanth
+Orlanth é frequentemente retratado com **quatro braços** — uma forma visual de mostrar sua notável variedade de habilidades e aspectos, maior que outros deuses. Cada braço carrega uma arma diferente:
+
+- **Espada**
+- **Trovão** (thunderbolt)
+- **Escudo**
+- **Cabeça de dragão** ou **machado**, ou às vezes a **lança de relâmpago**
+
+Em algumas representações, Orlanth tem três ou quatro cabeças — cada uma representando um aspecto diferente (Adventurous, Thunderous, Rex e Lightbringer). Este motivo inspira-se nos pilares de quatro cabeças **Svantovit** da mitologia eslava. Uma das faces é tipicamente feminina (provavelmente [[Vinga]], o aspecto feminino de Orlanth).
+
+Outra característica artística notável: Orlanth é sempre retratado **em movimento** — uma de suas Runas é a do Movimento.
+
+### Arte de Vinga
+**Katrin Dirim** produziu uma ilustração de [[Vinga]], descrita como filha de Orlanth ou como um aspecto feminino de Orlanth.
+
 ### Os Orlanthi
 Os Orlanthi são a cultura dominante em [[Sartar]]. Incluem diversos subgrupos:
 - **Orlanthi das Colinas** — Mais voltados para agricultura; usam cavalos preferencialmente como animais de carga e viagens
@@ -61,4 +76,5 @@ Os Orlanthi são a cultura dominante em [[Sartar]]. Incluem diversos subgrupos:
 ## Questões em Aberto
 - [ ] Quais são os mitos centrais de Orlanth?
 - [ ] Quantos subcultos de Orlanth existem documentados?
-- [ ] Como Vinga se relaciona com Orlanth Adventurous?
+- [x] Como Vinga se relaciona com Orlanth Adventurous? — Vinga é um aspecto feminino, representando guerreiras e aventureiras
+- [ ] Investigar as representações de Orlanth com quatro cabeças em diferentes culturas

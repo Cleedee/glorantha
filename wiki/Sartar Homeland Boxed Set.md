@@ -2,7 +2,7 @@
 title: "Sartar Homeland Boxed Set"
 category: "Fonte"
 tags: [sartar, boxed set, arte, chaosium, moda, tribal, clãs, Leika]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md"]
+sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -37,8 +37,40 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 - **Cartografia:** Matt Ryan.
 - **Fotos:** Jeff Richard.
 
+### Demografia dos Clãs de Sartar
+Jeff Richard compartilhou dados demográficos detalhados baseados no Boxed Set:
+
+- **157 clãs** em Sartar (excluindo Telmori e Pol-Joni)
+- **População média**: ~900 membros por clã, sendo ~600 adultos
+- **Tribo média**: ~6100 membros, divididos em ~7 clãs
+
+Distribuição de classes por clã (dos 600 adultos):
+- 180 servem na milícia
+- ~40 pertencem à aristocracia (sacerdotes e thanes)
+- ~400 são membros livres plenos
+- ~100 são arrendatários semilivres e dependentes
+- ~60 são não-livres
+
+Distribuição de cultos por clã médio:
+| Culto | Iniciados |
+|-------|-----------|
+| Orlanth | 200 |
+| Ernalda | 200 |
+| Yelmalio | 30 |
+| Sete Mães | 30 |
+| Issaries | 18 |
+| Humakt | 18 |
+| Chalana Arroy | 12 |
+| Lhankor Mhy | 12 |
+| Daka Fal | 12 |
+| Storm Bull | 12 |
+| Maran Gor | 6 |
+| Babeester Gor | 6 |
+| Eurmal | 6 |
+| Outros | 30 |
+
 ### Pockets de Boldhome
-Os "pockets" de Boldhome são moradias construídas por anões **(Mostali)** diretamente nas falésias da montanha. Organizados em:
+Os "pockets" de Boldhome são moradias construídas por anões **(Mostali)** diretamente nas falésias da montanha. Quase **um terço da população de Boldhome** vive nos Pockets Leste e Oeste. Organizados em:
 
 - **Terraces** (terraços): múltiplos níveis verticais
 - **Galleries** (galerias): coleções de moradias no mesmo nível. Tipicamente nomeadas após a galeria (ex: "Bonesmith Feasting Hall"). Uma gallery abriga "muitas famílias, geralmente organizadas em torno de atividades de guildas, clãs ou cultos"
@@ -50,6 +82,8 @@ Cada gallery possui:
 - Câmaras próximas aos hearths para urnas funerárias e santuários aos deuses da família
 - Canais de água corrente, alguns com latrinas de pedra
 - Iluminação por fogo ventilado por chaminés anãs misteriosas
+
+Os edifícios medem aproximadamente **15-20 metros quadrados**, com cada andar dividido em cômodos para uma unidade familiar (área de dormir, santuário, sala central com fogo de cozinha, banheiro). Múltiplas passagens existem entre estas "unidades familiares", e muitos edifícios se estendem profundamente na falésia — resultando em um labirinto em forma de favo de mel.
 
 Espaços comuns incluem: santuários a deuses Lightbringer e da Terra, forjas e fornos, banhos e salas de vapor (com mais chaminés anãs misteriosas).
 
