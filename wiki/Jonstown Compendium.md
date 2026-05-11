@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md"]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -31,6 +31,21 @@ Em 2021, dois produtos do Jonstown Compendium foram nomeados na categoria "Commu
 
 ### QAD: Pimper's Block
 **Drew Baker** compilou toda a série "Quick and Dirty" em um gigantesco PDF de **2000 páginas**. Inclui personagens detalhados, esquadrões de NPCs "mook", e notas sobre ocupações e culturas para todas as terras natais do RuneQuest rulebook.
+
+### Desire for Knowledge
+Aventura de **Niall Sullivan** em [[Jonstown]], ideal para quem terminou o Starter Set. Um sábio na Biblioteca de Jonstown contrata os PJs para recuperar um pergaminho perigoso em uma casa assombrada, antigamente pertencente a um oficial do Império Lunar.
+
+### The Way: Paths of Enlightenment
+**Paul Baker** sobre caminhos de iluminação em [[Kralorela]] e [[Teshnos]], incluindo disciplina de artes marciais e monges kralori. Companheiro de *Houses of Teshnos* e *Kralori Primer*.
+
+### Secrets of Dorastor: Personalities & Tactics
+**Simon Phipp** e Stormspearia continuam sua cobertura de [[Dorastor]] com mais de 100 páginas sobre os principais NPCs da área e suas táticas. Companheiro de *Secrets of Dorastor*.
+
+### Temple Hill: Acropolis
+**Dario Corallo** mapa VTT de uma "colina do templo" com vários locais e sugestões de encontros.
+
+### Big Rubble Campaign Map
+**Dario Corallo** mapa colorido do [[Big Rubble e Pavis|Big Rubble]] em estilo campanha.
 
 ### Novidades Recentes (2026)
 

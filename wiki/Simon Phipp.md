@@ -2,7 +2,7 @@
 title: "Simon Phipp"
 category: "Entidade"
 tags: [autor, Dorastor, Secrets of Dorastor, God Learners, campanha anos 80]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -19,6 +19,7 @@ Simon participava de um grupo onde cada membro narrava aventuras em uma região 
 
 ### Obras
 - **[[Secrets of Dorastor]]** — Guia de Dorastor e suas Terras Fronteiriças
+- **[[Secrets of Dorastor: Personalities & Tactics]]** — Mais de 100 páginas sobre NPCs de Dorastor e táticas (com Stormspearia)
 - **[[Holiday Dorastor - Spider Woods]]** — Produto adicional ambientado em Dorastor
 
 ### Entrevista

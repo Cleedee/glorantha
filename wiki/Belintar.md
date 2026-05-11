@@ -2,7 +2,7 @@
 title: "Belintar"
 category: "Entidade"
 tags: [deus-rei, país santo, kethaela, 1318]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -19,6 +19,16 @@ Deus-Rei do País Santo (Kethaela) a partir de 1318; conhecido por pouco interes
 - O País Santo sob seu governo era visto como parte do Outro Mundo manifestado no mundo mundano.
 - Deuses ou grandes monstros visitavam ocasionalmente o País Santo.
 - Muitos portões secretos para o Outro Mundo eram conhecidos.
+
+### Origem
+A origem de Belintar é propositalmente mantida ambígua. Greg Stafford e Jeff Richard concordaram em nunca publicar uma resposta definitiva. As quatro teorias populares no [[País Santo]] e [[Dragon Pass]] são:
+
+1. **Último dos God Learners** — Um heroquester da Segunda Era perdido no God Time.
+2. **Heroquester Poderoso da 2ª Era** — Especialista que levou séculos para sair do God Time.
+3. **Deus caído do Rio Celestial** — Caiu quando o Boat Planet desapareceu com o Fechamento dos Mares.
+4. **Gêmeo do Imperador Vermelho** — Uma contraparte lunar.
+
+Jeff Richard afirma que todas têm "fagulhas de verdade" e também falsidades. A única coisa definitivamente falsa: ele não era um viajante do tempo do futuro ou de outro mundo.
 
 ### Características
 - Pouco interesse em expansão ou aquisições territoriais.

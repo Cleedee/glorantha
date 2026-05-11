@@ -2,7 +2,7 @@
 title: "Arkat Caosban"
 category: "Entidade"
 tags: [heroi, heroquesting, caos, transcultural, queda, arkati, halikiv, Gbaji]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-09
 status: draft
 aliases:
@@ -67,6 +67,16 @@ Após a destruição do culto original pelos God Learners, vários grupos reivin
 - Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
 - Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
 - Jeff Richard no RuneQuest Facebook Group
+
+### Legado e Cultos Modernos
+Jeff Richard descreve o que cultos Arkat modernos podem ter acesso:
+- Feitiços de **feitiçaria** que Arkat ensinou
+- Conhecimento do **Plano Heróico**
+- Técnicas secretas de **Iluminação** (conhecidas apenas por poucos cultos)
+- **Espíritos** derrotados por ou aliados a Arkat
+- Magia rúnica viria de heróis menores — netos ou bisnetos de Arkat ou descendentes de algum companheiro ou amigo
+
+> "A verdadeira magia de Arkat está perdida para todos."
 
 ## Questões em Aberto
 - [ ] Detalhar as iniciações secretas de Arkat.

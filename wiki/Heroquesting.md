@@ -2,7 +2,7 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard]
-sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md", "raw/clippings/Journal of Runic Studies 6.md"]
+sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -26,6 +26,13 @@ De acordo com Jeff Richard ( designer atual de Glorantha na Chaosium):
 
 ### Histórico de Heroquesting
 > Arkat Caosban foi o primeiro indivíduo a descobrir heroquesting fora de um mito de culto específico. Ele passou por várias iniciações secretas (e excomunhões) que lhe deram uma visão transcultural incomum do mundo secreto do mito. Suas experiências pessoais deram-lhe pistas que ele seguiu, explorou e ensinou a outros.
+
+### A Lightbringers' Quest
+Jeff Richard esclarece que a Lightbringers' Quest **não é uma "quest de ressurreição"**. É uma quest para consertar o cosmos quando ameaçado por algo identificável com o Diabo:
+
+> "No final, Orlanth e os Lightbringers trazem de volta ao cosmos o que todos, deuses e mortais, precisam — o Compromisso Cósmico que possibilita a derrota do Diabo. O resultado é necessário mas indesejado — o Tempo. O cosmos sobrevive por causa disso e a Grande Ordem é restaurada."
+
+O propósito da Lightbringers' Quest de Harmast não foi ressuscitar Arkat, mas tornar possível a derrota de **Gbaji** (uma encarnação do Diabo).
 
 ### Do Alvorecer às Guerras Heroicas
 O heroquesting evoluiu ao longo das eras, de práticas ritualísticas de cultos específicos até descobertas individuais transculturais como as de Arkat.

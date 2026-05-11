@@ -2,7 +2,7 @@
 title: "Valley of Plenty"
 category: "Fonte"
 tags: [campanha, QuestWorlds, Jaldonkillers, crianças, Dundealos, Shawn Carpenter, Peggy Carpenter, review, Jonstown]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Jonstown Jottings 26 Valley of Plenty.md", "raw/clippings/Journal of Runic Studies 11.md"]
+sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Jonstown Jottings 26 Valley of Plenty.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -66,6 +66,13 @@ Em agosto de 2021, a **Troupe Games** anunciou o cancelamento de toda a sequênc
 > "Decidimos que nossos esforços são melhor direcionados à criação de nossas próprias regras e cenário, em vez de conteúdo para Glorantha. Valley of Plenty não está à venda agora. Não queremos decepcionar quem o comprou esperando ver o resto da saga desenvolvido."
 
 A versão impressa foi removida do DriveThruRPG após o aumento de preço do premium color, e posteriormente o PDF também foi removido.
+
+### Retorno: Valley of Plenty 2e
+Em dezembro de 2022, Shawn Carpenter anunciou que ele e Peggy estão **de volta ao trabalho** na "Saga dos Jaldonkillers". Estão produzindo **Valley of Plenty 2e** — uma versão remasterizada e expandida do primeiro livro:
+
+> "O trabalho está progredindo no Valley of Plenty 2e, um cenário de campanha iniciante para Glorantha para uso com as regras QuestWorlds da Chaosium. O novo livro será maior que o primeiro e conterá mais aventuras, sementes de história e atividades, além de informações de cenário expandidas."
+
+O **2º livro da Saga Jaldonkiller** será lançado simultaneamente com Valley of Plenty 2e.
 
 ### Estrutura do Livro
 

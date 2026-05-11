@@ -2,8 +2,8 @@
 title: "Aldryami"
 category: "Cultura"
 tags: [raça, elfos, Aldryami, elder race]
-sources: ["raw/clippings/Glorantha.md"]
-last_updated: 2026-04-27
+sources: ["raw/clippings/Glorantha.md", "raw/clippings/Journal of Runic Studies 80.md"]
+last_updated: 2026-05-10
 status: draft
 ---
 

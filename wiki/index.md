@@ -35,8 +35,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Inkarne]] | Atual Feathered Horse Queen; relacionamento com Argrath White Bull | `rainha` `sartar` `lunar` | draft |
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
 | [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
-| [[Belintar]] | Deus-Rei do País Santo; expirou 1616; Jar-Eel caça no Portal; Torneio quebrado alimenta Hero Wars | `deus-rei` `país santo` `1318` `Torneio` `Hero Wars` | draft |
-| [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça" pelos orlanthi | `deusa` `lunar` `orlanthi` | draft |
+| [[Belintar]] | Deus-Rei do País Santo; expirou 1616; Jar-Eel caça no Portal; Torneio quebrado alimenta Hero Wars; 4 teorias de origem | `deus-rei` `país santo` `1318` `Torneio` `Hero Wars` `origem` | draft |
+| [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça"; reconstruída de luas pré-históricas pelas Sete Mães | `deusa` `lunar` `orlanthi` `luas` `Sete Mães` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
 | [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
 | [[Orlanth]] | Rei dos deuses Orlanthi; Thunderous (50%), Adventurous (20%), Rex (25%), Vinga, Barntar; quatro braços/quatro aspectos | `deus` `rei` `Orlanthi` `culto` `Sartar` | draft |
@@ -146,7 +146,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hero Wars]] | Primeiro nome do sistema de Robin D. Laws para Glorantha (2000) | `sistema` `2000` `Robin Laws` | draft |
 | [[HeroQuest Glorantha]] | Versão Glorantha do HeroQuest; Moon Design 2015; marca vendida para Hasbro | `sistema` `Moon Design` `2015` | draft |
 | [[The Coming Storm]] | Volume 1 da campanha Red Cow; detalhamento do cenário | `campanha` `cenário` `Moon Design` | draft |
-| [[Valley of Plenty]] | Campanha QuestWorlds; 3 capítulos (criança→adulto); Dundealos; Os Selvagens; série cancelada 2021 | `campanha` `QuestWorlds` `Dundealos` | draft |
+| [[Valley of Plenty]] | Campanha QuestWorlds; 3 capítulos (criança→adulto); Dundealos; Os Selvagens; cancelada 2021, retorno 2022 com 2e | `campanha` `QuestWorlds` `Dundealos` | draft |
 | [[The Horse and His Children]] | Aventura QuestWorlds para público infanto-juvenil | `aventura` `infanto-juvenil` | draft |
 | [[Moon Design Publications]] | Editora de HeroQuest Glorantha; vendeu marca para Hasbro em 2020 | `editora` `Moon Design` | draft |
 | [[Hasbro]] | Adquiriu marca HeroQuest em 2020; motivou criação do QuestWorlds | `empresa` `marca` | draft |
@@ -186,6 +186,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 9]] | 9ª edição; Steve Perrin, Saird, Pockets Boldhome, Elmal vs Yelmalio | `periódico` `Steve Perrin` `Saird` `Elmal` `Yelmalio` | draft |
 | [[Journal of Runic Studies 10]] | 10ª edição; GRRM eulogia Perrin, quatro braços Orlanth, demografia clãs, exército sartarita | `periódico` `Steve Perrin` `Orlanth` `Sartar` `exército` | draft |
 | [[Journal of Runic Studies 11]] | 11ª edição; sete deusas da Terra filhas de Genert, Pendragon/Passions, Valley of Plenty cancelado | `periódico` `Genert` `Earth goddesses` `Valley of Plenty` `Pendragon` | draft |
+| [[Journal of Runic Studies 80]] | 80ª edição; origens Belintar, luas pré-históricas, deuses do mar, legado Arkat, iniciação Aldryami, Valley of Plenty 2e | `periódico` `Belintar` `Aldryami` `Arkat` `Valley of Plenty` `luas` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); Stafford+Perrin+Richard+Durall; 446 págs; capa Andrey Fetisov | `sistema` `2018` `7ª ed` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
@@ -272,7 +273,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Whitewall]] | Último reduto Orlanthi; cerco de 1620 pelo Império Lunar | `cidade` `cerco` `1620` | draft |
 | [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
-| [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde | `raça` `elfos` `Aldryami` | draft |
+| [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde; iniciação não-elfa brutal | `raça` `elfos` `Aldryami` `iniciação` | draft |
 | [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
 | [[Reaching Moon Megacorp]] | Empresa de David Hall; Tales of the Reaching Moon; títulos Jonstown | `empresa` `Jonstown` | draft |
 | [[Lismelder tribe]] | Tribo do Upland Marsh; detalhada em Marsh Attacks | `tribo` `Upland Marsh` | draft |
