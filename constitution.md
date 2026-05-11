@@ -7,9 +7,11 @@
 ## A. Princípios Fundamentais
 
 ### Domínio
+
 Pesquisa profunda, curadoria e síntese do universo fictício de **Glorantha** (mitologia, geografia, facções, sistemas de magia, lore, linhas temporais, cultos, runas, heroquestes).
 
 ### Idioma
+
 **Todo o conteúdo da wiki — páginas, resumos, logs, referências cruzadas e artefatos gerados — DEVE ser escrito em Português Brasileiro (pt-BR).** Sem exceções.
 
 ### Arquitetura
@@ -30,6 +32,7 @@ Pesquisa profunda, curadoria e síntese do universo fictício de **Glorantha** (
 **Regra de ouro:** O LLM **lê** de `/raw` e **escreve** em `/wiki`. Nunca o contrário.
 
 ### Modo de Ingestão
+
 Estritamente **um arquivo por vez**, com revisão humana no circuito:
 
 1. Ler **um único** arquivo fonte de `/raw/`.
@@ -87,12 +90,14 @@ Periodicamente, executar saúde da wiki:
 ## C. Indexação e Logging
 
 ### `wiki/index.md`
+
 - Catálogo orientado por conteúdo de **todas** as páginas da wiki.
 - Organizado por categorias.
 - Cada entrada: título, caminho, resumo de 1 linha, tags, status.
 - **Atualizado em cada ingestão.** Substitui RAG vetorial nesta escala.
 
 ### `wiki/log.md`
+
 - Registro cronológico **append-only** de todas as ações do sistema.
 - Formato obrigatório:
 
@@ -150,6 +155,7 @@ status: draft                # draft | em_revisao | estavel
 ```
 
 ### Convenções de Linkagem Interna
+
 - Usar **Obsidian-style** `[[Nome da Página]]` para todos os links internos.
 - O nome deve corresponder exatamente ao título da página de destino (case-sensitive).
 - Links para páginas inexistentes indicam trabalho futuro.
@@ -157,23 +163,23 @@ status: draft                # draft | em_revisao | estavel
 ### Categorias Padrão
 
 | Categoria     | Uso                                                        |
-|---------------|------------------------------------------------------------|
+| ------------- | ---------------------------------------------------------- |
 | `Entidade`    | Deuses, heróis, figuras históricas, NPCs importantes       |
 | `Localização` | Regiões, cidades, templos, marcos geográficos              |
-| `Evento`      | Batalhas, grandes sessões, heroquestes, marcos temporais    |
+| `Evento`      | Batalhas, grandes sessões, heroquestes, marcos temporais   |
 | `Magia`       | Feitiços, runas, sistemas mágicos, paths de iluminação     |
 | `Conceito`    | Ideias abstratas, mecânicas de jogo, cosmologia            |
-| `Fonte`       | Referências externas, livros, artigos, materiais de origem  |
+| `Fonte`       | Referências externas, livros, artigos, materiais de origem |
 | `Cultura`     | Povos, tribos, nações, organizações sociais                |
 | `Cronologia`  | Linhas temporais, eras, calendários                        |
 
 ### Status de Página
 
-| Status        | Significado                                          |
-|---------------|------------------------------------------------------|
-| `draft`       | Rascunho inicial, conteúdo incompleto                |
-| `em_revisao`  | Aguardando revisão humana                            |
-| `estavel`     | Conteúdo revisado e considerado confiável            |
+| Status       | Significado                               |
+| ------------ | ----------------------------------------- |
+| `draft`      | Rascunho inicial, conteúdo incompleto     |
+| `em_revisao` | Aguardando revisão humana                 |
+| `estavel`    | Conteúdo revisado e considerado confiável |
 
 ---
 
@@ -181,16 +187,17 @@ status: draft                # draft | em_revisao | estavel
 
 Todos os commits devem usar **Conventional Commits** com prefixos:
 
-| Prefixo       | Quando usar                                           |
-|---------------|-------------------------------------------------------|
-| `feat:`       | Nova página ou conteúdo adicionado à wiki             |
-| `fix:`        | Correção de erros, contradições ou informações        |
-| `docs:`       | Atualização de index, log, ou documentação do sistema  |
-| `chore:`      | Manutenção de estrutura, templates, configurações      |
-| `refactor:`   | Reorganização de conteúdo sem mudança semântica       |
-| `lint:`       | Resultado de revisão periódica de saúde               |
+| Prefixo     | Quando usar                                           |
+| ----------- | ----------------------------------------------------- |
+| `feat:`     | Nova página ou conteúdo adicionado à wiki             |
+| `fix:`      | Correção de erros, contradições ou informações        |
+| `docs:`     | Atualização de index, log, ou documentação do sistema |
+| `chore:`    | Manutenção de estrutura, templates, configurações     |
+| `refactor:` | Reorganização de conteúdo sem mudança semântica       |
+| `lint:`     | Resultado de revisão periódica de saúde               |
 
 **Exemplo:**
+
 ```bash
 git commit -m "feat: adicionar página sobre o Deus Orlanz"
 git commit -m "fix: corrigir data da Grande Sessão no index"

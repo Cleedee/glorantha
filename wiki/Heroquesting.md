@@ -46,11 +46,11 @@ Documentos acadêmicos de [[Jrustela]] sobre heroquesting experimental distingue
 Este tipo de heroquesting experimental — reviver os mitos sem roteiro fixo — tem potencial para ser revivido.
 
 ### Características
-- Habilidades mundanas são largely irrelevantes — este é o reino das Runas e magia
-- Limites materiais não se aplicam: coisas podem mudar de forma e tamanho; rios fluem uphill; pode-se respirar bajo o mar e caminhar no Céu; a paisagem pode mudar sem aviso
+- Habilidades mundanas são largamente irrelevantes — este é o reino das Runas e magia
+- Limites materiais não se aplicam: coisas podem mudar de forma e tamanho; rios fluem colina acima; pode-se respirar debaixo do mar e caminhar no Céu; a paisagem pode mudar sem aviso
 
 ### O Uso do Inconsciente Coletivo
-Esta não é a primeira vez que Jeff usa o "inconsciente coletivo" como referência ao heroquesting e ao Tempo Deus. É útil descrever heroquesting como "aventure-se no mundo dos mitos" em vez de toda essa questão de "reenactment de mitos" dos anos 1990 e início dos anos 2000.
+Esta não é a primeira vez que Jeff usa o "inconsciente coletivo" como referência ao heroquesting e ao Tempo Deus. É útil descrever heroquesting como "aventure-se no mundo dos mitos" em vez de toda essa questão de "reencenação de mitos" dos anos 1990 e início dos anos 2000.
 
 ### Arquétipos
 O foco em arquétipos é significativo. Quando Jeff roda um hero quest, os personagens encontram:

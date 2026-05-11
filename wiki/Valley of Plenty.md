@@ -119,5 +119,5 @@ A campanha está sendo mestreada por [[Claudio Torcato]] no servidor Discord man
 - [Valley of Plenty — DriveThruRPG](https://www.drivethrurpg.com/en/product/316797/valley-of-plenty)
 
 ## Questões em Aberto
-- [x] Quando serão publicados Rise of the Wildlings e Lances at Dusk? — Série cancelada pela Troupe Games em 2021
+- [ ] Quando serão publicados Rise of the Wildlings e Lances at Dusk? 
 - [x] A localização exata do Valley of Plenty em Glorantha é canônica ou adaptada pelo mestre? — Clã Blue Jay no sudoeste de Sartar (1602, 1605, 1607, 1608)
