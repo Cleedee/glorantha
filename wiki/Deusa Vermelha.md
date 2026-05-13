@@ -2,8 +2,8 @@
 title: "Deusa Vermelha"
 category: "Entidade"
 tags: [lunar, deusa, orlanthi, história]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 80.md"]
-last_updated: 2026-05-06
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 80.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -37,6 +37,15 @@ Conto orlanthi sobre a ascensão da Deusa Vermelha:
 - Partes do corpo como seres vivos independentes.
 - Sombra auto superior à original.
 - Não obedece às leis normais de criação e guerra.
+
+### Divindade do Caos
+Segundo Jeff Richard, a Deusa Vermelha é uma divindade do Caos, inequivocamente. Suas Runas: Lua, Caos, Vida. A Mestre do [[Morcego Carmesim]] (Crimson Bat) é uma lembrança constante desta conexão.
+
+As **Sete Mães**, porém, não são manchadas pelo Caos — estendem sua influência onde a Deusa Vermelha não alcança.
+
+**Perspectiva Lunar:** a Deusa Vermelha libertará o mundo do cativeiro e libertará as mentes e almas de todos.
+**Perspectiva Orlanthi:** ela é um dos Senhores do Terror, Gbaji renascido, e a arauto de uma nova Guerra dos Deuses.
+**Ambos os pontos de vista são provavelmente verdadeiros.**
 
 ### Relação com Jar-Eel
 Jar-Eel, conhecida como "Rainha-Bruxa de Sangue Venenoso", é uma figura proeminente do culto da Deusa Vermelha e acusada de assassinar Belintar.

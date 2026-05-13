@@ -153,7 +153,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Wyrms' Footnotes]] | Revista da Chaosium; documentou campanha Colymar de Greg Stafford | `revista` `Chaosium` `Colymar` | draft |
 | [[The Red Cow]] | Campanha HeroQuest→QuestWorlds; clã sartarita libertação; Moon Design | `campanha` `HeroQuest` `Sartar` | draft |
 | [[The Eleven Lights]] | Volume 2 de The Red Cow; aventuras; atualizado para QuestWorlds | `campanha` `QuestWorlds` | draft |
-| [[Hero Wars]] | Primeiro nome do sistema de Robin D. Laws para Glorantha (2000) | `sistema` `2000` `Robin Laws` | draft |
+| [[Hero Wars]] | Sistema original de Glorantha (2000); também as Guerras Heroicas — conflito multifacetado entre deuses, Caos, sombras e renovação de Nysalor-Gbaji vs Arkat | `sistema` `guerras heroicas` `Jeff Richard` | draft |
 | [[HeroQuest Glorantha]] | Versão Glorantha do HeroQuest; Moon Design 2015; marca vendida para Hasbro | `sistema` `Moon Design` `2015` | draft |
 | [[The Coming Storm]] | Volume 1 da campanha Red Cow; detalhamento do cenário | `campanha` `cenário` `Moon Design` | draft |
 | [[Valley of Plenty]] | Campanha QuestWorlds; 3 capítulos (criança→adulto); Dundealos; Os Selvagens; cancelada 2021, retorno 2022 com 2e | `campanha` `QuestWorlds` `Dundealos` | draft |
@@ -270,6 +270,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Eyes' Rise]] | Vilarejo no Rio dos Berços; 19 NPCs; River Folk | `sourcebook` `Jonstown` | draft |
 | [[Cults of Prax]] | Suplemento seminal (1979); primeiro "splatbook"; religião como centro cultural; Biturian Varosh | `suplemento` `clássico` `Prax` `cultos` `Biturian Varosh` | draft |
 | [[Journal of Runic Studies 12]] | 12ª edição; regras batalha em massa, geografia Sartar, Chalana Arroy, Eurmal, Jonstown | `periódico` `malkioni` `Sartar` `Chalana Arroy` `Eurmal` `White Bull` | draft |
+| [[Journal of Runic Studies 13]] | 13ª edição; 2º turno Batalha Rainhas, clãs pequenos Culbrea, Gorangian, Hero Wars, Deusa Caos, cidades lunares | `periódico` `malkioni` `White Bull` `Hero Wars` `Lunars` `Sartar` | draft |
+| [[Furthest]] | Cidade lunar fundada com Boldhome; rota comercial cobre; Alexandria Eschate | `cidade` `Lunar` `Dragon Pass` `Hon-eel` | draft |
 
 ---
 
@@ -310,3 +312,4 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
 *Última atualização: 2026-05-13*
+

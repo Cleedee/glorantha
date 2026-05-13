@@ -2,7 +2,7 @@
 title: "God Learners"
 category: "Fonte"
 tags: [podcast, Dorastor, Simon Phipp, entrevista, torre, malkioni, feitiçaria, arkat, monomito]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -43,6 +43,9 @@ Ver página dedicada: [[Monomito]].
 ### Episódio 3 do Podcast: Passions in RuneQuest
 O [episódio mais recente](https://godlearners.com/episode-3-passions-in-runequest/) (Set 2021) contou com [[David Scott]] da Chaosium, discutindo "personality mechanics" em RuneQuest — incluindo design histórico, anedotas de jogo e dicas de Mestre.
 
+### Edição #13
+A 13ª edição do Journal of Runic Studies foi publicada, cobrindo: segundo turno da Batalha das Rainhas, clãs pequenos sartaritas (Culbrea), Gorangian Bronzeguts e escribas, temas das Hero Wars, Deusa Vermelha como Caos, e cidades lunares.
+
 ### Atividades na Torre
 Continuam limpando e arquivando documentos, tabletes e artefatos deixados por ocupantes anteriores da [[Torre dos God Learners]].
 
@@ -56,6 +59,7 @@ Continuam limpando e arquivando documentos, tabletes e artefatos deixados por oc
 - [[Journal of Runic Studies 4]]
 - [[Journal of Runic Studies 5]]
 - [[Journal of Runic Studies 12]]
+- [[Journal of Runic Studies 13]]
 
 ## Referências
 - Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)

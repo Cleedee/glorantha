@@ -2,7 +2,7 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -25,6 +25,9 @@ status: draft
 - **Sim-Glorantha** — filosofia de design onde cultos modelam a ficção do cenário, não mecânicas de gameplay
 - **Teoria conspiratória Lunar** — Sete Mães são as verdadeiras cabeças do panteão; Deusa Vermelha é uma "atriz"
 - **PCs vs NPCs** — muitos suplementos de cultos são mais úteis para GMs que jogadores
+
+### Journal of Runic Studies #13
+Ludovic publicou a 13ª edição (13 de setembro de 2021), cobrindo: segundo turno da Batalha das Rainhas, clãs pequenos sartaritas, Gorangian Bronzeguts, temas das Hero Wars, natureza caótica da Deusa Vermelha, e geopolítica das cidades lunares.
 
 ### Journal of Runic Studies #12
 Ludovic é o autor da 12ª edição do Journal of Runic Studies (setembro de 2021), que cobre: preview das regras de batalha em massa da [[Campanha White Bull]], geologia de Sartar (trecho do Boxed Set), preceitos de [[Chalana Arroy]], o papel de [[Eurmal]] na sociedade Orlanthi, e novidades do [[Jonstown Compendium]].

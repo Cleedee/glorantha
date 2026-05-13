@@ -2,8 +2,8 @@
 title: "Hero Wars"
 category: "Fonte"
 tags: [sistema, RPG, HeroQuest, 2000, 2003, Robin D. Laws, Greg Stafford]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md"]
-last_updated: 2026-04-13
+sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Journal of Runic Studies 13.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -23,6 +23,18 @@ O nome original pretendido era **HeroQuest**, um termo antigo do cenário de Glo
 ### Segunda Edição — 2003
 Em 2003, foi lançada a segunda edição sob o nome de **HeroQuest**, quando a marca registrada do jogo de tabuleiro expirou. Esta edição era **livre de cenário**, podendo ser usada em qualquer mundo de fantasia.
 
+### As Guerras Heroicas na Lore (Jeff Richard)
+Segundo [[Jeff Richard]], as Guerras Heroicas são um conflito multifacetado que vai muito além do confronto Império Lunar vs Sartar:
+
+1. **Camada superficial:** Conflito entre o expansionista Império Lunar e os Orlanthi tradicionais em Sartar
+2. **Camadas profundas:** Conflito entre deuses e Caos; entre antagonistas e suas Respectivas Sombras; entre Raças Antigas e humanidade; renovação das guerras antigas entre [[Nysalor]]-Gbaji e [[Arkat Caosban|Arkat]]
+3. **Inimigos jurados** podem lutar lado a lado contra antigos amigos
+4. **Verdades sagradas** serão expostas como falsas; novas verdades reveladas
+5. **Runas e associações:** todo gloranthano tem associações que causam influência entre o indivíduo e os deuses — as Runas são uma forma de entender esta conexão
+6. **A Sombra** dos personagens — a parte inconsciente que permanece mesmo quando conscientemente rejeitada
+
+> "Durante a campanha, orlanthi tradicionalistas podem aceitar a Iluminação e trabalhar com divindades lunares, e lunares devotos podem trabalhar com orlanthi rebeldes para destruir a própria Lua Vermelha."
+
 ### Linhagem do Sistema
 ```
 Hero Wars (2000) → HeroQuest (2003) → HeroQuest: Glorantha (2015) → QuestWorlds (2025)
@@ -38,7 +50,20 @@ Hero Wars (2000) → HeroQuest (2003) → HeroQuest: Glorantha (2015) → QuestW
 ## Referências
 - Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
 
+## Referências Cruzadas
+- [[HeroQuest Glorantha]]
+- [[QuestWorlds]]
+- [[Robin D. Laws]]
+- [[Greg Stafford]]
+- [[Glorantha]]
+- [[Campanha White Bull]]
+- [[Regras de Batalha em Massa]]
+
+## Referências
+- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds%20e%20Glorantha.md)
+- Fonte: [Journal of Runic Studies #13](raw/clippings/Journal%20of%20Runic%20Studies%2013.md)
+- Jeff Richard no RuneQuest Facebook Group, 2021
+
 ## Questões em Aberto
 - [ ] Quais eram as regras principais do Hero Wars?
 - [ ] Qual jogo de tabuleiro detinha a marca HeroQuest?
-- [ ] O que são exatamente as "Hero Wars" na lore de Glorantha?

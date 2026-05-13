@@ -2,8 +2,8 @@
 title: "Império Lunar"
 category: "Cultura"
 tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md"]
-last_updated: 2026-05-09
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 13.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -44,6 +44,17 @@ Segundo [[Jeff Richard]], o paradoxo central do Império Lunar é: nos últimos 
 Alguns filósofos sugerem que isto é [[Gbaji]] — não uma entidade, não um culto, mas **uma abordagem ao cosmos facilitada pela [[Iluminação]]**.
 
 > Como nas Guerras Gbaji, aqueles que se opõem à Deusa Vermelha adotarão seus próprios métodos para derrotá-la e mudarão o mundo no processo. Esta é a história mais antiga de Glorantha, e é a história das Guerras Heroicas.
+
+### Cidades Lunares (JRS #13)
+O Império Lunar é tanto uma rede de cidades e tribos, mantida unida por [[Glamour]] e pelo Caminho Lunar (e pelos recursos que estes podem reunir) e pela posição do Imperador Vermelho como imperador Dara Happano e shah Carmaniano.
+
+- **Furthest:** Fundada na mesma época que [[Boldhome]], por seguidores de [[Hon-eel]]. Cidade lunar, não tarshita. Comparação: [[Alexandria Eschate]]
+- **Glamour:** Centro cultural, religioso e político. Comparação: Antioquia (Roma) ou Bagdá (Seljúcidas)
+- **Dara Happan Tripolis:** Alkoth e Raibanth (duas de três)
+- **Jillaro-on-the-Green:** Centro artístico com Daughter's Roads
+- **Mirin's Cross:** Importância administrativa — como Mediolano ou Nicomédia sob Diocleciano
+
+**Títulos do Imperador Vermelho:** Moonson, Lorde dos Quatro Quartos, Bastão e Pilar de Deus, Líder dos Egi, Shah de Shahs, e o Brilhante e Ilustre Imperador de Dara Happa.
 
 ### Estrutura de Poder em Dara Happa
 - Famílias Yelmite são subservientes à instituição de **Moonson** (competindo para ser a próxima Máscara) — assim como Yelm é subserviente à Deusa Vermelha.

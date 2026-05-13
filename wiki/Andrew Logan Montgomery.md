@@ -2,8 +2,8 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md"]
-last_updated: 2026-05-09
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -38,6 +38,9 @@ Mini-campanha ambientada no Grande Inverno de 1622 em [[New Pavis]]. Aventureiro
 
 ### Company of the Dragon (POD)
 Montgomery produziu **The Company of the Dragon** para o Jonstown Compendium, que recebeu provas de Print-on-Demand e foi **lançado em print** em agosto de 2021. Sequência de *Six Seasons in Sartar* (embora vagamente conectados — é possível jogar um sem o outro). Custo de impressão estimado: $45 (Premium color) ou $20 (Standard).
+
+### Ensaio: Glorantha, Meaning, and Mythology (2021)
+Montgomery publicou post em seu blog sobre o papel dos mitos em Glorantha: "mitos dão significados, não fatos". Aborda a questão Elmal/Yelmalio, a Morte do Primeiro Imperador e a origem de Vinga, argumentando que deuses são expressões do numinoso, não seres com superpoderes. Inclui quatro "ajustes mentais" para ajudar jogadores e mestres a lidar com as complexidades do cenário.
 
 ### Blog
 - Ativo desde 2012

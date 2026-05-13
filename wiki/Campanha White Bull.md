@@ -2,7 +2,7 @@
 title: "Campanha White Bull"
 category: "Evento"
 tags: [white bull, chaosium, youtube, kallyr, lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -36,6 +36,14 @@ Na 2ª temporada, episódio 4, os jogadores aceitam a chamada do Mestre para uma
 - O grupo segue para [[Clearwine Fort]], com paradas e desvios no caminho.
 - Política da corte dos [[Colymar]].
 - **Jeff Richard** interpreta [[Orlanth]] respondendo à pergunta: "qual dos seus aspectos é o mais divertido?"
+
+### Segundo Turno — Batalha das Rainhas (JRS #13)
+No aftermath do primeiro turno de batalha:
+- Personagens atingidos por **Loucura Lunar** tiveram suas **Paixões e Runas possivelmente afetadas** — o Mestre Jeff Richard discutiu o significado com cada jogador individualmente
+- O grupo sobreviveu a uma saraivada de ataques de projéteis ao carregar contra os **Silver Shields**
+- **Nisk** rolou o maior teste de Orate já visto, impedindo uma parte do exército sartarita de fugir
+- O clímax da batalha foi atingido; os eventos principais parecem scriptados e definidos — a agência dos jogadores foca-se em "o que você vai fazer a respeito?"
+- Jeff disponibilizou um [rascunho do playbook](https://basicroleplaying.org/topic/10383-another-question-for-the-sages/?tab=comments#comment-154100) com tabelas de encontro e desdobramento rodada-a-rodada
 
 ### Batalha das Rainhas (JRS #12)
 A campanha White Bull chegou ao primeiro grande combate em massa: **a Batalha das Rainhas**, com o exército sartarita (liderado por [[Kallyr Testa-Estrelada]]) enfrentando as forças Lunares perto de Old Top.

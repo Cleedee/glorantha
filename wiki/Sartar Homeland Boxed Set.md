@@ -2,7 +2,7 @@
 title: "Sartar Homeland Boxed Set"
 category: "Fonte"
 tags: [sartar, boxed set, arte, chaosium, moda, tribal, clãs, Leika]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -142,6 +142,24 @@ Principal culto da Terra. Autoridade máxima sobre a terra, delegando áreas a c
 
 ### Outros Lightbringers em Sartar
 Chalana Arroy, Eurmal, Issaries e Lhankor Mhy são centrados nas cidades, não nos clãs — a Dinastia Sartar construiu templos para eles. Perspectiva mais ampla que cultos de clã/tribo; neutros em conflitos tribais. Durante a Ocupação Lunar, continuaram praticamente intocados. Humakt opera de forma similar.
+
+### Escribas e Cultura Letrada (JRS #13)
+Sartar é também um reino de escribas, textos e bibliotecas. Comparado a Pérgamo (enquanto Nochet é Alexandria):
+- ~1500 iniciados de [[Lhankor Mhy]] em Sartar (400 só em Boldhome)
+- Escrevem poemas, histórias, mitos, matemática, filosofia, drama e prosa de ficção
+- Maioria vive em centros urbanos — templos, bibliotecas e patronos nas cidades; poucos em clãs rurais
+- Sustentados pela riqueza do comércio
+
+### Pequenos Clãs sob Estresse (JRS #13)
+A tribo Culbrea exemplifica o impacto da Ocupação Lunar e Rebelião:
+- 4 clãs "estáveis" (Elk, Jotaring, Lorthing, Mathiording) com ~750 membros
+- 5 clãs pequenos (~300 membros): Barlamani, Blue Spruce, Orlamanni, Owl, Red Vireo
+- Clãs pequenos: caçadores, bandos de saque ou ordens religiosas — líder, comitiva e seguidores
+- Ocupam terras contestadas ou marginais
+- Jeff Richard espera que 2-3 se desfaçam ou fundam para sobreviver
+
+### Gorangian Bronzeguts
+Chefe bibliotecário do Templo do Conhecimento de Jonstown. Originalmente de Esrolia. Exemplo de sartarita importante fora da aristocracia marcial ou templos da Terra. Epíteto "Bronzeguts" referencia o estudioso grego Didymus Chalcenterus.
 
 ### Cronograma de Produção
 - Após *Weapons & Equipment Guide* (em layout) e *Cults of Glorantha* (gigante).
