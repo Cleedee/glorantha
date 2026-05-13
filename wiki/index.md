@@ -269,6 +269,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Stafford House Campaign]] | Arquivos de Greg Stafford 1978-1981; 84p; Berkeley | `sourcebook` `Chaosium` `arquivo` | draft |
 | [[Eyes' Rise]] | Vilarejo no Rio dos Berços; 19 NPCs; River Folk | `sourcebook` `Jonstown` | draft |
 | [[Cults of Prax]] | Suplemento seminal (1979); primeiro "splatbook"; religião como centro cultural; Biturian Varosh | `suplemento` `clássico` `Prax` `cultos` `Biturian Varosh` | draft |
+| [[Journal of Runic Studies 12]] | 12ª edição; regras batalha em massa, geografia Sartar, Chalana Arroy, Eurmal, Jonstown | `periódico` `malkioni` `Sartar` `Chalana Arroy` `Eurmal` `White Bull` | draft |
 
 ---
 
