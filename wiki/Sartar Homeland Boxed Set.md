@@ -2,8 +2,8 @@
 title: "Sartar Homeland Boxed Set"
 category: "Fonte"
 tags: [sartar, boxed set, arte, chaosium, moda, tribal, clãs, Leika]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md"]
-last_updated: 2026-05-09
+sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -32,6 +32,26 @@ Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (R
 ### Organização Tribal
 - Gráfico de organização tribal e de clãs, conforme notas de Jeff Richard.
 - Nota humorística: Eurmal teria introduzido apresentações de PowerPoint e organogramas nas tradições orlanthi.
+
+### Geografia de Sartar (Trecho do Boxed Set)
+Jeff Richard compartilhou um trecho de duas páginas sobre a geografia de Sartar, confirmando que é uma região **sismicamente ativa** — explicando a importância do culto de [[Maran Gor]] especialmente ao redor de [[Kero Fin]].
+
+**Relevo:**
+- Elevação mínima: 700m (Duck Point)
+- Pico máximo: 3120m (Monte [[Quivin Mountains|Quivin]])
+- Paisagem cárstica sobre planalto dissecado de calcário e arenito
+- Formado quando oceanos cobriram a terra na Escuridão Menor
+- Durante a Guerra dos Deuses, rochas originais foram dobradas por intrusões ígneas de granito e quartzito
+- Deuses da tempestade desgastaram-nas até colinas ondulantes, buttes e mesas
+- Rios escavaram vales tortuosos mas férteis
+
+**Montanhas Quivin:**
+> "As Montanhas Quivin são massas plutônicas de granito que irromperam através do calcário circundante durante a Guerra dos Deuses. São filhos e filhas de Lodril, o grande Deus do Fogo sob a terra, e de Kero Fin, a Mãe das Montanhas."
+
+**Principais Rios:**
+- [[Creek-Stream River]]: 700km de extensão (Skyfall Lake → Choralinthor Bay)
+- Profundidade típica: 3-4m; largura: 100-200m
+- Surpreendentemente raso — explica a falta de tráfego fluvial em Sartar
 
 ### Mapa de Boldhome
 - **Cartografia:** Matt Ryan.

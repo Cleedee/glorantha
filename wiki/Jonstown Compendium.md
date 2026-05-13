@@ -2,8 +2,8 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 80.md"]
-last_updated: 2026-05-09
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 80.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -34,6 +34,12 @@ Em 2021, dois produtos do Jonstown Compendium foram nomeados na categoria "Commu
 
 ### Desire for Knowledge
 Aventura de **Niall Sullivan** em [[Jonstown]], ideal para quem terminou o Starter Set. Um sábio na Biblioteca de Jonstown contrata os PJs para recuperar um pergaminho perigoso em uma casa assombrada, antigamente pertencente a um oficial do Império Lunar.
+
+### The Bad Winds (Setembro 2021)
+**Austin Conrad** lançou *The Bad Winds* (Monster of the Month), descrevendo elementais do ar corrompidos por [[Mallia]], a deusa da doença. Inclui um mito curto de [[Kolat]]. Ver página dedicada: [[The Bad Winds]].
+
+### Houses of Teshnos — Atualização
+**Paul Baker** adicionou mais de 40 páginas de conteúdo ao seu sourcebook sobre [[Teshnos]]. Consulte o [[Jonstown Compendium Index 2021]] de Nick Brooke para detalhes das adições.
 
 ### The Way: Paths of Enlightenment
 **Paul Baker** sobre caminhos de iluminação em [[Kralorela]] e [[Teshnos]], incluindo disciplina de artes marciais e monges kralori. Companheiro de *Houses of Teshnos* e *Kralori Primer*.

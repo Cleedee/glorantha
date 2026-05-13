@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-09
+last_updated: 2026-05-13
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -53,6 +53,11 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Jabba]] | PJ criança; filho de comerciante | `PJ` `comércio` | draft |
 | [[Lawrence Whitaker]] | Autor Mongoose/Glorantha: Dragonewts, Mostali, Fronela, Pavis, Dara Happa | `autor` `Mongoose` | draft |
 | [[David Hall]] | Autor Jonstown; vencedor Greg Stafford Memorial Award 2024; líder Reaching Moon Megacorp | `autor` `Jonstown` `award` | draft |
+| [[Chalana Arroy]] | Deusa da cura e paz; juramento de não-violência; divisão Sweepers/Keepers | `deusa` `cura` `Lightbringers` `não-violência` | draft |
+| [[Eurmal]] | Deus trickster orlanthi; palhaços sagrados; disruptores sociais; bodes expiatórios | `deus` `trickster` `Orlanthi` `caos` `clowns` | draft |
+| [[Maran Gor]] | Deusa dos terremotos; culto propiciatório em Sartar; aceita sacrifício humano | `deusa` `terremoto` `Sartar` `sacrifício` | draft |
+| [[Kero Fin]] | Mãe das Montanhas; consorte de Lodril; progenitora das Montanhas Quivin | `deusa` `montanhas` `Quivin` `Lodril` | draft |
+| [[Biturian Varosh]] | Viajante icônico de Cults of Prax; narrativa diegética nas margens do livro | `personagem` `viajante` `Prax` `Cults of Prax` | draft |
 
 ---
 
@@ -84,6 +89,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Alkoth]] | Cidade Dara Happana, borda do Pântano Henjarl; entrada para o Submundo; culto de Shargash | `cidade` `Dara Happa` `Submundo` `Shargash` | draft |
 | [[Pelória]] | Bacia Pelória; celeiro do Império Lunar; clima, vestuário, pré-história das culturas equinas | `região` `Peloria` `Império Lunar` `clima` | draft |
 | [[Saird]] | Região das Províncias Lunares; lar original de Yelmalio; história desde Conselho Quebrado | `região` `Yelmalio` `Império Lunar` `Saird` | draft |
+| [[Quivin Mountains]] | Cordilheira central de Sartar; pico 3120m; granito plutônico; filhos de Lodril e Kero Fin | `montanhas` `Sartar` `geologia` `granito` | draft |
+| [[Creek-Stream River]] | Principal rio de Sartar; 700km de Skyfall Lake a Choralinthor Bay; 3-4m profundidade | `rio` `Sartar` `hidrografia` `Nochet` | draft |
 
 ---
 
@@ -93,6 +100,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
 | [[Tratado da Sétima Lua Minguante]] | Acordo comercial Lunar-Dorastano de 1580; Ralzakark + Amal-See Calax; 14 vitrais | `tratado` `1580` | draft |
+| [[Campanha White Bull]] | Campanha casa Chaosium; Batalha das Rainhas; preview regras combate em massa | `white bull` `youtube` `kallyr` `regras batalha` | draft |
 
 ---
 
@@ -131,6 +139,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Guilda Trabalhadores em Bronze]] | Guilda Boldhome; culto Gustbran; exemplo guildas Sartar | `boldhome` `guilda` `gustbran` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
 | [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; paradoxo: pacífico mas maior ameaça cósmica; Gbaji como abordagem | `lunar` `império` `população` `Dara Happa` `Gbaji` | draft |
+| [[Regras de Batalha em Massa]] | Sistema de combate em massa RQG; Guiding Passion; posturas; Hero Soul | `regras` `combate` `batalha` `RuneQuest` | draft |
+| [[The Bad Winds]] | Elementais do ar corrompidos por Mallia; invocados acidentalmente | `elementais` `Mallia` `doença` `Jonstown` | draft |
 
 ---
 
@@ -258,6 +268,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Marsh Attacks]] | Sourcebook 120p (2026); David Hall; Upland Marsh; durulz; Lismelder/Greydog; Blackthorn | `sourcebook` `Jonstown` | draft |
 | [[Stafford House Campaign]] | Arquivos de Greg Stafford 1978-1981; 84p; Berkeley | `sourcebook` `Chaosium` `arquivo` | draft |
 | [[Eyes' Rise]] | Vilarejo no Rio dos Berços; 19 NPCs; River Folk | `sourcebook` `Jonstown` | draft |
+| [[Cults of Prax]] | Suplemento seminal (1979); primeiro "splatbook"; religião como centro cultural; Biturian Varosh | `suplemento` `clássico` `Prax` `cultos` `Biturian Varosh` | draft |
 
 ---
 
@@ -297,4 +308,4 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-10*
+*Última atualização: 2026-05-13*

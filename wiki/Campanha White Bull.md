@@ -2,8 +2,8 @@
 title: "Campanha White Bull"
 category: "Evento"
 tags: [white bull, chaosium, youtube, kallyr, lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md"]
-last_updated: 2026-05-09
+sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -37,6 +37,19 @@ Na 2ª temporada, episódio 4, os jogadores aceitam a chamada do Mestre para uma
 - Política da corte dos [[Colymar]].
 - **Jeff Richard** interpreta [[Orlanth]] respondendo à pergunta: "qual dos seus aspectos é o mais divertido?"
 
+### Batalha das Rainhas (JRS #12)
+A campanha White Bull chegou ao primeiro grande combate em massa: **a Batalha das Rainhas**, com o exército sartarita (liderado por [[Kallyr Testa-Estrelada]]) enfrentando as forças Lunares perto de Old Top.
+
+Jeff Richard demonstrou um preview das **regras de combate em massa**:
+- Unidades listadas: milícias provinciais lunares, Cavalaria Tarshita, Silver Shields, Antelope Lancers, Granite Phalanx, Magos Lunares
+- Kallyr decide carregar contra os Lunars (rolagem de Batalha)
+- Mecânica de **Guiding Passion** (Paixão Guia) como meta-moeda para motivar tropas
+- Posturas: Reckless, Brave, Cautious, Cowardly
+- Mechanica de **Hero Soul** despertada em heroquest → bônus contra magia
+- Ver página dedicada: [[Regras de Batalha em Massa]]
+
+> Nota: Jeff Richard deixa claro que apenas alguns NPCs (Argrath, Harrek, Jar-eel, Imperador Vermelho) têm "plot armor". Kallyr e Leika podem sobreviver ou morrer de forma a alterar o meta-enredo.
+
 ### Contexto
 - Provavelmente relacionada a Argrath White Bull e eventos das Guerras Heroicas.
 - Campanha oficial da Chaosium, demonstrando regras e cenários de RuneQuest.
@@ -47,6 +60,7 @@ Na 2ª temporada, episódio 4, os jogadores aceitam a chamada do Mestre para uma
 - [[Lightbringers]]
 - [[Heroquesting]]
 - [[Guerras Heroicas]]
+- [[Regras de Batalha em Massa]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
@@ -55,4 +69,4 @@ Na 2ª temporada, episódio 4, os jogadores aceitam a chamada do Mestre para uma
 ## Questões em Aberto
 - [ ] Confirmar se há mais informações sobre esta campanha específica.
 - [ ] Verificar se há vídeos arquivados no canal da Chaosium.
-- [ ] Detalhar quais regras de RuneQuest são demonstradas.
+- [ ] As regras de batalha em massa foram publicadas oficialmente?

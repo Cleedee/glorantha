@@ -2,8 +2,8 @@
 title: "Torre dos God Learners"
 category: "Localização"
 tags: [god learners, malkioni, torre, biblioteca, lhankor mhy]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
-last_updated: 2026-05-07
+sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 12.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -23,6 +23,9 @@ Nova morada dos God Learners; história: escola malkioni de feitiçaria (2ª Era
 - **Nível espaçoso**: Laboratório dos God Learners.
 - **Outro nível**: Biblioteca.
 - **Edifícios anexos**: Alojamentos para servos e convidados.
+
+### Ocupação Atual (JRS #12)
+Os God Learners continuam ocupando a torre e o processo de limpeza, catalogação e arquivamento de documentos, tabletes, artefatos e "outros tipos de lixo" deixados por ocupantes anteriores. As descobertas mais interessantes são compartilhadas com o público.
 
 ### Atividades Recentes
 - Processo de limpeza, organização e arquivamento de itens deixados pelos ocupantes anteriores.

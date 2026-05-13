@@ -2,8 +2,8 @@
 title: "Prax"
 category: "Localização"
 tags: [região, Prax, nômades, bisontes, cavalos, RuneQuest, fonte]
-sources: ["raw/notas/Publicações Futuras.md"]
-last_updated: 2026-04-14
+sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 12.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -16,6 +16,11 @@ status: draft
 
 ### A Região
 Prax é uma vasta região associada a povos nômades, incluindo os **jinetes de bisontes** mencionados em aventuras do Jonstown Compendium. Historicamente, as primeiras edições de RuneQuest eram mais dedicadas a Prax, por ser uma região ainda livre do [[Império Lunar]].
+
+### Origem Mítica (Segundo Jeff Richard)
+> "Prax era amada de Eiritha e era fértil e agradável, mas sua essência ela deu para ajudar o Storm Bull contra o Diabo. A superfície da terra agora é argila dura e areia, sobre camadas de calcário."
+
+Esta origem mitológica explica o contraste entre as planícies áridas de Prax e as terras férteis de [[Sartar]].
 
 ### Publicação Futura
 - **Status:** Manuscrito voltou da edição

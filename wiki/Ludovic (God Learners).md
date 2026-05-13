@@ -2,8 +2,8 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md"]
-last_updated: 2026-04-14
+sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md"]
+last_updated: 2026-05-13
 status: draft
 ---
 
@@ -26,9 +26,13 @@ status: draft
 - **Teoria conspiratória Lunar** — Sete Mães são as verdadeiras cabeças do panteão; Deusa Vermelha é uma "atriz"
 - **PCs vs NPCs** — muitos suplementos de cultos são mais úteis para GMs que jogadores
 
+### Journal of Runic Studies #12
+Ludovic é o autor da 12ª edição do Journal of Runic Studies (setembro de 2021), que cobre: preview das regras de batalha em massa da [[Campanha White Bull]], geologia de Sartar (trecho do Boxed Set), preceitos de [[Chalana Arroy]], o papel de [[Eurmal]] na sociedade Orlanthi, e novidades do [[Jonstown Compendium]].
+
 ### Podcast
 - **[God Learners](https://godlearners.com/)** — podcast sobre Glorantha
 - Episódios notáveis: Ep. 23 (Arkat), Ep. 24 (Gbaji War), Ep. 27 (Cults of RuneQuest), Ep. 35 (Secrets of Dorastor com Simon Phipp)
+- Ep. 3 (Passions in RuneQuest) com David Scott da Chaosium
 
 ## Referências Cruzadas
 - [[God Learners]]

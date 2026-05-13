@@ -5,7 +5,8 @@ tags: [Kallyr, Starbrow, rebelião, Sartar, HeroQuest, líder, rex, orlanth, Ern
 sources:
   - raw/clippings/Drops Glorantha 4 - Trollball.md
   - raw/clippings/Journal of Runic Studies 5.md
-last_updated: 2026-05-09
+  - raw/clippings/Journal of Runic Studies 12.md
+last_updated: 2026-05-13
 status: draft
 aliases:
   - "Kallyr Starbrow"
@@ -23,6 +24,16 @@ A Rebelião de Starbrow foi um conflito em Sartar no qual Kallyr Testa-Estrelada
 
 ### Contexto
 A rebelião se insere no contexto mais amplo da luta dos clãs sartaritas contra a ocupação do **Império Lunar**. A cronologia da Wyrms' Footnotes nº 11 situa a invasão Lunar de Prax e Pavis em 1610, seguida pela campanha de conquista de Sartar em 1611.
+
+### A Batalha das Rainhas (JRS #12)
+Em 1621, Kallyr liderou o exército sartarita na **Batalha das Rainhas** contra as forças Lunares perto de Old Top, como parte da [[Campanha White Bull]]. Durante a batalha:
+
+- Os jogadores nomearam Kallyr como band leader
+- Kallyr decidiu carregar contra os Magos Lunares (rolagem de Batalha)
+- Guiding Passion dos sartaritas era provavelmente Lealdade (Sartar)
+- Aventureiros com Hero Soul despertada ganhavam bônus para resistir magia lunar
+
+Jeff Richard indicou que NPCs como Kallyr podem sobreviver ou morrer de forma a alterar o meta-enredo — ela não tem "plot armor" como Argrath, Harrek ou Jar-eel.
 
 ### O Teste da Coroa
 Os personagens da campanha Colymar realizaram um **Teste da Coroa** (Crown Test) na tentativa de conquistar o governo da tribo Colymar. Este teste é parte das aventuras que incluem a participação na Rebelião de Starbrow.
