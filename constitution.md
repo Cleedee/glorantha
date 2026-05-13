@@ -26,6 +26,8 @@ Pesquisa profunda, curadoria e síntese do universo fictício de **Glorantha** (
 │   ├── log.md       ← Log cronológico append-only de todas as ações
 │   ├── assets/      ← Imagens e mídia local
 │   └── *.md         ← Páginas individuais da wiki
+├── scripts/         ← Ferramentas auxiliares de manutenção
+│   └── sync_readme.py  ← Sincroniza tabelas do README.md com a wiki
 └── .gitignore
 ```
 
@@ -60,6 +62,7 @@ Nunca processe múltiplos arquivos de uma vez. Sempre pause para revisão.
     ↓  (aguardar aprovação)
 [Atualizar wiki/index.md]
 [Append em wiki/log.md]
+[python scripts/sync_readme.py]
 [git commit com prefixo: feat: / fix: / docs: / chore:]
 ```
 
@@ -73,6 +76,22 @@ Nunca processe múltiplos arquivos de uma vez. Sempre pause para revisão.
    - **Tabelas comparativas**
    - **Linhas temporais**
 3. Salvar outputs gerados de volta na wiki para compor conhecimento.
+
+### Workflow: Sync (Sincronização do README)
+
+Sempre que a wiki for modificada (ingestão, criação ou atualização de páginas), **execute o script de sincronização** para manter o `README.md` atualizado:
+
+```bash
+python scripts/sync_readme.py
+```
+
+O script:
+1. Lê o `category` do frontmatter de todas as páginas em `/wiki/` (excluindo `index.md` e `log.md`)
+2. Conta páginas por categoria e atualiza a tabela **Categorias da Wiki**
+3. Conta arquivos fonte em `/raw/clippings/` e `/raw/notas/`, commits git, data atual, e atualiza a tabela **Estatísticas Atuais**
+4. Re-escreve apenas as duas tabelas no `README.md`, preservando o resto
+
+**Quando executar:** após cada ingestão, antes do commit final.
 
 ### Workflow: Lint (Revisão Periódica)
 
