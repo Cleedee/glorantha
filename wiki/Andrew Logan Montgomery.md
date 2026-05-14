@@ -40,7 +40,7 @@ Mini-campanha ambientada no Grande Inverno de 1622 em [[New Pavis]]. Aventureiro
 Montgomery produziu **The Company of the Dragon** para o Jonstown Compendium, que recebeu provas de Print-on-Demand e foi **lançado em print** em agosto de 2021. Sequência de *Six Seasons in Sartar* (embora vagamente conectados — é possível jogar um sem o outro). Custo de impressão estimado: $45 (Premium color) ou $20 (Standard).
 
 ### Ensaio: Glorantha, Meaning, and Mythology (2021)
-Montgomery publicou post em seu blog sobre o papel dos mitos em Glorantha: "mitos dão significados, não fatos". Aborda a questão Elmal/Yelmalio, a Morte do Primeiro Imperador e a origem de Vinga, argumentando que deuses são expressões do numinoso, não seres com superpoderes. Inclui quatro "ajustes mentais" para ajudar jogadores e mestres a lidar com as complexidades do cenário.
+Montgomery publicou ensaio influente sobre o papel dos mitos em Glorantha, argumentando que "mitos dão significados, não fatos". Aborda a questão Elmal/Yelmalio (ambos manifestações de Lightfore), a Morte do Primeiro Imperador (Dara Happan vs Humakti), e Vinga como um dos seis gêneros orlanthi. Inspirado por Bronislaw Malinowski, defende que deuses são expressões do numinoso, não seres com superpoderes. Inclui quatro "ajustes mentais" para jogadores e mestres. Ver página dedicada: [[Glorantha, Meaning, and Mythology]].
 
 ### Blog
 - Ativo desde 2012
