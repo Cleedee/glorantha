@@ -55,7 +55,7 @@ A wiki está organizada em **8 categorias**:
 | **Evento** | Batalhas, heroquestes, marcos temporais | 2 |
 | **Magia** | Feitiços, runas, sistemas mágicos | 1 |
 | **Conceito** | Ideias abstratas, mecânicas, cosmologia | 33 |
-| **Fonte** | Livros, suplementos, campanhas, aventuras | 103 |
+| **Fonte** | Livros, suplementos, campanhas, aventuras | 106 |
 | **Cultura** | Povos, tribos, nações, organizações | 17 |
 | **Cronologia** | Linhas temporais, eras, calendários | 0 |
 
@@ -128,9 +128,9 @@ Contribuições são bem-vindas! Se você é um jogador ou mestre de Glorantha:
 
 | Métrica | Valor |
 |---------|-------|
-| Páginas na wiki | 246 |
-| Fontes processadas | 65 |
-| Commits | 66 |
+| Páginas na wiki | 249 |
+| Fontes processadas | 66 |
+| Commits | 67 |
 | Última atualização | Maio 2026 |
 | Idioma | Português Brasileiro (pt-BR) |
 

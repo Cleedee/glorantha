@@ -276,6 +276,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 15]] | 15ª edição; aftermath Batalha Rainhas, Bearwalkers, Cups of Clearwine POD, The Black Spear, Griselda, freeforms | `periódico` `malkioni` `Bearwalkers` `Rathori` `Starter Set` `White Bull` `Griselda` | draft |
 | [[Furthest]] | Cidade lunar fundada com Boldhome; rota comercial cobre; Alexandria Eschate | `cidade` `Lunar` `Dragon Pass` `Hon-eel` | draft |
 | [[RuneQuest Starter Set]] | Conjunto introdutório RQG 2021; SoloQuest Vasana; Battle of Dangerford; Battle Result Total | `starter set` `RuneQuest` `Vasana` `SoloQuest` | draft |
+| [[Six Seasons in Sartar]] | Campanha ALM; best-seller Jonstown Compendium; perto do Platinum; grupo retorna em 2021 adaptado para RQG | `campanha` `Jonstown` `ALM` `Sartar` `Haraborn` | draft |
+| [[The Company of the Dragon]] | Sequência de Six Seasons in Sartar; POD agosto 2021; 45 vendas do Gold | `campanha` `Jonstown` `ALM` `sequência` | draft |
+| [[The Seven-Tailed Wolf]] | Livro planejado por ALM para primavera 2022; material cortado + novo cenário Haraborn | `suplemento` `Jonstown` `ALM` `Haraborn` | draft |
 | [[Bearwalkers]] | Sourcebook sobre os Rathori (werebears); Jamie Revell; Jonstown Compendium | `sourcebook` `Rathori` `werbears` `Jonstown` | draft |
 | [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
 | [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |

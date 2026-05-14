@@ -44,7 +44,7 @@ Grande noite para a comunidade Glorantha no ENNIE Awards durante a GenCon 2021:
 > "Os Lunares venceram o ENNIE." — Comentário de Ludovic, brincando que esta deve ser a linha do tempo "principal" de Glorantha.
 
 ### The Backstory of Six Seasons in Sartar
-**Andrew Logan Montgomery** blogou sobre como *Six Seasons in Sartar* se tornou um best-seller: começou como posts de sessão de jogo no blog que ganharam tração; leitores escreviam pedindo publicação. Eventualmente tornou-se um dos títulos mais vendidos do Jonstown Compendium.
+**Andrew Logan Montgomery** blogou sobre como *Six Seasons in Sartar* se tornou um best-seller: começou como posts de sessão de jogo no blog que ganharam tração; leitores escreviam pedindo publicação. Eventualmente tornou-se o **título mais vendido do Jonstown Compendium**, estando a apenas 85 cópias do status **Platinum** (setembro 2021). A sequência, *[[The Company of the Dragon]]*, estava a 45 vendas do status **Gold**. Montgomery também escreveu sobre os desafios de ser um escritor tendo que aprender layout, arte e produção gráfica durante o processo.
 
 ### Designer Notes: The Bad Winds
 **Austin Conrad** revelou que *The Bad Winds* começou como um antagonista numa aventura sobre doenças (*The Fouled Earth*) que foi engavetada por writer's block. O Monster of the Month #20 reaproveitou o antagonista com o mito "Kolat Vanquishes the Bad Winds" e regras para propiciação dos espíritos.
