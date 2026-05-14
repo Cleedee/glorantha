@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/clippings/Journal of Runic Studies 17.md",
+                "file": "raw/clippings/Trial and Tribulation A look at Kalayde Waters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal of Runic Studies 17"
+              "title": "Trial and Tribulation A look at Kalayde Waters"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,32 +197,32 @@
   },
   "active": "daa140db23f4975e",
   "lastOpenFiles": [
+    "wiki/Kalayde Waters.md",
+    "wiki/Calendário Gloranthano.md",
+    "raw/clippings/Trial and Tribulation A look at Kalayde Waters.md",
+    "raw/clippings/THE SACRED TIME, An Episode.md",
+    "wiki/Tempo Sagrado.md",
+    "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md",
+    "wiki/Touro da Tempestade.md",
+    "wiki/Daka Fal.md",
+    "wiki/Waha.md",
+    "wiki/Eiritha.md",
+    "wiki/As Terras Ermas.md",
+    "wiki/Nômades Animais.md",
+    "wiki/Andrew Logan Montgomery.md",
+    "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md",
+    "wiki/Harmast, o Descalço.md",
+    "wiki/journal-of-runic-studies-18.md",
+    "raw/clippings/Journal of Runic Studies 18.md",
+    "wiki/Caladra e Aurelion.md",
+    "wiki/Vamastal Greyskin.md",
+    "wiki/Wilmskirk.md",
+    "wiki/Caladraland.md",
+    "wiki/journal-of-runic-studies-17.md",
+    "raw/clippings/Journal of Runic Studies 17.md",
     "wiki/Sartar Free Army.md",
     "wiki/Haraspac.md",
     "wiki/Dart Wars.md",
-    "wiki/A Bad Day at Duck Rock.md",
-    "wiki/Korolstead.md",
-    "wiki/journal-of-runic-studies-17.md",
-    "wiki/journal-of-runic-studies-16.md",
-    "raw/clippings/Journal of Runic Studies 17.md",
-    "raw/clippings/Journal of Runic Studies 16.md",
-    "wiki/Templo da Lua Crescente.md",
-    "wiki/Yara Aranis.md",
-    "wiki/Hofstaring Treeleaper.md",
-    "wiki/Tribo Culbrea.md",
-    "wiki/Tribo Kheldon.md",
-    "wiki/Jallupel Goodwind.md",
-    "wiki/Andrew Logan Montgomery.md",
-    "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md",
-    "wiki/The Seven-Tailed Wolf.md",
-    "wiki/The Company of the Dragon.md",
-    "wiki/Six Seasons in Sartar.md",
-    "wiki/Griselda.md",
-    "raw/clippings/Journal of Runic Studies 15.md",
-    "wiki/The Black Spear.md",
-    "wiki/Cups of Clearwine.md",
-    "wiki/Rathori.md",
-    "wiki/Bearwalkers.md",
     "scripts/sync_readme.py",
     "scripts",
     "raw/Trollball-Rules-EN.pdf",
