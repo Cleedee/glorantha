@@ -1,9 +1,9 @@
 ---
 title: "Andrew Logan Montgomery"
 category: "Entidade"
-tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md"]
-last_updated: 2026-05-13
+tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário, pedagogia, ensino]
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md"]
+last_updated: 2026-05-14
 status: draft
 ---
 
@@ -59,6 +59,39 @@ Montgomery publicou uma review do [[RuneQuest Starter Set]] em seu blog, afirman
 
 ### Ensaio: Glorantha, Meaning, and Mythology (2021)
 Montgomery publicou ensaio influente sobre o papel dos mitos em Glorantha, argumentando que "mitos dão significados, não fatos". Aborda a questão Elmal/Yelmalio (ambos manifestações de Lightfore), a Morte do Primeiro Imperador (Dara Happan vs Humakti), e Vinga como um dos seis gêneros orlanthi. Inspirado por Bronislaw Malinowski, defende que deuses são expressões do numinoso, não seres com superpoderes. Inclui quatro "ajustes mentais" para jogadores e mestres. Ver página dedicada: [[Glorantha, Meaning, and Mythology]].
+
+### Pedagogia Gloranthana — "The Only Story You Need"
+Em abril de 2026, Montgomery publicou um artigo consolidando sua abordagem para introduzir novos jogadores a Glorantha, refinada em centenas de mesas ao longo dos anos.
+
+#### O Único Mito que Você Precisa Saber
+Montgomery reduz a cosmologia Gloranthana a uma narrativa concisa:
+
+> O cosmos emerge do Caos. Primeiro vem a Escuridão, depois a Água. A Terra emerge das águas e começa a Era Verde, a primavera do mundo. O Céu se ergue da terra e inicia a Era de Ouro, governada pelo deus sol. O mundo é abalado pelo nascimento dos deuses da Tempestade. Eles rasgam céu e terra para abrir espaço para si. Um deus da tempestade mata o sol, lançando o mundo na escuridão e inverno eterno. Isso inflama a Guerra dos Deuses. Os deuses caem em luta uns contra os outros, e o Caos reentra no mundo. Quase tudo morre. Num último esforço para salvar o cosmos, os deuses se amarram e criam o Tempo. O tempo dos deuses acabou. É o tempo das raças mortais. A história começa.
+
+#### Natureza Fractal do Mito
+Este mito é **fractal** — o padrão se repete em múltiplas escalas:
+- Nas **estações** de Glorantha
+- Nos **dias da semana**
+- Nas **Eras do Tempo** (começam explorando novos poderes, terminam em conflito e destruição)
+- Nos mitos de **divindades individuais** (cada deus explora como se encaixa nesta história)
+- Na **disposição das Runas Elementais** na ficha de personagem
+- Na **vida humana** (ventre → infância/Era Verde → juventude/Era de Ouro → luta e declínio → fim)
+
+> "Nós todos conhecemos esta história porque todos nós a *vivemos*."
+
+#### Metodologia de Ensino para Novos Jogadores
+Montgomery prescreve uma abordagem prática baseada em sua experiência:
+
+1. **Comece no Tempo Sagrado** (Sacred Time) — quando o mito acima é recontado dentro do jogo. Os *personagens* ouvem a história, não os *jogadores* antecipadamente
+2. **Jogue sazonalmente**, começando pela Estação do Mar (Sea Season) — deixe o padrão sazonal tornar-se óbvio durante o jogo
+3. **Pule a seção "História da Família"** na criação de personagem — o próprio RQG (p.29) a marca como opcional
+4. **Use a opção "Aventureiros Inexperientes"** (RQG p.25)
+5. **Pule a escolha de cultos** inicialmente — apresente deuses conforme necessário durante o jogo
+6. **Coloque novos jogadores no jogo em 20-30 minutos** com estas opções
+7. **Ensine o sistema e o cenário através do jogo**, não de leitura prévia
+8. **Evite personagens pré-gerados** em convenções — novos jogadores podem criar seus próprios personagens no mesmo tempo
+
+Montgomery cita *[[Six Seasons in Sartar]]* como seu modelo para esta abordagem. Todos os seus quatro jogadores atuais começaram como novatos completos usando este método e hoje são "nerds de Glorantha".
 
 ### Blog
 - Ativo desde 2012

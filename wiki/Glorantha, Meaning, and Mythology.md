@@ -1,9 +1,9 @@
 ---
 title: "Glorantha, Meaning, and Mythology"
 category: "Conceito"
-tags: [mitologia, significado, interpretação, Elmal, Yelmalio, Vinga, antropologia, Malinowski, Andrew Logan Montgomery]
-sources: ["raw/clippings/Glorantha, Meaning, and Mythology.md"]
-last_updated: 2026-05-13
+tags: [mitologia, significado, interpretação, Elmal, Yelmalio, Vinga, antropologia, Malinowski, Andrew Logan Montgomery, fractal]
+sources: ["raw/clippings/Glorantha, Meaning, and Mythology.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md"]
+last_updated: 2026-05-14
 status: draft
 ---
 
@@ -62,6 +62,21 @@ Deuses não são seres biológicos com superpoderes — são expressões do numi
 3. **Pare de ver mito como história.** O mito não aconteceu uma vez há muito tempo — acontece agora, continuamente, fora do Tempo.
 
 4. **Pare de ver mito como uma explicação única.** Presuma que diz pelo menos três coisas ao mesmo tempo, e uma delas será uma explicação de um fenômeno social.
+
+### A Natureza Fractal do Mito
+Em artigo posterior (abril de 2026), Montgomery expandiu o conceito: o mito central de Glorantha — Caos → Escuridão → Água → Terra/Era Verde → Céu/Era de Ouro → Tempestade/Tenebros → Guerra dos Deuses → Compromisso Cósmico/Tempo — é **fractal**.
+
+O mesmo padrão se repete em múltiplas escalas:
+- **Estações do ano** em Glorantha
+- **Dias da semana**
+- **Eras do Tempo** (cada uma começa explorando novos poderes e termina em conflito e destruição)
+- **Mitos de divindades individuais** — cada deus explora como se encaixa na história maior
+- **Disposição das Runas Elementais** na ficha de personagem
+- **Vida humana**: ventre (Escuridão/Água) → infância (Era Verde) → juventude (Era de Ouro) → luta e declínio → fim
+
+> "Nós todos conhecemos esta história porque todos nós a *vivemos*."
+
+Isto reforça o argumento central do ensaio: mitos não são fatos históricos, mas **padrões de significado** que operam em todos os níveis da existência — do cósmico ao pessoal.
 
 ## Referências Cruzadas
 - [[Monomito]]

@@ -26,7 +26,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Nysalor]] | Deus ambíguo; nascimento mostrado no romance de Stafford | `deus` `ambíguo` `Primeira Era` | draft |
 | [[Hahlgrim]] | Herói do videojogo RuneQuest Warlords contra o Caos | `herói` `Warlords` | draft |
 | [[Lokamayadon]] | Figura da Primeira Era mencionada no romance de Stafford | `Primeira Era` | draft |
-| [[Andrew Logan Montgomery]] | Escritor convidado para finalizar romance de Stafford; 5 meses isolado | `escritor` `A Pyre` | draft |
+| [[Andrew Logan Montgomery]] | Escritor, finalizou romance de Stafford; pedagogo Gloranthano — "The Only Story You Need" | `escritor` `A Pyre` `pedagogia` | draft |
 | [[Susan O'Brien]] | Editora do romance de Stafford; compilava manuscritos desde 2015 | `editora` `Chaosium` | draft |
 | [[Ralzakark]] | Rei dos Broos e Senhor de Dorastor; Tratado de 1580 com Império Lunar | `Broo` `Dorastor` | draft |
 | [[Dorasta]] | Deusa da terra de Dorastor; filha de Genert e Pelora | `deusa` `terra` | draft |
