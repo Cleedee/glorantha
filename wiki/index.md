@@ -314,9 +314,12 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Yara Aranis]] | Guardiã do Templo da Lua Crescente; teias expandem a Glowline | `entidade` `Lunar` `Glowline` `teia` | draft |
 | [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
 | [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |
+| [[Kalayde Waters]] | Aventura de tribunal Orlanthi; dois amantes desaparecidos, famílias rivais; regras de julgamento | `Jonstown` `aventura` `tribunal` `Orlanthi` `Lhankor Mhy` | draft |
+| [[Sun County]] | Suplemento clássico RQ3 sobre o Sun Dome de Yelmalio em Prax; remasterizado 2024 | `suplemento` `clássico` `RQ3` `Yelmalio` `Sun Dome` | draft |
 | [[Griselda]] | Personagem ficcional Gloranthana; Oliver Dickinson; Kraken Chapbooks | `personagem` `ficção` `Oliver Dickinson` `Kraken` | draft |
 | [[Prince of Sartar]] | Graphic novel de Jeff Richard + Kalin Kadiev; saga de Argrath nas Hero Wars; baseada em King of Sartar; incompleta | `graphic novel` `HQ` `Argrath` `Hero Wars` | draft |
 | [[King of Sartar]] | Livro de Greg Stafford; fonte de Prince of Sartar; mitos e narrativas de Sartar; O Armamento de Orlanth, Jarosar, Leika | `livro` `Greg Stafford` `Sartar` `mitologia` | draft |
+| [[Dark Side of the Moon]] | Compilação de apócrifa Lunar herética; textos de Greg Stafford, Seleric Verses, write-ups alternativos das Sete Mães | `Jonstown` `Lunar` `apócrifa` `Sedenya` `Greg Stafford` | draft |
 
 ---
 
