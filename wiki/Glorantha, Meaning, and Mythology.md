@@ -39,7 +39,7 @@ Vinga é descrita ora como filha de Orlanth, ora como seu lado feminino. Deuses 
 Ambos explicam o mesmo fato observável (a morte existe) com significados culturais diferentes.
 
 ### Elmal e Yelmalio: Lightfore
-Elmal, Yelmalio, Kargzant e Antirius são manifestações do planeta **Lightfore** (a Chama que Nunca se Rendel). Cada um é descrito como o Filho do Sol — a centelha do Sol que não morreu quando o resto da Luz se apagou.
+Elmal, Yelmalio, Kargzant e Antirius são manifestações do planeta **Lightfore** (a Chama que Nunca se Rendeu). Cada um é descrito como o Filho do Sol — a centelha do Sol que não morreu quando o resto da Luz se apagou.
 
 A "troca" Elmal→Yelmalio não é inconsistência:
 1. O culto de Yelmalio foi quase destruído na Guerra Matadora de Dragões
