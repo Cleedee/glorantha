@@ -273,8 +273,13 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 12]] | 12ª edição; regras batalha em massa, geografia Sartar, Chalana Arroy, Eurmal, Jonstown | `periódico` `malkioni` `Sartar` `Chalana Arroy` `Eurmal` `White Bull` | draft |
 | [[Journal of Runic Studies 13]] | 13ª edição; 2º turno Batalha Rainhas, clãs pequenos Culbrea, Gorangian, Hero Wars, Deusa Caos, cidades lunares | `periódico` `malkioni` `White Bull` `Hero Wars` `Lunars` `Sartar` | draft |
 | [[Journal of Runic Studies 14]] | 14ª edição; GenCon, Starter Set, ENNIE Gold/Bronze, SoloQuest Vasana, Granite Phalanx | `periódico` `malkioni` `GenCon` `Starter Set` `ENNIE` `White Bull` | draft |
+| [[Journal of Runic Studies 15]] | 15ª edição; aftermath Batalha Rainhas, Bearwalkers, Cups of Clearwine POD, The Black Spear, Griselda, freeforms | `periódico` `malkioni` `Bearwalkers` `Rathori` `Starter Set` `White Bull` `Griselda` | draft |
 | [[Furthest]] | Cidade lunar fundada com Boldhome; rota comercial cobre; Alexandria Eschate | `cidade` `Lunar` `Dragon Pass` `Hon-eel` | draft |
 | [[RuneQuest Starter Set]] | Conjunto introdutório RQG 2021; SoloQuest Vasana; Battle of Dangerford; Battle Result Total | `starter set` `RuneQuest` `Vasana` `SoloQuest` | draft |
+| [[Bearwalkers]] | Sourcebook sobre os Rathori (werebears); Jamie Revell; Jonstown Compendium | `sourcebook` `Rathori` `werbears` `Jonstown` | draft |
+| [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
+| [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |
+| [[Griselda]] | Personagem ficcional Gloranthana; Oliver Dickinson; Kraken Chapbooks | `personagem` `ficção` `Oliver Dickinson` `Kraken` | draft |
 
 ---
 
@@ -292,6 +297,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
 | [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde; iniciação não-elfa brutal | `raça` `elfos` `Aldryami` `iniciação` | draft |
 | [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
+| [[Rathori]] | Werebears de Glorantha; oeste de Genertela (Rathorela); detalhados em Bearwalkers | `Rathori` `werebears` `Rathorela` `Genertela` | draft |
 | [[Reaching Moon Megacorp]] | Empresa de David Hall; Tales of the Reaching Moon; títulos Jonstown | `empresa` `Jonstown` | draft |
 | [[Lismelder tribe]] | Tribo do Upland Marsh; detalhada em Marsh Attacks | `tribo` `Upland Marsh` | draft |
 | [[Greydog clan]] | Clã famoso do Upland Marsh; Greydog Inn; brewing | `clã` `Upland Marsh` | draft |

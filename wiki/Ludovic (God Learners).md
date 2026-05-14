@@ -2,7 +2,7 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md"]
+sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -25,6 +25,9 @@ status: draft
 - **Sim-Glorantha** — filosofia de design onde cultos modelam a ficção do cenário, não mecânicas de gameplay
 - **Teoria conspiratória Lunar** — Sete Mães são as verdadeiras cabeças do panteão; Deusa Vermelha é uma "atriz"
 - **PCs vs NPCs** — muitos suplementos de cultos são mais úteis para GMs que jogadores
+
+### Journal of Runic Studies #15
+15ª edição (26 de setembro de 2021): aftermath da Batalha das Rainhas na campanha White Bull; Bearwalkers sourcebook; Cups of Clearwine POD; teasing de The Black Spear; nova história de Griselda em produção; lista de freeforms Gloranthanos; The Glass Cannon jogando RuneQuest; unboxings do Starter Set.
 
 ### Journal of Runic Studies #14
 14ª edição (19 de setembro de 2021): GenCon e o lançamento do Starter Set; ENNIE Awards (Gold para A Rough Guide to Glamour, Bronze para Citizens of the Lunar Empire); design diary do SoloQuest com Vasana; White Bull contra Granite Phalanx; e notas de design de The Bad Winds.

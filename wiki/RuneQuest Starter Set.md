@@ -2,7 +2,7 @@
 title: "RuneQuest Starter Set"
 category: "Fonte"
 tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md"]
+sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -31,6 +31,14 @@ Conjunto introdutório para [[RuneQuest - Roleplaying in Glorantha (RQG)]], lan�
 - **Fichas de personagem em estilo Warhammer** (folio sheets) — versões em branco disponíveis em PDF
 - Personagens pré-gerados suficientes para os jogadores encontrarem algo que gostem
 - Aventura solo com rejogabilidade: inclui encontros com o Morcego Carmesim, Combate Espiritual e o Juiz dos Mortos
+
+### The Glass Cannon Joga RuneQuest (Parte 2)
+O canal The Glass Cannon jogou a segunda sessão do primeiro cenário do Starter Set. Os jogadores demonstraram maior familiaridade com o sistema, com destaque para roleplaying em torno de magia e Paixões. Participação especial de **Joh Mith** (de *Griffin Mountain*). O cheiro do Caos foi sentido no ar.
+
+### Unboxings
+Dois vídeos de unboxing do Starter Set foram publicados em setembro de 2021:
+- **RPG Imaginings:** unboxing patrocinado, mostrando fichários de personagem pré-gerados, marcador de Strike Rank e o Mapa do Norte de Sartar
+- **Jess McDonell:** vídeo rápido de 1 minuto e meio no Twitter, com planos de jogar o Starter Set em seu canal
 
 ### Autoria
 - **James Coquillat** — um dos autores do SoloQuest, também responsável por entrevistas de design no canal da Chaosium no YouTube

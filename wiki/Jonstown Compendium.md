@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -52,8 +52,20 @@ Grande noite para a comunidade Glorantha no ENNIE Awards durante a GenCon 2021:
 ### The Company of the Dragon — Comparação de Impressão
 **Andrew Logan Montgomery** publicou fotos comparando Premium vs Standard POD de *The Company of the Dragon*: capas idênticas, mesma encadernação e peso de papel. O Standard parece ligeiramente mais desbotado e plano; o Premium é mais brilhante. Diferença mais visível em mapas e placas azuis. Ambos considerados "muito atraentes".
 
+### Bearwalkers
+**Jamie Revell** lançou *[[Bearwalkers]]*, um sourcebook sobre os [[Rathori]] (werebears de Glorantha), descrevendo cultura, sociedade, religião, magia e mitologia. Inclui material de criação de personagens Rathori para RuneQuest e QuestWorlds, e um gazetteer de Rathorela.
+
+### Cups of Clearwine em Softcover
+**Beer With Teeth** lançou *[[Cups of Clearwine]]* (sequência de *Dregs of Clearwine*) em print-on-demand. Descreve um bairro do centro tribal Colymar: NPCs, mapas, ganchos de aventura, lojas.
+
 ### The Black Spear (Preview)
-**Nick Brooke** anunciou um novo trabalho com ilustrações de **Mike O'Connor**, previsto para outubro de 2021.
+**Nick Brooke** anunciou um novo trabalho com ilustrações de **Mike O'Connor**, previsto para outubro de 2021. Descrita como uma saga Hero Wars "gonzo comunista". Ver página dedicada: [[The Black Spear]].
+
+### Griselda — Nova História em Produção
+**Fabian Küchler** (The Kraken) estava editando e diagramando uma nova história de [[Griselda]] escrita por **Oliver Dickinson**, possivelmente a mais longa de todas. As histórias originais estão disponíveis como *[[The Complete Griselda]]* em PDF pela Chaosium. Os Kraken Chapbooks foram retirados durante o rebranding HeroQuest, mas devem retornar com [[QuestWorlds]].
+
+### Lista de Freeforms Gloranthanos
+O bibliotecário dos God Learners iniciou uma lista de todos os "freeforms" (LARPs) de Glorantha conhecidos no BoardGameGeek.
 
 ### The Bad Winds (Setembro 2021)
 **Austin Conrad** lançou *The Bad Winds* (Monster of the Month), descrevendo elementais do ar corrompidos por [[Mallia]], a deusa da doença. Inclui um mito curto de [[Kolat]]. Ver página dedicada: [[The Bad Winds]].

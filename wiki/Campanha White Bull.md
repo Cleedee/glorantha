@@ -2,7 +2,7 @@
 title: "Campanha White Bull"
 category: "Evento"
 tags: [white bull, chaosium, youtube, kallyr, lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md"]
+sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -36,6 +36,9 @@ Na 2ª temporada, episódio 4, os jogadores aceitam a chamada do Mestre para uma
 - O grupo segue para [[Clearwine Fort]], com paradas e desvios no caminho.
 - Política da corte dos [[Colymar]].
 - **Jeff Richard** interpreta [[Orlanth]] respondendo à pergunta: "qual dos seus aspectos é o mais divertido?"
+
+### Quarto Turno — Aftermath da Batalha das Rainhas (JRS #15)
+A campanha da casa Chaosium continua e conclui o imediato aftermath da Batalha das Rainhas. Sessão relativamente tranquila: adoração e sacrifício de aranhas (com "line and veil" para não perturbar jogadores aracnofóbicos), política sartarita ao fundo, e um exemplo prático de como as **Paixões** de um personagem podem mudar durante o jogo.
 
 ### Terceiro Turno — Granite Phalanx (JRS #14)
 A campanha continua: os aventureiros carregam contra os hoplitas da **Granite Phalanx** lunar com rolagens sortudas e "munchkinery" impressionante. Além disso, **Gina** irrita um fantasma importante.
