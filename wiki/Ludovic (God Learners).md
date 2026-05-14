@@ -2,7 +2,7 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 17.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -25,6 +25,9 @@ status: draft
 - **Sim-Glorantha** — filosofia de design onde cultos modelam a ficção do cenário, não mecânicas de gameplay
 - **Teoria conspiratória Lunar** — Sete Mães são as verdadeiras cabeças do panteão; Deusa Vermelha é uma "atriz"
 - **PCs vs NPCs** — muitos suplementos de cultos são mais úteis para GMs que jogadores
+
+### Journal of Runic Studies #17
+17ª edição (11 de outubro de 2021): Podcast Episódio 4 com Beer With Teeth; Beginner's Guide to Glorantha; Korolstead; A Bad Day at Duck Rock; Jeff's Notes sobre Argrath/Alexander, Exército Livre, Justiça Orlanthi/Dara Happana, Dart Wars, Runas de Dendara, Perigos Anões, Comidas Estranhas.
 
 ### Journal of Runic Studies #16
 16ª edição (4 de outubro de 2021): conclusão 2ª temporada White Bull; lançamento de The Black Spear (180pp); Jallupel Goodwind MOTM; notas Jeff Richard sobre templos lunares, Deusa Vermelha paradoxo, tesouraria Boldhome, Kheldon e Culbrea; Glass Cannon finale; review Starter Set por ALM; review The Smoking Ruin por Skull Dixon.

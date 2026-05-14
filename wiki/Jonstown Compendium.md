@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -60,6 +60,12 @@ Grande noite para a comunidade Glorantha no ENNIE Awards durante a GenCon 2021:
 
 ### The Black Spear — Lançado!
 **Nick Brooke** lançou *[[The Black Spear]]*, uma campanha de 180 páginas sobre as primeiras Hero Wars. Sequência de *Duel at Dangerford* (não obrigatório). Conhecida por canções, poesia e a "loucura de Muppet Show" característica do autor.
+
+### Korolstead: Secrets of the Smoking Ruin
+**John Lawson** lançou *[[Korolstead]]*, um companheiro para *The Smoking Ruin & Other Stories* com mapas extras, seeds de cenário, NPCs, facções e tabelas de encontro.
+
+### A Bad Day at Duck Rock
+**Peter Hart** (ilustrado por **Dario Corallo**) lançou *[[A Bad Day at Duck Rock]]*, aventura onde os PJs escoltam um mercador de Dwarf Run para Manville em Beast Valley através de Duck Valley.
 
 ### Jallupel Goodwind
 **Austin Conrad** e **Diana Probst** ([[Beer with Teeth]]) colaboraram no Monster of the Month *[[Jallupel Goodwind]]*, apresentando o fantasma mesclado de um Herói Lunar e um Lorde dos Ventos que morreram lutando entre si.

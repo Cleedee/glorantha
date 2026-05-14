@@ -283,6 +283,12 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Six Seasons in Sartar]] | Campanha ALM; best-seller Jonstown Compendium; perto do Platinum; grupo retorna em 2021 adaptado para RQG | `campanha` `Jonstown` `ALM` `Sartar` `Haraborn` | draft |
 | [[The Company of the Dragon]] | Sequência de Six Seasons in Sartar; POD agosto 2021; 45 vendas do Gold | `campanha` `Jonstown` `ALM` `sequência` | draft |
 | [[The Seven-Tailed Wolf]] | Livro planejado por ALM para primavera 2022; material cortado + novo cenário Haraborn | `suplemento` `Jonstown` `ALM` `Haraborn` | draft |
+| [[Journal of Runic Studies 17]] | 17ª edição; Ep.4 podcast, Korolstead, Bad Day at Duck Rock, Dart Wars, Argrath/Alexander, Justiça Orlanthi/Dara Happana | `periódico` `malkioni` `Dart Wars` `Argrath` `Orlanthi` `Dara Happan` | draft |
+| [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |
+| [[A Bad Day at Duck Rock]] | Aventura de escolta em Duck Valley; Peter Hart; Dario Corallo | `aventura` `Jonstown` `Peter Hart` `Dario Corallo` | draft |
+| [[Sartar Free Army]] | Exército reformado por Argrath; sociedades secretas praxianas, aliados draconicos | `exército` `Argrath` `reforma` `Prax` `dragonewts` | draft |
+| [[Haraspac]] | Engenheiro de Argrath; cercos; suposto sangue anão | `engenheiro` `Argrath` `anão` `cercos` | draft |
+| [[Dart Wars]] | Guerras secretas entre casas nobres lunares; espiões e mercenários; Imperador Vermelho | `Império Lunar` `espionagem` `política` `casas nobres` | draft |
 | [[Bearwalkers]] | Sourcebook sobre os Rathori (werebears); Jamie Revell; Jonstown Compendium | `sourcebook` `Rathori` `werebears` `Jonstown` | draft |
 | [[Hofstaring Treeleaper]] | Herói Culbrea; habilidade de saltar; lança autônoma; morto na Rebelião de Starbrow | `herói` `Culbrea` `Sartar` `rebelião` | draft |
 | [[Yara Aranis]] | Guardiã do Templo da Lua Crescente; teias expandem a Glowline | `entidade` `Lunar` `Glowline` `teia` | draft |
