@@ -60,6 +60,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Biturian Varosh]] | Viajante icônico de Cults of Prax; narrativa diegética nas margens do livro | `personagem` `viajante` `Prax` `Cults of Prax` | draft |
 | [[Vamastal Greyskin]] | Rei da tribo Sambari; semilouco por heroquesting; pele cinzenta do Inferno | `rei` `Sambari` `Sartar` `heroquesting` `Starbrow` | draft |
 | [[Caladra e Aurelion]] | Gêmeos do Vulcão, filhos de Lodril; culto introduzido pelos God Learners | `deuses` `vulcão` `Caladraland` `Lodril` `God Learners` `gêmeos` | draft |
+| [[Eiritha]] | Deusa dos animais de rebanho entre os Nômades Animais; consorte do Touro da Tempestade | `deusa` `rebanho` `Nômades Animais` `Prax` | draft |
+| [[Waha]] | Filho de Eiritha, fundador da sociedade nômade; intermediou o pacto entre espécies | `herói` `fundador` `Nômades Animais` `pacto` | draft |
+| [[Daka Fal]] | Juiz dos Mortos e patrono dos xamãs; Runas Espírito e Homem; linha difusa com o Homem Chifrudo | `deus` `julgamento` `xamanismo` `espíritos` `Runas` | draft |
+| [[Touro da Tempestade]] | Deus da fúria contra o Caos (Storm Bull); morreu matando o Diabo; sociedade guerreira | `deus` `guerra` `Caos` `Storm Bull` `Nômades Animais` | draft |
 
 ---
 
@@ -97,6 +101,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Killard Vale]] (pendente) | Vale sagrado onde Heort nasceu; lar dos Kheldon | `vale` `Sartar` `Heort` `Kheldon` | draft |
 | [[Wilmskirk]] | Cidade modelo Jrusteli de artesãos; centro de pintura e escultura em Dragon Pass | `cidade` `Sartar` `Jrusteli` `artes` | draft |
 | [[Caladraland]] | Região vulcânica ao sul de Esrolia; culto de Lodril e dos Gêmeos do Vulcão | `região` `vulcões` `Lodril` `Caladra` `Aurelion` `País Santo` `Gemborg` | draft |
+| [[As Terras Ermas]] | Região pós-apocalíptica devastada pelo Caos; lar dos Nômades Animais e da Batalha Eterna | `Wastes` `Caos` `pós-apocalíptico` `nômades` `Prax` | draft |
 
 ---
 
@@ -325,6 +330,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Greydog clan]] | Clã famoso do Upland Marsh; Greydog Inn; brewing | `clã` `Upland Marsh` | draft |
 | [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619 | `wolf pirates` `harrek` `mercenários` `Império Lunar` | draft |
 | [[Exército Sartarita]] | Milícias, thanes, sociedades guerreiras e mercenários de Sartar; transformação sob Argrath | `Sartar` `militar` `thanes` `Argrath` | draft |
+| [[Nômades Animais]] | Povos nômades das Terras Ermas que montam bestas exóticas; sociedade fundada por Waha | `nômades` `animais` `Prax` `Wastes` `xamanismo` `montaria` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
 

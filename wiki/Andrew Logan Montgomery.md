@@ -2,7 +2,7 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário, pedagogia, ensino]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md"]
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md", "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -96,6 +96,9 @@ Montgomery cita *[[Six Seasons in Sartar]]* como seu modelo para esta abordagem.
 ### Blog
 - Ativo desde 2012
 - [andrewloganmontgomery.blogspot.com](https://andrewloganmontgomery.blogspot.com/)
+
+### Ensaio: Wanderers in the Wastes — The Nomads of Glorantha (2025)
+Montgomery publicou em março de 2025 um artigo abrangente sobre os [[Nômades Animais]] das [[As Terras Ermas|Terras Ermas]], explorando a psicologia e cultura destes povos para além da redução a paralelos terrestres. O artigo discute o mito de fundação de **[[Waha]]**, o papel de **[[Eiritha]]**, **[[Daka Fal]]** e do **[[Touro da Tempestade]]**, e propõe tons de campanha que vão de *Mad Max* a *Battlestar Galactica*. O texto serviu como preparação conceitual para *The Final Riddle*.
 
 ## Referências Cruzadas
 - [[A Pyre for Gods and Heroes]]
