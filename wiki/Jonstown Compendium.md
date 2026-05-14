@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -34,6 +34,20 @@ Em 2021, dois produtos do Jonstown Compendium foram nomeados na categoria "Commu
 
 ### Desire for Knowledge
 Aventura de **Niall Sullivan** em [[Jonstown]], ideal para quem terminou o Starter Set. Um sábio na Biblioteca de Jonstown contrata os PJs para recuperar um pergaminho perigoso em uma casa assombrada, antigamente pertencente a um oficial do Império Lunar.
+
+### ENNIE Awards 2021
+Grande noite para a comunidade Glorantha no ENNIE Awards durante a GenCon 2021:
+- **Gold** — "Best Organized Play": **Nick Brooke, Chris Gidlow, Mike Hagen** por *A Rough Guide to Glamour*
+- **Bronze** — **Chris Gidlow** por *Citizens of the Lunar Empire*
+- **Silver** — *Hand of Glory* (Allan Carey, Call of Cthulhu — Miskatonic Repository)
+
+> "Os Lunares venceram o ENNIE." — Comentário de Ludovic, brincando que esta deve ser a linha do tempo "principal" de Glorantha.
+
+### The Backstory of Six Seasons in Sartar
+**Andrew Logan Montgomery** blogou sobre como *Six Seasons in Sartar* se tornou um best-seller: começou como posts de sessão de jogo no blog que ganharam tração; leitores escreviam pedindo publicação. Eventualmente tornou-se um dos títulos mais vendidos do Jonstown Compendium.
+
+### Designer Notes: The Bad Winds
+**Austin Conrad** revelou que *The Bad Winds* começou como um antagonista numa aventura sobre doenças (*The Fouled Earth*) que foi engavetada por writer's block. O Monster of the Month #20 reaproveitou o antagonista com o mito "Kolat Vanquishes the Bad Winds" e regras para propiciação dos espíritos.
 
 ### The Company of the Dragon — Comparação de Impressão
 **Andrew Logan Montgomery** publicou fotos comparando Premium vs Standard POD de *The Company of the Dragon*: capas idênticas, mesma encadernação e peso de papel. O Standard parece ligeiramente mais desbotado e plano; o Premium é mais brilhante. Diferença mais visível em mapas e placas azuis. Ambos considerados "muito atraentes".

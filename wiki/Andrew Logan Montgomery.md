@@ -2,7 +2,7 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md"]
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -32,6 +32,9 @@ Montgomery dedicou **cinco meses** (Julho–Dezembro 2025) ao projeto — o per�
 
 ### Filosofia do Projeto
 Montgomery declara que considera a obra como **inteiramente de Greg Stafford**: "foi, é e permanece o romance de Greg". Não planeja discutir o que escreveu e o que não escreveu, pois todo o material foi baseado nos personagens, notas e enredo de Stafford.
+
+### Six Seasons in Sartar — Backstory (2021)
+Montgomery blogou sobre como *Six Seasons in Sartar* se tornou um best-seller no [[Jonstown Compendium]]: começou como posts de sessão de jogo no blog; leitores escreviam pedindo publicação; tornou-se um dos títulos mais vendidos da plataforma.
 
 ### The Final Riddle (2021)
 Mini-campanha ambientada no Grande Inverno de 1622 em [[New Pavis]]. Aventureiros desempregados e famintos são contratados por Unva Prithverna, uma nobre esroliana, para uma expedição ao coração dos Ermos (Wastes) em busca do palácio de uma deusa da terra perdida. Inspirada em *Coração das Trevas* (Heart of Darkness). Quatro cenários conectados que desafiam as crenças e percepções dos jogadores enquanto descem ao coração do Caos.

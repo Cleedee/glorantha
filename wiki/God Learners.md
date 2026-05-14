@@ -2,7 +2,7 @@
 title: "God Learners"
 category: "Fonte"
 tags: [podcast, Dorastor, Simon Phipp, entrevista, torre, malkioni, feitiçaria, arkat, monomito]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md"]
+sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -60,6 +60,7 @@ Continuam limpando e arquivando documentos, tabletes e artefatos deixados por oc
 - [[Journal of Runic Studies 5]]
 - [[Journal of Runic Studies 12]]
 - [[Journal of Runic Studies 13]]
+- [[Journal of Runic Studies 14]]
 
 ## Referências
 - Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)

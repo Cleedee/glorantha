@@ -272,7 +272,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of Prax]] | Suplemento seminal (1979); primeiro "splatbook"; religião como centro cultural; Biturian Varosh | `suplemento` `clássico` `Prax` `cultos` `Biturian Varosh` | draft |
 | [[Journal of Runic Studies 12]] | 12ª edição; regras batalha em massa, geografia Sartar, Chalana Arroy, Eurmal, Jonstown | `periódico` `malkioni` `Sartar` `Chalana Arroy` `Eurmal` `White Bull` | draft |
 | [[Journal of Runic Studies 13]] | 13ª edição; 2º turno Batalha Rainhas, clãs pequenos Culbrea, Gorangian, Hero Wars, Deusa Caos, cidades lunares | `periódico` `malkioni` `White Bull` `Hero Wars` `Lunars` `Sartar` | draft |
+| [[Journal of Runic Studies 14]] | 14ª edição; GenCon, Starter Set, ENNIE Gold/Bronze, SoloQuest Vasana, Granite Phalanx | `periódico` `malkioni` `GenCon` `Starter Set` `ENNIE` `White Bull` | draft |
 | [[Furthest]] | Cidade lunar fundada com Boldhome; rota comercial cobre; Alexandria Eschate | `cidade` `Lunar` `Dragon Pass` `Hon-eel` | draft |
+| [[RuneQuest Starter Set]] | Conjunto introdutório RQG 2021; SoloQuest Vasana; Battle of Dangerford; Battle Result Total | `starter set` `RuneQuest` `Vasana` `SoloQuest` | draft |
 
 ---
 
