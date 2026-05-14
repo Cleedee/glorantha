@@ -58,6 +58,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Maran Gor]] | Deusa dos terremotos; culto propiciatório em Sartar; aceita sacrifício humano | `deusa` `terremoto` `Sartar` `sacrifício` | draft |
 | [[Kero Fin]] | Mãe das Montanhas; consorte de Lodril; progenitora das Montanhas Quivin | `deusa` `montanhas` `Quivin` `Lodril` | draft |
 | [[Biturian Varosh]] | Viajante icônico de Cults of Prax; narrativa diegética nas margens do livro | `personagem` `viajante` `Prax` `Cults of Prax` | draft |
+| [[Vamastal Greyskin]] | Rei da tribo Sambari; semilouco por heroquesting; pele cinzenta do Inferno | `rei` `Sambari` `Sartar` `heroquesting` `Starbrow` | draft |
+| [[Caladra e Aurelion]] | Gêmeos do Vulcão, filhos de Lodril; culto introduzido pelos God Learners | `deuses` `vulcão` `Caladraland` `Lodril` `God Learners` `gêmeos` | draft |
 
 ---
 
@@ -93,6 +95,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Creek-Stream River]] | Principal rio de Sartar; 700km de Skyfall Lake a Choralinthor Bay; 3-4m profundidade | `rio` `Sartar` `hidrografia` `Nochet` | draft |
 | [[Templo da Lua Crescente]] | Templo lunar em Boldhome; 10 hectares; guardado por Yara Aranis; destruído no Dragonrise | `templo` `Lunar` `Boldhome` `Glowline` | draft |
 | [[Killard Vale]] (pendente) | Vale sagrado onde Heort nasceu; lar dos Kheldon | `vale` `Sartar` `Heort` `Kheldon` | draft |
+| [[Wilmskirk]] | Cidade modelo Jrusteli de artesãos; centro de pintura e escultura em Dragon Pass | `cidade` `Sartar` `Jrusteli` `artes` | draft |
+| [[Caladraland]] | Região vulcânica ao sul de Esrolia; culto de Lodril e dos Gêmeos do Vulcão | `região` `vulcões` `Lodril` `Caladra` `Aurelion` `País Santo` `Gemborg` | draft |
 
 ---
 
@@ -320,6 +324,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Greydog clan]] | Clã famoso do Upland Marsh; Greydog Inn; brewing | `clã` `Upland Marsh` | draft |
 | [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619 | `wolf pirates` `harrek` `mercenários` `Império Lunar` | draft |
 | [[Exército Sartarita]] | Milícias, thanes, sociedades guerreiras e mercenários de Sartar; transformação sob Argrath | `Sartar` `militar` `thanes` `Argrath` | draft |
+## Cronologia
 > Linhas temporais, eras, calendários
 
 | Página | Resumo | Tags | Status |
@@ -337,5 +342,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-13*
+*Última atualização: 2026-05-14*
 

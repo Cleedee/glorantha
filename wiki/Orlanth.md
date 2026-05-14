@@ -1,9 +1,9 @@
 ---
 title: "Orlanth"
 category: "Entidade"
-tags: [deus, rei dos deuses, Orlanthi, tempestade, Glorantha]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md"]
-last_updated: 2026-05-09
+tags: [deus, rei dos deuses, Orlanthi, tempestade, Glorantha, Armamento, Lightbringers]
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 18.md"]
+last_updated: 2026-05-14
 status: draft
 ---
 
@@ -58,6 +58,51 @@ Outra característica artística notável: Orlanth é sempre retratado **em movi
 Os Orlanthi são a cultura dominante em [[Sartar]]. Incluem diversos subgrupos:
 - **Orlanthi das Colinas** — Mais voltados para agricultura; usam cavalos preferencialmente como animais de carga e viagens
 - **Dundealos** — Caçadores a cavalo, com foco em Elmal e Redalda
+
+### O Armamento de Orlanth (Versão Expandida)
+
+Jeff Richard publicou uma versão expandida do mito "O Armamento de Orlanth" (originalmente em *King of Sartar*, 2ª ed., p.68). A história começa com Orlanth infeliz porque sua esposa [[Ernalda]] não está presente — a comida e bebida não têm gosto, os convidados não são respeitosos. Quando ele medita, as nuvens se acumulam e não liberam chuva, tornando-se negras e sombrias — isso é chamado de **"Chuva Ruim"** (Bad Rain), e monstros podem vir com ela.
+
+### A Grande Ordem
+Dizem a Orlanth que tudo isso acontece porque a **"Grande Ordem"** está perdida e precisa ser encontrada novamente. [[Lhankor Mhy]] diz que a Grande Ordem é "um espelho de fogo" que está "além da borda do mundo". Esta Grande Ordem é presumivelmente a ordem fornecida pelo Deus Sol ([[Yelm]]), que está morto nesta época (a história ocorre durante a Escuridão).
+
+### Equipamento e Companheiros
+Orlanth se armou com os seguintes itens:
+- Seu **Anel** (Ring)
+- As **Quatro Armas Sagradas** (Four Sacred Weapons)
+- **Quatro Ventos** e uma **rede**
+- A **Lança Negra** e a **Lança Vermelha**
+- Os **Três Outros Ventos** e um **saco**
+- A **Pedra do Trovão** (Thunderstone)
+- O **Corante Azul** (Blue dye)
+- A **Lança de Truewood** (Spear of Truewood)
+- A **Flor Rara** (Rare Flower)
+- Sua **Primeira Faca** (First Knife)
+
+Orlanth convocou seus companheiros para ajudá-lo:
+- **Heler**, o Deus Azul
+- **Mastakos**, o Condutor de Carruagens
+- **Crisis** e **Rage**, seus dois cavalos de estampar
+
+### Primeiras Etapas da Jornada
+- **Encontro com [[Humakt]:** Orlanth encontra o deus da morte
+- **Visita à Casa da Mãe:** A "casa forte de sua mãe" estava em ruínas, tomada por cães selvagens. Orlanth mata todos exceto um, que escapa — este cão é **Kang Rowl**, e sua história está em "A Cura de Mastakos" (*King of Sartar*, 2ª ed., p.61)
+- **Visita a [[Kero Fin]]:** Orlanth visita sua mãe, a deusa das montanhas, e troca palavras com seu pai, **Umath** (o "Deus Prisioneiro", amarrado entre a Terra e o Céu)
+
+### A Sabedoria de Umath
+> "Não posso me mover. A Tríade faz o vento. Há Um te chamando, siga-o. Há Outro te caçando, evite-o. Há o Terceiro, Incognoscível, que você teme."
+
+Esta passagem vem do "Fragmento Belorden", reproduzido em *Sartar: Kingdom of Heroes* (p.196). Orlanth contempla o horizonte e vê **nove deuses**. Entre eles, um o chama, um o caça, e um é aquele que Orlanth teme. Possíveis interpretações:
+- **Ernalda** (chamando-o)
+- **Yelm** (caçando-o)
+- **Ele mesmo** (que ele teme por ter bagunçado o mundo — Orlanth Lightbringer é um aspecto diferente de Orlanth Adventurous)
+
+### A Viagem
+Orlanth segue "Aquele Que o Chamou", descrito como um "parente a oeste". Mastakos, capaz de correr ao redor do mundo super-rápido, permite que Orlanth viaje rapidamente seguindo suas pegadas:
+
+> "Ele colocou cuidadosamente seu pé esquerdo na pegada nas Ruínas Fumegantes, e o direito na borda da casa de Jarani Whitewall, filho de Ragorn, filho de Jorganos Archer, filho de Vingkot."
+
+Nota: as **Ruínas Fumegantes** (Smoking Ruins) são as mesmas do Sul Selvagem? Elas não seriam "ruínas" até o final da Primeira Era, nem "fumegantes" até os anos 1200. Mas a coerência temporal não se aplica no **Tempo dos Deuses** (God Time).
 
 ## Referências Cruzadas
 - [[Ernalda]]

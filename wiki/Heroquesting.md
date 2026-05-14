@@ -1,9 +1,9 @@
 ---
 title: "Heroquesting"
 category: "Conceito"
-tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard]
-sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md"]
-last_updated: 2026-05-09
+tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard, Greg Stafford, Ranging, Joining]
+sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 18.md"]
+last_updated: 2026-05-14
 status: draft
 ---
 
@@ -75,6 +75,61 @@ Isso aponta para regras em que o personagem pode perder pontos em Paixões ou PO
 > Heroquesters usam mitos como guias e faróis de navegação, estudam lore para encontrar caminhos pelo reino da mitologia.
 
 Pode ser como tentar encontrar seu caminho por um sonho. Apenas um tolo pensa que pode caminhar sem esforço pelos caminhos dos deuses. Até as histórias mais conhecidas podem surpreender.
+
+### Ranging and Joining
+
+**Ranging and Joining** é uma técnica avançada de heroquesting desenvolvida por participantes do **Torneio dos Mestres da Sorte e da Morte** (Tournament of the Masters of Luck and Death), realizado diversas vezes na história do [[País Santo]].
+
+#### Funcionamento
+Questers que utilizam Ranging posicionam-se na borda de uma quest ou ritual em andamento, observando eventos ou entidades. Se algo aparecer, eles **se juntam** (join) àquele evento e interagem com ele. Alguns estudiosos acreditam que esta técnica está relacionada às **Waltzing and Hunting bands** do [[Misticismo Dracônico|Império dos Amigos Wyrms]].
+
+#### Diferença do Ranging Puro
+No **Ranging puro**, o quester reencena um mito e depois salta para outro mito que "cruza seu caminho". Isto é extremamente perigoso porque, ao trocar de mito, o quester está Identificado com as divindades e protagonistas do primeiro mito — e a menos que o outro mito tenha um elenco muito similar, ele precisará trocar de Identificações.
+
+> "E é por isso que questers que fazem Ranging são muito mais perigosos do que aqueles que simplesmente reencenam histórias existentes; eles descobrem novos mitos. E é por isso que a Lightbringers' Quest e a Quest da Deusa Vermelha são tão perigosas e poderosas — ambas sempre envolvem Ranging."
+
+#### Segurança Relativa
+No Ranging and Joining, o quester não interpreta o protagonista do segundo mito. Em vez disso, ele "segue junto", Identificando-se com personagens menores ou figurantes anônimos:
+
+> "Observa-se na borda de uma história por um indício de outra. Um personagem anônimo ganha um nome e torna-se uma aventura, ou uma menção passageira torna-se uma história por direito próprio."
+
+#### Seleção
+Em grandes heroquests, Rangers e Joiners são tipicamente escolhidos por espíritos, sorte, ou simplesmente se veem no papel devido aos mistérios do próprio ritual — alguns dizem que esta é a **Sorte** referida no nome "Mestres da Sorte e da Morte".
+
+#### Disseminação
+Estas técnicas foram disseminadas através do [[País Santo]], [[Dragon Pass]] e [[Prax]]. Muitas figuras importantes — incluindo [[Kallyr Testa-Estrelada]] e [[Argrath]] — participaram dos Torneios não para buscar o prêmio, mas para aprender estas técnicas em primeira mão.
+
+As técnicas são diferentes daquelas ensinadas e usadas pelo [[Caminho Lunar]], mas potencialmente não menos eficazes.
+
+### O Manuscrito de Greg Stafford sobre Heroquesting
+
+Um manuscrito inicial de [[Greg Stafford]] — compartilhado por Jeff Richard — aborda os fundamentos do heroquesting:
+
+#### Separação dos Reinos
+O mundo dos mortais e dos deuses foi separado desde o "fim do mundo" e o **Compromisso Cósmico**. Mortais existem dentro do **Tempo** — nascem e morrem, mas podem mudar. Divindades são imortais mas **não podem mudar** a menos que uma força externa aja sobre elas:
+
+> "A vontade dos mortais permite que uma pessoa mude a si mesma, mude o mundo mundano, ou até mesmo mude o mundo estático da mitologia."
+
+#### Estrutura de Heroquests
+Heroquests geralmente tomam a forma de um **caminho** que atravessa uma parte do reino mítico:
+1. **Lugar de partida**
+2. **Série de estações** (waystops) onde certos eventos ocorrem
+3. **Clímax** — o ato específico que dará ao herói o que ele busca
+
+O clímax requer passar por um teste apropriado e então o **sacrifício de alguma parte** do quester.
+
+#### Hero Soul Points
+Mecanicamente, este sacrifício é representado por um **sacrifício de POW** em troca de **Hero Soul Points** — um novo pool de Pontos de Runa. Assim como você pode ter um pool de Pontos de Runa para seu deus primário e outro se for iniciado em outro deus, Hero Soul Points são outro pool para lançar Magia Rúnica. A diferença crucial: enquanto Pontos de Runa são recarregados adorando a divindade apropriada, **Hero Soul Points são recarregados tendo pessoas que te adorem**.
+
+#### Mapas Míticos
+Técnicas avançadas incluem partir de um mito para outro e construir um **"mapa"** destes lugares e eventos míticos:
+
+> "No entanto, o mapa precisa ser visto de várias maneiras diferentes ao mesmo tempo às vezes, por causa dos inter-relacionamentos de certos eventos míticos. Heroquesters bem-sucedidos são capazes de trocar de caminho para evento e de mapa para mapa."
+
+Os **Mapas da Era Mítica** do *Guide to Glorantha* são úteis aqui — provavelmente desenhados por God Learners que fizeram exatamente isso em seus heroquests. Mapas mais detalhados virão nos livros de *Cults*.
+
+#### Criação de Novos Mitos
+GMs **podem e devem criar seus próprios eventos míticos** que se encaixem nos temas e arquétipos de Glorantha. Não é necessário conhecimento aprofundado do material da Chaosium.
 
 ## Referências Cruzadas
 - [[RuneQuest]]

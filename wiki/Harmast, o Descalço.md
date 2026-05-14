@@ -1,9 +1,9 @@
 ---
 title: "Harmast, o Descalço"
 category: "Entidade"
-tags: [herói, Primeira Era, 411, romance, A Pyre for Gods and Heroes]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
-last_updated: 2026-04-13
+tags: [herói, Primeira Era, 411, romance, A Pyre for Gods and Heroes, heroquest]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 18.md"]
+last_updated: 2026-05-14
 status: draft
 ---
 
@@ -22,6 +22,35 @@ status: draft
   - O nascimento de [[Nysalor]]
   - A Batalha do Dia e da Noite
   - [[Lokamayadon]]
+
+### Heroquests de Harmast
+
+Jeff Richard forneceu uma lista detalhada dos heroquests de Harmast, demonstrando o que é possível com heroquesting — desde "participar de grandes batalhas míticas" até eventos que são "sobre a psique do quester".
+
+#### Heroquests Comuns na Vida de um Aventureiro
+1. **Cerimônia de maioridade** (adulthood ceremony)
+2. **Cerimônia de Rune Lord/Priest**
+
+#### Participação como Iniciado
+Como iniciado "simples" em cerimônias de Alta Festa ou Tempo Sagrado, Harmast foi um dos figurantes em eventos específicos:
+
+- **Duas vezes** lutou contra os guerreiros estelares na **Batalha das Nuvens Thrinbarri**
+- **Quatro vezes** esteve no Caminho dos Lightbringers: na **Ponte das Foices**, no **Portal do Crisol**, na **Ponte sobre Cadáveres**, e **Onde Kaarg foi Derrotado**
+- Aos **21 anos**, foi **espectador no casamento de Orlanth e Ernalda**
+
+#### Heroquests Avançados
+- Alguns heroquests resultaram em "todo mundo morreu exceto Harmast"
+- Às vezes, ele fazia um heroquest apenas para **obter conselho** de uma figura mítica
+- Em uma quest particularmente profunda: **"os pedaços quebrados de Harmast foram purificados e ele confrontou e superou seus Outros: suas vítimas, amante-demônio, seu pai, sua mãe; suas obsessões, sua tirania e a destruição que ele causou. Então ele passou pelas chamas da Banda de Ouro e entrou na Corte dos Deuses Mortos."**
+
+#### Inspiração para Jogos
+A variedade de heroquests de Harmast mostra que o heroquesting pode mover-se entre:
+- Participação em grandes batalhas míticas
+- Testemunho de eventos importantes
+- Busca por conselho
+- Confronto profundo com a psique do quester
+
+Os últimos são provavelmente os mais perigosos — e mais recompensadores — mas também os mais difíceis de encenar em um jogo.
 
 ## Referências Cruzadas
 - [[A Pyre for Gods and Heroes]]

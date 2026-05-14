@@ -2,8 +2,8 @@
 title: "Império Lunar"
 category: "Cultura"
 tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 13.md"]
-last_updated: 2026-05-13
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 18.md"]
+last_updated: 2026-05-14
 status: draft
 ---
 
@@ -64,6 +64,9 @@ O Império Lunar é tanto uma rede de cidades e tribos, mantida unida por [[Glam
 ### História e Expansão
 - Sobre Belintar e o País Santo: Lunares sob Jar-Eel ajudaram a destruir o País Santo após assassinato de Belintar.
 - Jar-Eel, a "Rainha-Bruxa de Sangue Venenoso", acusada de assassinar Belintar para facilitar conquistas lunares.
+
+### O Imperador Vermelho e a Reivindicação Universal
+O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele é o chefe de todos os lugares que a luz da Lua Vermelha toca, e isso é o mundo inteiro. No entanto, o Imperador Vermelho não está necessariamente atrás de governar o mundo inteiro. Ele aceita que bárbaros distantes **submetam-se a ele** ou **sejam seus aliados**. O que importa é que reconheçam sua posição como o **pilar único de legitimidade** no mundo.
 
 ## Referências Cruzadas
 - [[Dara Happa Stirs]]
