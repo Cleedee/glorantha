@@ -3,7 +3,7 @@ title: "As Eras de Glorantha"
 category: "Conceito"
 tags: [cronologia, eras, mitologia, história, tempo solar, tempo mythic]
 sources: ["raw/clippings/Drops Glorantha 6 - As Eras de Glorantha.md"]
-last_updated: 2026-04-21
+last_updated: 2026-05-14
 status: draft
 ---
 
@@ -46,6 +46,11 @@ Terminou em grande destruição, incluindo a **Guerra da Morte dos Dragões** (D
 
 ### Third Age (Terceira Era)
 De 1.120 ST até o presente (o ano canônico padrão para a maioria dos jogos de RuneQuest é **1625 ST**). A era atual, definida pela ascensão da **Lua Vermelha** e que culminará nas **Guerras dos Heróis** (Hero Wars).
+
+## Referências Cruzadas
+- [[Calendário Gloranthano]] — o sistema de semanas, estações e dias que estrutura o ano
+- [[Tempo Sagrado]] — o período de duas semanas entre anos onde o cosmos renasce
+- [[Heroquesting]] — o Tempo Sagrado como o período mais propício para heroquests
 
 ## Referências
 

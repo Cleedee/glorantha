@@ -153,6 +153,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Glorantha, Meaning, and Mythology]] | Ensaio de Andrew Logan Montgomery sobre interpretação de mitos; significados, não fatos; 4 ajustes mentais | `mitologia` `significado` `interpretação` `Elmal` `Vinga` | draft |
 | [[Regras de Batalha em Massa]] | Sistema de combate em massa RQG; Guiding Passion; posturas; Hero Soul | `regras` `combate` `batalha` `RuneQuest` | draft |
 | [[The Bad Winds]] | Elementais do ar corrompidos por Mallia; invocados acidentalmente | `elementais` `Mallia` `doença` `Jonstown` | draft |
+| [[Tempo Sagrado]] | Período liminar de duas semanas entre anos onde o cosmos renasce; reencenação da Jornada dos Portadores da Luz | `Tempo Sagrado` `liminalidade` `ritual` `heroquest` `calendário` | draft |
+| [[Calendário Gloranthano]] | Sistema de 5 estações, 8 semanas cada, 280 dias; cada semana como microcosmo da Era dos Deuses | `calendário` `Theyala` `estações` `semanas` `tempo` | draft |
 
 ---
 
