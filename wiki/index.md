@@ -91,6 +91,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Saird]] | Região das Províncias Lunares; lar original de Yelmalio; história desde Conselho Quebrado | `região` `Yelmalio` `Império Lunar` `Saird` | draft |
 | [[Quivin Mountains]] | Cordilheira central de Sartar; pico 3120m; granito plutônico; filhos de Lodril e Kero Fin | `montanhas` `Sartar` `geologia` `granito` | draft |
 | [[Creek-Stream River]] | Principal rio de Sartar; 700km de Skyfall Lake a Choralinthor Bay; 3-4m profundidade | `rio` `Sartar` `hidrografia` `Nochet` | draft |
+| [[Templo da Lua Crescente]] | Templo lunar em Boldhome; 10 hectares; guardado por Yara Aranis; destruído no Dragonrise | `templo` `Lunar` `Boldhome` `Glowline` | draft |
+| [[Killard Vale]] (pendente) | Vale sagrado onde Heort nasceu; lar dos Kheldon | `vale` `Sartar` `Heort` `Kheldon` | draft |
 
 ---
 
@@ -276,10 +278,14 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 15]] | 15ª edição; aftermath Batalha Rainhas, Bearwalkers, Cups of Clearwine POD, The Black Spear, Griselda, freeforms | `periódico` `malkioni` `Bearwalkers` `Rathori` `Starter Set` `White Bull` `Griselda` | draft |
 | [[Furthest]] | Cidade lunar fundada com Boldhome; rota comercial cobre; Alexandria Eschate | `cidade` `Lunar` `Dragon Pass` `Hon-eel` | draft |
 | [[RuneQuest Starter Set]] | Conjunto introdutório RQG 2021; SoloQuest Vasana; Battle of Dangerford; Battle Result Total | `starter set` `RuneQuest` `Vasana` `SoloQuest` | draft |
+| [[Journal of Runic Studies 16]] | 16ª edição; Black Spear lançado, Jallupel Goodwind, Jeff's Notes (Kheldon, Culbrea, templos lunares), White Bull S2 finale | `periódico` `malkioni` `Black Spear` `Kheldon` `Culbrea` `White Bull` | draft |
+| [[Jallupel Goodwind]] | MOTM por Austin Conrad + Diana Probst; fantasma mesclado de Herói Lunar + Lorde dos Ventos | `MOTM` `Jonstown` `Conrad` `Probst` `fantasma` | draft |
 | [[Six Seasons in Sartar]] | Campanha ALM; best-seller Jonstown Compendium; perto do Platinum; grupo retorna em 2021 adaptado para RQG | `campanha` `Jonstown` `ALM` `Sartar` `Haraborn` | draft |
 | [[The Company of the Dragon]] | Sequência de Six Seasons in Sartar; POD agosto 2021; 45 vendas do Gold | `campanha` `Jonstown` `ALM` `sequência` | draft |
 | [[The Seven-Tailed Wolf]] | Livro planejado por ALM para primavera 2022; material cortado + novo cenário Haraborn | `suplemento` `Jonstown` `ALM` `Haraborn` | draft |
-| [[Bearwalkers]] | Sourcebook sobre os Rathori (werebears); Jamie Revell; Jonstown Compendium | `sourcebook` `Rathori` `werbears` `Jonstown` | draft |
+| [[Bearwalkers]] | Sourcebook sobre os Rathori (werebears); Jamie Revell; Jonstown Compendium | `sourcebook` `Rathori` `werebears` `Jonstown` | draft |
+| [[Hofstaring Treeleaper]] | Herói Culbrea; habilidade de saltar; lança autônoma; morto na Rebelião de Starbrow | `herói` `Culbrea` `Sartar` `rebelião` | draft |
+| [[Yara Aranis]] | Guardiã do Templo da Lua Crescente; teias expandem a Glowline | `entidade` `Lunar` `Glowline` `teia` | draft |
 | [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
 | [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |
 | [[Griselda]] | Personagem ficcional Gloranthana; Oliver Dickinson; Kraken Chapbooks | `personagem` `ficção` `Oliver Dickinson` `Kraken` | draft |
@@ -301,6 +307,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde; iniciação não-elfa brutal | `raça` `elfos` `Aldryami` `iniciação` | draft |
 | [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
 | [[Rathori]] | Werebears de Glorantha; oeste de Genertela (Rathorela); detalhados em Bearwalkers | `Rathori` `werebears` `Rathorela` `Genertela` | draft |
+| [[Tribo Culbrea]] | Tribo "Bandida" de Sartar; controlam Hill of Orlanth Victorious; Hofstaring Treeleaper; Rei Ranulf | `tribo` `Sartar` `bandidos` `Orlanth` `Culbrea` | draft |
+| [[Tribo Kheldon]] | Tribo "Cabelos Vermelhos"; Segunda Onda ~1400; Vale Killard; Kallyr Starbrow; clã Black Rock | `tribo` `Sartar` `Vinga` `Kheldon` `Kallyr` | draft |
 | [[Reaching Moon Megacorp]] | Empresa de David Hall; Tales of the Reaching Moon; títulos Jonstown | `empresa` `Jonstown` | draft |
 | [[Lismelder tribe]] | Tribo do Upland Marsh; detalhada em Marsh Attacks | `tribo` `Upland Marsh` | draft |
 | [[Greydog clan]] | Clã famoso do Upland Marsh; Greydog Inn; brewing | `clã` `Upland Marsh` | draft |

@@ -2,7 +2,7 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md"]
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -53,6 +53,9 @@ Mini-campanha ambientada no Grande Inverno de 1622 em [[New Pavis]]. Aventureiro
 
 ### Company of the Dragon (POD)
 Montgomery produziu **The Company of the Dragon** para o Jonstown Compendium, que recebeu provas de Print-on-Demand e foi **lançado em print** em agosto de 2021. Sequência de *Six Seasons in Sartar* (embora vagamente conectados — é possível jogar um sem o outro). Custo de impressão estimado: $45 (Premium color) ou $20 (Standard).
+
+### Review do RuneQuest Starter Set (2021)
+Montgomery publicou uma review do [[RuneQuest Starter Set]] em seu blog, afirmando que ele é a solução ideal para novos jogadores. Destacou a consistência da direção de arte desde 2018, contrastando com a arte "inconsistente" de Glorantha nas quatro décadas anteriores.
 
 ### Ensaio: Glorantha, Meaning, and Mythology (2021)
 Montgomery publicou ensaio influente sobre o papel dos mitos em Glorantha, argumentando que "mitos dão significados, não fatos". Aborda a questão Elmal/Yelmalio (ambos manifestações de Lightfore), a Morte do Primeiro Imperador (Dara Happan vs Humakti), e Vinga como um dos seis gêneros orlanthi. Inspirado por Bronislaw Malinowski, defende que deuses são expressões do numinoso, não seres com superpoderes. Inclui quatro "ajustes mentais" para jogadores e mestres. Ver página dedicada: [[Glorantha, Meaning, and Mythology]].

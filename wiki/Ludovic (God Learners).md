@@ -2,7 +2,7 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md"]
+sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -25,6 +25,9 @@ status: draft
 - **Sim-Glorantha** — filosofia de design onde cultos modelam a ficção do cenário, não mecânicas de gameplay
 - **Teoria conspiratória Lunar** — Sete Mães são as verdadeiras cabeças do panteão; Deusa Vermelha é uma "atriz"
 - **PCs vs NPCs** — muitos suplementos de cultos são mais úteis para GMs que jogadores
+
+### Journal of Runic Studies #16
+16ª edição (4 de outubro de 2021): conclusão 2ª temporada White Bull; lançamento de The Black Spear (180pp); Jallupel Goodwind MOTM; notas Jeff Richard sobre templos lunares, Deusa Vermelha paradoxo, tesouraria Boldhome, Kheldon e Culbrea; Glass Cannon finale; review Starter Set por ALM; review The Smoking Ruin por Skull Dixon.
 
 ### Journal of Runic Studies #15
 15ª edição (26 de setembro de 2021): aftermath da Batalha das Rainhas na campanha White Bull; Bearwalkers sourcebook; Cups of Clearwine POD; teasing de The Black Spear; nova história de Griselda em produção; lista de freeforms Gloranthanos; The Glass Cannon jogando RuneQuest; unboxings do Starter Set.

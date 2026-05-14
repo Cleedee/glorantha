@@ -2,7 +2,7 @@
 title: "RuneQuest Starter Set"
 category: "Fonte"
 tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md"]
+sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -31,6 +31,12 @@ Conjunto introdutório para [[RuneQuest - Roleplaying in Glorantha (RQG)]], lan�
 - **Fichas de personagem em estilo Warhammer** (folio sheets) — versões em branco disponíveis em PDF
 - Personagens pré-gerados suficientes para os jogadores encontrarem algo que gostem
 - Aventura solo com rejogabilidade: inclui encontros com o Morcego Carmesim, Combate Espiritual e o Juiz dos Mortos
+
+### The Glass Cannon — Finale
+A terceira parte da jogatina do Glass Cannon conclui o primeiro cenário do Starter Set. Escorpionianos, criaturas do Caos, críticos e fumbles, augments e magias — "isso é RuneQuest, com certeza".
+
+### Review de Andrew Logan Montgomery
+**Andrew Logan Montgomery** (autor de *[[Six Seasons in Sartar]]*) review o Starter Set em seu blog, afirmando que ele é **a solução** para novos jogadores. Destaca a consistência da direção de arte desde 2018: "por quatro décadas a arte de Glorantha foi inconsistente, algo estranho para um jogo com culturas tão bem definidas".
 
 ### The Glass Cannon Joga RuneQuest (Parte 2)
 O canal The Glass Cannon jogou a segunda sessão do primeiro cenário do Starter Set. Os jogadores demonstraram maior familiaridade com o sistema, com destaque para roleplaying em torno de magia e Paixões. Participação especial de **Joh Mith** (de *Griffin Mountain*). O cheiro do Caos foi sentido no ar.
