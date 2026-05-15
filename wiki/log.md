@@ -179,3 +179,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-15] ingest | Processado "Myth and History — The RuneQuest RPG Wiki.md" — 3 páginas criadas: rq-wiki-myth-history (Fonte, mitologia/história), Dragonkill War (Evento, 1120), Mito de Criação de Glorantha (reescrita: God Time, Unholy Trio, Lightbringers, Grande Compromisso). 2 páginas atualizadas: Primeiro Conselho (Primeiro/Segundo Conselho, Gbaji), Deusa Vermelha (Império Carmaniano, ascensão da Lua Vermelha). Index e log atualizados.
 
 ## [2026-05-15] ingest | Processado "Journal of Runic Studies 21.md" — 1 página criada: journal-of-runic-studies-21 (Fonte, periódico nov/2021). 1 página atualizada: Biturian Varosh (rota Pavis–Corflu, Part 3 podcast). Index e log atualizados.
+
+## [2026-05-15] ingest | Processado "Journal of Runic Studies 22.md" — 1 página criada: journal-of-runic-studies-22 (Fonte, periódico nov/2021; Chalana Arroy infirmary, Horse Rider motif, Sorana Tor, Yarandros). Index e log atualizados.
