@@ -24,6 +24,9 @@ O jogador controla o **conselho do clã** (clan ring) de sete membros, que lider
 
 Diferentemente de *King of Dragon Pass*, este jogo **abandona o conflito guerreiro-agricultor** do título anterior, introduzindo em vez disso a **política familiar** entre os diferentes conselheiros do clã.
 
+### Cultura Jogável: Hyalorings
+Em Six Ages, o jogador controla um clã dos **[[Hyalorings]]** — cavaleiros descendentes dos [[Dara Happa]] que fugiram de [[Nivorah]] durante o [[Tempo dos Deuses]]. O panteão inclui [[Hyalor]] (primeiro cavaleiro), [[Cerala]] (filha de Hyalor com [[Aldryami|Aldrya]]), [[Osara]], [[Erissa]] e [[Dostal]]. Eventos narrativos incluem heroquests como as **Tábuas Douradas de Hyalor**, contato com tribos de Rams (seguidores do filho de [[Umath]]), e a origem de [[Redalda]].
+
 ### Desenvolvimento
 - **Desenvolvedora:** [[A Sharp]] (Tacoma, Washington)
 - **Leads:** David Dunham e [[Robin D. Laws]]
@@ -56,6 +59,12 @@ Diferentemente de *King of Dragon Pass*, este jogo **abandona o conflito guerrei
 - [[Robin D. Laws]]
 - [[David Dunham]]
 - [[Orlanthi]]
+- [[Hyalorings]]
+- [[Hyalor]]
+- [[Cerala]]
+- [[Redalda]]
+- [[Umath]]
+- [[Dara Happa]]
 
 ## Referências
 - Fonte: [Six Ages Ride like the Wind — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)

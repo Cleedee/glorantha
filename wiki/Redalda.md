@@ -2,8 +2,8 @@
 title: "Redalda"
 category: "Entidade"
 tags: [deusa, cavalos, cultura equina, Orlanthi, Estação do Fogo]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
-last_updated: 2026-04-13
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
+last_updated: 2026-05-15
 status: draft
 ---
 
@@ -21,6 +21,9 @@ status: draft
 ### Culto
 - **Feriado principal:** Estação do Fogo (verão) — maior feriado sagrado dos cultos de Elmal e Redalda
 - Na Tribo dos Dundealos, o culto de Redalda complementa o de Elmal, refletindo a importância dos cavalos na sobrevivência da tribo
+
+### Origem (Six Ages: Ride Like the Wind)
+Segundo eventos narrados em [[Six Ages - Ride Like the Wind]], Redalda tem uma origem notável: as tribos de **Rams** (seguidores do filho de [[Umath]]) viviam do outro lado do [[Black Eel River]]. Após invasões iniciais, retornaram em paz com uma delegação de sacerdotisas. Os [[Hyalorings]] notaram que os Rams possuíam deusas de gado, terra e cura similares às suas. Como gesto de respeito, os Hyalorings presentearam os Rams com um **espírito de cavalo** que sussurrou conhecimento equino no ouvido de uma criança Rams — esta criança cresceria e se tornaria **Redalda**, conectando assim as tradições equinas dos Hyalorings com as tribos Rams.
 
 ## Referências Cruzadas
 - [[Elmal]]

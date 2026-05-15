@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-13
+last_updated: 2026-05-15
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -64,6 +64,12 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Waha]] | Filho de Eiritha, fundador da sociedade nômade; intermediou o pacto entre espécies | `herói` `fundador` `Nômades Animais` `pacto` | draft |
 | [[Daka Fal]] | Juiz dos Mortos e patrono dos xamãs; Runas Espírito e Homem; linha difusa com o Homem Chifrudo | `deus` `julgamento` `xamanismo` `espíritos` `Runas` | draft |
 | [[Touro da Tempestade]] | Deus da fúria contra o Caos (Storm Bull); morreu matando o Diabo; sociedade guerreira | `deus` `guerra` `Caos` `Storm Bull` `Nômades Animais` | draft |
+| [[Hyalor]] | Primeiro cavaleiro; deus mais reverenciado dos Hyalorings; trouxe Tábuas Douradas do Céu; pai de Cerala e Osara | `deus` `Hyalorings` `cavalos` `Dara Happa` | draft |
+| [[Cerala]] | Filha de Hyalor com Aldrya; deusa das florestas; vive num plateau ao norte | `deusa` `florestas` `Hyalor` `Aldrya` | draft |
+| [[Osara]] | Filha de Hyalor; deusa de bênçãos equinas | `deusa` `cavalos` `Hyalor` | draft |
+| [[Samnal]] | Deus dos cocheiros e rodas; seguido pelo Wheel clan; hostil aos Hyalorings | `deus` `cocheiros` `rodas` | draft |
+| [[Erissa]] | Deusa da cura venerada pelos Hyalorings | `deusa` `cura` `Hyalorings` | draft |
+| [[Dostal]] | Divindade da caça; concede magia que fortalece arcos | `deus` `caça` `Hyalorings` | `magia` | draft |
 
 ---
 
@@ -102,6 +108,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Wilmskirk]] | Cidade modelo Jrusteli de artesãos; centro de pintura e escultura em Dragon Pass | `cidade` `Sartar` `Jrusteli` `artes` | draft |
 | [[Caladraland]] | Região vulcânica ao sul de Esrolia; culto de Lodril e dos Gêmeos do Vulcão | `região` `vulcões` `Lodril` `Caladra` `Aurelion` `País Santo` `Gemborg` | draft |
 | [[As Terras Ermas]] | Região pós-apocalíptica devastada pelo Caos; lar dos Nômades Animais e da Batalha Eterna | `Wastes` `Caos` `pós-apocalíptico` `nômades` `Prax` | draft |
+| [[Nivorah]] | Cidade Dara Happana ancestral dos Hyalorings; abandonada durante o Tempo dos Deuses por ameaça de gelo | `cidade` `Dara Happa` `Hyalorings` `God Time` | draft |
+| [[Black Eel River]] | Rio fronteira entre Hyalorings e tribos de Rams; local do primeiro contato com Redalda | `rio` `Hyalorings` `Rams` `fronteira` | draft |
 
 ---
 
@@ -189,7 +197,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[King of Dragon Pass]] | Jogo de computador (1999); A Sharp; Robin Laws; fracasso comercial (8k cópias); sucesso cult pós-iOS 2011 | `videojogo` `computador` `1999` `A Sharp` | draft |
 | [[Six Ages]] | Série de jogos A Sharp; Ride Like the Wind (2018-19) + Lights Going Out (2023, Kitfox Games) | `videojogo` `computador` `série` `A Sharp` | draft |
 | [[Six Ages 2 Lights Going Out]] | Sequência de Six Ages; 2023; A Sharp + Kitfox Games; tema apocalíptico; aclamação universal | `videojogo` `computador` `A Sharp` `Kitfox` | draft |
-| [[Six Ages - Ride Like the Wind]] | Sequência de KoDP; iOS 2018/PC 2019; 468k palavras; 87/100 Metacritic; A Sharp | `videojogo` `computador` `A Sharp` `Robin Laws` | draft |
+| [[Six Ages - Ride Like the Wind]] | Sequência de KoDP; iOS 2018/PC 2019; 468k palavras; 87/100 Metacritic; A Sharp; cultura Hyaloring | `videojogo` `computador` `A Sharp` `Robin Laws` `Hyalorings` | draft |
 | [[A Sharp]] | Desenvolvedora de KoDP e Six Ages (1 & 2); Tacoma, WA; David Dunham e Robin Laws | `desenvolvedora` `Tacoma` `David Dunham` `Kitfox` | draft |
 | [[Hillfolk]] | RPG com DramaSystem; crowdfunding $93k; Diana Jones 2014 | `RPG` `DramaSystem` | draft |
 | [[Feng Shui]] | RPG de ação/artes marciais de Robin Laws; Daedalus/Atlas Games | `RPG` `ação` | draft |
@@ -335,6 +343,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619 | `wolf pirates` `harrek` `mercenários` `Império Lunar` | draft |
 | [[Exército Sartarita]] | Milícias, thanes, sociedades guerreiras e mercenários de Sartar; transformação sob Argrath | `Sartar` `militar` `thanes` `Argrath` | draft |
 | [[Nômades Animais]] | Povos nômades das Terras Ermas que montam bestas exóticas; sociedade fundada por Waha | `nômades` `animais` `Prax` `Wastes` `xamanismo` `montaria` | draft |
+| [[Hyalorings]] | Cavaleiros descendentes dos Dara Happans que fugiram de Nivorah durante o Tempo dos Deuses; cultura jogável em Six Ages | `cultura` `Dara Happa` `Hyalor` `cavalos` `Nivorah` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
 
