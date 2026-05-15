@@ -15,7 +15,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
-| [[Humakt]] | Deus da guerra e da morte; culto aceita trolls | `deus` `guerra` `morte` | draft |
+| [[Humakt]] | Deus da guerra e da morte; culto aceita trolls; código de honra estrito; Espírito de Retribuição | `deus` `guerra` `morte` `honra` `Humakti` | draft |
 | [[Kallyr Testa-Estrelada]] | Rex tribal de Sartar; líder da Rebelião de Starbrow; sua Lightbringers Quest convocou a Chuva Má; "literal e inflexível" | `Kallyr` `rebelião` `Sartar` `rex` `Orlanth` `Chuva Má` | draft |
 | [[Leika Blacksper]] | Rex tribal dos Colymar, manifestação de Orlanth Rex, casada com Ereneva Chan | `sartar` `rex` `rainha` `colymar` | draft |
 | [[Ian Cooper]] | Designer liderando HeroQuest → QuestWorlds; visa sistema agnóstico | `designer` `QuestWorlds` | draft |
@@ -38,7 +38,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Belintar]] | Deus-Rei do País Santo; expirou 1616; Jar-Eel caça no Portal; Torneio quebrado alimenta Hero Wars; 4 teorias de origem | `deus-rei` `país santo` `1318` `Torneio` `Hero Wars` `origem` | draft |
 | [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça"; reconstruída de luas pré-históricas pelas Sete Mães; abraçou sua Sombra na Goddess Quest | `deusa` `lunar` `orlanthi` `luas` `Sete Mães` `Sombra` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
-| [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
+| [[Broo]] | Raça do Caos; tipos feral/selvagem/civilizado; Lunares consideram-nos "pessoas"; Broo Purificado do Zola Fel | `raça` `Caos` `Broo` `Dorastor` `Ralzakark` | draft |
 | [[Orlanth]] | Rei dos deuses Orlanthi; Thunderous (50%), Adventurous (20%), Rex (25%); Irmãos do Trovão (Maruts védicos); Chuva Má como Sombra; quatro braços/quatro aspectos | `deus` `rei` `Orlanthi` `culto` `Sartar` `Irmãos do Trovão` `Chuva Má` | draft |
 | [[Ernalda]] | Rainha dos deuses Orlanthi; autoridade máxima sobre a terra; Babeester Gor; concursos matrimoniais | `deusa` `rainha` `Orlanthi` `terra` `Sartar` | draft |
 | [[Elmal]] | Deus solar menor; versão orlanthi de Yelmalio; filho de Yelm, mordomo de Orlanth; crise Elmali resolvida por Monrogh | `deus` `caça` `proteção` `solar` `Yelmalio` `Elmal` | draft |
@@ -64,6 +64,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Waha]] | Filho de Eiritha, fundador da sociedade nômade; intermediou o pacto entre espécies | `herói` `fundador` `Nômades Animais` `pacto` | draft |
 | [[Daka Fal]] | Juiz dos Mortos e patrono dos xamãs; Runas Espírito e Homem; linha difusa com o Homem Chifrudo | `deus` `julgamento` `xamanismo` `espíritos` `Runas` | draft |
 | [[Touro da Tempestade]] | Deus da fúria contra o Caos (Storm Bull); morreu matando o Diabo; sociedade guerreira; Ragnaglar pode ser sua sombra (especulativo) | `deus` `guerra` `Caos` `Storm Bull` `Nômades Animais` `Ragnaglar` | draft |
+
 | [[Hyalor]] | Primeiro cavaleiro; deus mais reverenciado dos Hyalorings; trouxe Tábuas Douradas do Céu; pai de Cerala e Osara | `deus` `Hyalorings` `cavalos` `Dara Happa` | draft |
 | [[Cerala]] | Filha de Hyalor com Aldrya; deusa das florestas; vive num plateau ao norte | `deusa` `florestas` `Hyalor` `Aldrya` | draft |
 | [[Osara]] | Filha de Hyalor; deusa de bênçãos equinas | `deusa` `cavalos` `Hyalor` | draft |
@@ -172,6 +173,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[The Bad Winds]] | Elementais do ar corrompidos por Mallia; invocados acidentalmente | `elementais` `Mallia` `doença` `Jonstown` | draft |
 | [[Tempo Sagrado]] | Período liminar de duas semanas entre anos onde o cosmos renasce; reencenação da Jornada dos Portadores da Luz | `Tempo Sagrado` `liminalidade` `ritual` `heroquest` `calendário` | draft |
 | [[Calendário Gloranthano]] | Sistema de 5 estações, 8 semanas cada, 280 dias; cada semana como microcosmo da Era dos Deuses | `calendário` `Theyala` `estações` `semanas` `tempo` | draft |
+| [[Malkionismo]] | Sistema filosófico-religioso malkioni; escolas Brithinismo, Hrestolismo, Aeolismo; Moorcockiano/Vanceano na 3ª Era | `malkioni` `filosofia` `religião` `Brithini` `Aeolismo` | draft |
 | [[A Chuva Má]] | A Sombra de Orlanth — escuridão reprimida que emerge como Chuva Má; central para heroquesting Orlanthi e Lightbringers Quest | `Bad Rain` `Orlanth` `Sombra` `heroquesting` `Lightbringers` | draft |
 
 ---
@@ -243,7 +245,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
 | [[Sartar Homeland Boxed Set]] | Boxed set RQ; arte Ossi Hiekkala/Anna Orlova; cultos; clãs; demografia 157 clãs; moda; Pockets Boldhome | `boxed set` `sartar` `arte` `clãs` `culto` `demografia` | draft |
 | [[Prax]] | Região de nômades; sourcebook futuro; manuscrito voltou da edição | `região` `nômades` | draft |
-| [[Heortland & Hendrikland]] | Sourcebook Jeff Richard + Harald Smith; Durengard, maior cidade leste do Planalto das Sombras | `sourcebook` `região` `Heortland` | draft |
+| [[Heortland & Hendrikland]] | Sourcebook Jeff Richard + Harald Smith; Durengard; Aeolianos/Esvularing; Rikard the Tiger-Hearted; tribo Bandori | `sourcebook` `região` `Heortland` `Aeolianos` | draft |
 | [[The Dragon's Eye]] | Coleção de locais de Dragon Pass por Jonathan Tweet; manuscrito finalizado Jul 2021 | `aventura` `Jonathan Tweet` `Dragon Pass` | draft |
 | [[Glorantha Cookbook]] | Receitas + guia de viagem; Yanioth e Sorala; 95% | `culinária` `viagem` | draft |
 | [[Elf Pack]] | Suplemento de elfos por Shannon Appelcline | `suplemento` `elfos` | draft |
@@ -320,6 +322,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[journal-of-runic-studies-18]] | 18ª edição; Armamento de Orlanth expandido, Ranging and Joining, Caladraland, Wilmskirk, heroquests de Harmast, manuscrito de Greg Stafford | `periódico` `malkioni` `Orlanth` `Heroquesting` `Caladraland` `Wilmskirk` `Harmast` `Greg Stafford` | draft |
 | [[journal-of-runic-studies-19]] | 19ª edição; demografia Tarsh Lunar, mapa clãs Sartar, Red Book of Magic review, regras afogamento, Sex and Gender in the Orlanthi, Sandheart V4 | `periódico` `malkioni` `Tarsh` `Red Book of Magic` `Sandheart` `Six Seasons` | draft |
 | [[journal-of-runic-studies-23]] | 23ª edição; Chuva Má como Sombra de Orlanth, Irmãos do Trovão/Maruts, Lightbringers Quest de Kallyr, Harmast 424 ST | `periódico` `malkioni` `Chuva Má` `Irmãos do Trovão` `Kallyr` `Harmast` | draft |
+| [[journal-of-runic-studies-24]] | 24ª edição; Aeolianos/Esvolaring, ecologia dos Broos, código de honra Humakti, missionários Theyalanos | `periódico` `malkioni` `Aeolianos` `Broo` `Humakt` `Theyalanos` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |
 | [[A Bad Day at Duck Rock]] | Aventura de escolta em Duck Valley; Peter Hart; Dario Corallo | `aventura` `Jonstown` `Peter Hart` `Dario Corallo` | draft |
 | [[Sartar Free Army]] | Exército reformado por Argrath; sociedades secretas praxianas, aliados draconicos | `exército` `Argrath` `reforma` `Prax` `dragonewts` | draft |
@@ -357,6 +360,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
 | [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde; iniciação não-elfa brutal | `raça` `elfos` `Aldryami` `iniciação` | draft |
+| [[Aeolianos]] | Povo Esvularing do sul de Heortland; seguem Aeolismo — variação henoteísta do Malkionismo | `Aeolianos` `Esvularing` `Heortland` `Malkionismo` | draft |
 | [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
 | [[Rathori]] | Werebears de Glorantha; oeste de Genertela (Rathorela); detalhados em Bearwalkers | `Rathori` `werebears` `Rathorela` `Genertela` | draft |
 | [[Tribo Culbrea]] | Tribo "Bandida" de Sartar; controlam Hill of Orlanth Victorious; Hofstaring Treeleaper; Rei Ranulf | `tribo` `Sartar` `bandidos` `Orlanth` `Culbrea` | draft |

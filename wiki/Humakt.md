@@ -2,7 +2,7 @@
 title: "Humakt"
 category: "Entidade"
 tags: [deus, guerra, morte, culto, humakti, espada]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md"]
+sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/Journal of Runic Studies 24.md"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -28,6 +28,26 @@ O culto de Humakt é notável por aceitar seguidores de diversas origens raciais
 ### Seguidores Notáveis
 - Membros do time de Trollball da tribo Sazdorf
 - Guerreiros e aventureiros de diversas raças
+
+### Código de Honra e Combate
+Humakt exige que a Morte seja empunhada com honra, e seu culto mantém o código de honra em combate e guerra. Este código é **estritamente** seguido pelos Humakti, mas apenas **geralmente** seguido por outros deuses guerreiros honrados como [[Orlanth]], Polaris, Yanafal Tarnils, [[Yelm]], [[Yelmalio]] e Yelorna.
+
+Regras do código de honra (excerto do livro *Cults of Glorantha*):
+
+- O combate honroso não é travado por ganho ou razões egoístas
+- A formação de linhas de batalha é feita com pleno conhecimento do outro lado; ataques surpresa não são feitos
+- Em batalha, guerreiros podem duelar em combate pessoal prolongado; ambos devem estar armados e podem usar magia rúnica ou espiritual
+- Múltiplos guerreiros ou magos não devem atacar um único guerreiro
+- Um guerreiro que se rende torna-se prisioneiro de seu captor e está sob sua proteção; o prisioneiro não deve fugir até ser resgatado ou libertado
+- Não se deve atacar um inimigo que perdeu ou deixou cair sua arma
+- As vidas de não-combatentes, prisioneiros de guerra e fazendeiros são sagradas
+- Saquear a terra é proibido
+
+Violações podem desencadear um teste da Paixão de Honra do combatente ou resultar em redução imediata da Paixão. A falha em agir honrosamente pode resultar na visita do **Espírito de Retribuição** do culto do infrator.
+
+Apesar das regras, canções e histórias de Glorantha estão cheias de exemplos de heróis que escolheram agir menos honrosamente quando outra Paixão (Lealdade, Amor, Ódio) ditava o comportamento. Tais conflitos estão na raiz de muitos heróis trágicos.
+
+As regras de honra **não se aplicam** a animais, monstros e mortos-vivos, a menos que sejam capazes de se comunicar ou demonstrar que seguem as regras de honra.
 
 ## Referências Cruzadas
 - [[Templo da Espada de Madeira]]
