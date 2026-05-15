@@ -2,7 +2,7 @@
 title: "Prax"
 category: "Localização"
 tags: [região, Prax, nômades, bisontes, cavalos, RuneQuest, fonte]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md"]
+sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md", "raw/clippings/The RuneQuest RPG Wiki - Dragon Pass.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -32,6 +32,18 @@ Prax é a região mais conhecida e acessível das vastas [[As Terras Ermas|Terra
 > A Guerra dos Deuses deixou grande parte do mundo em ruínas, mas as Planícies de Prax foram as mais atingidas e as mais lentas a se recuperar.
 
 — *Nomad Gods*, p. 1
+
+### Tribos Nômades
+As principais tribos humanas de Prax:
+
+- **Bison Riders (Bisão):** Dependentes de seus animais pesados e lentos para sustento. Grandes e grossos como seus bisões, lentos mas terríveis no impacto.
+- **High Llama Riders (Alta Llama):** A menor Grande Tribo, mas a mais poderosa. Suas montarias se elevam sobre as outras e podem atropelar até os escaramuçadores mais rápidos. Não temem ninguém nas planícies.
+- **Impala Riders (Impala):** Compensam seu tamanho diminuto com números — a tribo mais populosa de Prax. Confiam na velocidade e agilidade de suas bestas.
+- **Pol-Joni:** A "Tribo Bastarda". Cavaleiros de [[Dragon Pass]] que lutaram para entrar nas planícies e têm força mágica e marcial para lá permanecer. Às vezes considerados uma das tribos de [[Sartar]].
+- **Sable Riders (Zibelina):** Montam antílopes gigantes com chifres curvos. Quando o [[Império Lunar]] invadiu Prax, os Sables aliaram-se a eles contra as outras tribos. Depois voltaram-se contra os Lunares — demonstrando a natureza temporária de qualquer acordo entre os praxianos.
+- **Morokanth:** Não humanos, mas tapires humanoides inteligentes que pastoreiam humanos não-inteligentes.
+
+O herói **[[Argrath]] White Bull** uniu as tribos praxianas sob sua liderança e proclamou-se Rei de [[Pavis]].
 
 ### O Mito de Eiritha e o Touro da Tempestade
 Segundo a mitologia nômade, Prax era amada de **[[Eiritha]]** e era fértil e agradável, mas sua essência ela deu para ajudar o **[[Touro da Tempestade]]** contra o Diabo. A superfície da terra agora é argila dura e areia, sobre camadas de calcário.

@@ -248,7 +248,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
 | [[Sartar Homeland Boxed Set]] | Boxed set RQ; arte Ossi Hiekkala/Anna Orlova; cultos; clãs; demografia 157 clãs; moda; Pockets Boldhome | `boxed set` `sartar` `arte` `clãs` `culto` `demografia` | draft |
-| [[Prax]] | Região de nômades; sourcebook futuro; manuscrito voltou da edição | `região` `nômades` | draft |
+| [[Prax]] | Região de nômades; tribos Bison, High Llama, Impala, Pol-Joni, Sable, Morokanth; Argrath unificou-as | `região` `nômades` `Prax` `tribos` `Argrath` | draft |
+| [[Esrolia]] | Rica terra matriarcal; Nochet é a maior cidade de Glorantha; centro do culto à Terra | `Esrolia` `Nochet` `matriarcado` `Ernalda` `País Santo` | draft |
+| [[Grazelands]] | Colinas gramadas dos Pony Breeders; Feathered Horse Queen; sociedade patriarcal rígida | `Grazelands` `Pony Breeders` `Feathered Horse Queen` `Dragon Pass` | draft |
 | [[Heortland & Hendrikland]] | Sourcebook Jeff Richard + Harald Smith; Durengard; Aeolianos/Esvularing; Rikard the Tiger-Hearted; tribo Bandori | `sourcebook` `região` `Heortland` `Aeolianos` | draft |
 | [[The Dragon's Eye]] | Coleção de locais de Dragon Pass por Jonathan Tweet; manuscrito finalizado Jul 2021 | `aventura` `Jonathan Tweet` `Dragon Pass` | draft |
 | [[Glorantha Cookbook]] | Receitas + guia de viagem; Yanioth e Sorala; 95% | `culinária` `viagem` | draft |
@@ -303,6 +305,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[elder-races-rq-wiki]] | Página de referência do RuneQuest RPG Wiki oficial sobre as Raças Anciãs: Aldryami, Dragonewts, Mostali, Trolls, Broo, Merfolk | `site` `referência` `RuneQuest` `Chaosium` `Raças Anciãs` `Elder Races` | draft |
 | [[unique-aspects-rq-wiki]] | Página de referência do RuneQuest RPG Wiki oficial sobre aspectos únicos: heroquesting, clãs, moeda, Leis de Heort, calendário | `site` `referência` `RuneQuest` `Chaosium` `Glorantha` `Heort` `moeda` `calendário` | draft |
 | [[rq-wiki-the-world]] | Página de referência do RuneQuest RPG Wiki oficial sobre a estrutura do mundo de Glorantha | `site` `referência` `RuneQuest` `Chaosium` `cosmologia` `geografia` | draft |
+| [[rq-wiki-dragon-pass]] | Página de referência do RuneQuest RPG Wiki oficial sobre Dragon Pass: reinos, trolls, dragonewts, Beast Valley | `site` `referência` `RuneQuest` `Chaosium` `Dragon Pass` `Sartar` `Esrolia` `Prax` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; Appendix N (bibliografia), Appendix O; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[runequest-rpg-wiki-as-runas]] | Página do RuneQuest RPG Wiki oficial sobre o sistema de Runas: Elementos, Poderes, Formas, Condições | `site` `referência` `RuneQuest` `Chaosium` `wiki` `Runas` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
