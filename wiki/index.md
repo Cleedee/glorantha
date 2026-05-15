@@ -307,6 +307,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
 | [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |
 | [[Griselda]] | Personagem ficcional Gloranthana; Oliver Dickinson; Kraken Chapbooks | `personagem` `ficção` `Oliver Dickinson` `Kraken` | draft |
+| [[Prince of Sartar]] | Graphic novel de Jeff Richard + Kalin Kadiev; saga de Argrath nas Hero Wars; baseada em King of Sartar; incompleta | `graphic novel` `HQ` `Argrath` `Hero Wars` | draft |
+| [[King of Sartar]] | Livro de Greg Stafford; fonte de Prince of Sartar; mitos e narrativas de Sartar; O Armamento de Orlanth, Jarosar, Leika | `livro` `Greg Stafford` `Sartar` `mitologia` | draft |
 
 ---
 
@@ -351,5 +353,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-14*
+*Última atualização: 2026-05-15*
 

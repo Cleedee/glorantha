@@ -2,8 +2,8 @@
 title: "Argrath"
 category: "Entidade"
 tags: [herói, Libertador, Pavis, Império Lunar, Griselda, Hero Wars, Arkat, reencarnação]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md"]
-last_updated: 2026-05-13
+sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
+last_updated: 2026-05-15
 status: draft
 aliases:
   - "Argrath White Bull"
@@ -64,10 +64,12 @@ Esta conexão vincula Argrath ao mito primordial de **Arkat vs Gbaji**, um confl
 - [[Sartar Free Army]]
 - [[Haraspac]]
 - [[Sartar Magical Union]]
+- [[Prince of Sartar]]
 
 ## Referências
 - Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
 - Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Drops Glorantha #3 - Prince of Sartar](raw/clippings/Drops Glorantha 3 - Prince of Sartar.md)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ### Sartar Magical Union
