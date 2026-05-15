@@ -165,3 +165,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-15] ingest | Processado "An Age of Bronze — The RuneQuest RPG Wiki.md" — 1 página criada: an-age-of-bronze-rq-wiki (Fonte, introdução oficial ao cenário da Idade do Bronze). 1 página atualizada: Glorantha (sociedade Idade do Bronze, wyters, bronze de ossos divinos, sem conversão religiosa, influência cultural). Index e log atualizados.
 
 ## [2026-05-15] ingest | Processado "The RuneQuest RPG Wiki — The Runes.md" — 2 páginas criadas: As Runas (Conceito, sistema completo de Runas: Elementos, Poderes, Formas, Condições), runequest-rpg-wiki-as-runas (Fonte, referência oficial do RuneQuest Wiki). Index e log atualizados.
+
+## [2026-05-15] ingest | Processado "Gods and Cults — The RuneQuest RPG Wiki.md" — 1 página criada: gods-and-cults-rq-wiki (Fonte, tabela de associações Runa por divindade). 1 página atualizada: As Runas (adicionada tabela de associações Rúnicas por divindade). Index e log atualizados.

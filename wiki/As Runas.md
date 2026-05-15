@@ -2,7 +2,7 @@
 title: "As Runas"
 category: "Conceito"
 tags: [Runas, Elementos, Poderes, Formas, Condições, Roda Elemental, Glorantha, cosmologia, magia]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - The Runes.md"]
+sources: ["raw/clippings/The RuneQuest RPG Wiki - The Runes.md", "raw/clippings/Gods and Cults  The RuneQuest RPG Wiki.md"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -74,6 +74,33 @@ Cinco Runas de Condição amplamente reconhecidas. Indicam qual aspecto de um El
 
 ### Conflito e Poder
 Runas de Poder são polaridades conflitantes. Nenhum lado é bom ou mau — seus princípios são meramente opostos. Cultos opostos frequentemente têm Runas de Poder opostas. Cultos de grande poder podem adorar dois Powers não pareados, mas raramente mais que dois. Cultos raramente têm acesso a dois Powers pareados.
+
+### Associações Rúnicas por Divindade
+A tabela abaixo lista as principais divindades de Dragon Pass e suas Runas associadas, conforme o RuneQuest RPG Wiki oficial. Uma divindade com mais de uma instância de uma Runa é considerada "dona" dela.
+
+| Divindade | Runas | Descrição |
+|-----------|-------|-----------|
+| Aldrya | epx | Deusa das florestas, mãe dos elfos |
+| Argan Argar | ol | Deus da Escuridão de superfície, líder dos trolls |
+| Babeester Gor | et | Filha Vingadora, deusa de sangue e represália |
+| Chalana Arroy | lxl | Deusa da cura, uma dos Sete Lightbringers |
+| Daka Fal | ,b, | Pai de todos os mortais, Juiz dos Mortos |
+| Ernalda | xeel | Rainha da Terra, deusa das mulheres, agricultura e fertilidade |
+| Eurmal | iji | Deus das mentiras e enganos, um dos Sete Lightbringers |
+| Humakt | tyt | Deus dos finais, da Morte e da guerra |
+| Issaries | ls | Deus dos mercadores, viajantes e oradores, um dos Lightbringers |
+| Kyger Litor | o, | Deusa do submundo sob o Castelo de Chumbo |
+| Lhankor Mhy | yc | Deus dos escribas, sábios e escrita, um dos Lightbringers |
+| Magasta | swwt | Poderoso governante dos mares e oceanos |
+| Maran Gor | tej | Abaladora da Terra, irmã de Ernalda, deusa da destruição |
+| Mostal | cec | O Fazedor, deus anão que mantém o Motor do Mundo |
+| Orlanth | sggW | Líder dos Sete Lightbringers e rei dos deuses |
+| Deusa Vermelha | x//? | Deusa da Lua Vermelha e do Império Lunar |
+| Sete Mães | /xt | Panteão principal do Império Lunar |
+| Touro da Tempestade | gBt | Inimigo do Caos, fúria berserker bárbara |
+| Waha | ,t | O Açougueiro, filho do Touro da Tempestade, deus chefe de Prax |
+| Yelm | x..t | Deus do Sol, que morre cada noite e retorna com o amanhecer |
+| Yelmalio | Oy | O Deus Brilhante, filho de Yelm, patrono do Sun Dome |
 
 ## Referências Cruzadas
 - [[Glorantha]]
