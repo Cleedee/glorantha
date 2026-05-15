@@ -298,6 +298,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Appendix N de RuneQuest]] | Inspirações literárias; Appendix M (RQ1 1978) → Appendix N (RQ2 1979); coincidência com AD&D | `literatura` `mitologia` `história` `RQ1` `RQ2` | draft |
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
 | [[gods-and-cults-rq-wiki]] | Página de referência do RuneQuest RPG Wiki oficial sobre deuses, cultos e tabela de associações Runa por divindade | `site` `referência` `RuneQuest` `Chaosium` `deuses` `cultos` `Runas` | draft |
+| [[elder-races-rq-wiki]] | Página de referência do RuneQuest RPG Wiki oficial sobre as Raças Anciãs: Aldryami, Dragonewts, Mostali, Trolls, Broo, Merfolk | `site` `referência` `RuneQuest` `Chaosium` `Raças Anciãs` `Elder Races` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; Appendix N (bibliografia), Appendix O; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[runequest-rpg-wiki-as-runas]] | Página do RuneQuest RPG Wiki oficial sobre o sistema de Runas: Elementos, Poderes, Formas, Condições | `site` `referência` `RuneQuest` `Chaosium` `wiki` `Runas` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
@@ -364,7 +365,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Whitewall]] | Último reduto Orlanthi; cerco de 1620 pelo Império Lunar | `cidade` `cerco` `1620` | draft |
 | [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
-| [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; castanho, amarelo, verde; iniciação não-elfa brutal | `raça` `elfos` `Aldryami` `iniciação` | draft |
+| [[Aldryami]] | Elfos de Glorantha — árvores caminhantes; subtipos: verde, castanho, amarelo, negro, vermelho, dríades, runners; iniciação não-elfa brutal | `raça` `elfos` `Aldryami` `iniciação` | draft |
 | [[Aeolianos]] | Povo Esvularing do sul de Heortland; seguem Aeolismo — variação henoteísta do Malkionismo | `Aeolianos` `Esvularing` `Heortland` `Malkionismo` | draft |
 | [[Uz (Trolls)]] | Trolls de Glorantha; exilados do underworld; matriarcal | `raça` `trolls` `Uz` | draft |
 | [[Rathori]] | Werebears de Glorantha; oeste de Genertela (Rathorela); detalhados em Bearwalkers | `Rathori` `werebears` `Rathorela` `Genertela` | draft |

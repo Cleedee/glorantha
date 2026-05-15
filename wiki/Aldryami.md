@@ -2,7 +2,7 @@
 title: "Aldryami"
 category: "Cultura"
 tags: [raça, elfos, Aldryami, elder race]
-sources: ["raw/clippings/Glorantha.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["raw/clippings/Glorantha.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/The Elder Races  The RuneQuest RPG Wiki.md"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -18,9 +18,15 @@ Os **Aldryami** são os elfos de Glorantha. Diferente dos elfos de Tolkien, os A
 Criados pela deusa **Aldrya** para ajudá-la na sua busca de preservar e propagar a vida vegetal, os Aldryami existem em muitos subtipos dependendo dos tipos de árvores que os cuidadam.
 
 ### Sub-raças
-- **Elfos Castanho** — Cuidadores de carvalhos. Tipicamente grandes e muito ent-like.
-- **Elfos Amarelos** — Cuidadores de árvores tropicais. Pequenos, abitam as "Vietnams" de Glorantha.
-- **Elfos Verdes** — Cuidadores de pinheiros e perenes. Aldrya deliberadamente os fez para parecerem humanos muito atraentes. NÃO tente dormir com um Elf Verde.
+Os Aldryami são mais próximos de plantas que de mamíferos. Seus tipos dependem do ecossistema florestal:
+
+- **Elfos Verdes** — Coníferas (pinheiros, perenes). Mais comuns. Aldrya deliberadamente os fez para parecerem humanos muito atraentes.
+- **Elfos Castanho** — Decíduas temperadas (carvalhos). Tipicamente grandes e ent-like.
+- **Elfos Amarelos** — Florestas tropicais. Pequenos, habitam as "Vietnams" de Glorantha.
+- **Elfos Negros** — Fungos. Subterrâneos ou de florestas fúngicas.
+- **Elfos Vermelhos** — Fetos (samambaias).
+- **Dríades** — Espíritos da floresta ligados a árvores específicas.
+- **Runners** — "Elfos degenerados", forma degradada de Aldryami.
 
 > **Aviso:** Sintomas de STD causada por elf incluem: descoloração da pele, coceira, halitose, morte, erupções, miscigenação, despigmentação, alergias e (em raros casos) apoteose.
 
