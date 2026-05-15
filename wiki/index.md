@@ -57,7 +57,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Eurmal]] | Deus trickster orlanthi; palhaços sagrados; disruptores sociais; bodes expiatórios | `deus` `trickster` `Orlanthi` `caos` `clowns` | draft |
 | [[Maran Gor]] | Deusa dos terremotos; culto propiciatório em Sartar; aceita sacrifício humano | `deusa` `terremoto` `Sartar` `sacrifício` | draft |
 | [[Kero Fin]] | Mãe das Montanhas; consorte de Lodril; progenitora das Montanhas Quivin | `deusa` `montanhas` `Quivin` `Lodril` | draft |
-| [[Biturian Varosh]] | Viajante icônico de Cults of Prax; narrativa diegética nas margens do livro | `personagem` `viajante` `Prax` `Cults of Prax` | draft |
+| [[Biturian Varosh]] | Viajante icônico de Cults of Prax; rota Pavis–Corflu (Parte 3 do podcast God Learners) | `personagem` `viajante` `Prax` `Cults of Prax` `God Learners` | draft |
 | [[Vamastal Greyskin]] | Rei da tribo Sambari; semilouco por heroquesting; pele cinzenta do Inferno | `rei` `Sambari` `Sartar` `heroquesting` `Starbrow` | draft |
 | [[Caladra e Aurelion]] | Gêmeos do Vulcão, filhos de Lodril; culto introduzido pelos God Learners | `deuses` `vulcão` `Caladraland` `Lodril` `God Learners` `gêmeos` | draft |
 | [[Eiritha]] | Deusa dos animais de rebanho entre os Nômades Animais; consorte do Touro da Tempestade | `deusa` `rebanho` `Nômades Animais` `Prax` | draft |
@@ -337,6 +337,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 17]] | 17ª edição; Ep.4 podcast, Korolstead, Bad Day at Duck Rock, Dart Wars, Argrath/Alexander, Justiça Orlanthi/Dara Happana | `periódico` `malkioni` `Dart Wars` `Argrath` `Orlanthi` `Dara Happan` | draft |
 | [[journal-of-runic-studies-18]] | 18ª edição; Armamento de Orlanth expandido, Ranging and Joining, Caladraland, Wilmskirk, heroquests de Harmast, manuscrito de Greg Stafford | `periódico` `malkioni` `Orlanth` `Heroquesting` `Caladraland` `Wilmskirk` `Harmast` `Greg Stafford` | draft |
 | [[journal-of-runic-studies-19]] | 19ª edição; demografia Tarsh Lunar, mapa clãs Sartar, Red Book of Magic review, regras afogamento, Sex and Gender in the Orlanthi, Sandheart V4 | `periódico` `malkioni` `Tarsh` `Red Book of Magic` `Sandheart` `Six Seasons` | draft |
+| [[journal-of-runic-studies-21]] | 21ª edição; Biturian Varosh Part 3 (Pavis–Corflu), Saranioth The Wanderer, Meints Index 3ª ed | `periódico` `malkioni` `Biturian Varosh` `Saranioth` `Meints Index` | draft |
 | [[journal-of-runic-studies-23]] | 23ª edição; Chuva Má como Sombra de Orlanth, Irmãos do Trovão/Maruts, Lightbringers Quest de Kallyr, Harmast 424 ST | `periódico` `malkioni` `Chuva Má` `Irmãos do Trovão` `Kallyr` `Harmast` | draft |
 | [[journal-of-runic-studies-24]] | 24ª edição; Aeolianos/Esvolaring, ecologia dos Broos, código de honra Humakti, missionários Theyalanos | `periódico` `malkioni` `Aeolianos` `Broo` `Humakt` `Theyalanos` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |

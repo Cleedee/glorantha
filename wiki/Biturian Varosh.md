@@ -2,7 +2,7 @@
 title: "Biturian Varosh"
 category: "Entidade"
 tags: [personagem, viajante, prax, cultos, narração]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 21.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -16,6 +16,9 @@ Personagem viajante cujas aventuras foram narradas nas barras laterais de [[Cult
 
 ### Inovação Narrativa
 As viagens de Biturian Varosh são um recurso inovador de design de RPG: uma forma de descobrir a "Glorantha real", aquela que varia porque ignora que é um cenário descrito em livros. Funciona tanto como fonte de ideias para aventuras quanto como entretenimento.
+
+### Rota Pavis–Corflu (Parte 3)
+O podcast God Learners cobriu a terceira parte da jornada de Biturian, de [[Pavis]] a [[Corflu]], com a participação de Drew Baker (autor de Rubble Runners) como guia através de Prax.
 
 ### Cobertura dos God Learners
 O podcast God Learners seguiu as viagens icônicas de Biturian Varosh em dois episódios:
