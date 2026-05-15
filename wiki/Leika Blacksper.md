@@ -49,6 +49,7 @@ aliases:
 - [[Orlanth]]
 - [[Sartar Homeland Boxed Set]]
 - [[Clearwine]]
+- [[Skull Ruins - Tusk Riders Need Blood!]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
@@ -59,3 +60,4 @@ aliases:
 - [ ] Qual é o papel exato de Leika nas Hero Wars?
 - [ ] A Lança Negra tem alguma origem ou significado especial?
 - [ ] Leika aparece em outras publicações além do Gamemaster Pack?
+- [ ] Leika captura um Tusk Rider vivo e envia aventureiros às Ruínas do Crânio (Skull Ruins)

@@ -74,6 +74,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Shargash]] | Deus da purificação pelo fogo; criado por Yelm para manter ordem; análogo a Fudō Myō-ō; sede em Alkoth | `deus` `fogo` `purificação` `ordem` `Dara Happa` | draft |
 | [[Yelm]] | Imperador Celestial, deus sol; irmão do meio; morte desencadeia Guerra dos Deuses; Lightbringers; Tempo começa com seu retorno | `deus` `sol` `imperador` `Fogo/Céu` `Lightbringers` | draft |
 | [[Yelmalio]] | Cold Sun, Preserver of Light; Lightfore; "Little Yelm"; paralelo Mitra/Mithras; perseverou na Escuridão | `deus` `sol` `Cold Sun` `Lightfore` `Fogo/Céu` `Mithras` | draft |
+| [[Gouger]] | Javali Divino; venerado pelos Tusk Riders; rituais de sacrifício de sangue para controle de javalis gigantes | `deus` `javali` `Tusk Riders` `sacrifício` | draft |
 
 ---
 
@@ -321,6 +322,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
 | [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |
 | [[Kalayde Waters]] | Aventura de tribunal Orlanthi; dois amantes desaparecidos, famílias rivais; regras de julgamento | `Jonstown` `aventura` `tribunal` `Orlanthi` `Lhankor Mhy` | draft |
+| [[Skull Ruins - Tusk Riders Need Blood!]] | Aventura 76p; Ricardo Shankland; Leika captura Tusk Rider; ritual de sangue; batalha em larga escala | `aventura` `Jonstown` `Tusk Riders` `Colymar` `Dario Corallo` | draft |
+| [[Ricardo Shankland]] | Autor Jonstown; escrita clara e concisa; Skull Ruins - Tusk Riders Need Blood! | `autor` `Jonstown` `RuneQuest` | draft |
 | [[Lands of RuneQuest - Dragon Pass]] | Primeiro volume da linha Lands of RuneQuest; gazetteer completo de Dragon Pass com história, geografia e bestiário | `suplemento` `Dragon Pass` `gazetteer` `Ossi Hiekkala` `Jeff Richard` | draft |
 | [[Sun County]] | Suplemento clássico RQ3 sobre o Sun Dome de Yelmalio em Prax; remasterizado 2024 | `suplemento` `clássico` `RQ3` `Yelmalio` `Sun Dome` | draft |
 | [[Griselda]] | Personagem ficcional Gloranthana; Oliver Dickinson; Kraken Chapbooks | `personagem` `ficção` `Oliver Dickinson` `Kraken` | draft |
@@ -354,6 +357,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Exército Sartarita]] | Milícias, thanes, sociedades guerreiras e mercenários de Sartar; transformação sob Argrath | `Sartar` `militar` `thanes` `Argrath` | draft |
 | [[Nômades Animais]] | Povos nômades das Terras Ermas que montam bestas exóticas; sociedade fundada por Waha | `nômades` `animais` `Prax` `Wastes` `xamanismo` `montaria` | draft |
 | [[Hyalorings]] | Cavaleiros descendentes dos Dara Happans que fugiram de Nivorah durante o Tempo dos Deuses; cultura jogável em Six Ages | `cultura` `Dara Happa` `Hyalor` `cavalos` `Nivorah` | draft |
+| [[Tusk Riders]] | Meio-trolls que montam javalis gigantes; sacrifícios a Gouger; caminhos secretos; capturados por Leika | `meio-trolls` `javalis` `Uz` `Gouger` `Colymar` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
 

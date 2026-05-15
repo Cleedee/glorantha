@@ -109,6 +109,7 @@ O bibliotecário dos God Learners iniciou uma lista de todos os "freeforms" (LAR
 | [[The Fall of Whitewall]] | Cerco de Murallas Brancas de 1620; heroquest + resistência | 25 | $6 |
 | [[Dara Happan Primer]] | Criação de personagens de terra solar, 4 cultos adicionais | 26 | $2 |
 | [[Marsh Attacks]] | Upland Marsh; tribo Lismelder; clã Greydog; templo Humakti | 120 | $15.95 |
+| [[Skull Ruins - Tusk Riders Need Blood!]] | Aventura clássica; Leika captura Tusk Rider; ritual de sangue nas Ruínas do Crânio; batalha em larga escala | 76 | $— |
 | [[Eyes' Rise]] | Vilarejo no Rio dos berços; 19 NPCs; Rio Folk | — | — |
 | [[LEGION Games Mega-Bundle]] | Pacote com todos os títulos: LEGION, Rubble Redux, QAD series | — | Bundle |
 | [[Grungnak Fearless]] | Mestre das Runas de Zorak Zoran; itens mágicos, PNJs | — | $— |
