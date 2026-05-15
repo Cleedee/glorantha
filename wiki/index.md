@@ -342,6 +342,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[journal-of-runic-studies-23]] | 23ª edição; Chuva Má como Sombra de Orlanth, Irmãos do Trovão/Maruts, Lightbringers Quest de Kallyr, Harmast 424 ST | `periódico` `malkioni` `Chuva Má` `Irmãos do Trovão` `Kallyr` `Harmast` | draft |
 | [[journal-of-runic-studies-24]] | 24ª edição; Aeolianos/Esvolaring, ecologia dos Broos, código de honra Humakti, missionários Theyalanos | `periódico` `malkioni` `Aeolianos` `Broo` `Humakt` `Theyalanos` | draft |
 | [[journal-of-runic-studies-68]] | 68ª edição (2022); clipping incompleto — menções a pântanos de Pelória, magia de Oslira, Broo | `periódico` `malkioni` `Oslira` `Pelória` `Broo` | draft |
+| [[journal-of-runic-studies-69]] | 69ª edição (2022); Heroquesting (inconsciente coletivo, arquétipos), finanças Lunares, Stafford House Campaign | `periódico` `malkioni` `Heroquesting` `finanças` `Stafford House` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |
 | [[A Bad Day at Duck Rock]] | Aventura de escolta em Duck Valley; Peter Hart; Dario Corallo | `aventura` `Jonstown` `Peter Hart` `Dario Corallo` | draft |
 | [[Sartar Free Army]] | Exército reformado por Argrath; sociedades secretas praxianas, aliados draconicos | `exército` `Argrath` `reforma` `Prax` `dragonewts` | draft |
