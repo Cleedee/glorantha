@@ -45,6 +45,14 @@ As principais tribos humanas de Prax:
 
 O herói **[[Argrath]] White Bull** uniu as tribos praxianas sob sua liderança e proclamou-se Rei de [[Pavis]].
 
+### As Terras Ermas
+Os Praxianos passam a maior parte do tempo nas vastas **[[As Terras Ermas|Terras Ermas]]** (Wastes), não em Prax propriamente. Para os povos civilizados, as Terras Ermas são inóspitas — tempestades de poeira, broos, homens-escorpião e outros monstros. Mas [[Waha]] mostra o caminho para sobreviver: rebanhos movem-se de pastagem em pastagem protegidos pelos nômades.
+
+Foi nas Terras Ermas que **Jaldon Goldentooth** tornou-se um Herói, e lá que o [[Touro da Tempestade]] defende o cadáver corrompido de seu amigo e suserano [[Genert]]. Durante a Ocupação Lunar, muitos Praxianos exilaram-se nas Terras Ermas e juntaram-se à **White Bull Society**, que começou lá. Agora retornam a Prax a convite de Argrath.
+
+### Expansão para Pent
+Após a Dragonkill War e o fechamento de Dragon Pass, os Nômades Animais passaram por um período de calma e crescimento. Eventualmente expandiram-se para norte em **Pent**, culminando na lendária batalha de **No-Feet-on-the-Ground**, onde até o sol e a tempestade tomaram parte e a própria terra recuou do contato com a batalha. Esta batalha dividiu os Cavaleiros do Cavalo (Horse Barbarians) em divisões Leste e Oeste.
+
 ### O Mito de Eiritha e o Touro da Tempestade
 Segundo a mitologia nômade, Prax era amada de **[[Eiritha]]** e era fértil e agradável, mas sua essência ela deu para ajudar o **[[Touro da Tempestade]]** contra o Diabo. A superfície da terra agora é argila dura e areia, sobre camadas de calcário.
 

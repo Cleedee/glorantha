@@ -10,6 +10,7 @@ tags:
 sources:
   - raw/clippings/Glorantha.md
   - raw/clippings/Journal of Runic Studies 11.md
+  - raw/clippings/Journal of Runic Studies 25.md
 last_updated: 2026-05-10
 status: estavel
 ---
@@ -35,6 +36,16 @@ O termo **Ernaldela** (inicialmente "Ernaldi") aparece nos primeiros materiais d
 
 #### Fronela
 Uma área fria que apenas recentemente se recuperou de uma catástrofe mágica chamada **Syndics Ban**, que dividiu a terra em pequenos bolsões separados por neblina impenetrável por 40 anos. O estado mais importante é **Loskalm**, uma colônia Malkioni que usou a Syndics Ban para transformar sua sociedade numa república platônica.
+
+#### Wenelia
+Região entre [[Maniria]] e o [[País Santo]], na costa sul de Genertela. Durante a Era da Alvorada, era lar dos **Pralori Elk People** (Hsunchen que se transformam em alces) e dos **Entruli** (Mraloti/boar-folk). Em 97, um governante Entruli quebrou um tabu antigo, causando um dilúvio que destruiu a terra — apenas a capital **Porluftha** sobreviveu submersa numa bolha de ar. Em 115, **Lalmor of the Vathmai** chegou de Dragon Pass, unificou os Entruli e trouxe o culto dos Lightbringers. As Ilhas Wenelian já foram uma península antes do afundamento de Slontos.
+
+#### Comércio e Rotas
+Entre o **Fechamento dos Oceanos** (c. 900) e a **Dragonkill War** (1120), o comércio em Genertela era mínimo. A **Manirian Road** ligava [[Esrolia]] a [[Safelster]] e [[Tanisor]]. [[Pelória]] usava a rota fluvial do Rio Janube até Sog City (controlada pelos Carmanianos).
+
+A fundação do Reino de [[Sartar]] (1492) revolucionou o comércio com estradas e pousadas. Com a **Abertura** (Opening, 1580s), o volume explodiu: especiarias, seda de [[Kralorela]] e outros bens de luxo atravessavam Dragon Pass para o [[Império Lunar]]. Cerca de **900 toneladas/ano** seguiam do País Santo para [[Furthest]]. Uma caravana passava a cada dois dias nas King's Roads.
+
+A elite Lunar consumia ~6 toneladas de seda/ano. Existia também a **seda de aranha** (spidersilk) de Dagori Inkarth, produzida pelo culto Aranea, superior à seda de bicho-da-seda porém mais rara.
 
 #### Kralorela
 Frequentemente ridicularizada como "China fantástica", é um país que adora Yelm como Dara Happa, mas governado pelos **Imperadores Dragão** aparentemente imortais. Terra de [[Misticismo Dracônico]] — seus habitantes, os kralori, consideram o Vazio a origem mística do universo e os dragões seus professores. Geografia subtropical de colinas, vales fluviais, florestas de bambu e arrozais. Quase completamente isolada pelas **Shan Shan Mountains** a oeste. Ver página dedicada: [[Kralorela]].

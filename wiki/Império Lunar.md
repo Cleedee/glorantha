@@ -2,7 +2,7 @@
 title: "Império Lunar"
 category: "Cultura"
 tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 18.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 25.md"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -21,6 +21,14 @@ Império de Glorantha com ~8,5 milhões de humanos e 1 milhão de não-humanos, 
 ### Cultura e Modelo
 - Similaridades com o Império Romano em linguagem e nomes, mas com localização lunar (luas e morcegos em vez de SPQR e águias).
 - Modelo útil para jogos: personagens lunares podem parecer e agir como romanos.
+
+### Nobreza Lunar — Clãs Satrapais
+Poderosas famílias (clãs) cercam o [[Imperador Vermelho]], todas com algum grau de parentesco com ele. Aqueles **"nascidos no vermelho"** (born in the red) — nascidos enquanto o Imperador usava sua Máscara Vermelha divina — são superiores aos nascidos quando a máscara era mera mortal. Especula-se que apenas filhas nascem no vermelho (Hwarin Dalthippa, [[Hon-eel]], [[Jar-Eel]]). Nenhum filho de Moonson é confirmado.
+
+A **Silver Shadow Satrapy** é cheia destes parentes imperiais. Clãs satrapais como **Eel-arish** e **Taran-il** são divisões familiares das Terras Centrais Lunares, comparáveis a daimyo do Japão Imperial — conspiram entre si, mantêm exércitos privados, e lutam através de assassinatos e guerras secretas pelo controle do Imperador Vermelho e do império.
+
+### Características Caóticas
+Menos de 1% da população Lunar é tocada pelo Caos, concentrada na classe dominante. O culto da [[Deusa Vermelha]] tem acesso ao feitiço **Chaos Gift** (do *Red Book of Magic*), que concede uma Característica Caótica temporária e afinidade permanente com a Runa do Caos. Sacerdotisas sênior das [[Sete Mães]] também recebem este feitiço. Uma Característica Caótica distorce e mutila o recipiente — mesmo quando benéfica, resulta em partes do corpo exageradas ou grotescas.
 
 ### Conquista de Dara Happa
 A aristocracia de Yelm suspeitava do Imperador Vermelho como feiticeiro quando ele provou ser a encarnação de Yelm através dos Testes do Imperador. Embora Dara Happans e Lunares parecessem unidos pelo casamento nobre, temiam que o novo Imperador fosse mais Lunar que Solar.

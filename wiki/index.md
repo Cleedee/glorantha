@@ -101,7 +101,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hogar Audaz]] | Capital de Sartar; detalhada no futuro Lands of RuneQuest | `capital` `Sartar` | draft |
 | [[Talastar]] | Região vizinha de Dorastor; cenário de RuneQuest Warlords | `região` `Warlords` | draft |
 | [[Glamour]] | Cidade do Grande Templo do Imperador Vermelho; vitrais do Tratado | `cidade` `Império Lunar` | draft |
-| [[Genertela]] | Continente setentrional; Fronela, Kralorela, Peloria, Kethaela | `continente` `norte` `regiões` | draft |
+| [[Genertela]] | Continente setentrional; comércio (900 t/ano), Manirian Road, seda; Wenelia/Pralori; Fronela, Kralorela, Peloria | `continente` `norte` `regiões` `comércio` `Wenelia` | draft |
 | [[Pamaltela]] | Continente meridional; errinoru, fonrit, kothar, tarien | `continente` `sul` `regiões` | draft |
 | [[Kralorela]] | Região leste de Genertela; Imperadores Dragão; Misticismo Dracônico; kralori | `região` `Kralorela` `dragões` `Genertela` | draft |
 | [[Templo das Seis Pedras]] | Templo de Humakt em regeneração; Upland Marsh; Six Stones | `templo` `Humakt` `Upland Marsh` | draft |
@@ -168,7 +168,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Beastlords]] | Cabala feiticeiros metamorfose; artigo D-Infinity | `feitiçaria` `metamorfose` `animais` | draft |
 | [[Guilda Trabalhadores em Bronze]] | Guilda Boldhome; culto Gustbran; exemplo guildas Sartar | `boldhome` `guilda` `gustbran` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
-| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; paradoxo: pacífico mas maior ameaça cósmica; Gbaji como abordagem | `lunar` `império` `população` `Dara Happa` `Gbaji` | draft |
+| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; clãs satrapais (Eel-arish, Taran-il); Chaos Gift; Silver Shadow Satrapy | `lunar` `império` `população` `Dara Happa` `Gbaji` `nobreza` | draft |
 | [[Glorantha]] | Universo de fantasia de Greg Stafford (1966); losanga no Oceano Primeval; Idade do Bronze, bronze divino, wyters, sem "conversão"; influenciou GoT, TES, Warcraft | `Glorantha` `Greg Stafford` `RuneQuest` `Sartar` `Dragon Pass` `Idade do Bronze` | draft |
 | [[Glorantha, Meaning, and Mythology]] | Ensaio de Andrew Logan Montgomery sobre interpretação de mitos; significados, não fatos; 4 ajustes mentais | `mitologia` `significado` `interpretação` `Elmal` `Vinga` | draft |
 | [[Bringing RuneQuest to Life]] | Metodologia de ALM para trazer RQ à vida: Reverse Statistics, Runas como Tarô, imersão por comida, associações rúnicas diárias | `runas` `RuneQuest` `GM` `imersão` `narrativa` | draft |
@@ -250,7 +250,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
 | [[Sartar Homeland Boxed Set]] | Boxed set RQ; arte Ossi Hiekkala/Anna Orlova; cultos; clãs; demografia 157 clãs; moda; Pockets Boldhome | `boxed set` `sartar` `arte` `clãs` `culto` `demografia` | draft |
-| [[Prax]] | Região de nômades; tribos Bison, High Llama, Impala, Pol-Joni, Sable, Morokanth; Argrath unificou-as | `região` `nômades` `Prax` `tribos` `Argrath` | draft |
+| [[Prax]] | Região de nômades; tribos Bison, High Llama, Impala, Pol-Joni, Sable, Morokanth; Wastes, White Bull Society, Jaldon Goldentooth, No-Feet-on-the-Ground | `região` `nômades` `Prax` `tribos` `Argrath` `Wastes` `White Bull` | draft |
 | [[Esrolia]] | Rica terra matriarcal; Nochet é a maior cidade de Glorantha; centro do culto à Terra | `Esrolia` `Nochet` `matriarcado` `Ernalda` `País Santo` | draft |
 | [[Grazelands]] | Colinas gramadas dos Pony Breeders; Feathered Horse Queen; sociedade patriarcal rígida | `Grazelands` `Pony Breeders` `Feathered Horse Queen` `Dragon Pass` | draft |
 | [[Heortland & Hendrikland]] | Sourcebook Jeff Richard + Harald Smith; Durengard; Aeolianos/Esvularing; Rikard the Tiger-Hearted; tribo Bandori | `sourcebook` `região` `Heortland` `Aeolianos` | draft |
@@ -341,6 +341,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[journal-of-runic-studies-22]] | 22ª edição; Chalana Arroy infirmary, Jeff's Notes sobre mito como arquétipo, motivo do Cavaleiro e da Deusa (Sorana Tor, Yarandros) | `periódico` `malkioni` `Chalana Arroy` `Horse Rider` `Sorana Tor` `Yarandros` | draft |
 | [[journal-of-runic-studies-23]] | 23ª edição; Chuva Má como Sombra de Orlanth, Irmãos do Trovão/Maruts, Lightbringers Quest de Kallyr, Harmast 424 ST | `periódico` `malkioni` `Chuva Má` `Irmãos do Trovão` `Kallyr` `Harmast` | draft |
 | [[journal-of-runic-studies-24]] | 24ª edição; Aeolianos/Esvolaring, ecologia dos Broos, código de honra Humakti, missionários Theyalanos | `periódico` `malkioni` `Aeolianos` `Broo` `Humakt` `Theyalanos` | draft |
+| [[journal-of-runic-studies-25]] | 25ª edição; Prax/Wastes, grãos de Genertela, nobreza Lunar, Chaos Gift, comércio, Wenelia/Pralori | `periódico` `malkioni` `Prax` `Wastes` `Lunars` `comércio` `Wenelia` | draft |
 | [[journal-of-runic-studies-68]] | 68ª edição (2022); clipping incompleto — menções a pântanos de Pelória, magia de Oslira, Broo | `periódico` `malkioni` `Oslira` `Pelória` `Broo` | draft |
 | [[journal-of-runic-studies-69]] | 69ª edição (2022); Heroquesting (inconsciente coletivo, arquétipos), finanças Lunares, Stafford House Campaign | `periódico` `malkioni` `Heroquesting` `finanças` `Stafford House` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |

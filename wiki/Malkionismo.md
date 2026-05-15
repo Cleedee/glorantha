@@ -2,7 +2,7 @@
 title: "Malkionismo"
 category: "Conceito"
 tags: [malkioni, filosofia, religião, brithini]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 24.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 24.md", "raw/clippings/Journal of Runic Studies 25.md"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -39,6 +39,9 @@ Segundo Jeff Richard, o Malkionismo é um veículo para explorar lógica e filos
 ### Escolas Principais
 - **Brithinismo:** Malkionismo conservador dos Brithini, interação direta com deuses.
 - **Hrestolismo:** Ramo divergente (há 1600+ anos), foco diferente na Terceira Era.
+
+### Publicações de Referência
+Nick Brooke relançou **A History of Malkionism**, material out-of-print sobre a Genertela Ocidental, incluindo detalhes sobre os **Brithini**, **Waertagi** e **Vadeli**, com novas ilustrações de [[Katrin Dirim]].
 
 ### Aeolismo — Variação Henoteísta
 O **Aeolismo** é uma variação henoteísta do Malkionismo praticada pelo povo **Esvularing** do sul de [[Heortland]]. Seus seguidores adoram o [[Deus Invisível]] como Criador Supremo, mas reconhecem o panteão Orlanthi como "emanações" deste Criador — participando também de rituais Orlanthi. Jeff Richard sugere os [[Druze]] ou [[Mandaeans]] como inspirações do mundo real. Ver [[Aeolianos]].
