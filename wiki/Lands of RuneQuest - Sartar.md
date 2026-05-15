@@ -30,6 +30,7 @@ status: draft
 Snippets do livro foram compartilhados em novembro de 2025 mostrando conteúdo detalhado sobre Sartar.
 
 ## Referências Cruzadas
+- [[Lands of RuneQuest - Dragon Pass]] — primeiro volume da linha Lands of RuneQuest, cobrindo toda a região da Passagem do Dragão
 - [[Sartar]]
 - [[RuneQuest]]
 - [[Orlanthi]]

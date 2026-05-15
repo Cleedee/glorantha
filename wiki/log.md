@@ -139,3 +139,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-14] ingest | Processado "The Return of Sun County The Re-Release of a Classic.md" — 1 página criada: Sun County (Fonte, clássico RQ3 sobre Sun Dome). 1 página atualizada: Andrew Logan Montgomery (review adicionado). Index e log atualizados.
 
 ## [2026-05-14] ingest | Processado "Apocrypha Now A look at Dark Side of the Moon.md" — 1 página criada: Dark Side of the Moon (Fonte, compilação de apócrifa Lunar). 1 página atualizada: Andrew Logan Montgomery (review adicionado). Index e log atualizados.
+
+## [2026-05-14] ingest | Processado "Lands of RuneQuest Dragon Pass.md" — 1 página criada: Lands of RuneQuest: Dragon Pass (Fonte, gazetteer). 2 páginas atualizadas: Andrew Logan Montgomery (review adicionado), Lands of RuneQuest: Sartar (referência cruzada). Index e log atualizados.
