@@ -176,6 +176,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Calendário Gloranthano]] | Sistema de 5 estações, 8 semanas cada, 280 dias; cada semana como microcosmo da Era dos Deuses | `calendário` `Theyala` `estações` `semanas` `tempo` | draft |
 | [[Malkionismo]] | Sistema filosófico-religioso malkioni; escolas Brithinismo, Hrestolismo, Aeolismo; Moorcockiano/Vanceano na 3ª Era | `malkioni` `filosofia` `religião` `Brithini` `Aeolismo` | draft |
 | [[A Chuva Má]] | A Sombra de Orlanth — escuridão reprimida que emerge como Chuva Má; central para heroquesting Orlanthi e Lightbringers Quest | `Bad Rain` `Orlanth` `Sombra` `heroquesting` `Lightbringers` | draft |
+| [[As Runas]] | Arquétipos cósmicos: Elementos (roda elemental), Poderes (pares antagônicos), Formas e Condições; fonte do poder divino e da magia | `Runas` `Elementos` `Poderes` `Formas` `Condições` `cosmologia` | draft |
 
 ---
 
@@ -297,6 +298,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Appendix N de RuneQuest]] | Inspirações literárias; Appendix M (RQ1 1978) → Appendix N (RQ2 1979); coincidência com AD&D | `literatura` `mitologia` `história` `RQ1` `RQ2` | draft |
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; Appendix N (bibliografia), Appendix O; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
+| [[runequest-rpg-wiki-as-runas]] | Página do RuneQuest RPG Wiki oficial sobre o sistema de Runas: Elementos, Poderes, Formas, Condições | `site` `referência` `RuneQuest` `Chaosium` `wiki` `Runas` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
 | [[Steve Perrin]] | Co-criador de RuneQuest (1946-2021); série Creating RuneQuest; GRRM/Wild Cards | `designer` `RuneQuest` `Chaosium` `criador` | draft |
 | [[Grungnak Fearless]] | Vol 2 Monster of the Month; Mestre das Runas de Zorak Zoran | `monster` `zorak zoran` `jonstown` | draft |
