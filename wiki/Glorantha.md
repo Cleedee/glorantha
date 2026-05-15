@@ -18,10 +18,9 @@ status: draft
 Glorantha foi criado por **Greg Stafford** em 1966, quando ele tentou atrair mulheres wiccan para seu grupo de wargaming. É baseado em temas de mitos da Era do Bronze, não em obras de Tolkien.
 
 ### Estrutura do Mundo
-- O "mundo" é um cubo flutuante num mar sem fim
-- Acima está o Sol, o céu de Orlanth e as estrelas
-- Abaixo está o Underworld
-- No centro está o Maelstrom
+Glorantha é uma losanga ligeiramente abauldada — a forma da Runa da Terra — flutuando no Rio Sramak (Oceano Primeval). Suas camadas: Sky World, Céu (Sky Dome), Ar, Mundo Médio (reino dos mortais) e Submundo. No centro, o Poço de Magasta drena todas as águas.
+
+Ver página detalhada: [[Cosmologia de Glorantha]].
 
 ### Continentes
 - [[Genertela]] — o continente setentrional

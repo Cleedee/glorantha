@@ -2,7 +2,7 @@
 title: "Cosmologia de Glorantha"
 category: "Conceito"
 tags: [cosmologia, mito, creation, sol, luas, underworld, céu]
-sources: ["raw/clippings/Glorantha.md"]
+sources: ["raw/clippings/Glorantha.md", "raw/clippings/The RuneQuest RPG Wiki - The World.md"]
 last_updated: 2026-04-27
 status: draft
 ---
@@ -10,25 +10,37 @@ status: draft
 # Cosmologia de Glorantha
 
 ## Resumo
-A cosmologia de Glorantha descreve a estrutura do mundo e do universo.不同于其他奇幻設定，Glorantha 是一個立方體漂浮在無盡的海洋中，被天空和星辰的光環所包圍。
+A cosmologia de Glorantha descreve a estrutura do mundo e do universo. Glorantha não é um globo, mas uma losanga ligeiramente abauldada e quadrada — a forma da Runa da Terra — flutuando no Oceano Primeval.
 
 ## Conteúdo
 
 ### A Estrutura do Mundo
+Glorantha é uma **losanga ligeiramente abauldada e quadrada** — a forma da **Runa da Terra**. Flutua no **Rio Sramak**, o Oceano Primeval que circunda o mundo.
 
-O "mundo" de Glorantha é um cubo flutuante num mar sem fim, envolto numa lasca de céu e estrelas. **Acima do mapa** estão o Sol, o céu de Orlanth e as estrelas. **Abaixo do mapa** está o Mundo Inferior. No meio está o Maelstrom — um buraco no universo por onde água em massa está entrando.
+As camadas do mundo, de cima para baixo:
+- **Sky World** — O reino além da cúpula celestial.
+- **Céu (Sky Dome)** — Uma tigela descentrada que gira ao redor da **Estrela Polar**, que marca seu centro: o único ponto estável na Cúpula Celestial. À noite, as estrelas mostram onde os denizens mágicos do Sky World espreitam para proteger seus seguidores.
+- **Ar** — O reino turbulento dos deuses do Ar, entre a Terra e o Céu.
+- **Mundo Médio (Middle World)** — Abaixo do Céu e do Ar, sobre a Terra. É o reino dos mortais.
+- **Submundo (Underworld)** — Abaixo da Terra e da Água. Escuro e silencioso. Povoado por criaturas imortais, sonhos maus e almas dos mortos e não-nascidos.
 
-### O Sol
-**Yelm** (o Sol) é a entidade que ilumina tanto o Aboveworld quanto o Underground. Ele entra e sai através de torres nos extremos leste e oeste do mundo, que são portais para o Mundo Inferior, habitados por raças alienígenas poderosas.
+No centro do mundo está o **Poço de Magasta** (Magasta's Pool), que atrai todas as águas do mundo e as despeja no mar primordial escuro abaixo.
 
-### As Luas
-Existem várias luas. A mais importante é a **Lua Vermelha** (Red Moon), asociada ao Império Lunar. As luas parecem fazer pouco mais do que causar problemas — e frequentemente o fazem, especialmente quando civilizações ou cultos se metem no caminho.
+### A Jornada do Sol
+**Yelm** (o Sol) nasce ao leste cada manhã, passa sobre o Ar e cruza o Céu para se pôr ao oeste cada entardecer. Então viaja sob os mares e a terra através do Submundo, finalmente subindo novamente às terras orientais da Alvorada. Enquanto o Sol está no Submundo, a **Deusa da Noite** governa o Céu.
 
-### O Mundo Inferior
-O **Underworld** (Mundo Inferior) fica abaixo da superfície. É o reino dos mortos e lar de várias raças, incluindo os trolls que foram exilados do seu paraíso quando Yelm acendeu o seu fogo eterno.
+### Além do Mundo Médio
+Além do Mundo Médio estão as terras de raças supernaturalmente poderosas — como **Altinela**, **Vithela** ou **Luathela**. Seus habitantes ocasionalmente vêm ao mundo dos homens, mas poucos homens jamais viajam até elas. Algumas são áreas de mito, como o **Mar de Fogo** (onde o Céu caiu na Terra e incendiou tudo) ou as **Terras da Alvorada e do Crepúsculo** (onde o Sol nasce e se põe cada dia). Apenas Heróis podem viajar a tais reinos e sobreviver, e de lá encontrar o caminho para os próprios mundos dos deuses.
 
-### O Maelstrom
-O Maelstrom é um remoinho no centro do mundo que leva ao Universe. Está sendo tamponado por quantidades massivas de água.
+### Clima e Continentes
+**Genertela** (norte): Mais frio que o sul. Regiões extremo-norte inabitadas (demônios de gelo e snow trolls). O **Mar Branco** separa o inverno permanente das terras habitadas. Clima temperado com estações moderadas no sul.
+
+**Oceano Central:** Mares amenos e quase bálticos. Ilhas semitropicais. O Poço de Magasta drena todas as águas ao centro.
+
+**Pamaltela** (sul): Desenvolveu-se independentemente até a Segunda Era. Costa norte extremamente agradável; temperatura aumenta para o sul. Além das terras conhecidas: selvas densas e as áridas **Burning Wastes** inabitáveis.
+
+### Entidades Mágicas
+O mundo é povoado por entidades mágicas — personificações de coisas, representações de essências vitais, verdades espirituais. Muitas estão vivas em todos os sentidos; outras não. A maioria vive apenas no Mundo Mundano, contente em deixar que xamãs e Mestres das Runas as protejam.
 
 ## Referências Cruzadas
 - [[Yelm]]

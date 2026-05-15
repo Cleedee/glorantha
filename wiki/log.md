@@ -171,3 +171,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-15] ingest | Processado "The Elder Races — The RuneQuest RPG Wiki.md" — 1 página criada: elder-races-rq-wiki (Fonte, referência sobre Raças Anciãs). 1 página atualizada: Aldryami (subtipos expandidos: negro, vermelho, dríades, runners). Index e log atualizados.
 
 ## [2026-05-15] ingest | Processado "Unique Aspects of Glorantha — The RuneQuest RPG Wiki.md" — 2 páginas criadas: unique-aspects-rq-wiki (Fonte), Moeda Gloranthana (Conceito, sistema monetário completo). 1 página atualizada: Calendário Gloranthano (descrições detalhadas das 5 estações e Tempo Sagrado). Index e log atualizados.
+
+## [2026-05-15] ingest | Processado "The RuneQuest RPG Wiki - The World.md" — 1 página criada: rq-wiki-the-world (Fonte). 2 páginas atualizadas: Cosmologia de Glorantha (reescrita completa: losanga, camadas, Poço de Magasta, jornada do Sol, Sky World, Altinela/Vithela/Luathela, Genertela, Pamaltela, Burning Wastes), Glorantha (estrutura do mundo atualizada). Index e log atualizados.
