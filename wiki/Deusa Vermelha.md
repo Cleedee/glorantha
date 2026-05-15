@@ -2,7 +2,7 @@
 title: "Deusa Vermelha"
 category: "Entidade"
 tags: [lunar, deusa, orlanthi, história]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Myth and History  The RuneQuest RPG Wiki.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -26,6 +26,11 @@ Deusas lunares mortas cujos fragmentos foram reunidos incluem **Verithurusa** (f
 Jeff Richard nota que a Deusa Vermelha é "muito mais e muito maior que suas partes quebradas".
 
 A Lua Vermelha paira estacionária acima de [[Glamour]], não nascendo nem se pondo, ciclando entre Vermelho e Preto a cada semana.
+
+### Contexto Histórico — O Império Carmaniano
+Em [[Pelória]], o cruel **Império Carmaniano** conquistou a antiga civilização Dara Happana fundada por [[Yelm]]. Os Carmanianos ameaçaram extinguir as últimas luzes de Pelória até que sete heroquesters desesperados conspiraram para reviver uma deusa morta — a **Lua Vermelha**, vítima da Grande Escuridão, despedaçada e espalhada pelos mundos. Após quests profundas no Submundo, ela foi reformada como a **Deusa Vermelha**.
+
+A Deusa Vermelha incorporava Constância e Mudança, Vida e Morte, Amor e Indiferença — todas as dicotomias do Universo, incluindo o [[Caos]]. Após viver brevemente em Glorantha, ascendeu ao céu, onde permanece em sua beleza cíclica, vendo a terra que deixou a sua família. O sempre-reencarnante **Imperador Vermelho** é seu filho e seu orgulho.
 
 ### A Deusa Vermelha e sua Sombra
 A Deusa Vermelha foi a primeira entre os cultos do Fogo/Céu a abraçar sua própria Sombra, rejeitando a tradição anterior que via o reconhecimento da Sombra como tabu. Isto ocorreu como parte de sua **Goddess Quest**:

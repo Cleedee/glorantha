@@ -36,7 +36,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
 | [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
 | [[Belintar]] | Deus-Rei do País Santo; expirou 1616; Jar-Eel caça no Portal; Torneio quebrado alimenta Hero Wars; 4 teorias de origem | `deus-rei` `país santo` `1318` `Torneio` `Hero Wars` `origem` | draft |
-| [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça"; reconstruída de luas pré-históricas pelas Sete Mães; abraçou sua Sombra na Goddess Quest | `deusa` `lunar` `orlanthi` `luas` `Sete Mães` `Sombra` | draft |
+| [[Deusa Vermelha]] | Divindade lunar; reconstruída de luas pré-históricas; derrubou o Império Carmaniano; abraçou sua Sombra na Goddess Quest | `deusa` `lunar` `Império Carmaniano` `Sete Mães` `Sombra` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
 | [[Broo]] | Raça do Caos; tipos feral/selvagem/civilizado; Lunares consideram-nos "pessoas"; Broo Purificado do Zola Fel | `raça` `Caos` `Broo` `Dorastor` `Ralzakark` | draft |
 | [[Orlanth]] | Rei dos deuses Orlanthi; Thunderous (50%), Adventurous (20%), Rex (25%); Irmãos do Trovão (Maruts védicos); Chuva Má como Sombra; quatro braços/quatro aspectos | `deus` `rei` `Orlanthi` `culto` `Sartar` `Irmãos do Trovão` `Chuva Má` | draft |
@@ -129,6 +129,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 |--------|--------|------|--------|
 | [[Tratado da Sétima Lua Minguante]] | Acordo comercial Lunar-Dorastano de 1580; Ralzakark + Amal-See Calax; 14 vitrais | `tratado` `1580` | draft |
 | [[Campanha White Bull]] | Campanha casa Chaosium; Batalha das Rainhas; preview regras combate em massa | `white bull` `youtube` `kallyr` `regras batalha` | draft |
+| [[Dragonkill War]] | Massacre de exércitos humanos por dragões em Dragon Pass (1120); fim do Império dos Amigos Wyrms/EWF | `Dragonkill` `dragões` `1120` `Dragon Pass` `EWF` | draft |
+| [[Primeiro Conselho]] | Organização balanceada (humanos, não-humanos, divindades); sucedido pelo Segundo Conselho que gerou Gbaji | `Primeira Era` `conselho` `ruptura` `Gbaji` | draft |
 
 ---
 
@@ -306,6 +308,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[unique-aspects-rq-wiki]] | Página de referência do RuneQuest RPG Wiki oficial sobre aspectos únicos: heroquesting, clãs, moeda, Leis de Heort, calendário | `site` `referência` `RuneQuest` `Chaosium` `Glorantha` `Heort` `moeda` `calendário` | draft |
 | [[rq-wiki-the-world]] | Página de referência do RuneQuest RPG Wiki oficial sobre a estrutura do mundo de Glorantha | `site` `referência` `RuneQuest` `Chaosium` `cosmologia` `geografia` | draft |
 | [[rq-wiki-dragon-pass]] | Página de referência do RuneQuest RPG Wiki oficial sobre Dragon Pass: reinos, trolls, dragonewts, Beast Valley | `site` `referência` `RuneQuest` `Chaosium` `Dragon Pass` `Sartar` `Esrolia` `Prax` | draft |
+| [[rq-wiki-myth-history]] | Página de referência do RuneQuest RPG Wiki oficial sobre mitologia e história: God Time, Lightbringers, Conselhos, EWF, Dragonkill, Lunars, Dragonrise | `site` `referência` `RuneQuest` `Chaosium` `mitologia` `história` `Lightbringers` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; Appendix N (bibliografia), Appendix O; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[runequest-rpg-wiki-as-runas]] | Página do RuneQuest RPG Wiki oficial sobre o sistema de Runas: Elementos, Poderes, Formas, Condições | `site` `referência` `RuneQuest` `Chaosium` `wiki` `Runas` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |
