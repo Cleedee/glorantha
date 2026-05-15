@@ -2,7 +2,7 @@
 title: "Tempo Sagrado"
 category: "Conceito"
 tags: [Tempo Sagrado, Sacred Time, liminalidade, heróis, renascimento, luz, rituais, calendário, Theyala]
-sources: ["raw/clippings/THE SACRED TIME, An Episode.md"]
+sources: ["raw/clippings/THE SACRED TIME, An Episode.md", "raw/clippings/Cults of Runequest Mythology and Eliade's Eternal Return.md"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -21,8 +21,16 @@ Em Glorantha, o Tempo Sagrado é o maior exemplo de **liminalidade** — o está
 
 — *The Seven Tailed Wolf*, p. 18
 
-### Origem do Termo
-O termo "Tempo Sagrado" foi cunhado pelo filósofo romeno Mircea Eliade para descrever o reino dos deuses, mitos e heróis que existe fora do tempo e é eterno. Em Glorantha, o conceito de Eliade corresponde na verdade à **Era dos Deuses** (Gods Age). Greg Stafford reaproveitou o termo para as duas semanas entre os anos gloranthanos — um período que, assim como a Era dos Deuses, existe *fora* do Tempo.
+### Origem do Termo — Eliade e o Eterno Retorno
+O termo "Tempo Sagrado" foi cunhado pelo historiador de religiões **Mircea Eliade** (1907-1986), que propôs que a humanidade pré-moderna reconhecia duas existências: o **Sagrado** (o reino de deuses, mitos e heróis, fora do tempo) e o **Profano** (o mundo mundano, histórico). Através de ritos e rituais, o "homem tradicional" podia **retornar** ao Tempo Sagrado e experimentar verdades universais — o **eterno retorno**.
+
+Eliade via o tempo não como uma linha, mas como uma **roda**. Assim como o sol se põe e nasce, a lua minguante e crescente, o ano morre e renasce — e há sempre o perigo de que a roda *quebre*. Através do mito e do ritual, os humanos revisitam as origens das coisas e **ajudam os deuses a recriar o mundo**.
+
+Em Glorantha, o conceito de Eliade se desdobra em dois:
+1. O **Tempo Sagrado** (Eliade) = a **Era dos Deuses** (Gods Age), o mundo atemporal que existe fora da roda
+2. O **Tempo Sagrado** (Stafford) = as duas semanas entre os anos gloranthanos, onde o véu entre mundos se torna tênue e os mortais **reencenam os mitos** para ajudar os deuses a religar o Tempo — exatamente o padrão de ritos de *eterno retorno* descrito por Eliade
+
+Greg Stafford leu Eliade e reinterpretou suas ideias, colocando o *eterno retorno* no centro da cosmologia de Glorantha.
 
 ### Estrutura
 O Tempo Sagrado consiste em duas semanas:

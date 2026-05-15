@@ -143,3 +143,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-14] ingest | Processado "Lands of RuneQuest Dragon Pass.md" — 1 página criada: Lands of RuneQuest: Dragon Pass (Fonte, gazetteer). 2 páginas atualizadas: Andrew Logan Montgomery (review adicionado), Lands of RuneQuest: Sartar (referência cruzada). Index e log atualizados.
 
 ## [2026-05-14] ingest | Processado "THE LUNAR WAY A REVIEW.md" — 1 página atualizada: Cults of RuneQuest: The Lunar Way (expandida com filosofia do Caminho, mecânicas de Iluminação RQG, Righthand/Lefthand Incarnation, deuses dentro do Tempo). 1 página atualizada: Andrew Logan Montgomery (review adicionado). Index e log atualizados.
+
+## [2026-05-14] ingest | Processado "Cults of Runequest Mythology and Eliade's Eternal Return.md" (Andrew Logan Montgomery, 2025) — 3 páginas atualizadas: Cults of RuneQuest: Mythology (adicionada seção Fundamento Filosófico: Eliade e o Eterno Retorno + Glorantha vs Outros RPGs), Tempo Sagrado (expandida Origem do Termo com Eliade, hierofania, eterno retorno), Andrew Logan Montgomery (fonte adicionada). Index e log atualizados.

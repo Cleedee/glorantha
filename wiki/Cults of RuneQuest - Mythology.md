@@ -2,8 +2,8 @@
 title: "Cults of RuneQuest: Mythology"
 category: "Fonte"
 tags: [suplemento, mitologia, cultos, Chaosium, review, 158 páginas]
-sources: ["raw/clippings/Cults of RuneQuest Mythology, a review.md"]
-last_updated: 2026-04-14
+sources: ["raw/clippings/Cults of RuneQuest Mythology, a review.md", "raw/clippings/Cults of Runequest Mythology and Eliade's Eternal Return.md"]
+last_updated: 2026-05-14
 status: draft
 ---
 
@@ -25,6 +25,30 @@ status: draft
 - **Universal Cult Format** — Template usado nos suplementos de cultos
 - **Cult Distribution Charts** — Onde cada culto é predominante
 - **Primeiro mapa político** da Genertela central nesta edição
+
+### Fundamento Filosófico: Eliade e o Eterno Retorno
+A estrutura de Glorantha — e deste livro — é profundamente influenciada pelo historiador de religiões **Mircea Eliade** (1907-1986), que propôs que a humanidade tradicional reconhecia dois tipos de tempo:
+
+**Tempo Profano** — a roda, o ciclo de dias e estações. O "Tempo de dentro."
+
+**Tempo Sagrado** — o que existe *fora* da roda, o mundo atemporal. Onde deuses, heróis e ancestrais existem em um "agora" onipresente.
+
+Eliade cunhou o termo **hierofania** para o "rompimento" do sagrado no tempo profano — a revelação de mitos que dá aos humanos as histórias de origem das coisas para que possam participar do sagrado. O **eterno retorno** é a capacidade, através do rito e do mito, de revisitar essas origens e ajudar os deuses a recriar o mundo.
+
+Em Glorantha:
+- **Hierofania** = Mito, a revelação do Tempo Sagrado aos mortais
+- **Tempo Sagrado** (Eliade) = o [[Mundo dos Deuses]] (Gods World)
+- **Eterno Retorno** = [[Heroquesting]] — interação direta com o reino divino do mito e dos arquétipos
+- **[[Tempo Sagrado]]** (Glorantha, as 2 semanas entre anos) = o momento crucial onde os mortais ajudam os deuses a recriar o mundo, seguindo exatamente o padrão de ritos de *eterno retorno* descrito por Eliade
+
+> "Ao imitar os atos exemplares de um deus ou de um herói mítico, ou simplesmente ao recontar suas aventuras, o homem de uma sociedade arcaica se desprende do tempo profano e reentra magicamente no Grande Tempo, o tempo sagrado."
+
+— Mircea Eliade
+
+### Glorantha vs Outros RPGs
+[[Andrew Logan Montgomery]] argumenta que a maioria dos RPGs de fantasia descartou a cosmovisão Tradicional em favor de mundos onde a magia opera como ciência e as sociedades são surpreendentemente igualitárias e capitalistas. Glorantha se destaca por **recusar-se a abandonar os aspectos Tradicionais** da mitologia e da lenda.
+
+O livro *Mythology* dedica suas primeiras 20 páginas a explicar os três conceitos mais difíceis e importantes para novos jogadores: **Mundo dos Deuses, Tempo e HeroQuesting** — conceitos que a maioria dos RPGs de fantasia evita.
 
 ### Arte
 - **Loïc Muzy** (capa), **Lionel Marty**, **Ossi Hiekkala**, **Katrin Dirim** (genealogias), **Francesca Baerald**, **Agathe Pitié** (ilustração do Monomyth de 4 páginas)
