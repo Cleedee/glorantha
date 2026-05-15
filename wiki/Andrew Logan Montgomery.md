@@ -60,6 +60,9 @@ Montgomery publicou uma review do [[RuneQuest Starter Set]] em seu blog, afirman
 ### Ensaio: Glorantha, Meaning, and Mythology (2021)
 Montgomery publicou ensaio influente sobre o papel dos mitos em Glorantha, argumentando que "mitos dão significados, não fatos". Aborda a questão Elmal/Yelmalio (ambos manifestações de Lightfore), a Morte do Primeiro Imperador (Dara Happan vs Humakti), e Vinga como um dos seis gêneros orlanthi. Inspirado por Bronislaw Malinowski, defende que deuses são expressões do numinoso, não seres com superpoderes. Inclui quatro "ajustes mentais" para jogadores e mestres. Ver página dedicada: [[Glorantha, Meaning, and Mythology]].
 
+### Artigo: Sex and Gender in the Orlanthi (Outubro 2021)
+Montgomery escreveu sobre os rituais de iniciação de *[[Six Seasons in Sartar]]*, explorando como a sociedade Orlanthi distingue sexo biológico (apenas para procriação) de gênero (natureza interior, papel social e chamado divino). Os mini-adventures de iniciação — o "Rite of Passage" de Orlanth e o "Riddle" de Ernalda — dividem as crianças em dois campos, gerando questões sobre sexo e gênero. Montgomery argumenta que na mentalidade Orlanthi o sexo biológico é simplesmente sobre procriação e "não tem nada a ver com gênero", que determina a natureza interior do indivíduo e qual deus os chama.
+
 ### Pedagogia Gloranthana — "The Only Story You Need"
 Em abril de 2026, Montgomery publicou um artigo consolidando sua abordagem para introduzir novos jogadores a Glorantha, refinada em centenas de mesas ao longo dos anos.
 

@@ -2,7 +2,7 @@
 title: "Furthest"
 category: "Localização"
 tags: [cidade, Lunar, Dragon Pass, Hon-eel, Tarsh, comércio]
-sources: ["raw/clippings/Journal of Runic Studies 13.md"]
+sources: ["raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 19.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -24,6 +24,9 @@ Jeff Richard compara Furthest a **Alexandria Eschate** ("Alexandria, a Mais Dist
 
 ### Importância Econômica
 Furthest é um elo crucial na rota comercial entre as minas de cobre de [[Copper Town]] (via Early Rise) e o coração do Império Lunar. Move cobre e outros bens entre as Terras Centrais Lunares e a Passagem do Dragão.
+
+### Demografia Lunar
+Em Furthest, **70%** da população são membros de cultos Lunares — a maior densidade fora de [[Glamour]]. Diferentemente de Glamour, porém, a autoridade Lunar em Furthest **não é filtrada pelo culto de Yelm**: é direta. Furthest é o centro do chamado "Maize Belt", uma região ao longo do Rio Oslir entre Kordros Island e Talfort onde se concentram os descendentes de colonos do coração Lunar (cerca de 60.000 pessoas, ~20% da população de Tarsh Lunar). Nesta área, as estruturas de clã Orlanthi foram abandonadas em favor de uma "organização de parentesco peloriana", onde redes de parentes e associados são mantidas através do reino e as terras são concedidas pelo rei (Lunar), não pelos templos da Terra.
 
 ### Rotas
 - Boldhome → Furthest: ~1,5 semanas de viagem
