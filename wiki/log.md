@@ -141,3 +141,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-14] ingest | Processado "Apocrypha Now A look at Dark Side of the Moon.md" — 1 página criada: Dark Side of the Moon (Fonte, compilação de apócrifa Lunar). 1 página atualizada: Andrew Logan Montgomery (review adicionado). Index e log atualizados.
 
 ## [2026-05-14] ingest | Processado "Lands of RuneQuest Dragon Pass.md" — 1 página criada: Lands of RuneQuest: Dragon Pass (Fonte, gazetteer). 2 páginas atualizadas: Andrew Logan Montgomery (review adicionado), Lands of RuneQuest: Sartar (referência cruzada). Index e log atualizados.
+
+## [2026-05-14] ingest | Processado "THE LUNAR WAY A REVIEW.md" — 1 página atualizada: Cults of RuneQuest: The Lunar Way (expandida com filosofia do Caminho, mecânicas de Iluminação RQG, Righthand/Lefthand Incarnation, deuses dentro do Tempo). 1 página atualizada: Andrew Logan Montgomery (review adicionado). Index e log atualizados.
