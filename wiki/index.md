@@ -269,7 +269,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Paul Watts]] | Autor Jonstown: The Sorcerer's Laboratory; 170+ feitiços | `autor` `Jonstown` | draft |
 | [[Peter Hart]] | Autor Jonstown: Magra Grandmother Harpy; culto harpias | `autor` `Jonstown` | draft |
 | [[Diana Probst]] | Autora Jonstown (Beer with Teeth): Bad Omens; Prax | `autora` `Jonstown` `Prax` | draft |
-| [[Dario Corallo]] | Artista Jonstown: Zenith Counters VTT + Artpacks | `artista` `VTT` | draft |
+| [[Dario Corallo]] | Artista mais prolífico de Glorantha: Tales of the Reaching Moon, Tradetalk, Gloranthan Classics, Tentacles Press, Jonstown Compendium | `artista` `ilustrador` `fanzines` `Glorantha` | draft |
 | [[Duckpac Confidential]] | 300 PNJ durulz; 20 por ocupação; 10 histórias familiares | `PNJ` `Jonstown` `durulz` | draft |
 | [[The Fall of Whitewall]] | Cerco de Whitewall 1620; heroqueste + resistência; Império Lunar | `aventura` `Jonstown` `cerco` | draft |
 | [[Dara Happan Primer]] | Minisuplemento; 4 cultos solares; Avivorus, Saggitus | `suplemento` `Jonstown` `Dara Happa` | draft |

@@ -24,7 +24,7 @@ Muitos membros da equipe atual da Chaosium são alumni da Reaching Moon Megacorp
 - **David Scott**
 - **Nick Brooke**
 
-Muitos escritores e artistas de RuneQuest e Glorantha começaram suas carreiras criando para *Tales of the Reaching Moon*, e muitos continuam ativos hoje, escrevendo para a Chaosium ou para o [[Jonstown Compendium]].
+Muitos escritores e artistas de RuneQuest e Glorantha começaram suas carreiras criando para *Tales of the Reaching Moon*, e muitos continuam ativos hoje, escrevendo para a Chaosium ou para o [[Jonstown Compendium]]. O artista [[Dario Corallo]] — o mais prolífico ilustrador de Glorantha — foi contributor assíduo de *Tales* e *Tradetalk*, produzindo spot art sob demanda e, posteriormente, capas e layout completos.
 
 ### Publicações Recentes
 A empresa teve uma resurgence nos anos recentes, produciendo vários títulos de sucesso no Jonstown Compendium:
