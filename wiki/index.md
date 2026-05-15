@@ -172,8 +172,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Bringing RuneQuest to Life]] | Metodologia de ALM para trazer RQ à vida: Reverse Statistics, Runas como Tarô, imersão por comida, associações rúnicas diárias | `runas` `RuneQuest` `GM` `imersão` `narrativa` | draft |
 | [[Regras de Batalha em Massa]] | Sistema de combate em massa RQG; Guiding Passion; posturas; Hero Soul | `regras` `combate` `batalha` `RuneQuest` | draft |
 | [[The Bad Winds]] | Elementais do ar corrompidos por Mallia; invocados acidentalmente | `elementais` `Mallia` `doença` `Jonstown` | draft |
+| [[Moeda Gloranthana]] | Sistema monetário: Lunar (prata), guilder, wheel (ouro), clack (cobre), bolg (chumbo); Gold Wheel Dancers, cunhagem do Middle Sea Empire | `moeda` `economia` `comércio` `prata` `ouro` `cobre` `chumbo` `Lunar` `Issaries` `Argan Argar` | draft |
 | [[Tempo Sagrado]] | Período liminar de duas semanas entre anos onde o cosmos renasce; reencenação da Jornada dos Portadores da Luz | `Tempo Sagrado` `liminalidade` `ritual` `heroquest` `calendário` | draft |
-| [[Calendário Gloranthano]] | Sistema de 5 estações, 8 semanas cada, 280 dias; cada semana como microcosmo da Era dos Deuses | `calendário` `Theyala` `estações` `semanas` `tempo` | draft |
+| [[Calendário Gloranthano]] | Sistema de 5 estações (Sea, Fire, Earth, Dark, Storm) + Tempo Sagrado; 294 dias; descrições detalhadas de cada estação | `calendário` `Theyala` `estações` `semanas` `tempo` | draft |
 | [[Malkionismo]] | Sistema filosófico-religioso malkioni; escolas Brithinismo, Hrestolismo, Aeolismo; Moorcockiano/Vanceano na 3ª Era | `malkioni` `filosofia` `religião` `Brithini` `Aeolismo` | draft |
 | [[A Chuva Má]] | A Sombra de Orlanth — escuridão reprimida que emerge como Chuva Má; central para heroquesting Orlanthi e Lightbringers Quest | `Bad Rain` `Orlanth` `Sombra` `heroquesting` `Lightbringers` | draft |
 | [[As Runas]] | Arquétipos cósmicos: Elementos (roda elemental), Poderes, Formas e Condições; inclui tabela de associações Runa por divindade | `Runas` `Elementos` `Poderes` `Formas` `Condições` `cosmologia` | draft |
@@ -299,6 +300,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
 | [[gods-and-cults-rq-wiki]] | Página de referência do RuneQuest RPG Wiki oficial sobre deuses, cultos e tabela de associações Runa por divindade | `site` `referência` `RuneQuest` `Chaosium` `deuses` `cultos` `Runas` | draft |
 | [[elder-races-rq-wiki]] | Página de referência do RuneQuest RPG Wiki oficial sobre as Raças Anciãs: Aldryami, Dragonewts, Mostali, Trolls, Broo, Merfolk | `site` `referência` `RuneQuest` `Chaosium` `Raças Anciãs` `Elder Races` | draft |
+| [[unique-aspects-rq-wiki]] | Página de referência do RuneQuest RPG Wiki oficial sobre aspectos únicos: heroquesting, clãs, moeda, Leis de Heort, calendário | `site` `referência` `RuneQuest` `Chaosium` `Glorantha` `Heort` `moeda` `calendário` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; Appendix N (bibliografia), Appendix O; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |
 | [[runequest-rpg-wiki-as-runas]] | Página do RuneQuest RPG Wiki oficial sobre o sistema de Runas: Elementos, Poderes, Formas, Condições | `site` `referência` `RuneQuest` `Chaosium` `wiki` `Runas` | draft |
 | [[Ludovic (God Learners)]] | Revisor do God Learners; reviews de todos os Cults of RQ; teoria conspiratória Lunar | `reviewer` `God Learners` | draft |

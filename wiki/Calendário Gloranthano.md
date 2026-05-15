@@ -2,7 +2,7 @@
 title: "Calendário Gloranthano"
 category: "Conceito"
 tags: [calendário, Theyala, semanas, estações, tempo, dias, estações, Runa, Glorantha]
-sources: ["raw/clippings/THE SACRED TIME, An Episode.md"]
+sources: ["raw/clippings/THE SACRED TIME, An Episode.md", "raw/clippings/Unique Aspects of Glorantha  The RuneQuest RPG Wiki.md"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -35,9 +35,16 @@ Cada semana é um **talismã**, uma ordenação ritual do Tempo que repete a his
 ### As Estações
 O ano gloranthano tem **5 estações** de **8 semanas** cada, totalizando **280 dias** — o período médio de gestação humana.
 
-| Estação | Corresponde à Era | Símbolo |
-|---------|-------------------|---------|
-| **Sea Season** (Estação do Mar) | Era Verde — nascimento e juventude do mundo | Água |
+| Estação | Similar a | Duração | Descrição |
+|---------|-----------|---------|-----------|
+| **Sea Season** (Estação do Mar) | Primavera | 8 semanas (56 dias) | Abre o novo ano. Tempo de plantio, novos nascimentos para os animais, e chuvas suaves. |
+| **Fire Season** (Estação do Fogo) | Verão | 8 semanas (56 dias) | Período quente e seco de amadurecimento e crescimento. Também a época da guerra — homens livres dos trabalhos da terra. |
+| **Earth Season** (Estação da Terra) | Outono | 8 semanas (56 dias) | Colheita e abate de animais para preparar o frio que se aproxima. |
+| **Dark Season** (Estação da Escuridão) | Inverno | 8 semanas (56 dias) | Demônios da noite e do gelo vagam pela terra, trazendo neve e tempestades. Trolls estão mais ativos; elfos castanhos dormem. |
+| **Storm Season** (Estação da Tempestade) | Inverno tardio | 8 semanas (56 dias) | Espíritos da vida e da escuridão guerreiam. Quando os da escuridão vencem, o gelo se prolonga; quando os da vida vencem, há clima primaveril. Geralmente nenhum vence totalmente — tempo violento e instável. |
+| **Sacred Time** (Tempo Sagrado) | Interlúdio | 14 dias | Período de renascimento com grandes cerimônias. Nações depõem armas para celebrar a chegada da primavera. Todos os religiosos reencenam mitos de criação. A liberação massiva de energia rejuvenesce o cosmos. Falha = Caos invade o mundo. |
+
+Total: 5 estações × 8 semanas × 7 dias + 14 dias de Tempo Sagrado = **294 dias**.
 | **Fire Season** (Estação do Fogo) | Era Dourada — reinado do Imperador Solar | Fogo |
 | **Earth Season** (Estação da Terra) | Era Dourada (continuação) | Terra |
 | **Dark Season** (Estação Escura) | Escuridão Menor — assassinato do Sol | Escuridão |
