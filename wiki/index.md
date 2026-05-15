@@ -41,7 +41,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
 | [[Orlanth]] | Rei dos deuses Orlanthi; Thunderous (50%), Adventurous (20%), Rex (25%), Vinga, Barntar; quatro braços/quatro aspectos | `deus` `rei` `Orlanthi` `culto` `Sartar` | draft |
 | [[Ernalda]] | Rainha dos deuses Orlanthi; autoridade máxima sobre a terra; Babeester Gor; concursos matrimoniais | `deusa` `rainha` `Orlanthi` `terra` `Sartar` | draft |
-| [[Elmal]] | Deus solar menor; culto do Pequeno Sol; história de Elmal vs Yelmalio resolvida por Monrogh | `deus` `caça` `proteção` `solar` `Yelmalio` | draft |
+| [[Elmal]] | Deus solar menor; versão orlanthi de Yelmalio; filho de Yelm, mordomo de Orlanth; crise Elmali resolvida por Monrogh | `deus` `caça` `proteção` `solar` `Yelmalio` `Elmal` | draft |
 | [[Redalda]] | Deusa da cultura equina; também Redaylda; Estação do Fogo | `deusa` `cavalos` | draft |
 | [[Tribo dos Dundealos]] | Tribo Orlanthi de Sartar; cultura baseada em cavalos; Matadores de Jaldon | `tribo` `Orlanthi` `cavalos` | draft |
 | [[Losoric]] | Xamã de Dundealosford; mentora de Derikos | `xamã` `Dundealosford` | draft |
@@ -70,6 +70,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Samnal]] | Deus dos cocheiros e rodas; seguido pelo Wheel clan; hostil aos Hyalorings | `deus` `cocheiros` `rodas` | draft |
 | [[Erissa]] | Deusa da cura venerada pelos Hyalorings | `deusa` `cura` `Hyalorings` | draft |
 | [[Dostal]] | Divindade da caça; concede magia que fortalece arcos | `deus` `caça` `Hyalorings` | `magia` | draft |
+| [[Enverinus]] | Deus do fogo sacrificial; porção de Yelm; análogo a Agni; presente em todos sacrifícios Lunares | `deus` `fogo` `sacrifício` `Agni` `Lunar` | draft |
+| [[Shargash]] | Deus da purificação pelo fogo; criado por Yelm para manter ordem; análogo a Fudō Myō-ō; sede em Alkoth | `deus` `fogo` `purificação` `ordem` `Dara Happa` | draft |
+| [[Yelm]] | Imperador Celestial, deus sol; irmão do meio; morte desencadeia Guerra dos Deuses; Lightbringers; Tempo começa com seu retorno | `deus` `sol` `imperador` `Fogo/Céu` `Lightbringers` | draft |
+| [[Yelmalio]] | Cold Sun, Preserver of Light; Lightfore; "Little Yelm"; paralelo Mitra/Mithras; perseverou na Escuridão | `deus` `sol` `Cold Sun` `Lightfore` `Fogo/Céu` `Mithras` | draft |
 
 ---
 

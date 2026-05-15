@@ -2,7 +2,7 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário, pedagogia, ensino]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md", "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md", "raw/clippings/THE SACRED TIME, An Episode.md", "raw/clippings/Trial and Tribulation A look at Kalayde Waters.md", "raw/clippings/The Return of Sun County The Re-Release of a Classic.md", "raw/clippings/Apocrypha Now A look at Dark Side of the Moon.md", "raw/clippings/Lands of RuneQuest Dragon Pass.md", "raw/clippings/THE LUNAR WAY A REVIEW.md", "raw/clippings/Cults of Runequest Mythology and Eliade's Eternal Return.md", "raw/clippings/Chaosium Con Australia A Personal Report.md"]
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md", "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md", "raw/clippings/THE SACRED TIME, An Episode.md", "raw/clippings/Trial and Tribulation A look at Kalayde Waters.md", "raw/clippings/The Return of Sun County The Re-Release of a Classic.md", "raw/clippings/Apocrypha Now A look at Dark Side of the Moon.md", "raw/clippings/Lands of RuneQuest Dragon Pass.md", "raw/clippings/THE LUNAR WAY A REVIEW.md", "raw/clippings/Cults of Runequest Mythology and Eliade's Eternal Return.md", "raw/clippings/Chaosium Con Australia A Personal Report.md", "raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -113,6 +113,17 @@ As notas do seminário "Bringing RuneQuest to Life" foram publicadas no blog e p
 - **Combate Narrativo por Jogadores**: deixar que os jogadores narrem o dano que causam e recebem
 
 Para a sessão VIP de *Six Seasons in Sartar*, Montgomery criou um sistema truncado de criação de personagens adaptado para convenções, com quatro arquétipos (solução física, charmosa, analítica, ágil) determinados pela pergunta "Como você resolve problemas?".
+
+### Ensaio: Fire From the Sky — Thoughts on the Pantheon of Yelm (Setembro 2024)
+Montgomery publicou um ensaio de mitologia comparada usando o deus védico **Agni** como lente para analisar o panteão Fogo/Céu de Glorantha. O artigo parte do hino de abertura do *Rigveda* para explorar:
+
+- **Enverinus** como o Agni gloranthano — deus do fogo sacrificial e ponte entre Terra e Céu, uma porção de [[Yelm]]
+- **Shargash** como o análogo a Acala/Fudō Myō-ō — purificador do mundo pelo fogo após a morte de Yelm
+- **Yelmalio** como o "Cold Sun" e "Preserver of Light", com paralelos diretos a Mitra/Mithras (deus da luz, promessas e fraternidade militar)
+- **Elmal** como a versão orlanthi da Era do Amanhecer de Yelmalio, filho de Yelm e mordomo de Orlanth
+- O tema central da **pureza** na teologia Fogo/Céu: Dayzatar (puro) → Lodril (impuro), e o fogo como purificador de oferendas
+
+O ensaio argumenta que Yelm é o centro de toda a mitologia gloranthana — sua morte desencadeia a Guerra dos Deuses e seu retorno inicia o Tempo — e que não há paralelo terrestre direto para sua figura de Imperador Celestial.
 
 ### Ensaio: Wanderers in the Wastes — The Nomads of Glorantha (2025)
 Montgomery publicou em março de 2025 um artigo abrangente sobre os [[Nômades Animais]] das [[As Terras Ermas|Terras Ermas]], explorando a psicologia e cultura destes povos para além da redução a paralelos terrestres. O artigo discute o mito de fundação de **[[Waha]]**, o papel de **[[Eiritha]]**, **[[Daka Fal]]** e do **[[Touro da Tempestade]]**, e propõe tons de campanha que vão de *Mad Max* a *Battlestar Galactica*. O texto serviu como preparação conceitual para *The Final Riddle*.

@@ -2,7 +2,7 @@
 title: "Elmal"
 category: "Entidade"
 tags: [deus, caça, proteção, Orlanthi, cavalos, Tribo dos Dundealos, sol, Yelmalio, Lightfore, Dragon Pass, Monrogh]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md"]
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -35,6 +35,9 @@ Elmal, como deus do sol com magia de fogo, é "basicamente uma criação do jogo
 Monrogh não "converteu" Elmal — mostrou a verdade nos ritos de adoração internos do próprio culto: "Seus olhos estavam nublados, lavai-os, e agora olhai para a Verdadeira Luz. Esse é Yelmalio." Monrogh foi desafiado e testado, e cada vez provou suas reivindicações neste mundo e no Plano Heróico. Os espíritos do culto o aceitaram, adivinhações o reforçaram, e nenhum Espírito de Represália veio — Monrogh tornou-se o espírito de represália do culto.
 
 Elmal ainda existe agora como um **subculto menor de Yelmalio**.
+
+### Elmal como Filho de Yelm e Mordomo de Orlanth
+ALM propõe que Elmal é a versão orlanthi da Era do Amanhecer de Yelmalio — seu nome sendo uma "tradução incorreta" ou "má audição" de Yelmalio. No mito, Elmal é um filho de [[Yelm]] que se torna mordomo de [[Orlanth]]: quando Orlanth desce ao Inferno na Jornada dos Portadores da Luz, coloca Elmal no comando do mundo (assim como [[Yelm]] deixa [[Antirius]] no comando). Como Yelmalio e Antirius, Elmal sofre uma série de ferimentos e perdas que o enfraquecem, mas perdura, mantendo acesa a última centelha de luz na escuridão.
 
 ### A Crise Elmali em Sartar (Séc. XVI)
 Jeff Richard forneceu detalhes adicionais sobre o declínio do culto de Elmal. Por volta de **1540**, o culto de Elmal em Sartar estava espiritualmente desintegrado sob influência do coração lunar e do culto de Yelm:
