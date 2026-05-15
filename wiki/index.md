@@ -167,6 +167,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Guilda Trabalhadores em Bronze]] | Guilda Boldhome; culto Gustbran; exemplo guildas Sartar | `boldhome` `guilda` `gustbran` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
 | [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; paradoxo: pacífico mas maior ameaça cósmica; Gbaji como abordagem | `lunar` `império` `população` `Dara Happa` `Gbaji` | draft |
+| [[Glorantha]] | Universo de fantasia de Greg Stafford (1966); Idade do Bronze, bronze de ossos divinos, wyters, sem "conversão" religiosa; influenciou GoT, TES, Warcraft | `Glorantha` `Greg Stafford` `RuneQuest` `Sartar` `Dragon Pass` `Idade do Bronze` | draft |
 | [[Glorantha, Meaning, and Mythology]] | Ensaio de Andrew Logan Montgomery sobre interpretação de mitos; significados, não fatos; 4 ajustes mentais | `mitologia` `significado` `interpretação` `Elmal` `Vinga` | draft |
 | [[Bringing RuneQuest to Life]] | Metodologia de ALM para trazer RQ à vida: Reverse Statistics, Runas como Tarô, imersão por comida, associações rúnicas diárias | `runas` `RuneQuest` `GM` `imersão` `narrativa` | draft |
 | [[Regras de Batalha em Massa]] | Sistema de combate em massa RQG; Guiding Passion; posturas; Hero Soul | `regras` `combate` `batalha` `RuneQuest` | draft |
@@ -292,6 +293,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Beer with Teeth]] | Grupo de criadores Jonstown; Diana Probst | `grupo` `Jonstown` | draft |
 | [[O Bugurso Domesticado]] | Blog de RPG de Claudio Torcato; relatos de Numenera, Arkanun, Cripta | `blog` `Cleedee` | draft |
 | [[Compacto RPG]] | Sistema de RPG criado por Claudio Torcato; playtests solo no Itch.io | `sistema` `Cleedee` | draft |
+| [[an-age-of-bronze-rq-wiki]] | Página introdutória do RuneQuest RPG Wiki oficial sobre Glorantha como cenário da Idade do Bronze, metais, wyters, sem conversão religiosa | `site` `referência` `RuneQuest` `Chaosium` `wiki` `Idade do Bronze` `wyter` | draft |
 | [[Appendix N de RuneQuest]] | Inspirações literárias; Appendix M (RQ1 1978) → Appendix N (RQ2 1979); coincidência com AD&D | `literatura` `mitologia` `história` `RQ1` `RQ2` | draft |
 | [[RuneQuest vs D&D 5e]] | Comparação filosófica: RQ trágico vs 5e cômico; herói como ponte | `comparação` `filosofia` | draft |
 | [[RuneQuest 2ª Edição]] | RQ2 (1979); Steve Perrin; Appendix N (bibliografia), Appendix O; reimpresso 2015 | `sistema` `clássico` `1979` `Rurik` | draft |

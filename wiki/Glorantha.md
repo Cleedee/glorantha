@@ -2,7 +2,7 @@
 title: "Glorantha"
 category: "Conceito"
 tags: [cenário, campanha, mundo, fantasia, Greg Stafford, Dragon Pass, Sartar, cosmologia]
-sources: ["raw/clippings/Glorantha.md", "raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md"]
+sources: ["raw/clippings/Glorantha.md", "raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/An Age of Bronze  The RuneQuest RPG Wiki.md"]
 last_updated: 2026-04-27
 status: draft
 ---
@@ -51,12 +51,23 @@ Ver: [[Mito de Criação de Glorantha]]
 - **1611** — Início da conquista de Sartar
 - **Terceira Época** — Éoca das "Hero Wars"
 
+### Sociedade da Idade do Bronze
+Glorantha é um cenário de Idade do Bronze. O bronze é ubíquo — feito por redsmiths ao misturar cobre e estanho, ou minerado dos ossos de deuses mortos na Guerra dos Deuses (bronze "God Time"). O ferro é o metal mais precioso, não pode ser minerado por humanos — apenas obtido de anões como tesouro ou presente. Ferro sem tratamento dificulta a canalização de magia, e certas Raças Anciãs são vulneráveis a ele.
+
+A organização social típica é por grupos de parentesco ou city-states, liderados por chefes, reis ou rainhas-sacerdotes. Uma forma comum de liderança é o **anel** (ring), composto por anciãos. Os templos são a instituição mais poderosa, guardados por espíritos místicos chamados **wyters** — seres semi-divinos conectados ao sacerdote chefe.
+
+**Não existe "conversão" religiosa** no sentido abstrato em Glorantha. Cada um pertence ao culto de seu povo por nascimento, posição ou ocupação. Pode-se deixar ou juntar-se a um culto, mas abandonar deuses antigos por novos é raro — o comum é adicionar um novo deus à multidão existente.
+
+### Influência Cultural
+Glorantha é considerada um dos maiores cenários de fantasia de todos os tempos, tendo influenciado obras como *Game of Thrones*, *The Elder Scrolls* e *Warcraft*. Com mais de 50 anos, o mundo de Glorantha é uma das criações de fantasia mais profundas, duradouras e influentes dos jogos.
+
 ### Temas Centrais
 - Libertação de povos oprimidos
 - Mitologia viva
 - Heroquestes
 - Conflito entre ordem e caos
 - "Your Glorantha Will Vary" (YGWV)
+- Se você pode tornar-se um deus, o que significa ser humano? Se o inimigo é sua própria sombra, pode realmente conquistá-la?
 
 ## Referências Cruzadas
 - [[Greg Stafford]]
