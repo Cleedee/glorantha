@@ -2,7 +2,7 @@
 title: "Six Seasons in Sartar"
 category: "Fonte"
 tags: [campanha, Jonstown Compendium, Andrew Logan Montgomery, HeroQuest, RuneQuest, Sartar, Haraborn]
-sources: ["raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md"]
+sources: ["raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/Chaosium Con Australia A Personal Report.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -25,6 +25,9 @@ Montgomery começou a blogar as sessões como um "afterthought". O blog ganhou t
 
 ### Retorno ao Jogo (2021)
 Em setembro de 2021, com todos os jogadores totalmente vacinados, o grupo retornou para rejogar a campanha — desta vez adaptada para [[RuneQuest - Roleplaying in Glorantha (RQG)]]. Após completar *Six Seasons*, planejavam seguir para *[[The Company of the Dragon]]*.
+
+### Sessão VIP na Chaosium Con Australia (Junho 2024)
+Montgomery foi convidado como International Guest of Honor para a primeira Chaosium Con Australia em Melbourne, onde dirigiu uma sessão VIP de 3 horas do capítulo final da campanha, "The Turning". Para adaptar a complexidade da campanha a uma convenção, criou um sistema de criação rápida de personagens baseado em quatro arquétipos (solução física, charmosa, analítica e ágil), com origens familiares (Gordangar o Chefe, Harvarr o Ferreiro, Savan/Morganeth os sacerdotes, Jorganeth Bladesong/Erinina Copperaxe os guerreiros), seleção simplificada de Runas e magia, e remoção de tramas complexas (Kallyr Starbrow e Shah'vask) para focar na situação imediata do clã.
 
 ### The Seven-Tailed Wolf
 Montgomery anunciou um livro complementar, *[[The Seven-Tailed Wolf]]*, planejado para a primavera de 2022, contendo material cortado de *Six Seasons* e *Company of the Dragon* mais um novo cenário sobre o que acontece após o retorno dos Haraborn ao Black Stag Vale.

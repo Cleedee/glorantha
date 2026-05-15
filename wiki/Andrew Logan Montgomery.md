@@ -2,7 +2,7 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário, pedagogia, ensino]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md", "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md", "raw/clippings/THE SACRED TIME, An Episode.md", "raw/clippings/Trial and Tribulation A look at Kalayde Waters.md", "raw/clippings/The Return of Sun County The Re-Release of a Classic.md", "raw/clippings/Apocrypha Now A look at Dark Side of the Moon.md", "raw/clippings/Lands of RuneQuest Dragon Pass.md", "raw/clippings/THE LUNAR WAY A REVIEW.md", "raw/clippings/Cults of Runequest Mythology and Eliade's Eternal Return.md"]
+sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md", "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md", "raw/clippings/THE SACRED TIME, An Episode.md", "raw/clippings/Trial and Tribulation A look at Kalayde Waters.md", "raw/clippings/The Return of Sun County The Re-Release of a Classic.md", "raw/clippings/Apocrypha Now A look at Dark Side of the Moon.md", "raw/clippings/Lands of RuneQuest Dragon Pass.md", "raw/clippings/THE LUNAR WAY A REVIEW.md", "raw/clippings/Cults of Runequest Mythology and Eliade's Eternal Return.md", "raw/clippings/Chaosium Con Australia A Personal Report.md"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -99,6 +99,20 @@ Montgomery cita *[[Six Seasons in Sartar]]* como seu modelo para esta abordagem.
 
 ### Artigo: THE SACRED TIME, An Episode (Janeiro 2025)
 Montgomery publicou um extenso artigo sobre o [[Tempo Sagrado]], explorando sua natureza liminar, a estrutura do [[Calendário Gloranthano]] (a semana como microcosmo da Era dos Deuses, as estações como macrocosmo), e fornecendo mecânicas detalhadas de RPG para reencenar a Jornada dos Portadores da Luz como um heroquest comunitário. O artigo inclui um roteiro de 7 dias para a reencenação, baseado em seus livros *The Seven Tailed Wolf* e *The Company of the Dragon*.
+
+### Seminário: Bringing RuneQuest to Life (Chaosium Con Australia, Junho 2024)
+Montgomery foi um dos "International Guests of Honor" da primeira Chaosium Con Australia, em Melbourne, ao lado de Bridgett Jeffries e Mike Mason. Lá ministrou três seminários — "Bringing RuneQuest to Life", "Writing for the Jonstown Compendium" e "Running Long Campaigns" — e duas sessões VIP: o capítulo final de *[[Six Seasons in Sartar]]* ("The Turning") e um episódio inédito de *[[The Final Riddle]]*.
+
+As notas do seminário "Bringing RuneQuest to Life" foram publicadas no blog e posteriormente sistematizadas na página [[Bringing RuneQuest to Life]]. A metodologia aborda:
+
+- **Reverse Statistics**: transformar características numéricas em história — STR, CON, SIZ, DEX contam uma narrativa
+- **Runas como Drivers de Personalidade**: usar afinidades rúnicas para definir aparência, temperamento, preferências alimentares e cores
+- **Runas como Sementes de História (Método Tarot)**: sortear Runas para gerar tramas de aventura
+- **Associações Rúnicas Diárias**: Fireday é mais quente e seco; Freezeday tem sombras mais profundas — as Runas como presença constante
+- **Comida como Ferramenta de Imersão**: descrever alimentos, bebidas e utensílios para que os jogadores habitem o mundo
+- **Combate Narrativo por Jogadores**: deixar que os jogadores narrem o dano que causam e recebem
+
+Para a sessão VIP de *Six Seasons in Sartar*, Montgomery criou um sistema truncado de criação de personagens adaptado para convenções, com quatro arquétipos (solução física, charmosa, analítica, ágil) determinados pela pergunta "Como você resolve problemas?".
 
 ### Ensaio: Wanderers in the Wastes — The Nomads of Glorantha (2025)
 Montgomery publicou em março de 2025 um artigo abrangente sobre os [[Nômades Animais]] das [[As Terras Ermas|Terras Ermas]], explorando a psicologia e cultura destes povos para além da redução a paralelos terrestres. O artigo discute o mito de fundação de **[[Waha]]**, o papel de **[[Eiritha]]**, **[[Daka Fal]]** e do **[[Touro da Tempestade]]**, e propõe tons de campanha que vão de *Mad Max* a *Battlestar Galactica*. O texto serviu como preparação conceitual para *The Final Riddle*.
