@@ -2,7 +2,7 @@
 title: "Harmast, o Descalço"
 category: "Entidade"
 tags: [herói, Primeira Era, 411, romance, A Pyre for Gods and Heroes, heroquest]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 18.md"]
+sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 23.md"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -22,6 +22,7 @@ status: draft
   - O nascimento de [[Nysalor]]
   - A Batalha do Dia e da Noite
   - [[Lokamayadon]]
+  - **A Chuva Má de 424:** Harmast convocou as Chuvas Más, que trouxeram **Angorsk Ig** (filho do Only Old One) e trolls vermelhos (cultistas de [[Zorak Zoran]]). Por acidente e desespero, Harmast matou Angorsk Ig com as **Manthi Flints**. Ver [[A Chuva Má]].
 
 ### Heroquests de Harmast
 

@@ -2,7 +2,7 @@
 title: "Argrath"
 category: "Entidade"
 tags: [herói, Libertador, Pavis, Império Lunar, Griselda, Hero Wars, Arkat, reencarnação]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
+sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
 last_updated: 2026-05-15
 status: draft
 aliases:
@@ -40,6 +40,15 @@ Jeff sugere que a **Deusa Vermelha** representa uma tentativa de síntese de Nys
 - Porta sua famosa **Ormsword** (espada).
 - Runa de **Stafford/Sartar** em seu ombro (visível em arte de Anna Orlova).
 - Futuro relacionamento amoroso com **Inkarne** (atual Feathered Horse Queen).
+
+### A Chuva Má de Argrath
+Argrath demonstrou domínio extraordinário sobre a **[[A Chuva Má|Chuva Má]]**. Duas décadas após a Lightbringers Quest de [[Kallyr Testa-Estrelada]], Argrath mal precisou mover um músculo para convocar a Chuva Má, e seu heroquest o levou mais fundo que o Submundo.
+
+Enquanto Kallyr era "literal e inflexível" demais, Argrath — com sua **conexão dracônica** — era capaz de **"abraçar contradições"** de forma mais eficaz. Esta capacidade de confrontar e coexistir com sua própria Sombra permitiu-lhe ir mais longe que Kallyr no heroquesting.
+
+> "O Orlanthi frequentemente diz que um herói é feito de seus fracassos, culpas e medos. Sem eles, não há nada a superar e, portanto, nenhum herói."
+
+A capacidade de Argrath de abraçar contradições conecta-se à sua natureza como reencarnação de [[Arkat Caosban]], que também abraçou sua Sombra ao tornar-se um troll para derrotar [[Nysalor]].
 
 ### Reencarnação de Arkat
 > "É interessante que Argrath É uma encarnação — uma reencarnação — de Arkat. Isso é mais que um mero fio de background do cenário, mas uma verdade criativa sobre a origem de ambos os personagens na escrita."

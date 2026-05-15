@@ -2,7 +2,7 @@
 title: "Deusa Vermelha"
 category: "Entidade"
 tags: [lunar, deusa, orlanthi, história]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -26,6 +26,13 @@ Deusas lunares mortas cujos fragmentos foram reunidos incluem **Verithurusa** (f
 Jeff Richard nota que a Deusa Vermelha é "muito mais e muito maior que suas partes quebradas".
 
 A Lua Vermelha paira estacionária acima de [[Glamour]], não nascendo nem se pondo, ciclando entre Vermelho e Preto a cada semana.
+
+### A Deusa Vermelha e sua Sombra
+A Deusa Vermelha foi a primeira entre os cultos do Fogo/Céu a abraçar sua própria Sombra, rejeitando a tradição anterior que via o reconhecimento da Sombra como tabu. Isto ocorreu como parte de sua **Goddess Quest**:
+
+> "O reconhecimento da Sombra é chave para o heroquesting dos cultos de Orlanth e uma fonte de poder. Esta abordagem foi rejeitada pelos cultos do Fogo/Céu até que a própria [[Deusa Vermelha]] abraçou sua Sombra como parte de sua Goddess Quest."
+
+Este abraço da Sombra conecta a Deusa Vermelha à filosofia Orlanthi de que um herói é feito de seus fracassos, culpas e medos. Ver [[A Chuva Má]].
 
 ### Visão Orlanthi
 Conto orlanthi sobre a ascensão da Deusa Vermelha:

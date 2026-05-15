@@ -16,13 +16,13 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
 | [[Humakt]] | Deus da guerra e da morte; culto aceita trolls | `deus` `guerra` `morte` | draft |
-| [[Kallyr Testa-Estrelada]] | Rex tribal de Sartar, líder da Rebelião de Starbrow, esposa de Ernaldesta a Vigorosa | `Kallyr` `rebelião` `Sartar` `rex` `Orlanth` | draft |
+| [[Kallyr Testa-Estrelada]] | Rex tribal de Sartar; líder da Rebelião de Starbrow; sua Lightbringers Quest convocou a Chuva Má; "literal e inflexível" | `Kallyr` `rebelião` `Sartar` `rex` `Orlanth` `Chuva Má` | draft |
 | [[Leika Blacksper]] | Rex tribal dos Colymar, manifestação de Orlanth Rex, casada com Ereneva Chan | `sartar` `rex` `rainha` `colymar` | draft |
 | [[Ian Cooper]] | Designer liderando HeroQuest → QuestWorlds; visa sistema agnóstico | `designer` `QuestWorlds` | draft |
 | [[Robin D. Laws]] | Designer de Hero Wars, criador do GUMSHOE, Feng Shui, Hillfolk, nasc. 1964 | `designer` `Hero Wars` `GUMSHOE` | draft |
 | [[Greg Stafford]] | Criador de Glorantha e da Chaosium; campanha Colymar; romance póstumo | `criador` `Chaosium` | draft |
 | [[Claudio Torcato]] | Mestre de QuestWorlds, campanha Valley of Plenty; alias Cleedee; criador do Compacto RPG | `mestre` `QuestWorlds` `Cleedee` | draft |
-| [[Harmast, o Descalço]] | Herói da Primeira Era, protagonista do romance de Stafford | `herói` `Primeira Era` | draft |
+| [[Harmast, o Descalço]] | Herói da Primeira Era; convocou a Chuva Má em 424; matou Angorsk Ig com Manthi Flints | `herói` `Primeira Era` `Chuva Má` | draft |
 | [[Nysalor]] | Deus ambíguo; nascimento mostrado no romance de Stafford | `deus` `ambíguo` `Primeira Era` | draft |
 | [[Hahlgrim]] | Herói do videojogo RuneQuest Warlords contra o Caos | `herói` `Warlords` | draft |
 | [[Lokamayadon]] | Figura da Primeira Era mencionada no romance de Stafford | `Primeira Era` | draft |
@@ -31,15 +31,15 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Ralzakark]] | Rei dos Broos e Senhor de Dorastor; Tratado de 1580 com Império Lunar | `Broo` `Dorastor` | draft |
 | [[Dorasta]] | Deusa da terra de Dorastor; filha de Genert e Pelora | `deusa` `terra` | draft |
 | [[Arkat, o Destruidor]] | Devastou Dorastor e causou mal à deusa Dorasta | `destruidor` `Caos` | draft |
-| [[Arkat Caosban]] | Pioneiro do heroquesting transcultural; Queda de Arkat; reencarnado como Argrath; Culto de Arkat Kingtroll | `herói` `heroquesting` `transcultural` `Queda` `Gbaji` | draft |
+| [[Arkat Caosban]] | Pioneiro do heroquesting transcultural; Queda de Arkat; abraçou sua Sombra e tornou-se troll; reencarnado como Argrath | `herói` `heroquesting` `transcultural` `Queda` `Gbaji` `Sombra` | draft |
 | [[Inkarne]] | Atual Feathered Horse Queen; relacionamento com Argrath White Bull | `rainha` `sartar` `lunar` | draft |
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
 | [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
 | [[Belintar]] | Deus-Rei do País Santo; expirou 1616; Jar-Eel caça no Portal; Torneio quebrado alimenta Hero Wars; 4 teorias de origem | `deus-rei` `país santo` `1318` `Torneio` `Hero Wars` `origem` | draft |
-| [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça"; reconstruída de luas pré-históricas pelas Sete Mães | `deusa` `lunar` `orlanthi` `luas` `Sete Mães` | draft |
+| [[Deusa Vermelha]] | Divindade lunar; ascensão vista como "trapaça"; reconstruída de luas pré-históricas pelas Sete Mães; abraçou sua Sombra na Goddess Quest | `deusa` `lunar` `orlanthi` `luas` `Sete Mães` `Sombra` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
 | [[Broo]] | Raça de criaturas do Caos; Ralzakark é seu rei | `raça` `Caos` | draft |
-| [[Orlanth]] | Rei dos deuses Orlanthi; Thunderous (50%), Adventurous (20%), Rex (25%), Vinga, Barntar; quatro braços/quatro aspectos | `deus` `rei` `Orlanthi` `culto` `Sartar` | draft |
+| [[Orlanth]] | Rei dos deuses Orlanthi; Thunderous (50%), Adventurous (20%), Rex (25%); Irmãos do Trovão (Maruts védicos); Chuva Má como Sombra; quatro braços/quatro aspectos | `deus` `rei` `Orlanthi` `culto` `Sartar` `Irmãos do Trovão` `Chuva Má` | draft |
 | [[Ernalda]] | Rainha dos deuses Orlanthi; autoridade máxima sobre a terra; Babeester Gor; concursos matrimoniais | `deusa` `rainha` `Orlanthi` `terra` `Sartar` | draft |
 | [[Elmal]] | Deus solar menor; versão orlanthi de Yelmalio; filho de Yelm, mordomo de Orlanth; crise Elmali resolvida por Monrogh | `deus` `caça` `proteção` `solar` `Yelmalio` `Elmal` | draft |
 | [[Redalda]] | Deusa da cultura equina; também Redaylda; Estação do Fogo | `deusa` `cavalos` | draft |
@@ -63,7 +63,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Eiritha]] | Deusa dos animais de rebanho entre os Nômades Animais; consorte do Touro da Tempestade | `deusa` `rebanho` `Nômades Animais` `Prax` | draft |
 | [[Waha]] | Filho de Eiritha, fundador da sociedade nômade; intermediou o pacto entre espécies | `herói` `fundador` `Nômades Animais` `pacto` | draft |
 | [[Daka Fal]] | Juiz dos Mortos e patrono dos xamãs; Runas Espírito e Homem; linha difusa com o Homem Chifrudo | `deus` `julgamento` `xamanismo` `espíritos` `Runas` | draft |
-| [[Touro da Tempestade]] | Deus da fúria contra o Caos (Storm Bull); morreu matando o Diabo; sociedade guerreira | `deus` `guerra` `Caos` `Storm Bull` `Nômades Animais` | draft |
+| [[Touro da Tempestade]] | Deus da fúria contra o Caos (Storm Bull); morreu matando o Diabo; sociedade guerreira; Ragnaglar pode ser sua sombra (especulativo) | `deus` `guerra` `Caos` `Storm Bull` `Nômades Animais` `Ragnaglar` | draft |
 | [[Hyalor]] | Primeiro cavaleiro; deus mais reverenciado dos Hyalorings; trouxe Tábuas Douradas do Céu; pai de Cerala e Osara | `deus` `Hyalorings` `cavalos` `Dara Happa` | draft |
 | [[Cerala]] | Filha de Hyalor com Aldrya; deusa das florestas; vive num plateau ao norte | `deusa` `florestas` `Hyalor` `Aldrya` | draft |
 | [[Osara]] | Filha de Hyalor; deusa de bênçãos equinas | `deusa` `cavalos` `Hyalor` | draft |
@@ -75,6 +75,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Yelm]] | Imperador Celestial, deus sol; irmão do meio; morte desencadeia Guerra dos Deuses; Lightbringers; Tempo começa com seu retorno | `deus` `sol` `imperador` `Fogo/Céu` `Lightbringers` | draft |
 | [[Yelmalio]] | Cold Sun, Preserver of Light; Lightfore; "Little Yelm"; paralelo Mitra/Mithras; perseverou na Escuridão | `deus` `sol` `Cold Sun` `Lightfore` `Fogo/Céu` `Mithras` | draft |
 | [[Gouger]] | Javali Divino; venerado pelos Tusk Riders; rituais de sacrifício de sangue para controle de javalis gigantes | `deus` `javali` `Tusk Riders` `sacrifício` | draft |
+| [[Katrin Dirim]] | Artista prolífica de Glorantha; ilustradora dos Cults books; Greg Stafford Memorial Award 2021 | `artista` `ilustradora` `Chaosium` | draft |
+| [[Jogrampur]] | Divindade inventada pelos God Learners; experimento na Universidade de Yoranday; magia real em 901 | `deus` `God Learners` `experimento` `Yoranday` | draft |
 
 ---
 
@@ -115,6 +117,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[As Terras Ermas]] | Região pós-apocalíptica devastada pelo Caos; lar dos Nômades Animais e da Batalha Eterna | `Wastes` `Caos` `pós-apocalíptico` `nômades` `Prax` | draft |
 | [[Nivorah]] | Cidade Dara Happana ancestral dos Hyalorings; abandonada durante o Tempo dos Deuses por ameaça de gelo | `cidade` `Dara Happa` `Hyalorings` `God Time` | draft |
 | [[Black Eel River]] | Rio fronteira entre Hyalorings e tribos de Rams; local do primeiro contato com Redalda | `rio` `Hyalorings` `Rams` `fronteira` | draft |
+| [[Universidade de Yoranday]] | Instituição dos God Learners; experimento com deuses artificiais; destruída em 901 por cultos artificiais | `universidade` `God Learners` `experimento` `destruída` | draft |
 
 ---
 
@@ -169,6 +172,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[The Bad Winds]] | Elementais do ar corrompidos por Mallia; invocados acidentalmente | `elementais` `Mallia` `doença` `Jonstown` | draft |
 | [[Tempo Sagrado]] | Período liminar de duas semanas entre anos onde o cosmos renasce; reencenação da Jornada dos Portadores da Luz | `Tempo Sagrado` `liminalidade` `ritual` `heroquest` `calendário` | draft |
 | [[Calendário Gloranthano]] | Sistema de 5 estações, 8 semanas cada, 280 dias; cada semana como microcosmo da Era dos Deuses | `calendário` `Theyala` `estações` `semanas` `tempo` | draft |
+| [[A Chuva Má]] | A Sombra de Orlanth — escuridão reprimida que emerge como Chuva Má; central para heroquesting Orlanthi e Lightbringers Quest | `Bad Rain` `Orlanth` `Sombra` `heroquesting` `Lightbringers` | draft |
 
 ---
 
@@ -229,6 +233,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
 | [[Cults of RuneQuest - Mythology]] | Vol introdutório; Monomyth, mapas míticos, genealogias; 158 págs | `suplemento` `mitologia` `cultos` | draft |
+| [[Cults of RuneQuest - The Prosopaedia]] | Dicionário de deuses/heróis; 140p; Katrin Dirim; sem dados de jogo | `suplemento` `mitologia` `Prosopaedia` | draft |
 | [[Cults of RuneQuest - The Earth Goddesses]] | 16 cultos da Terra; Ernalda, Aldrya, Pamalt; review | `suplemento` `cultos` `terra` | draft |
 | [[Cults of RuneQuest - The Gods of Fire and Sky]] | 13 cultos solares; Yelm, Yelmalio, Entekos; 154 págs | `suplemento` `cultos` `solar` | draft |
 | [[Cults of RuneQuest - The Lunar Way]] | 15 cultos Lunares; Deusa Vermelha, Imperador Vermelho, iluminação, Glowline; 151 págs | `suplemento` `cultos` `Lunar` | draft |
@@ -246,7 +251,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[The Dragonrise]] | Material offstage de Eleven Lights; QuestWorlds; Ian Cooper | `aventura` `QuestWorlds` | draft |
 | [[Fonrit]] | Sourcebook região; comércio de açúcar na Baía de Koraru; QuestWorlds; Ian Cooper | `região` `QuestWorlds` `açúcar` `comércio` | draft |
 | [[QuestWorlds Worlds & Quests]] | Como criar pacotes de gênero; 3 exemplos; Ian Cooper | `suplemento` `QuestWorlds` | draft |
-| [[Gamemaster Sourcebook]] | Regras de heroquestes + batalhas em massa; 4º-5º na fila | `suplemento` `mestre` | draft |
+| [[Gamemaster Sourcebook]] | Regras de heroquestes + batalhas em massa; chassis Pendragon; heroquesting com cartas; Chris Klug; 4º-5º na fila | `suplemento` `mestre` `Pendragon` `heroquesting` | draft |
+| [[Dhole's House]] | Website de criação de personagens para Call of Cthulhu; adquirido pela Chaosium; ferramentas similares planejadas para RQ | `ferramenta` `Chaosium` `Call of Cthulhu` | draft |
+| [[Black Monk Games]] | Distribuidora polonesa da Chaosium; parceira oficial da Moon Design Publications | `empresa` `distribuidora` `Polônia` | draft |
+| [[Greg Stafford Memorial Award]] | Prêmio Chaosium para contribuição ao fandom de Glorantha; vencedores: Lev Lafayette, Martin Helsdon, Nick Brooke, Katrin Dirim, David Hall | `prêmio` `fandom` `Chaosium` | draft |
 | [[Mongoose Publishing]] | Editora Mongoose; licença Glorantha 2006-2010; Laws + Whitaker | `editora` `Mongoose` | draft |
 | [[Glorantha - The Second Age]] | Suplemento Mongoose; 1ª ed 2006 (Laws), 2ª ed 2010 (Laws+Steele+Whitaker) | `suplemento` `Mongoose` | draft |
 | [[Ralios]] | Região de Glorantha; sourcebook Mongoose por Robin Laws | `região` `Mongoose` | draft |
@@ -311,6 +319,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 17]] | 17ª edição; Ep.4 podcast, Korolstead, Bad Day at Duck Rock, Dart Wars, Argrath/Alexander, Justiça Orlanthi/Dara Happana | `periódico` `malkioni` `Dart Wars` `Argrath` `Orlanthi` `Dara Happan` | draft |
 | [[journal-of-runic-studies-18]] | 18ª edição; Armamento de Orlanth expandido, Ranging and Joining, Caladraland, Wilmskirk, heroquests de Harmast, manuscrito de Greg Stafford | `periódico` `malkioni` `Orlanth` `Heroquesting` `Caladraland` `Wilmskirk` `Harmast` `Greg Stafford` | draft |
 | [[journal-of-runic-studies-19]] | 19ª edição; demografia Tarsh Lunar, mapa clãs Sartar, Red Book of Magic review, regras afogamento, Sex and Gender in the Orlanthi, Sandheart V4 | `periódico` `malkioni` `Tarsh` `Red Book of Magic` `Sandheart` `Six Seasons` | draft |
+| [[journal-of-runic-studies-23]] | 23ª edição; Chuva Má como Sombra de Orlanth, Irmãos do Trovão/Maruts, Lightbringers Quest de Kallyr, Harmast 424 ST | `periódico` `malkioni` `Chuva Má` `Irmãos do Trovão` `Kallyr` `Harmast` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |
 | [[A Bad Day at Duck Rock]] | Aventura de escolta em Duck Valley; Peter Hart; Dario Corallo | `aventura` `Jonstown` `Peter Hart` `Dario Corallo` | draft |
 | [[Sartar Free Army]] | Exército reformado por Argrath; sociedades secretas praxianas, aliados draconicos | `exército` `Argrath` `reforma` `Prax` `dragonewts` | draft |
@@ -324,6 +333,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Kalayde Waters]] | Aventura de tribunal Orlanthi; dois amantes desaparecidos, famílias rivais; regras de julgamento | `Jonstown` `aventura` `tribunal` `Orlanthi` `Lhankor Mhy` | draft |
 | [[Skull Ruins - Tusk Riders Need Blood!]] | Aventura 76p; Ricardo Shankland; Leika captura Tusk Rider; ritual de sangue; batalha em larga escala | `aventura` `Jonstown` `Tusk Riders` `Colymar` `Dario Corallo` | draft |
 | [[Ricardo Shankland]] | Autor Jonstown; escrita clara e concisa; Skull Ruins - Tusk Riders Need Blood! | `autor` `Jonstown` `RuneQuest` | draft |
+| [[The Salt Man]] | Monster of the Month; abominação praxiana que não deveria existir | `Jonstown` `Monster of the Month` `Prax` | draft |
+| [[Sandheart]] | Série de aventuras Jonstown; Jon Webb; 4 volumes; último: The God Skin & Mad Prax | `Jonstown` `aventura` `Prax` | draft |
 | [[Lands of RuneQuest - Dragon Pass]] | Primeiro volume da linha Lands of RuneQuest; gazetteer completo de Dragon Pass com história, geografia e bestiário | `suplemento` `Dragon Pass` `gazetteer` `Ossi Hiekkala` `Jeff Richard` | draft |
 | [[Sun County]] | Suplemento clássico RQ3 sobre o Sun Dome de Yelmalio em Prax; remasterizado 2024 | `suplemento` `clássico` `RQ3` `Yelmalio` `Sun Dome` | draft |
 | [[Griselda]] | Personagem ficcional Gloranthana; Oliver Dickinson; Kraken Chapbooks | `personagem` `ficção` `Oliver Dickinson` `Kraken` | draft |
@@ -341,7 +352,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Durulz]] | Raça dos patos de Glorantha; Duck Point; Upland Marsh | `raça` `patos` | draft |
 | [[Duck Point]] | Assentamento de durulz; Conselho; trégua frágil com Delecti | `assentamento` `durulz` | draft |
 | [[Necromante Delecti]] | Necromante do Upland Marsh; hordas de mortos-vivos | `necromante` `mortos-vivos` | draft |
-| [[Argrath]] | O Libertador; expulsou Império Lunar de Pavis; reencarnação de Arkat; Argrath vs Gbaji | `herói` `Libertador` `Pavis` `Arkat` `reencarnação` | draft |
+| [[Argrath]] | O Libertador; expulsou Império Lunar de Pavis; reencarnação de Arkat; convocou Chuva Má sem esforço; abraça contradições dracônicas | `herói` `Libertador` `Pavis` `Arkat` `reencarnação` `Chuva Má` `Sombra` | draft |
 | [[Whitewall]] | Último reduto Orlanthi; cerco de 1620 pelo Império Lunar | `cidade` `cerco` `1620` | draft |
 | [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
@@ -358,6 +369,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Nômades Animais]] | Povos nômades das Terras Ermas que montam bestas exóticas; sociedade fundada por Waha | `nômades` `animais` `Prax` `Wastes` `xamanismo` `montaria` | draft |
 | [[Hyalorings]] | Cavaleiros descendentes dos Dara Happans que fugiram de Nivorah durante o Tempo dos Deuses; cultura jogável em Six Ages | `cultura` `Dara Happa` `Hyalor` `cavalos` `Nivorah` | draft |
 | [[Tusk Riders]] | Meio-trolls que montam javalis gigantes; sacrifícios a Gouger; caminhos secretos; capturados por Leika | `meio-trolls` `javalis` `Uz` `Gouger` `Colymar` | draft |
+| [[Irmãs Respiradoras]] | Filhas de Orlanth; dança circula ar nos Pockets de Boldhome; culto continuou durante Ocupação Lunar | `Orlanth` `filhas` `Boldhome` `Pockets` `ar` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
 

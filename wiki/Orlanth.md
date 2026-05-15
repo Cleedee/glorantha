@@ -2,7 +2,7 @@
 title: "Orlanth"
 category: "Entidade"
 tags: [deus, rei dos deuses, Orlanthi, tempestade, Glorantha, Armamento, Lightbringers]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 18.md"]
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 23.md"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -51,6 +51,16 @@ Em algumas representações, Orlanth tem três ou quatro cabeças — cada uma r
 
 Outra característica artística notável: Orlanth é sempre retratado **em movimento** — uma de suas Runas é a do Movimento.
 
+### Os Irmãos do Trovão (Thunder Brothers)
+
+Os **Irmãos do Trovão** (Thunder Brothers) são os filhos e filhas de Orlanth, tipicamente adorados como parte de seu culto amplo. Jeff Richard aponta a mitologia védica como inspiração — notadamente os **Maruts**, seguidores do deus da tempestade Indra, filhos de Rudra:
+
+> "Uma boa comparação no mundo real são os Maruts que seguem Indra e servem como seus seguidores e companheiros. Socialmente, são um modelo para os companheiros do Príncipe, a quem seus feitos são frequentemente atribuídos."
+
+Os Irmãos do Trovão são modelos para os **"companheiros do Príncipe"** ([[Prince of Sartar]]). Seguidores de [[Kallyr Testa-Estrelada]] ou [[Argrath]] podem assumir o papel de um Irmão do Trovão específico, adicionando oportunidades de roleplaying e ideias de heroquests.
+
+Os feitos dos Irmãos do Trovão são frequentemente atribuídos ao líder (Orlanth ou o Príncipe). Em heroquesting, identificar-se com um Irmão do Trovão em vez de Orlanth pode ser mais seguro — o boon pode ser menor, mas o risco também.
+
 ### Arte de Vinga
 **Katrin Dirim** produziu ilustrações de [[Vinga]], descrita como filha de Orlanth ou como um aspecto feminino de Orlanth. Uma delas mostra uma **Vingan thane do clã Hiording** (aka "Swan clan") conjurando um raio (Thunderbolt spell).
 
@@ -61,7 +71,9 @@ Os Orlanthi são a cultura dominante em [[Sartar]]. Incluem diversos subgrupos:
 
 ### O Armamento de Orlanth (Versão Expandida)
 
-Jeff Richard publicou uma versão expandida do mito "O Armamento de Orlanth" (originalmente em *King of Sartar*, 2ª ed., p.68). A história começa com Orlanth infeliz porque sua esposa [[Ernalda]] não está presente — a comida e bebida não têm gosto, os convidados não são respeitosos. Quando ele medita, as nuvens se acumulam e não liberam chuva, tornando-se negras e sombrias — isso é chamado de **"Chuva Ruim"** (Bad Rain), e monstros podem vir com ela.
+Jeff Richard publicou uma versão expandida do mito "O Armamento de Orlanth" (originalmente em *King of Sartar*, 2ª ed., p.68). A história começa com Orlanth infeliz porque sua esposa [[Ernalda]] não está presente — a comida e bebida não têm gosto, os convidados não são respeitosos. Quando ele medita, as nuvens se acumulam e não liberam chuva, tornando-se negras e sombrias — isso é chamado de **"Chuva Má"** (Bad Rain), e monstros podem vir com ela.
+
+A Chuva Má é a **Sombra de Orlanth** — a escuridão reprimida dentro do deus (kinstrife, assassinato, destruição). Orlanth conquistou o mundo, mas ao fazê-lo deixou Darkness e Chaos entrarem. Conforme a Grande Escuridão se aproxima, Orlanth medita e a Chuva Má vem. Em muitas histórias, isto está ligado à emergência dos trolls no Mundo Médio. Ver página dedicada: [[A Chuva Má]].
 
 ### A Grande Ordem
 Dizem a Orlanth que tudo isso acontece porque a **"Grande Ordem"** está perdida e precisa ser encontrada novamente. [[Lhankor Mhy]] diz que a Grande Ordem é "um espelho de fogo" que está "além da borda do mundo". Esta Grande Ordem é presumivelmente a ordem fornecida pelo Deus Sol ([[Yelm]]), que está morto nesta época (a história ocorre durante a Escuridão).
@@ -112,6 +124,8 @@ Nota: as **Ruínas Fumegantes** (Smoking Ruins) são as mesmas do Sul Selvagem? 
 - [[Sartar Homeland Boxed Set]]
 - [[Vinga]]
 - [[Barntar]]
+- [[Irmãs Respiradoras]]
+- [[Hogar Audaz]]
 
 ## Referências
 - Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)

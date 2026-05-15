@@ -2,7 +2,7 @@
 title: "Arkat Caosban"
 category: "Entidade"
 tags: [heroi, heroquesting, caos, transcultural, queda, arkati, halikiv, Gbaji]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 80.md"]
 last_updated: 2026-05-09
 status: draft
 aliases:
@@ -33,6 +33,9 @@ Arkat encontrou a si mesmo no Plano Heróico, mas a confusão encobre a históri
 - Outros ainda afirmam que **deu o golpe fatal**, e assim recebeu a ferida.
 - O evento é chamado **Arkat's Fall** (A Queda de Arkat).
 - A ferida atormentou Arkat até seu último dia, embora curandeiros troll tenham proporcionado alívio temporário anos depois.
+
+### A Sombra de Arkat
+Arkat confrontou sua Sombra de forma bastante literal — ele abraçou sua Sombra e tornou-se um troll para derrotar [[Nysalor]]. Este tema da **Sombra** é central na narrativa de [[Greg Stafford]]: protagonistas como Arkat precisam confrontar seus fracassos, medos e arrependimentos para serem heróis. A Sombra não deixa de existir após a experiência, mas o herói pode coexistir com ela. Ver [[A Chuva Má]].
 
 ### Arkat e os God Learners
 Os God Learners seguiram os caminhos revelados por Arkat para explorar o God Time. Após a aposentadoria de Arkat, seu culto tinha uma escola estritamente regulada de heroquesting exploratório — os God Learners destruíram tudo em meados de 700 e tomaram todos os segredos (menos a parte "estritamente regulada").
