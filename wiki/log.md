@@ -187,3 +187,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-15] ingest | Processado "Journal of Runic Studies 69.md" — 1 página criada: journal-of-runic-studies-69 (Fonte, conteúdo já previamente ingerido em Heroquesting e Lunar Imperial Finances). Index e log atualizados.
 
 ## [2026-05-15] ingest | Processado "Journal of Runic Studies 25.md" — 1 página criada: journal-of-runic-studies-25 (Fonte). 4 páginas atualizadas: Império Lunar (nobreza/clãs satrapais, Chaos Gift), Genertela (comércio/rotas, Wenelia), Prax (Wastes, White Bull Society, No-Feet-on-the-Ground), Malkionismo (A History of Malkionism). Index e log atualizados.
+
+## [2026-05-15] ingest | Processado "The Cults of RuneQuest Part Three The Earth Goddesses.md" — 1 página criada: cults-earth-goddesses-review (Fonte, resenha ALM). 1 página atualizada: Ernalda (Imarja/Deusa Suprema, Husband-Protectors em Esrolia: Argan Argar, Lodril, Flamal, Storm Bull). Index e log atualizados.

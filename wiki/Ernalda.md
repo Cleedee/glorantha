@@ -2,7 +2,7 @@
 title: "Ernalda"
 category: "Entidade"
 tags: [deusa, rainha dos deuses, Orlanthi, terra, fertilidade, Glorantha]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/The Cults of RuneQuest Part Three The Earth Goddesses.md"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -17,6 +17,12 @@ status: draft
 ### Domínios
 - **Rainha dos deuses Orlanthi** — Consorte de Orlanth
 - Associada à terra e fertilidade
+
+### Imarja e a Deusa Suprema
+Em [[Esrolia]], Ernalda é a mais importante manifestação de **Imarja** — o poder feminino divino criativo e a energia cósmica primordial, a Criadora Universal. O ideal de uma Deusa Suprema, chamada Glorantha ou Imarja, é influente em muitas culturas. Este conceito é inspirado no Shaktismo indiano, onde Shakti é a energia divina feminina que cria, sustenta e subjaz à realidade.
+
+### Husband-Protectors em Esrolia
+Em Esrolia, [[Orlanth]] é apenas um dos muitos maridos de Ernalda — seus Husband-Protectors incluem também [[Argan Argar]], [[Lodril]], [[Flamal]] e o [[Touro da Tempestade]]. Este conceito é inspirado em Draupadi do épico indiano *Mahabharata*, que compartilha cinco maridos (os Pandava).
 
 ### Culto em Sartar
 

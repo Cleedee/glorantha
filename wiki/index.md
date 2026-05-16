@@ -40,7 +40,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
 | [[Broo]] | Raça do Caos; tipos feral/selvagem/civilizado; Lunares consideram-nos "pessoas"; Broo Purificado do Zola Fel | `raça` `Caos` `Broo` `Dorastor` `Ralzakark` | draft |
 | [[Orlanth]] | Rei dos deuses Orlanthi; Thunderous (50%), Adventurous (20%), Rex (25%); Irmãos do Trovão (Maruts védicos); Chuva Má como Sombra; quatro braços/quatro aspectos | `deus` `rei` `Orlanthi` `culto` `Sartar` `Irmãos do Trovão` `Chuva Má` | draft |
-| [[Ernalda]] | Rainha dos deuses Orlanthi; autoridade máxima sobre a terra; Babeester Gor; concursos matrimoniais | `deusa` `rainha` `Orlanthi` `terra` `Sartar` | draft |
+| [[Ernalda]] | Rainha dos deuses Orlanthi; manifestação de Imarja (Deusa Suprema); Husband-Protectors em Esrolia; autoridade máxima sobre a terra | `deusa` `rainha` `Orlanthi` `terra` `Sartar` `Imarja` `Esrolia` | draft |
 | [[Elmal]] | Deus solar menor; versão orlanthi de Yelmalio; filho de Yelm, mordomo de Orlanth; crise Elmali resolvida por Monrogh | `deus` `caça` `proteção` `solar` `Yelmalio` `Elmal` | draft |
 | [[Redalda]] | Deusa da cultura equina; também Redaylda; Estação do Fogo | `deusa` `cavalos` | draft |
 | [[Tribo dos Dundealos]] | Tribo Orlanthi de Sartar; cultura baseada em cavalos; Matadores de Jaldon | `tribo` `Orlanthi` `cavalos` | draft |
@@ -207,6 +207,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[The Hunt for the Storm Calf]] | Aventura RuneQuest; demonstração revisada | `aventura` `PDF` | draft |
 | [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi; cenário incluso | `suplemento` `Sartar` `layout` | draft |
 | [[Welcome to Boldhome]] | Cenário de 40 páginas em Boldhome; três partes; Andrew Logan Montgomery | `aventura` `Sartar` `Boldhome` | draft |
+| [[cults-earth-goddesses-review]] | Resenha de Andrew Logan Montgomery sobre Cults of RuneQuest: The Earth Goddesses; Imarja, Husband-Protectors, divisão das deusas da Terra | `blog` `review` `Cults of RuneQuest` `Ernalda` `Imarja` `Esrolia` | draft |
 | [[Cults of RuneQuest - Darkness]] | Suplemento com cultos de deusas da escuridão; trolls; inframundo | `suplemento` `cultos` | draft |
 | [[Dorastor - Land of Doom]] | Suplemento clássico RQ3 (1993) por Sandy Petersen e Greg Stafford; reedição | `suplemento` `reedição` | draft |
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |
@@ -242,7 +243,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
 | [[Cults of RuneQuest - Mythology]] | Vol introdutório; Monomyth, mapas míticos, genealogias; 158 págs | `suplemento` `mitologia` `cultos` | draft |
 | [[Cults of RuneQuest - The Prosopaedia]] | Dicionário de deuses/heróis; 140p; Katrin Dirim; sem dados de jogo | `suplemento` `mitologia` `Prosopaedia` | draft |
-| [[Cults of RuneQuest - The Earth Goddesses]] | 16 cultos da Terra; Ernalda, Aldrya, Pamalt; review | `suplemento` `cultos` `terra` | draft |
+| [[Cults of RuneQuest - The Earth Goddesses]] | 16 cultos da Terra; Imarja, Asrelia, Ty Kora Tek, Voria, Grain Goddesses, Bloody Tusk; review | `suplemento` `cultos` `terra` `Ernalda` `Imarja` | draft |
 | [[Cults of RuneQuest - The Gods of Fire and Sky]] | 13 cultos solares; Yelm, Yelmalio, Entekos; 154 págs | `suplemento` `cultos` `solar` | draft |
 | [[Cults of RuneQuest - The Lunar Way]] | 15 cultos Lunares; Deusa Vermelha, Imperador Vermelho, iluminação, Glowline; 151 págs | `suplemento` `cultos` `Lunar` | draft |
 | [[Cults of RuneQuest - Water]] | Vol remanescente; divindades aquáticas | `suplemento` `cultos` | draft |
