@@ -34,7 +34,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Arkat Caosban]] | Pioneiro do heroquesting transcultural; Queda de Arkat; abraçou sua Sombra e tornou-se troll; reencarnado como Argrath | `herói` `heroquesting` `transcultural` `Queda` `Gbaji` `Sombra` | draft |
 | [[Inkarne]] | Atual Feathered Horse Queen; relacionamento com Argrath White Bull | `rainha` `sartar` `lunar` | draft |
 | [[Simon Phipp]] | Autor de Secrets of Dorastor; campanha dos anos 80; podcast God Learners | `autor` `Dorastor` | draft |
-| [[Jar-Eel]] | "Rainha-Bruxa de Sangue Venenoso"; acusada de assassinar Belintar | `lunar` `Deusa Vermelha` `assassina` | draft |
+| [[Jar-Eel]] | Quarta Inspiração de Moonson; Encarnação da Deusa Vermelha no Tempo; nascida 1588; saqueou Boldhome aos 14; Moonsword; debates WMM; montou Morcego Carmesim | `lunar` `heroína` `Moonson` `Moonsword` `Chaos` `Deusa Vermelha` | draft |
 | [[Belintar]] | Deus-Rei do País Santo; expirou 1616; Jar-Eel caça no Portal; Torneio quebrado alimenta Hero Wars; 4 teorias de origem | `deus-rei` `país santo` `1318` `Torneio` `Hero Wars` `origem` | draft |
 | [[Deusa Vermelha]] | Divindade lunar; reconstruída de luas pré-históricas; derrubou o Império Carmaniano; abraçou sua Sombra na Goddess Quest | `deusa` `lunar` `Império Carmaniano` `Sete Mães` `Sombra` | draft |
 | [[Amal-See Calax]] | Sacerdotisa da Lua Vermelha; negociou Tratado Lunar-Dorastano de 1580 | `sacerdotisa` `Lua Vermelha` | draft |
@@ -53,7 +53,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Jabba]] | PJ criança; filho de comerciante | `PJ` `comércio` | draft |
 | [[Lawrence Whitaker]] | Autor Mongoose/Glorantha: Dragonewts, Mostali, Fronela, Pavis, Dara Happa | `autor` `Mongoose` | draft |
 | [[David Hall]] | Autor Jonstown; vencedor Greg Stafford Memorial Award 2024; líder Reaching Moon Megacorp | `autor` `Jonstown` `award` | draft |
-| [[Chalana Arroy]] | Deusa da cura e paz; juramento de não-violência; divisão Sweepers/Keepers | `deusa` `cura` `Lightbringers` `não-violência` | draft |
+| [[Chalana Arroy]] | Deusa da cura e paz; juramento de não-violência; divisão Sweepers/Keepers; Irmãs da Misericórdia | `deusa` `cura` `Lightbringers` `não-violência` `Irmãs da Misericórdia` | draft |
+| [[Irmãs da Misericórdia]] | Filhas de Chalana Arroy; nunnery invisível; subculto em Dragon Pass e Prax; feitiço Refine Medicine | `Chalana Arroy` `cura` `subculto` `Dragon Pass` `Prax` | draft |
 | [[Eurmal]] | Deus trickster orlanthi; palhaços sagrados; disruptores sociais; bodes expiatórios | `deus` `trickster` `Orlanthi` `caos` `clowns` | draft |
 | [[Maran Gor]] | Deusa dos terremotos; culto propiciatório em Sartar; aceita sacrifício humano | `deusa` `terremoto` `Sartar` `sacrifício` | draft |
 | [[Kero Fin]] | Mãe das Montanhas; consorte de Lodril; progenitora das Montanhas Quivin | `deusa` `montanhas` `Quivin` `Lodril` | draft |
@@ -81,7 +82,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Nick Brooke]] | Escritor Jonstown Compendium; vencedor Greg Stafford Memorial Award 2020; estilo gonzo/lúdico; The Black Spear, Crimson King, Dark Side of the Moon | `escritor` `Jonstown` `Lunar` `Malkioni` | draft |
 | [[Vasana]] | Guerreira orlanthi do Starter Set; tatuagens contam sua história de iniciação, clã, tribo, facções e provações; protagonista do SoloQuest | `personagem` `Starter Set` `SoloQuest` `tatuagens` `Sartar` | draft |
 | [[Morcego Carmesim]] | Terror voador do Império Lunar; Glowspot móvel de 16 km; devora regimentos; usado contra nômades na Terceira Wane | `Crimson Bat` `terror` `Império Lunar` `Glowline` `monstro` `guerra` | draft |
-| [[Sheng Seleris]] | Conquistador nômade; explorou o ciclo lunar para derrotar exércitos Lunares na Terceira Wane; causa da criação da Glowline | `conquistador` `nômades` `Império Lunar` `Glowline` `Terceira Wane` | draft |
+| [[Sheng Seleris]] | Conquistador nômade; cronologia 1375-1460: entrou em Peloria, duelos mágicos com Red Emperor, Batalha de Kitor; causou criação da Glowline | `conquistador` `nômades` `Império Lunar` `Glowline` `Terceira Wane` `Peloria` | draft |
 | [[Jeff Richard]] | Designer atual de Glorantha na Chaosium; coautor RQG; roteirista Prince of Sartar | `designer` `autor` `Chaosium` `Glorantha` `RQG` | draft |
 | [[Lhankor Mhy]] | Deus dos escribas e sabedoria; um dos Lightbringers; ~1500 iniciados em Sartar; templos-biblioteca em centros urbanos | `deus` `conhecimento` `escribas` `Lightbringers` | draft |
 | [[Gbaji]] | Enganador; deus do Caos nascido do experimento do Segundo Conselho (c.450-500 ST); conflito Arkat vs Nysalor | `deus` `Caos` `Enganador` `Primeira Era` `Iluminação` | draft |
@@ -120,6 +121,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Quivin Mountains]] | Cordilheira central de Sartar; pico 3120m; granito plutônico; filhos de Lodril e Kero Fin | `montanhas` `Sartar` `geologia` `granito` | draft |
 | [[Creek-Stream River]] | Principal rio de Sartar; 700km de Skyfall Lake a Choralinthor Bay; 3-4m profundidade | `rio` `Sartar` `hidrografia` `Nochet` | draft |
 | [[Templo da Lua Crescente]] | Templo lunar em Boldhome; 10 hectares; guardado por Yara Aranis; destruído no Dragonrise | `templo` `Lunar` `Boldhome` `Glowline` | draft |
+| [[Deadwood]] | Região nas Montanhas Indigo; floresta marchante elfa destruída por besouros trolls (1120-1150 ST); fantasmas Aldryami | `Deadwood` `Indigo Mountains` `elfos` `trolls` `Gorakiki` | draft |
 | [[Killard Vale]] (pendente) | Vale sagrado onde Heort nasceu; lar dos Kheldon | `vale` `Sartar` `Heort` `Kheldon` | draft |
 | [[Wilmskirk]] | Cidade modelo Jrusteli de artesãos; centro de pintura e escultura em Dragon Pass | `cidade` `Sartar` `Jrusteli` `artes` | draft |
 | [[Caladraland]] | Região vulcânica ao sul de Esrolia; culto de Lodril e dos Gêmeos do Vulcão | `região` `vulcões` `Lodril` `Caladra` `Aurelion` `País Santo` `Gemborg` | draft |
@@ -181,6 +183,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Monomito]] | Visão filosófica malkioni; traduz particularidades em universalidades; God Learners | `filosofia` `malkioni` `God Learners` | draft |
 | [[Sete Mães]] | Culto lunar central; 100% membros leigos, 25% iniciados entre camponeses | `lunar` `culto` `camponeses` | draft |
 | [[Geografia de Glorantha]] | Mundo plano, quadrado, 8000 km lado; Lua Vermelha ~35 km diâmetro | `geografia` `plano` `lua vermelha` | draft |
+| [[Grande Compromisso]] | Acordo pós-Guerra dos Deuses; 3 regras universais: concessão de reivindicações, aceitação do passado, não-manifestação direta | `Great Compromise` `Guerra dos Deuses` `Tempo` `regras cósmicas` | draft |
 | [[Jolly Fat Man]] | Filho de Ernalda; figura Baco/Sileno no País Santo; festivais | `ernalda` `país santo` `baco` | draft |
 | [[Two Hour Town]] | Competição atlética Sartar; corrida 20km em armadura bronze | `sartar` `esportes` `orlanth` `ernalda` | draft |
 | [[Beastlords]] | Cabala feiticeiros metamorfose; artigo D-Infinity | `feitiçaria` `metamorfose` `animais` | draft |
@@ -371,6 +374,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[journal-of-runic-studies-25]] | 25ª edição; Prax/Wastes, grãos de Genertela, nobreza Lunar, Chaos Gift, comércio, Wenelia/Pralori | `periódico` `malkioni` `Prax` `Wastes` `Lunars` `comércio` `Wenelia` | draft |
 | [[Journal of Runic Studies 26]] | 26ª edição; Weapons & Equipment PDF, manuscrito do Elf Pack concluído, Secrets of HeroQuesting POD, Periplus of Southern Genertela | `periódico` `malkioni` `Weapons & Equipment` `Elf Pack` `Simon Phipp` `Martin Helsdon` | draft |
 | [[Journal of Runic Studies 27]] | 27ª edição; tatuagens de Vasana, sobreviventes do Godtime, demografia de Dragon Pass, Colina de Orlanth Vitorioso, Morcego Carmesim, Sheng Seleris, Karse, Triolini | `periódico` `malkioni` `Jeff Richard` `Vasana` `Crimson Bat` `Karse` `Glowline` | draft |
+| [[Journal of Runic Studies 28]] | 28ª edição; Sacred Time, review Starter Set, densidade urbana, Sheng Seleris timeline, Jar-Eel bio, Grande Compromisso, Deadwood, EWF, Meio Mar, Irmãs da Misericórdia, timeline Argrath | `periódico` `malkioni` `Jeff Richard` `Sheng Seleris` `Jar-Eel` `Deadwood` | draft |
 | [[journal-of-runic-studies-68]] | 68ª edição (2022); clipping incompleto — menções a pântanos de Pelória, magia de Oslira, Broo | `periódico` `malkioni` `Oslira` `Pelória` `Broo` | draft |
 | [[journal-of-runic-studies-69]] | 69ª edição (2022); Heroquesting (inconsciente coletivo, arquétipos), finanças Lunares, Stafford House Campaign | `periódico` `malkioni` `Heroquesting` `finanças` `Stafford House` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |
@@ -407,7 +411,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Durulz]] | Raça dos patos de Glorantha; amaldiçoados na Grande Escuridão; Duck Hunts (pogrom); DuckPac; Kafari (comércio fluvial) | `raça` `patos` `Durulz` `DuckPac` `Upland Marsh` | draft |
 | [[Duck Point]] | Assentamento de durulz; Conselho; trégua frágil com Delecti | `assentamento` `durulz` | draft |
 | [[Necromante Delecti]] | Necromante do Upland Marsh; hordas de mortos-vivos | `necromante` `mortos-vivos` | draft |
-| [[Argrath]] | O Libertador; expulsou Império Lunar de Pavis; reencarnação de Arkat; convocou Chuva Má sem esforço; abraça contradições dracônicas | `herói` `Libertador` `Pavis` `Arkat` `reencarnação` `Chuva Má` `Sombra` | draft |
+| [[Argrath]] | O Libertador; timeline até 1627: Starfire Ridge → escravo Bison → White Bull → Wind Lord → Garrath Sharpsword → Libertou Pavis/Corflu → Príncipe de Sartar; reencarnação de Arkat | `herói` `Libertador` `Pavis` `Arkat` `reencarnação` `Chuva Má` `Sombra` `timeline` | draft |
 | [[Whitewall]] | Último reduto Orlanthi; cerco de 1620 pelo Império Lunar | `cidade` `cerco` `1620` | draft |
 | [[Os Selvagens]] | Bando de crianças PCs em Valley of Plenty; nome dado por Dundealosford | `bando` `crianças` | draft |
 | [[Orlanthi das Colinas]] | Parte dos Dundealos; agricultura; culto de Orlanth e Ernalda | `agricultura` `Orlanthi` | draft |
@@ -425,6 +429,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Nômades Animais]] | Povos nômades das Terras Ermas que montam bestas exóticas; sociedade fundada por Waha | `nômades` `animais` `Prax` `Wastes` `xamanismo` `montaria` | draft |
 | [[Hyalorings]] | Cavaleiros descendentes dos Dara Happans que fugiram de Nivorah durante o Tempo dos Deuses; cultura jogável em Six Ages | `cultura` `Dara Happa` `Hyalor` `cavalos` `Nivorah` | draft |
 | [[Tusk Riders]] | Meio-trolls que montam javalis gigantes; sacrifícios a Gouger; caminhos secretos; capturados por Leika | `meio-trolls` `javalis` `Uz` `Gouger` `Colymar` | draft |
+| [[Império do Meio Mar]] | Maior nação de Glorantha; Jrustela + Seshnela (789); God Learners; Monomito; conquistou Ralios (740) | `Middle Sea Empire` `Jrustela` `Seshnela` `God Learners` `Malkioni` | draft |
+| [[Império dos Amigos dos Wyrms]] | EWF/Terceiro Conselho (826); magia dracônica; Grande Ritual; queda na Dragonkill War (1120); Orlanth Rex | `EWF` `dragões` `dragonewts` `Segunda Era` `Orlanth Rex` | draft |
 | [[Irmãs Respiradoras]] | Filhas de Orlanth; dança circula ar nos Pockets de Boldhome; culto continuou durante Ocupação Lunar | `Orlanth` `filhas` `Boldhome` `Pockets` `ar` | draft |
 | [[Triolini]] | Povo do mar (ludoch/merfolk); ~33.000 na Baía de Choralinthor; aliados dos marinheiros desde a Abertura dos Mares | `merfolk` `ludoch` `Choralinthor Bay` `Kethaela` `raça anciã` | draft |
 ## Cronologia
@@ -445,5 +451,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-16*
+*Última atualização: 2026-05-16 (JRS 28)*
 

@@ -2,7 +2,7 @@
 title: "Argrath"
 category: "Entidade"
 tags: [herói, Libertador, Pavis, Império Lunar, Griselda, Hero Wars, Arkat, reencarnação]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
+sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md", "raw/clippings/Journal of Runic Studies 28.md"]
 last_updated: 2026-05-16
 status: draft
 aliases:
@@ -51,6 +51,34 @@ Enquanto Kallyr era "literal e inflexível" demais, Argrath — com sua **conex�
 > "O Orlanthi frequentemente diz que um herói é feito de seus fracassos, culpas e medos. Sem eles, não há nada a superar e, portanto, nenhum herói."
 
 A capacidade de Argrath de abraçar contradições conecta-se à sua natureza como reencarnação de [[Arkat Caosban]], que também abraçou sua Sombra ao tornar-se um troll para derrotar [[Nysalor]].
+
+### Resumo da Vida de Argrath (até 1627)
+Jeff Richard e Greg Stafford compilaram um resumo da trajetória de Argrath:
+
+- Nasceu em **Starfire Ridge** na Tribo Colymar
+- Maniski morto na queda de Sartar
+- Yanioth morta (pelos Telmori?)
+- Iniciado em Orlanth
+- Proscrito de Starfire Ridge
+- Tornou-se escravo entre os Bison Riders
+- Descobriu White Bull, fundou sociedade secreta
+- Tornou-se Wind Lord de Orlanth, ganhou uma entidade dracônica como espírito aliado
+- Adotou o nome **Garrath Sharpsword** e residiu em New Pavis
+- Quest do Cauldron do Giant Beberrão
+- Giant's Cradle
+- Encontrou [[Harrek]]
+- Circun-navegou o Mundo, muitas aventuras
+- Batalha de Pennel Ford
+- Foi amante da Rainha Samastina
+- Partiu para Prax, reuniu a White Bull Society e convocou [[Jaldon Goldentooth]]
+- Libertou Pavis
+- Libertou Corflu
+- Derrotado em Hender's Ruins
+- Fundou a primeira Magical Union, ganhou os Dragon Teeth
+- Derrotou o Exército Lunar em Far Place, libertou Alda-Chur
+- Tornou-se Príncipe de Sartar
+
+Jeff e Greg compararam os primeiros anos de Argrath a **Alexandre o Grande** e **Napoleão Bonaparte** — as atividades maníacas de Argrath parecem razoáveis em comparação! Mas Argrath tem o caminho mais longo a percorrer para tornar-se um par de figuras como o Imperador Vermelho, Gunda the Guilty, Beat-Pot ou Sir Ethilirist.
 
 ### Reencarnação de Arkat
 > "É interessante que Argrath É uma encarnação — uma reencarnação — de Arkat. Isso é mais que um mero fio de background do cenário, mas uma verdade criativa sobre a origem de ambos os personagens na escrita."

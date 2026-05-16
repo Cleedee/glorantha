@@ -31,6 +31,12 @@ Conquistada pelo [[Império Lunar]] em 1602, Boldhome tornou-se centro administr
 ### Demografia
 ~400 iniciados de [[Lhankor Mhy]] residem aqui (de 1.500 em todo Sartar), tornando a cidade um centro de aprendizado.
 
+### Densidade Populacional
+Boldhome tem uma densidade média de cerca de **3.000 pessoas por km²** — mas possui muito espaço vazio, o que significa que nos Pockets e na Main City, as coisas ficam empilhadas. Para comparação, [[Nochet]] tem ~18.000/km² e [[Jonstown]] ~16.000/km².
+
+### O Saque por Jar-Eel
+Em **1602**, aos 14 anos, [[Jar-Eel]] liderou os guerreiros de elite que saquearam Boldhome durante a conquista Lunar.
+
 ## Referências Cruzadas
 - [[Sartar]]
 - [[Quivin Mountains]]

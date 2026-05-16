@@ -20,6 +20,9 @@ Esrolia é governada pela **Rainha de Esrolia**, que reside em [[Nochet]]. A soc
 ### História Recente
 [[Nochet]] foi ameaçada pelas frotas dos [[Wolf Pirates]], temíveis reavers liderados pelo semideus [[Harrek the Berserk]]. Paradoxalmente, estes mesmos piratas foram instrumentais em derrotar o [[Império Lunar]] em 1624 e forçá-lo a sair do [[País Santo]].
 
+### Densidade Populacional
+[[Nochet]], a maior cidade de Glorantha, tem uma densidade populacional média de cerca de **18.000+ pessoas por km²**. Esta é uma média — para cada jardim da Sacred City, isso significa que em outro lugar as pessoas estão empilhadas umas sobre as outras. Para comparação, a Manhattan moderna tem 29.000/km² e Londres moderna 5.700/km².
+
 ### Religião
 Esrolia é o centro do culto à Terra. [[Ernalda]] é a divindade principal, e seu culto é onipresente.
 

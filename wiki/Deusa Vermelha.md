@@ -2,8 +2,8 @@
 title: "Deusa Vermelha"
 category: "Entidade"
 tags: [lunar, deusa, orlanthi, história]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Myth and History  The RuneQuest RPG Wiki.md"]
-last_updated: 2026-05-13
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Myth and History  The RuneQuest RPG Wiki.md", "raw/clippings/Journal of Runic Studies 28.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -56,6 +56,21 @@ Conto orlanthi sobre a ascensão da Deusa Vermelha:
 - Partes do corpo como seres vivos independentes.
 - Sombra auto superior à original.
 - Não obedece às leis normais de criação e guerra.
+
+### A Deusa Vermelha no Tempo
+A Deusa Vermelha é uma **Greater God** que apareceu durante o [[Tempo]], abraça o [[Caos]], e sua própria existência viola o [[Grande Compromisso]] Cósmico. Muitos dos Deuses Antigos recusaram-se a reconhecê-la por causa disso — sua vitória no **Castle Blue** forçou-os a reconhecer seu poder, e muitos agora aceitam e até abraçam-na (mais significantemente [[Yelm]]).
+
+Contudo, vários dos deuses mais poderosos permanecem como inimigos resoluto da Deusa Vermelha: [[Orlanth]] (mais proeminentemente), mas também [[Touro da Tempestade|Storm Bull]], [[Valind]], [[Kyger Litor]], [[Humakt]], [[Eurmal]] e [[Zorak Zoran]]. Muitos outros ([[Aldrya]], [[Magasta]], [[Yelmalio]], e os [[Malkionistas|Malkioni]]) permanecem hostis à Deusa Vermelha.
+
+Através da [[Iluminação]], os iniciados da Deusa Vermelha são libertados do medo reflexivo do Caos e do esquecimento. Acreditam que seguindo o caminho da Deusa Vermelha, podem abraçar a aniquilação do ego como meio de libertar o verdadeiro self. Inimigos do Caminho Lunar apontam que em muitos casos este caminho para a "aniquilação do ego" resulta num falso self ainda maior — [[Gbaji]].
+
+Os paralelos com [[Nysalor]] e o Broken Council estão lá para todos verem, embora muitos apologistas Lunares afirmem que com a ajuda da Deusa Vermelha, Nysalor agora derrotou Gbaji (Sheng Seleris). Outros afirmam que nas Sombras do Império, Arkat ou Arkats estão sendo formados mais uma vez.
+
+Mais perturbador é a ascensão dos **Lords of Terror** com pelo menos a tolerância da Deusa Vermelha. O Império Lunar patrocina o demônio do Caos chamado [[Morcego Carmesim]], aceita adoração de Primal Chaos, e é conhecido por cooperar com cultos caóticos como [[Krarsht]], [[Mallia]], [[Thed]] e [[Vivamort]] contra inimigos mútuos. Dentro de strongholds do Caos como [[Dorastor]], [[Snakepipe Hollow]] e o **Footprint**, os Lords of Terror despertaram.
+
+Alguns místicos afirmam haver incerteza no núcleo da existência da Deusa Vermelha que torna impossível resolver se ela é uma divindade do Caos ou do Cosmos, ou mesmo se é ambos simultaneamente. Esta incerteza e ambivalência é um motor chave na catástrofe posteriormente conhecida como as [[Hero Wars]].
+
+É talvez inevitável que as Hero Wars sejam ultimamente um conflito entre as duas divindades mais complexas de Glorantha — a Deusa Vermelha e Orlanth. Orlanth é tanto um Destruidor quanto o Upholder do Cosmos. Como Shiva, ele destrói e cria.
 
 ### Divindade do Caos
 Segundo Jeff Richard, a Deusa Vermelha é uma divindade do Caos, inequivocamente. Suas Runas: Lua, Caos, Vida. A Mestre do [[Morcego Carmesim]] (Crimson Bat) é uma lembrança constante desta conexão.

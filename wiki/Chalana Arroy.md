@@ -2,8 +2,8 @@
 title: "Chalana Arroy"
 category: "Entidade"
 tags: [deusa, cura, não-violência, Orlanthi, Holy Country, Paz, Lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
-last_updated: 2026-05-13
+sources: ["raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 28.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -36,6 +36,8 @@ Interpretar um iniciado de Chalana Arroy é desafiador. A menos que o personagem
 - [[Orlanth]]
 - [[Ernalda]]
 - [[País Santo]]
+- [[Irmãs da Misericórdia]]
+- [[Império dos Amigos dos Wyrms]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
@@ -44,3 +46,10 @@ Interpretar um iniciado de Chalana Arroy é desafiador. A menos que o personagem
 ## Questões em Aberto
 - [ ] Há outras subdivisões do culto de Chalana Arroy além de Sweepers e Keepers?
 - [ ] Como o culto opera fora do Holy Country e Dragon Pass?
+
+### Irmãs da Misericórdia
+As **[[Irmãs da Misericórdia]]** são filhas de Chalana Arroy, adotadas ou otherwise. **Malamse**, **Oronio** e **Amprefesne** são as três Irmãs santas mais frequentemente invocadas. Muitas High Healers vivas são frequentemente consideradas entre seus números.
+
+Vivem num **nunnery invisível** cuja localização exata é desconhecida — provado pelo Sábio Elad Kramdnil como sendo centrado onde o antigo [[Império dos Amigos dos Wyrms]] era dominante.
+
+O subculto é o mais comumente venerado em [[Dragon Pass]] e [[Prax]], e fornece o feitiço **Refine Medicine** (encontrado no Red Book of Magic, com regras para encontrar e processar plantas curativas).

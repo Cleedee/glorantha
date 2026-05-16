@@ -2,8 +2,8 @@
 title: "Pelória"
 category: "Localização"
 tags: [região, Peloria, bacia, Império Lunar, Dara Happa, clima, planície, cavalos]
-sources: ["raw/clippings/Journal of Runic Studies 8.md"]
-last_updated: 2026-05-09
+sources: ["raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 28.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -57,6 +57,20 @@ A cidade de [[Alkoth]] fica na borda do Pântano de Henjarl — uma cidade Dara 
 - [[Raibanth]] — cidade Dara Happana mais seca (36 cm/ano)
 - [[Alkoth]] — cidade dos mortos, entrada para o Submundo
 - [[Yuthuppa]] — outra cidade Dara Happana importante
+
+### Domínio Nômade (1375–1460)
+[[Sheng Seleris]] e seu exército nômade entraram em Peloria pela primeira vez em **1375**. Usando mobilidade superior, forçou os Lunares a batalhas durante fases lunares desfavoráveis. Por quase 30 anos, os Lunares conheceram "pouco mais que derrota e humilhação".
+
+Entre **1355 e 1389**, o Império Lunar foi fragmentado em pequenos pedaços. O [[Imperador Vermelho]] mantinha apenas alguns strongholds:
+- **Glamour** e a área do **Silver Shadow**
+- **Sylila**
+- O **West Reaches**
+
+O Red Emperor envolveu-se em vários concursos mágicos com Sheng Seleris, mas aparenta tê-los perdido todos. Em **1415**, Sheng matou o Red Emperor num duelo mágico — a primeira morte conhecida do Imperador. Por 15 anos, não houve imperador.
+
+**Quatro gerações** de rebanhos nômades vagaram pelas pastagens pelorianas. Muitas áreas cultivadas retornaram a pastagens. Em algumas áreas, a vida urbana continuou, governada por cavaleiros adoradores de [[Yelm]]. Outras áreas pagavam tributo a qualquer chefe nômade que o exigisse.
+
+O domínio nômade terminou em **1460**, quando Sheng Seleris foi finalmente derrotado pelo Red Emperor na **Batalha de Kitor**.
 
 ## Referências Cruzadas
 - [[Império Lunar]]
