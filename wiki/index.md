@@ -348,6 +348,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Jallupel Goodwind]] | MOTM por Austin Conrad + Diana Probst; fantasma mesclado de Herói Lunar + Lorde dos Ventos | `MOTM` `Jonstown` `Conrad` `Probst` `fantasma` | draft |
 | [[Six Seasons in Sartar]] | Campanha ALM; best-seller Jonstown Compendium; perto do Platinum; grupo retorna em 2021 adaptado para RQG | `campanha` `Jonstown` `ALM` `Sartar` `Haraborn` | draft |
 | [[The Company of the Dragon]] | Sequência de Six Seasons in Sartar; POD agosto 2021; 45 vendas do Gold | `campanha` `Jonstown` `ALM` `sequência` | draft |
+| [[The Final Riddle]] | Mini-campanha de ALM no Grande Inverno 1622 em New Pavis; expedição aos Ermos; regra opcional de Drives (Paixões Épicas) | `aventura` `ALM` `New Pavis` `Wastes` `Drives` `Heart of Darkness` | draft |
 | [[The Seven-Tailed Wolf]] | Livro planejado por ALM para primavera 2022; material cortado + novo cenário Haraborn | `suplemento` `Jonstown` `ALM` `Haraborn` | draft |
 | [[Journal of Runic Studies 17]] | 17ª edição; Ep.4 podcast, Korolstead, Bad Day at Duck Rock, Dart Wars, Argrath/Alexander, Justiça Orlanthi/Dara Happana | `periódico` `malkioni` `Dart Wars` `Argrath` `Orlanthi` `Dara Happan` | draft |
 | [[journal-of-runic-studies-18]] | 18ª edição; Armamento de Orlanth expandido, Ranging and Joining, Caladraland, Wilmskirk, heroquests de Harmast, manuscrito de Greg Stafford | `periódico` `malkioni` `Orlanth` `Heroquesting` `Caladraland` `Wilmskirk` `Harmast` `Greg Stafford` | draft |

@@ -49,7 +49,10 @@ Com todos os jogadores vacinados, o grupo retornou para rejogar *Six Seasons in 
 Anunciou também *[[The Seven-Tailed Wolf]]*, um livro planejado para a primavera de 2022 compilando material cortado de ambas as campanhas e um novo cenário sobre o pós-retorno dos Haraborn ao Black Stag Vale.
 
 ### The Final Riddle (2021)
-Mini-campanha ambientada no Grande Inverno de 1622 em [[New Pavis]]. Aventureiros desempregados e famintos são contratados por Unva Prithverna, uma nobre esroliana, para uma expedição ao coração dos Ermos (Wastes) em busca do palácio de uma deusa da terra perdida. Inspirada em *Coração das Trevas* (Heart of Darkness). Quatro cenários conectados que desafiam as crenças e percepções dos jogadores enquanto descem ao coração do Caos.
+Mini-campanha ambientada no Grande Inverno de 1622 em [[New Pavis]]. Aventureiros desempregados e famintos são contratados por **Unva Prithverna** (Lady Amarj), uma nobre esroliana, para uma expedição ao coração dos Ermos ([[As Terras Ermas|Wastes]]) em busca do palácio de uma deusa da terra perdida. Inspirada em *Coração das Trevas* (Heart of Darkness). Quatro cenários conectados que desafiam as crenças e percepções dos jogadores enquanto descem ao coração do Caos.
+
+#### Drives — Regra Opcional (Dez 2022)
+Em dezembro de 2022, Montgomery publicou um preview do capítulo "Personagens" de *The Final Riddle*, apresentando o sistema opcional de **Drives** — Paixões Épicas de 90% que não decaem e não têm penalidade em falha. Cinco tipos: Adventure, Bound To Another, Opportunity, Redemption, Revelation. Ver página dedicada: [[The Final Riddle]].
 
 ### Company of the Dragon (POD)
 Montgomery produziu **The Company of the Dragon** para o Jonstown Compendium, que recebeu provas de Print-on-Demand e foi **lançado em print** em agosto de 2021. Sequência de *Six Seasons in Sartar* (embora vagamente conectados — é possível jogar um sem o outro). Custo de impressão estimado: $45 (Premium color) ou $20 (Standard).
