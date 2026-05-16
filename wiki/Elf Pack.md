@@ -1,9 +1,9 @@
 ---
 title: "Elf Pack"
 category: "Fonte"
-tags: [suplemento, elfos, Aldryami, Shannon Appelcline, RuneQuest]
-sources: ["raw/notas/Publicações Futuras.md"]
-last_updated: 2026-04-14
+tags: [suplemento, elfos, Aldryami, Shannon Appelcline, RuneQuest, Trollpak]
+sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 26.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -14,10 +14,24 @@ status: draft
 
 ## Conteúdo
 
+### Manuscrito Concluído (Dezembro 2021)
+O manuscrito do *Elf Pack* foi completado por Appelcline com **137.000 palavras**, dividido em três seções (estilo [[Trollpak]]):
+1. **Book of Aldryami** — Criação e interpretação de elfos
+2. **Aldryami Lore** — Lendas e história élfica
+3. **Into the Woods** — Aventuras élficas
+
+Inclui extras como poesia élfica em "triku" (treeku?). É a terceira abordagem de Appelcline sobre elfos Gloranthanos (MRQ, HQ, RQG) — considerada por ele a melhor.
+
+**Quatro objetivos do livro:**
+1. Representar uma raça alienígena
+2. Criar uma sensação de maravilha fantástica
+3. Tornar tudo muito jogável
+4. Manter o material muito local
+
 ### Status
 - **Autor:** Shannon Appelcline
 - **Anúncio:** Novembro 2022
-- **Estado:** Aguardando posição na fila de produção
+- **Estado:** Aguardando edição, direção de arte e diagramação (publicação estimada 2024)
 
 ## Referências Cruzadas
 - [[RuneQuest]]

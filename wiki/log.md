@@ -201,3 +201,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-16] ingest | Processado "CRIMSON KING, ANOTHER RUNEQUEST REVIEW.md" — 2 páginas criadas: Nick Brooke (Entidade, autor Jonstown), Crimson King (Fonte, cenário 1627 S.T.). 3 páginas atualizadas: Deusa Vermelha (Lua e loucura — associação europeia, amálgama mitológica), Andrew Logan Montgomery (fonte adicionada), The Black Spear (referência cruzada para Crimson King). Index e log atualizados.
 
 ## [2026-05-16] ingest | Processado "HYDRA - ADVENTURERS FROM THE LUNAR PROVINCES, a RuneQuest Review.md" — 1 página criada: Adventurers From The Lunar Provinces (Fonte). 2 páginas atualizadas: Peter Hart (obras expandidas: Adventurers e Hydra!; questão em aberto resolvida), Andrew Logan Montgomery (fonte adicionada). Index e log atualizados.
+
+## [2026-05-16] ingest | Processado "Journal of Runic Studies 26.md" — 1 página criada: Journal of Runic Studies 26 (Fonte). 2 páginas atualizadas: Elf Pack (manuscrito concluído, 137k palavras, 4 objetivos, 3 seções), Simon Phipp (Secrets of HeroQuesting adicionado, questão em aberto resolvida). Index e log atualizados.
