@@ -28,9 +28,11 @@ Produziu capas para múltiplos títulos da Tentacles Press, incluindo as séries
 ### Jonstown Compendium
 Corallo contribuiu com capas e arte interna para dezenas de títulos no [[Jonstown Compendium]], incluindo:
 - **Corallo's Zenith Counters: Prax Pack #2** — Tokens VTT para guerreiros das tribos de [[Prax]]
+- **Corallo's Artpack #3: The Seventeen Foes of Waha** — Ilustrações dos 17 inimigos de [[Waha]] mais extras (outubro de 2021)
 - **Corallo's Artpack #6** — Clip-art para autores do Compendium
 - **Temple Hill: Acropolis** — Mapa VTT
 - **Big Rubble Campaign Map** — Mapa colorido do [[Big Rubble e Pavis|Big Rubble]]
+- Ilustrações em **[[A Bad Day at Duck Rock]]**
 
 Compradores dos Artpacks podiam usar as imagens livremente em suas publicações do Compendium, e Corallo oferecia ajustes gratuitos.
 

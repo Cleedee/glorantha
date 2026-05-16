@@ -27,7 +27,7 @@ Lista compilada de **publicações futuras** de [[Glorantha]] pela Chaosium, com
 
 ### Pavis and the Big Rubble
 - **Autor:** [[Robin D. Laws]]
-- **Status:** Arte sendo adicionada
+- **Status:** Manuscrito movido para edição (novembro de 2021)
 - **Previsão:** Final do próximo ano se tudo ocorrer conforme planejado
 
 ### Cults of RuneQuest: Darkness

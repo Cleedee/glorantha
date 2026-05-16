@@ -17,7 +17,9 @@ Conjunto introdutório para [[RuneQuest - Roleplaying in Glorantha (RQG)]], lan�
 ### Anúncio e Lançamento
 - Página de cadastro para notificação: [Chaosium Sign-up](https://www.chaosium.com/runequest-get-the-starter-set/)
 - Primeiras cópias vendidas na GenCon 2021 antes da distribuição geral
-- Previsão inicial: setembro 2021 (armazéns EUA); novembro 2021 (Reino Unido)
+- **Data de lançamento oficial: 10 de novembro de 2021**
+- Armazém europeu: **[[Black Monk Games]]** (Polônia), parceira oficial da Moon Design Publications
+- Aventura SoloQuest publicada **online gratuitamente** para teste no navegador
 
 ### O SoloQuest
 - Aventura solo focada na personagem **Vasana** (já presente no livro básico RQG)

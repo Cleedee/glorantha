@@ -110,6 +110,9 @@ O bibliotecário dos God Learners iniciou uma lista de todos os "freeforms" (LAR
 | [[Dara Happan Primer]] | Criação de personagens de terra solar, 4 cultos adicionais | 26 | $2 |
 | [[Marsh Attacks]] | Upland Marsh; tribo Lismelder; clã Greydog; templo Humakti | 120 | $15.95 |
 | [[Skull Ruins - Tusk Riders Need Blood!]] | Aventura clássica; Leika captura Tusk Rider; ritual de sangue nas Ruínas do Crânio; batalha em larga escala | 76 | $— |
+| [[Sandheart]] Volume 4: The God Skin & Mad Prax | Último volume da série Sandheart; Jon Webb + Michael O'Brien; duas aventuras | — | $— |
+| [[The Salt Man]] | Monster of the Month; abominação praxiana que não deveria existir | — | $— |
+| Corallo's Artpack #3: The Seventeen Foes of Waha | Artpack de Dario Corallo com os 17 inimigos de Waha + extras | — | $— |
 | [[Eyes' Rise]] | Vilarejo no Rio dos berços; 19 NPCs; Rio Folk | — | — |
 | [[LEGION Games Mega-Bundle]] | Pacote com todos os títulos: LEGION, Rubble Redux, QAD series | — | Bundle |
 | [[Grungnak Fearless]] | Mestre das Runas de Zorak Zoran; itens mágicos, PNJs | — | $— |

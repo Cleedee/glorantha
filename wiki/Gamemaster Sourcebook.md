@@ -10,13 +10,13 @@ status: draft
 # Gamemaster Sourcebook
 
 ## Resumo
-O **Gamemaster Sourcebook** (título provisório) para [[RuneQuest]] incluirá **regras completas de heroquestes**. Está "bastante avançado" mas ainda não em layout. Será o 4º ou 5º livro da linha de sourcebooks.
+O **Gamemaster Sourcebook** (título provisório, também referido como **Gamemaster Guide**) para [[RuneQuest]] incluirá **regras completas de heroquestes** e **regras de batalhas em massa**. O sistema de batalha é baseado no chassis de **Pendragon**, adaptado para sacerdotisas que summonam elementais da Terra e guerreiros voadores lançando Lightning Bolts. As regras de heroquesting foram atrasadas pela pandemia (escritor principal Chris Klug com prioridades mudadas), mas incluem mecânicas empolgantes com **sistema de building blocks em formato de cartas**. Jason Durall quer que o livro caiba no slipcase do core rulebook, mas há material demais.
 
 ## Conteúdo
 
 ### Conteúdo Previsto
-- **Regras completas de heroquestes** (busca heroica)
-- **Regras de batalhas em massa**
+- **Regras completas de heroquestes** — sistema de building blocks com cartas para montar heroquests na mesa; Chris Klug é o escritor principal; atrasado pela pandemia
+- **Regras de batalhas em massa** — baseado no chassis de Pendragon; adaptado para magia rúnica (elementais da Terra, Lightning Bolts aéreos); preview nas sessões de Jeff Richard no YouTube
 - Como criar campanhas em Sartar e Prax
 - Como criar encontros ajustados ao poder dos personagens
 - Como dirigir interações sociais
@@ -25,8 +25,9 @@ O **Gamemaster Sourcebook** (título provisório) para [[RuneQuest]] incluirá *
 - Como usar tesouro (com objetos únicos)
 
 ### Status
-- Bastante avançado
-- Não em layout ainda
+- Regras de batalha: chassis definido (Pendragon), em adaptação
+- Regras de heroquesting: atrasadas pela pandemia, mas mecânicas empolgantes
+- Jason quer que caiba no slipcase do core rulebook (onde está o Gamemaster Screen Pack)
 - 4º ou 5º na linha de publicações
 
 ## Referências Cruzadas

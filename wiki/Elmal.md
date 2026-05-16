@@ -39,6 +39,11 @@ Elmal ainda existe agora como um **subculto menor de Yelmalio**.
 ### Elmal como Filho de Yelm e Mordomo de Orlanth
 ALM propõe que Elmal é a versão orlanthi da Era do Amanhecer de Yelmalio — seu nome sendo uma "tradução incorreta" ou "má audição" de Yelmalio. No mito, Elmal é um filho de [[Yelm]] que se torna mordomo de [[Orlanth]]: quando Orlanth desce ao Inferno na Jornada dos Portadores da Luz, coloca Elmal no comando do mundo (assim como [[Yelm]] deixa [[Antirius]] no comando). Como Yelmalio e Antirius, Elmal sofre uma série de ferimentos e perdas que o enfraquecem, mas perdura, mantendo acesa a última centelha de luz na escuridão.
 
+### Quem Guarda a Propriedade?
+Sobre o mito de Elmal guardando o lar da Storm Tribe enquanto Orlanth sai para ser herói: Jeff Richard esclarece que os Orlanthi **não têm um mito universal** sobre quem fica para trás. Diferentes clãs e tribos têm versões diferentes — alguns nomeiam especificamente alguém (Yelmalio, Elmal, um neto de Vingkot, Tada, etc.), outros não se importam.
+
+> "Quem guarda uma vila sartarita quando a milícia sai? Depende! [...] Os Orlanthi são flexíveis sobre tais assuntos. Não têm uma posição de culto universal cuja responsabilidade é Defender a Vila Quando a Maioria dos Homens Vai para a Guerra."
+
 ### A Crise Elmali em Sartar (Séc. XVI)
 Jeff Richard forneceu detalhes adicionais sobre o declínio do culto de Elmal. Por volta de **1540**, o culto de Elmal em Sartar estava espiritualmente desintegrado sob influência do coração lunar e do culto de Yelm:
 

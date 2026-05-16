@@ -10,7 +10,7 @@ status: draft
 # Sartar Homeland Boxed Set
 
 ## Resumo
-Próximo lançamento da Chaosium para RuneQuest; inclui arte de Ossi Hiekkala (Raveena) e Anna Orlova (Inkarne, Argrath, Leika Blacksper), mapas de Boldhome por Matt Ryan, gráfico de organização tribal, e capítulo sobre moda, penteados e tatuagens sartaritas.
+Próximo lançamento da Chaosium para RuneQuest; bem avançado. Outros Homeland Sets ainda em escrita: **Esrolia, Lunar Tarsh, Grazelands, Prax, Heortland**. Inclui arte de Ossi Hiekkala (Raveena) e Anna Orlova (Inkarne, Argrath, Leika Blacksper), mapas de Boldhome por Matt Ryan, gráfico de organização tribal, e capítulo sobre moda, penteados e tatuagens sartaritas.
 
 ## Conteúdo
 ### Artes Reveladas

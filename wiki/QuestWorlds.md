@@ -17,6 +17,8 @@ status: draft
 ### Primeiro Draft (2021)
 Em agosto de 2021, [[Ian Cooper]] anunciou que o **primeiro draft do QuestWorlds Core Book** estava quase completo, necessitando apenas de alguns ajustes (exemplo de sequência de grupo, exemplo de cenário caseiro do GM). O processo de desenvolvimento foi aberto, com feedback da comunidade HeroQuest. O SRD já estava disponível no site oficial. Descrito como essencialmente **HeroQuest 2.5** com limpeza, simplificação e unificação de mecânicas.
 
+Em novembro de 2021, a Chaosium publicou um update no blog com arte de Lionel Marty e trechos das regras. As mecânicas foram descritas como "inalteradas" do HeroQuest, mas na prática representam mudanças suficientes para justificar a descrição de **HeroQuest 2.5** — simplificações e unificações de partes anteriormente confusas ou complicadas do sistema.
+
 ### Origem
 O QuestWorlds nasceu de profundas mudanças no sistema HeroQuest, lideradas por [[Ian Cooper]]. As transformações foram compiladas num **SRD** (System Reference Document) disponível em [github.com/ChaosiumInc/QuestWorlds](https://github.com/ChaosiumInc/QuestWorlds).
 
