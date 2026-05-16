@@ -1,6 +1,6 @@
 ---
 title: Uleria Loves You
-category: Produto
+category: Fonte
 tags:
   - runequest
   - aventura
@@ -9,7 +9,7 @@ tags:
   - apple lane
   - jonstown compendium
   - chaosium
-sources:
+sources: ["raw/clippings/Uleria Loves You - Chaosium  Jonstown Compendium.md"]
   - raw/clippings/Uleria Loves You - Chaosium  Jonstown Compendium.md
 last_updated: 2026-04-21
 status: estavel

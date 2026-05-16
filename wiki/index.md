@@ -102,7 +102,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Clã Varmandi]] | Clã modesto e guerreiro Sartar; dados demográficos Boxed Set | `sartar` `clã` `guerreiro` `modesto` | draft |
 | [[Clã Hiording]] | Clã incompleto para Boxed Set; mapa Matt Ryan | `sartar` `clã` `incompleto` | draft |
 | [[Dundealosford]] | Cidade da Tribo dos Dundealos; cenário do Capítulo 1 de Valley of Plenty | `cidade` `Dundealos` | draft |
-| [[Hogar Audaz]] | Capital de Sartar; detalhada no futuro Lands of RuneQuest | `capital` `Sartar` | draft |
+| [[Boldhome]] | Capital de Sartar; construída nos penhascos Quivin; famosa pelos Bolsos (Pockets); libertada no Dragonrise | `capital` `Sartar` `Quivin` `Bolsos` | draft |
 | [[Talastar]] | Região vizinha de Dorastor; cenário de RuneQuest Warlords | `região` `Warlords` | draft |
 | [[Glamour]] | Cidade do Grande Templo do Imperador Vermelho; vitrais do Tratado | `cidade` `Império Lunar` | draft |
 | [[Genertela]] | Continente setentrional; comércio (900 t/ano), Manirian Road, seda; Wenelia/Pralori; Fronela, Kralorela, Peloria | `continente` `norte` `regiões` `comércio` `Wenelia` | draft |
@@ -127,6 +127,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Colina de Orlanth Vitorioso]] | Monte sagrado em Sartar; peregrinação a 30 km de Boldhome; centro do Tempo Sagrado; clã Red Vireo; local da Lightbringers Quest de Kallyr e Argrath | `Orlanth` `Sartar` `Lightbringers` `peregrinação` `Culbrea` `Tempo Sagrado` | draft |
 | [[Karse]] | Cidade portuária antiga em Hendrikiland; entreposto comercial entre Dragon Pass, Peloria e Prax; análoga a Massalia | `cidade` `Hendrikiland` `porto` `comércio` `Mirrorsea Bay` `dragonewts` | draft |
 | [[Lugares Sagrados de Dragon Pass]] | Lista de locais em Dragon Pass com fronteira permeável entre mundos; inclui Colina de Orlanth Vitorioso, Kero Fin, Dragoneye, Quivin Peak, e outros | `locais sagrados` `Godtime` `heroquesting` `peregrinação` `Dragon Pass` | draft |
+| [[Dragon Pass]] | Abertura de 225 km nas Montanhas Rockwood; única passagem Pelória-Kethaela; Kero Fin (12 km); palco das Hero Wars | `região` `geografia` `passagem` `guerra` `Hero Wars` | draft |
+| [[Sartar]] | Reino orlanthi em Dragon Pass; fundado 1492; capital Boldhome; libertado no Dragonrise (1625); sob Argrath | `reino` `Orlanthi` `Sartar` `Dragon Pass` `Argrath` | draft |
+| [[Pavis]] | Cidade em Prax; fundada Era Dourada; Big Rubble (15 km²); libertada por Argrath; foco do RQFR | `cidade` `Pavis` `Prax` `Big Rubble` `Argrath` | draft |
 
 ---
 
@@ -192,6 +195,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[A Chuva Má]] | A Sombra de Orlanth — escuridão reprimida que emerge como Chuva Má; central para heroquesting Orlanthi e Lightbringers Quest | `Bad Rain` `Orlanth` `Sombra` `heroquesting` `Lightbringers` | draft |
 | [[As Runas]] | Arquétipos cósmicos: Elementos (roda elemental), Poderes, Formas e Condições; inclui tabela de associações Runa por divindade | `Runas` `Elementos` `Poderes` `Formas` `Condições` `cosmologia` | draft |
 | [[Iluminação]] | Transcendência espiritual; tensão exotérico vs esotérico; tema central de Glorantha; estrutura Lunar | `Nysalor` `Gbaji` `Lua` `Sevening` `Arkat` `exoterismo` `esoterismo` | draft |
+| [[RuneQuest]] | Sistema d100 criado por Steve Perrin e Greg Stafford (1978); combate realista, strike ranks, locais de impacto; 7ª ed em 2018 | `sistema` `RPG` `d100` `Chaosium` `franquia` | draft |
 
 ---
 

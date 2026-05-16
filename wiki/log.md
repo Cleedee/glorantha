@@ -213,3 +213,10 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-16] ingest | Processado "Sheng Seleris II.md" (Well of Daliath, 2018) — 1 página atualizada: Sheng Seleris (seção "O Pesadelo Lunar" — Sheng preso no Inferno Lunar, tentativa de fuga em 1625 enfraquece Imperador Vermelho e permite Dragonrise; Rei das Asas, Terras Vermelhas, Oraya; insônia do Imperador Vermelho; visão de Godunya). Index e log atualizados.
 
 ## [2026-05-16] ingest | Processado "Drives & Epic Passions, a Sneak Peak at THE FINAL RIDDLE.md" (ALM, 2022) — 1 página criada: The Final Riddle (Fonte, mini-campanha Grande Inverno 1622 New Pavis, Lady Amarj, Drives/Paixões Épicas, 5 tipos). 1 página atualizada: Andrew Logan Montgomery (seção The Final Riddle expandida com Drives). Index e log atualizados.
+
+## [2026-05-16] lint | Revisão periódica de saúde da wiki:
+  - Correções: Uleria Loves You (categoria Produto → Fonte, source adicionado); Hogar Audaz (redirecionado para Boldhome)
+  - Páginas órfãs (não-Fonte): 6 — Desafios Mágicos, Sample Combat, Max Bantleman, Paul Watts, Vivien Prigent, Uleria Loves You
+  - Links quebrados: 352 destinos únicos (todos redlinks intencionais); top-5: RuneQuest (122x), Sartar (98x), Dragon Pass (35x), Jeff Richard (36x), Pavis (23x)
+  - Páginas landing criadas (5): RuneQuest, Sartar, Dragon Pass, Pavis, Boldhome — resolvem ~300 links quebrados
+  - Index atualizado com as 5 novas páginas
