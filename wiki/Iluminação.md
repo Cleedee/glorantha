@@ -2,7 +2,7 @@
 title: "Iluminação"
 category: "Conceito"
 tags: [Iluminação, Nysalor, Gbaji, Sevening, esoterismo, exoterismo, Lua, Lunares, enigmas, Arkat]
-sources: ["raw/clippings/WRITING RIDDLES ILLUMINATION IN GLORANTHA, PART ONE.md", "raw/clippings/Cults of RuneQuest The Lunar Way.md"]
+sources: ["raw/clippings/WRITING RIDDLES ILLUMINATION IN GLORANTHA, PART ONE.md", "raw/clippings/Cults of RuneQuest The Lunar Way - Review.md"]
 last_updated: 2026-05-16
 status: draft
 aliases:
@@ -73,7 +73,7 @@ Tornar-se Iluminado em Glorantha é descrito como chocante e indutor de loucura:
 
 ## Referências
 - Fonte: [Writing Riddles: Illumination in Glorantha, Part One — Andrew Logan Montgomery](raw/clippings/WRITING RIDDLES ILLUMINATION IN GLORANTHA, PART ONE.md)
-- Fonte: [Cults of RuneQuest: The Lunar Way](raw/clippings/Cults of RuneQuest The Lunar Way.md)
+- Fonte: [Cults of RuneQuest: The Lunar Way - Review](raw/clippings/Cults of RuneQuest The Lunar Way - Review.md)
 
 ## Questões em Aberto
 - [ ] Partes Dois e Três do ensaio de Montgomery — quando serão publicadas?

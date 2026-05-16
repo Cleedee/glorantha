@@ -2,7 +2,7 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard, Greg Stafford, Ranging, Joining]
-sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 27.md"]
 last_updated: 2026-05-16
 status: draft
 ---
