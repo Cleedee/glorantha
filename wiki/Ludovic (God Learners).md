@@ -2,7 +2,7 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["raw/clippings/Review RuneQuest Starter Set.md", "raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 17.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -15,6 +15,7 @@ status: draft
 ## Conteúdo
 
 ### Reviews Escritas
+- **[[RuneQuest Starter Set]]** — review detalhada (dez 2021): um dos três melhores Starter Sets do mercado; 1.38 kg; 272 páginas; destaca Jonstown write-up como "melhor resumo de Glorantha"
 - **Cults of RuneQuest: Mythology** — crítica: livro uneven, falta regras de heroquestes
 - **Cults of RuneQuest: The Prosopaedia** — review no God Learners
 - **Cults of RuneQuest: The Lightbringers** — review no God Learners

@@ -226,3 +226,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
   - Index atualizado
 
 ## [2026-05-16] ingest | Processado "LOOKING FOWL AND FEELING FAIR: DUCKS INVADE THE JONSTOWN COMPENDIUM.md" (ALM, 2022) — 1 página criada: DuckPac (Fonte, série 3 livros sobre Durulz). 2 páginas expandidas: Durulz (Duck Hunts, Kafari, combate subaquático, maldição original, paradoxo dos patos), Andrew Logan Montgomery (resenha adicionada). Index atualizado.
+
+## [2026-05-16] ingest | Processado "Review RuneQuest Starter Set.md" (Ludovic, God Learners, 2021) — 2 páginas expandidas: RuneQuest Starter Set (conteúdo da caixa, review Ludovic, 1.38 kg, 4 livretos, Jonstown write-up), Ludovic (God Learners) (review Starter Set adicionada). Index atualizado.

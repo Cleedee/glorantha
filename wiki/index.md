@@ -354,7 +354,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 14]] | 14ª edição; GenCon, Starter Set, ENNIE Gold/Bronze, SoloQuest Vasana, Granite Phalanx | `periódico` `malkioni` `GenCon` `Starter Set` `ENNIE` `White Bull` | draft |
 | [[Journal of Runic Studies 15]] | 15ª edição; aftermath Batalha Rainhas, Bearwalkers, Cups of Clearwine POD, The Black Spear, Griselda, freeforms | `periódico` `malkioni` `Bearwalkers` `Rathori` `Starter Set` `White Bull` `Griselda` | draft |
 | [[Furthest]] | Cidade lunar fundada com Boldhome; rota comercial cobre; Alexandria Eschate | `cidade` `Lunar` `Dragon Pass` `Hon-eel` | draft |
-| [[RuneQuest Starter Set]] | Conjunto introdutório RQG 2021; SoloQuest Vasana; Battle of Dangerford; Battle Result Total | `starter set` `RuneQuest` `Vasana` `SoloQuest` | draft |
+| [[RuneQuest Starter Set]] | Conjunto introdutório RQG 2021; 1.38 kg; 4 livretos (272p); 14 PJs; SoloQuest Vasana; Jonstown write-up | `starter set` `RuneQuest` `Vasana` `SoloQuest` `Jonstown` | draft |
 | [[Journal of Runic Studies 16]] | 16ª edição; Black Spear lançado, Jallupel Goodwind, Jeff's Notes (Kheldon, Culbrea, templos lunares), White Bull S2 finale | `periódico` `malkioni` `Black Spear` `Kheldon` `Culbrea` `White Bull` | draft |
 | [[Jallupel Goodwind]] | MOTM por Austin Conrad + Diana Probst; fantasma mesclado de Herói Lunar + Lorde dos Ventos | `MOTM` `Jonstown` `Conrad` `Probst` `fantasma` | draft |
 | [[Six Seasons in Sartar]] | Campanha ALM; best-seller Jonstown Compendium; perto do Platinum; grupo retorna em 2021 adaptado para RQG | `campanha` `Jonstown` `ALM` `Sartar` `Haraborn` | draft |

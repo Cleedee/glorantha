@@ -2,7 +2,7 @@
 title: "RuneQuest Starter Set"
 category: "Fonte"
 tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["raw/clippings/Review RuneQuest Starter Set.md", "raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -10,7 +10,7 @@ status: draft
 # RuneQuest Starter Set
 
 ## Resumo
-Conjunto introdutório para [[RuneQuest - Roleplaying in Glorantha (RQG)]], lançado em setembro de 2021. Inclui uma aventura solo (SoloQuest) protagonizada por **Vasana**, personagem já presente no livro básico de RQG, e um sistema de "Battle Result Total" que afeta o desfecho da Batalha de Dangerford.
+Conjunto introdutório para [[RuneQuest - Roleplaying in Glorantha (RQG)]], lançado em 10 de novembro de 2021. Caixa de 1.38 kg, ~$30 USD. 4 livretos (272 páginas totais, ~185 de material novo), 14 personagens pré-gerados em formato folio, dados, mapas-pôster de [[Jonstown]] e norte de [[Sartar]], e folhas de referência. Inclui SoloQuest protagonizado por **Vasana** com sistema de "Battle Result Total". [[Ludovic (God Learners)|Ludovic]] considera o Starter Set um dos três melhores do mercado ao lado de [[Call of Cthulhu]] e *Warhammer Fantasy Roleplay*.
 
 ## Conteúdo
 
@@ -29,9 +29,31 @@ Conjunto introdutório para [[RuneQuest - Roleplaying in Glorantha (RQG)]], lan�
 
 > "Cada jogatina dará resultados diferentes e, embora cenas fixas sejam revisitadas, nunca serão exatamente as mesmas."
 
-### Conteúdo Adicional
+### ### Conteúdo da Caixa
+- **Peso:** 1.380 kg (mais pesado que Alien RPG Starter Set e WFRP Starter Set)
+- **4 Livretos:** Rules (regras simplificadas RQG), The World of Glorantha (Jonstown e arredores), SoloQuest (Batalha de Dangerford), Adventures (3 aventuras + sementes)
+- **14 personagens pré-gerados** em formato folio (estilo WFRP): de Babeester Gor sanguinária a curandeira Chalana Arroy pacifista a soldado Lunar "reformado"
+- **Dados temáticos** evocando a Idade do Bronze de Glorantha
+- **Mapas-pôster:** Jonstown (belíssimo, funcional, com escala) e norte de Sartar
+- **Folhas de referência:** tabela de resultados, tabela de resistência, locais de impacto, marcador de Strike Rank (papel grosso)
+
+### Conteúdo dos Livretos
+- **Book 1 (Rules):** Regras simplificadas do RQG. Tabela de fumble D20 (vs D100 do básico). Algumas modificações confusas (tabela ataque/defesa com diferenças sutis). Novas regras de idioma limitando perícias de comunicação (não recomendadas por Ludovic). Capítulo de magia enxuto — só feitiços necessários para os PJs pré-gerados.
+- **Book 2 (The World of Glorantha):** "O melhor resumo de Glorantha já visto" (Ludovic). Em ~20 páginas: Idade do Bronze, magia, deuses, Runas, aspectos únicos. Segunda metade: detalhamento de [[Jonstown]] — edificios, cidadania, muralhas e guardas, mercados, comércio, governo, milícia. "Vale metade do preço da caixa." Inclui NPCs com estatísticas completas. Mapa-pôster de Jonstown incluso.
+- **Book 3 (SoloQuest):** Aventura solo *Battle of Dangerford* como Vasana. Jogável [gratuitamente no navegador](https://www.chaosium.com/rq-soloquest-the-battle-of-dangerford/). Mostra mecânicas variadas e a imprevisibilidade do combate RQG. Crítica (Ludovic): combate Vasana vs soldado Lunar com 90% vs 80% pode tornar-se monótono.
+- **Book 4 (Adventures):** 3 aventuras + sementes. Aventura 1: premissa simples, boa para migrantes de D&D, mas falta sabor Gloranthano. Aventura 2: investigação. Aventura 3: *The Rainbow Mounds* (atualização de [[Apple Lane]]), dungeon crawl clássica com habitantes que têm agendas.
+
+### Review de Ludovic (God Learners)
+[[Ludović (God Learners)|Ludovic]] do podcast [[God Learners]] escreveu uma review detalhada publicada em 25 de dezembro de 2021. Destaques:
+- O Starter Set é um dos **três melhores Starter Sets do mercado** junto com Call of Cthulhu e Warhammer Fantasy Roleplay
+- **Arte:** impressionante, evocativa, original. A pose de Vasana na capa remete à guerreira original de RQ2.
+- **Novo material:** ~185 páginas de material novo em 272 páginas totais — mais de 2/3 úteis para veteranos
+- **Críticas:** folhas de referência em papel normal (deveriam ser papel grosso como o Strike Rank Tracker); fichas folio têm Runas no lado externo (precisa virar para ver atributos); alguns lugares de Jonstown são "frios e factuais" (GM precisa criar ganchos)
+- **Combinação recomendada:** Starter Set + *Khan of Khans* como presente duplo para novos jogadores
+
+### Fichas de personagem em estilo Warhammer
 - **Fichas de personagem em estilo Warhammer** (folio sheets) — versões em branco disponíveis em PDF
-- Personagens pré-gerados suficientes para os jogadores encontrarem algo que gostem
+- Personagens pré-gerados: 14 (mais que WFRP que oferece 6), mas em papel mais fino
 - Aventura solo com rejogabilidade: inclui encontros com o Morcego Carmesim, Combate Espiritual e o Juiz dos Mortos
 
 ### The Glass Cannon — Finale
@@ -58,9 +80,11 @@ Dois vídeos de unboxing do Starter Set foram publicados em setembro de 2021:
 - [[Battle of Dangerford]]
 
 ## Referências
+- Fonte: [Review: RuneQuest Starter Set — God Learners (Ludovic)](raw/clippings/Review RuneQuest Starter Set.md)
 - Fonte: [Chaosium Blog — Design Diary 12](https://www.chaosium.com/blogrunequest-starter-set-design-diary-12-putting-the-soloquest-in-runequest/)
 - Fonte: [Chaosium Blog — Design Diary 13](https://www.chaosium.com/blogrunequest-starter-set-design-diary-13-writing-the-battle-of-dangerford-soloquest/)
 - [Página de Cadastro](https://www.chaosium.com/runequest-get-the-starter-set/)
+- [SoloQuest gratuito no navegador](https://www.chaosium.com/rq-soloquest-the-battle-of-dangerford/)
 
 ## Questões em Aberto
 - [ ] O Starter Set teve reimpressões?
