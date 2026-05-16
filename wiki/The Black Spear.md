@@ -29,6 +29,7 @@ Lançado em outubro de 2021. Ludovic brinca que a máquina de marketing de Nick 
 ## Referências Cruzadas
 - [[Jonstown Compendium]]
 - [[Nick Brooke]]
+- [[Crimson King]]
 - [[Duel at Dangerford]]
 
 ## Referências

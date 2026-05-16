@@ -78,6 +78,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Gouger]] | Javali Divino; venerado pelos Tusk Riders; rituais de sacrifício de sangue para controle de javalis gigantes | `deus` `javali` `Tusk Riders` `sacrifício` | draft |
 | [[Katrin Dirim]] | Artista prolífica de Glorantha; ilustradora dos Cults books; Greg Stafford Memorial Award 2021 | `artista` `ilustradora` `Chaosium` | draft |
 | [[Jogrampur]] | Divindade inventada pelos God Learners; experimento na Universidade de Yoranday; magia real em 901 | `deus` `God Learners` `experimento` `Yoranday` | draft |
+| [[Nick Brooke]] | Autor Jonstown Compendium; vencedor Greg Stafford Memorial Award 2020; estilo gonzo/lúdico; The Black Spear, Crimson King, Dark Side of the Moon | `escritor` `Jonstown` `Lunar` `Malkioni` | draft |
 
 ---
 
@@ -359,6 +360,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Yara Aranis]] | Guardiã do Templo da Lua Crescente; teias expandem a Glowline | `entidade` `Lunar` `Glowline` `teia` | draft |
 | [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
 | [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |
+| [[Crimson King]] | Cenário roleplay-heavy de Nick Brooke; 1627 S.T.; dignitários lunares num jantar com conspiração e reviravolta | `Nick Brooke` `Jonstown` `aventura` `Lunar` `1627` | draft |
 | [[Kalayde Waters]] | Aventura de tribunal Orlanthi; dois amantes desaparecidos, famílias rivais; regras de julgamento | `Jonstown` `aventura` `tribunal` `Orlanthi` `Lhankor Mhy` | draft |
 | [[Skull Ruins - Tusk Riders Need Blood!]] | Aventura 76p; Ricardo Shankland; Leika captura Tusk Rider; ritual de sangue; batalha em larga escala | `aventura` `Jonstown` `Tusk Riders` `Colymar` `Dario Corallo` | draft |
 | [[Ricardo Shankland]] | Autor Jonstown; escrita clara e concisa; Skull Ruins - Tusk Riders Need Blood! | `autor` `Jonstown` `RuneQuest` | draft |
@@ -405,7 +407,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
-| [[Sistemas de Magia em RuneQuest]] | Classificação dos três sistemas (Battle Magic, Rune Magic, Feitiçaria) e seu significado mitológico-cultural | `RuneQuest` `Battle Magic` `Rune Magic` `feitiçaria` `sorcery` | draft |
+| *(nenhuma página ainda)* | — | — | — |
 
 ---
 
@@ -418,5 +420,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-15*
+*Última atualização: 2026-05-16*
 

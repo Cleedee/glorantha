@@ -39,6 +39,13 @@ A Deusa Vermelha foi a primeira entre os cultos do Fogo/Céu a abraçar sua pró
 
 Este abraço da Sombra conecta a Deusa Vermelha à filosofia Orlanthi de que um herói é feito de seus fracassos, culpas e medos. Ver [[A Chuva Má]].
 
+### A Lua e a Loucura
+A associação entre a Lua e a loucura é uma conexão peculiarmente **ocidental e relativamente moderna**, diferente das associações mitológicas antigas. Enquanto deuses lunares de outras culturas eram ligados a tempo, fertilidade, vegetação, caça e luminosidade (Khonsu, Chandra, Sin, Tsukuyomi, Selene, Luna), a associação com insanidade desenvolveu-se na Europa nos últimos dois milênios — de Aristóteles (o cérebro como órgão "mais úmido", afetado pela Lua) a Plínio (a Lua causava orvalho e água no cérebro).
+
+[[Greg Stafford]] incorporou esta associação europeia na Deusa Vermelha porque via a mitologia como um **processo vivo e contínuo** — não parada em Homero e Ovídio. A Lua Vermelha conecta-se à loucura (Lua Cheia = licantropia, Caos forte, culto das [[Sete Mães]] com feitiço "Loucura", Lunes que infligem insanidade), mas também a ciclos, tempo, Vida e Morte, e luz — a própria palavra "Iluminação" (*Illumination*) contém "lumi", relacionado a *luna*.
+
+A Deusa Vermelha é uma amálgama de múltiplas noções mitológicas, assim como [[Orlanth]] não é apenas Thor, Júpiter, Perun, Hadad ou Indra. [[Nick Brooke]] explora todas estas facetas em seu cenário *[[Crimson King]]* (1627 S.T.).
+
 ### Visão Orlanthi
 Conto orlanthi sobre a ascensão da Deusa Vermelha:
 
