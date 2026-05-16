@@ -361,6 +361,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
 | [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |
 | [[Crimson King]] | Cenário roleplay-heavy de Nick Brooke; 1627 S.T.; dignitários lunares num jantar com conspiração e reviravolta | `Nick Brooke` `Jonstown` `aventura` `Lunar` `1627` | draft |
+| [[Adventurers From The Lunar Provinces]] | Suplemento de Peter Hart para personagens das províncias lunares (Tarsh, Aggar, Imther, Vanch, Holay); 20 pré-gerados | `Peter Hart` `Jonstown` `Lunar` `Tarsh` | draft |
 | [[Kalayde Waters]] | Aventura de tribunal Orlanthi; dois amantes desaparecidos, famílias rivais; regras de julgamento | `Jonstown` `aventura` `tribunal` `Orlanthi` `Lhankor Mhy` | draft |
 | [[Skull Ruins - Tusk Riders Need Blood!]] | Aventura 76p; Ricardo Shankland; Leika captura Tusk Rider; ritual de sangue; batalha em larga escala | `aventura` `Jonstown` `Tusk Riders` `Colymar` `Dario Corallo` | draft |
 | [[Ricardo Shankland]] | Autor Jonstown; escrita clara e concisa; Skull Ruins - Tusk Riders Need Blood! | `autor` `Jonstown` `RuneQuest` | draft |
