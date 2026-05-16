@@ -191,3 +191,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-15] ingest | Processado "The Cults of RuneQuest Part Three The Earth Goddesses.md" — 1 página criada: cults-earth-goddesses-review (Fonte, resenha ALM). 1 página atualizada: Ernalda (Imarja/Deusa Suprema, Husband-Protectors em Esrolia: Argan Argar, Lodril, Flamal, Storm Bull). Index e log atualizados.
 
 ## [2026-05-15] ingest | Processado "THE CULTS OF RUNEQUEST Part One — Prosopaedia.md" — 1 página criada: cults-of-runequest-part-one-prosopaedia (Fonte, resenha ALM sobre filosofia de cultos RQ vs CoC, estrutura de membresia, Prosopaedia). Index e log atualizados.
+
+## [2026-05-15] ingest | Processado "WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST...PART THREE.md" — 1 página criada: sorcery-in-rq-part-three (Fonte, artigo ALM sobre feitiçaria RQG: gnosis, Runas/Técnicas, Selo de Zzabur, evolução Malkioni). Index e log atualizados.
