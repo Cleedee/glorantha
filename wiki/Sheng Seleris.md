@@ -2,7 +2,7 @@
 title: "Sheng Seleris"
 category: "Entidade"
 tags: [conquistador, nômades, Império Lunar, Glowline, Terceira Wane, Dara Happa, Yara Aranis, Morcego Carmesim]
-sources: ["raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Journal of Runic Studies 5.md"]
+sources: ["raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Sheng Seleris II.md"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -39,6 +39,21 @@ Sheng Seleris forçou o Império Lunar a se adaptar militar e magicamente. A Glo
 
 Ironicamente, a Glowline que nasceu da necessidade de sobreviver a Sheng tornou-se o instrumento que permitiu ao Império Lunar tornar-se aquilo contra o qual Sheng lutava: um poder expansionista e hegemônico.
 
+### O Pesadelo Lunar — Sheng no Submundo (1625)
+Sheng Seleris está preso num **Inferno Lunar** — o pesadelo do subconsciente Lunar. Cada Lunar tem pesadelos de sua fuga. Estes pesadelos cresceram em frequência e terror após a ascensão do **Planeta Barco** em 1624. Com as **Terras Vermelhas** (Redlands) em plena revolta e o **Rei das Asas** (Dranz Goloi) tendo derrotado o Exército Lunar do sul e conquistado a satrapia de **Oraya**, a ameaça de fuga de Sheng cresce.
+
+Em 1625, o Rei das Asas invadiu **First Blessed** (Primeira Abençoada) e o [[Imperador Vermelho]] foi forçado a pessoalmente impedir uma tentativa de Sheng Seleris de escapar do Submundo. Isto enfraqueceu o Imperador Vermelho, impedindo-o de conter o **Dragonrise** (Despertar do Dragão) — ele teve que usar o restante de suas forças para afugentar o Dragão Verdadeiro despertado.
+
+O Imperador Vermelho ordenou que a maioria dos guarnições remanescentes das [[Províncias Lunares]] fosse despojada e enviada a First Blessed para defender **Torang**. [[Jar-Eel]] — a Quarta Inspiração de Moonson — foi encarregada de defender o local de nascimento da [[Deusa Vermelha]].
+
+Todo bom Lunar teme que tudo isto esteja sendo coordenado por Sheng Seleris, sorrindo em seu reino infernal.
+
+### A Insônia do Imperador Vermelho
+Conta-se uma história: o Imperador Vermelho nunca dorme para que Sheng Seleris não entre em seus sonhos. A festa interminável existe para que, sempre que o Imperador se cansar, ele possa ser revigorado através de drogas e devassidão. E quando isto se mostra insuficiente, ele consome algo para que seu sono não tenha sonhos.
+
+### Sheng e [[Godunya]]
+Godunya (o Imperador Dragão de [[Kralorela]]) tem sua própria visão: o despertar de um Dragão Verdadeiro em Dragon Pass é um sinal de que Godunya em breve alcançará seu estado final sem morte e abandonará sua forma material, libertado dos sonhos e sofrimentos deste mundo. Sheng Seleris é apenas mais um pesadelo neste sonho recorrente de sofrimento e desejo. A verdadeira liberação está apenas no vazio do nada.
+
 ## Referências Cruzadas
 - [[Império Lunar]]
 - [[Glowline]]
@@ -46,10 +61,17 @@ Ironicamente, a Glowline que nasceu da necessidade de sobreviver a Sheng tornou-
 - [[Morcego Carmesim]]
 - [[Deusa Vermelha]]
 - [[Dara Happa Stirs]]
+- [[Imperador Vermelho]]
+- [[Jar-Eel]]
+- [[Hero Wars]]
+- [[Dragonrise]]
+- [[Kralorela]]
+- [[Godunya]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
 - Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Sheng Seleris II — Well of Daliath](raw/clippings/Sheng Seleris II.md)
 - Fonte: [Glowline](wiki/Glowline.md)
 
 ## Questões em Aberto
@@ -57,3 +79,7 @@ Ironicamente, a Glowline que nasceu da necessidade de sobreviver a Sheng tornou-
 - [ ] Sheng Seleris tinha conexões com outros poderes não-lunares?
 - [ ] Quem eram os "Dara Happa On Horse" e o que aconteceu com eles após a exterminação?
 - [ ] Sheng Seleris tem alguma relação com o culto de Yelm ou com o Movimento da Lua Branca?
+- [ ] Quem é o Rei das Asas (Dranz Goloi)? Coletar informações.
+- [ ] O que é o Planeta Barco (Boat Planet)?
+- [ ] O que são as Terras Vermelhas (Redlands)?
+- [ ] Onde fica First Blessed e qual seu significado para a Deusa Vermelha?
