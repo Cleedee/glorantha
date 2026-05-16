@@ -132,6 +132,9 @@ Montgomery publicou um ensaio de mitologia comparada usando o deus védico **Agn
 O ensaio argumenta que Yelm é o centro de toda a mitologia gloranthana — sua morte desencadeia a Guerra dos Deuses e seu retorno inicia o Tempo — e que não há paralelo terrestre direto para sua figura de Imperador Celestial.
 
 ### Ensaio: Wanderers in the Wastes — The Nomads of Glorantha (2025)
+### Ensaio: Writing Riddles — Illumination in Glorantha (Outubro 2022)
+Montgomery publicou o primeiro de uma série de ensaios sobre [[Iluminação]], explorando a tensão entre exoterismo (religião comunitária, templos, sacerdócios) e esoterismo (interno, subjetivo, libertação individual) em Glorantha. Argumenta que o conflito central do cenário não é Bem vs Mal ou Lei vs Caos, mas **Verdade definida *para* você vs Verdade definida *por* você**. Ver página dedicada: [[Iluminação]].
+
 Montgomery publicou em março de 2025 um artigo abrangente sobre os [[Nômades Animais]] das [[As Terras Ermas|Terras Ermas]], explorando a psicologia e cultura destes povos para além da redução a paralelos terrestres. O artigo discute o mito de fundação de **[[Waha]]**, o papel de **[[Eiritha]]**, **[[Daka Fal]]** e do **[[Touro da Tempestade]]**, e propõe tons de campanha que vão de *Mad Max* a *Battlestar Galactica*. O texto serviu como preparação conceitual para *The Final Riddle*.
 
 ## Referências Cruzadas
