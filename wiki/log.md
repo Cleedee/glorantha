@@ -193,3 +193,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-15] ingest | Processado "THE CULTS OF RUNEQUEST Part One — Prosopaedia.md" — 1 página criada: cults-of-runequest-part-one-prosopaedia (Fonte, resenha ALM sobre filosofia de cultos RQ vs CoC, estrutura de membresia, Prosopaedia). Index e log atualizados.
 
 ## [2026-05-15] ingest | Processado "WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST...PART THREE.md" — 1 página criada: sorcery-in-rq-part-three (Fonte, artigo ALM sobre feitiçaria RQG: gnosis, Runas/Técnicas, Selo de Zzabur, evolução Malkioni). Index e log atualizados.
+
+## [2026-05-16] ingest | Processado "WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST...PART ONE.md" — 2 páginas criadas: Why I (Actually) Like Sorcery in RuneQuest, Part One (Fonte), Sistemas de Magia em RuneQuest (Magia, primeira página da categoria). 3 páginas atualizadas: God Learners (crítica de Stafford a Freud/Marx/Frazer), Greg Stafford (luta com mitologia ocidental), Malkionismo (dificuldade de integração do Oeste, solução do Guide to Glorantha). Index e log atualizados.

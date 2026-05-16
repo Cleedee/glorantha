@@ -2,7 +2,7 @@
 title: "Malkionismo"
 category: "Conceito"
 tags: [malkioni, filosofia, religião, brithini]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 24.md", "raw/clippings/Journal of Runic Studies 25.md"]
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 24.md", "raw/clippings/Journal of Runic Studies 25.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -42,6 +42,11 @@ Segundo Jeff Richard, o Malkionismo é um veículo para explorar lógica e filos
 
 ### Publicações de Referência
 Nick Brooke relançou **A History of Malkionism**, material out-of-print sobre a Genertela Ocidental, incluindo detalhes sobre os **Brithini**, **Waertagi** e **Vadeli**, com novas ilustrações de [[Katrin Dirim]].
+
+### A Dificuldade de Integração do Oeste Malkioni
+Durante anos, o Oeste Malkioni foi percebido como um encaixe incômodo em Glorantha. Em RQ3, o Oeste medieval europeu destoava do cenário da Idade do Bronze. [[Andrew Logan Montgomery]] sugere que [[Greg Stafford]] sabia que Glorantha precisava integrar a mitologia ocidental (da qual a feitiçaria é expressão), mas lutou com *como* fazê-lo. A feitiçaria — baseada num "universo impessoal" — é um artefato da mitologia europeia, não da Idade do Bronze.
+
+A resolução veio com o *Guide to Glorantha* (dois volumes), onde o Oeste finalmente se encaixa organicamente. Isto preparou o terreno para adaptar também a feitiçaria como a magia que lhe pertence.
 
 ### Aeolismo — Variação Henoteísta
 O **Aeolismo** é uma variação henoteísta do Malkionismo praticada pelo povo **Esvularing** do sul de [[Heortland]]. Seus seguidores adoram o [[Deus Invisível]] como Criador Supremo, mas reconhecem o panteão Orlanthi como "emanações" deste Criador — participando também de rituais Orlanthi. Jeff Richard sugere os [[Druze]] ou [[Mandaeans]] como inspirações do mundo real. Ver [[Aeolianos]].

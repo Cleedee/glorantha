@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -210,6 +210,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[cults-earth-goddesses-review]] | Resenha de Andrew Logan Montgomery sobre Cults of RuneQuest: The Earth Goddesses; Imarja, Husband-Protectors, divisão das deusas da Terra | `blog` `review` `Cults of RuneQuest` `Ernalda` `Imarja` `Esrolia` | draft |
 | [[cults-of-runequest-part-one-prosopaedia]] | Resenha de ALM sobre Cults of RuneQuest Part One: filosofia RQ vs CoC, estrutura de cultos (lay/initiate/Rune Priest/Lord), Prosopaedia | `blog` `review` `Cults of RuneQuest` `Prosopaedia` `filosofia` | draft |
 | [[sorcery-in-rq-part-three]] | Artigo de ALM sobre feitiçaria em RQG: evolução Malkioni, gnosis, Runas/Técnicas, Selo de Zzabur | `blog` `feitiçaria` `RQG` `Malkioni` `Zzabur` | draft |
+| [[Why I (Actually) Like Sorcery in RuneQuest, Part One]] | Artigo de ALM sobre a chegada tardia da feitiçaria em RQ3, contraste com Battle/Rune Magic, e a luta de Stafford para integrar a mitologia ocidental | `blog` `feitiçaria` `sorcery` `RQG` `Battle Magic` `Rune Magic` `God Learners` | draft |
 | [[Cults of RuneQuest - Darkness]] | Suplemento com cultos de deusas da escuridão; trolls; inframundo | `suplemento` `cultos` | draft |
 | [[Dorastor - Land of Doom]] | Suplemento clássico RQ3 (1993) por Sandy Petersen e Greg Stafford; reedição | `suplemento` `reedição` | draft |
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |
@@ -403,7 +404,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
-| [[As Eras de Glorantha]] | Cronologia completa: Green Age, Golden Age, Storm Age, Chaos Age, Silver Age + First/Second/Third Age | `eras` `cronologia` `mitologia` `história` | draft |
+| [[Sistemas de Magia em RuneQuest]] | Classificação dos três sistemas (Battle Magic, Rune Magic, Feitiçaria) e seu significado mitológico-cultural | `RuneQuest` `Battle Magic` `Rune Magic` `feitiçaria` `sorcery` | draft |
 
 ---
 

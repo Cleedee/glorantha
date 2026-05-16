@@ -2,7 +2,7 @@
 title: "God Learners"
 category: "Fonte"
 tags: [podcast, Dorastor, Simon Phipp, entrevista, torre, malkioni, feitiçaria, arkat, monomito]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -27,6 +27,14 @@ Os **God Learners históricos** foram além:
 - Manipulavam desafios e testes de reinvindicações espirituais.
 - Usavam feitiçaria para criar efeitos impossíveis pela magia rúnica e forçar mudanças em cultos.
 - Com preparação, a feitiçaria é **mais flexível** que a magia rúnica e pode **duplicar seus efeitos**.
+
+### Os God Learners como Crítica de Stafford ao Pensamento Ocidental
+Segundo [[Andrew Logan Montgomery]], os God Learners (Jrusteli) representam a crítica mais afiada de [[Greg Stafford]] ao pensamento ocidental moderno. Eles simbolizam a sátira que une:
+- **Freud** — que reduziu religião a "psicobabação"
+- **Marx** — que reduziu religião a economia
+- **Frazer** — que reduziu magia e religião a estações no caminho para a ciência
+
+Em Jrustela, Stafford agrupa todo o campo oitocentista da **religião comparada** — que queria reduzir mitologia a algo *diferente de si mesma* — e o afunda. Os God Learners, seguros na crença de sua superioridade e por Direito Divino, sabiam que seu Deus Único era o único verdadeiro e não tinham escrúpulos em colonizar o resto de Glorantha reduzindo religiões locais a meras fórmulas.
 
 **Razão do ódio aos God Learners:** não pelo Monomito, Império do Mar Médio, Goddess Switch ou Cidade das Máquinas — mas pelo **impacto corrosivo de sua abordagem na experimentação espiritual**. Na 3ª Era, pessoas temiam heroquesting por causa do que os God Learners fizeram e do que aconteceu com eles.
 
