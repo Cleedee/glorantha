@@ -220,3 +220,7 @@ description: "Registro cronológico append-only de todas as ações do sistema"
   - Links quebrados: 352 destinos únicos (todos redlinks intencionais); top-5: RuneQuest (122x), Sartar (98x), Dragon Pass (35x), Jeff Richard (36x), Pavis (23x)
   - Páginas landing criadas (5): RuneQuest, Sartar, Dragon Pass, Pavis, Boldhome — resolvem ~300 links quebrados
   - Index atualizado com as 5 novas páginas
+
+## [2026-05-16] lint | Páginas landing adicionais para candidatos de maior frequência:
+  - Páginas criadas (5): Jeff Richard, Lhankor Mhy, Gbaji, Chaosium, Passagem do Dragão
+  - Index atualizado

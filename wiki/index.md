@@ -82,6 +82,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Vasana]] | Guerreira orlanthi do Starter Set; tatuagens contam sua história de iniciação, clã, tribo, facções e provações; protagonista do SoloQuest | `personagem` `Starter Set` `SoloQuest` `tatuagens` `Sartar` | draft |
 | [[Morcego Carmesim]] | Terror voador do Império Lunar; Glowspot móvel de 16 km; devora regimentos; usado contra nômades na Terceira Wane | `Crimson Bat` `terror` `Império Lunar` `Glowline` `monstro` `guerra` | draft |
 | [[Sheng Seleris]] | Conquistador nômade; explorou o ciclo lunar para derrotar exércitos Lunares na Terceira Wane; causa da criação da Glowline | `conquistador` `nômades` `Império Lunar` `Glowline` `Terceira Wane` | draft |
+| [[Jeff Richard]] | Designer atual de Glorantha na Chaosium; coautor RQG; roteirista Prince of Sartar | `designer` `autor` `Chaosium` `Glorantha` `RQG` | draft |
+| [[Lhankor Mhy]] | Deus dos escribas e sabedoria; um dos Lightbringers; ~1500 iniciados em Sartar; templos-biblioteca em centros urbanos | `deus` `conhecimento` `escribas` `Lightbringers` | draft |
+| [[Gbaji]] | Enganador; deus do Caos nascido do experimento do Segundo Conselho (c.450-500 ST); conflito Arkat vs Nysalor | `deus` `Caos` `Enganador` `Primeira Era` `Iluminação` | draft |
+| [[Chaosium]] | Editora fundada por Greg Stafford; RuneQuest, Call of Cthulhu, Pendragon; Glorantha | `editora` `Greg Stafford` `RuneQuest` `Call of Cthulhu` `Pendragon` | draft |
 
 ---
 
@@ -130,6 +134,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Dragon Pass]] | Abertura de 225 km nas Montanhas Rockwood; única passagem Pelória-Kethaela; Kero Fin (12 km); palco das Hero Wars | `região` `geografia` `passagem` `guerra` `Hero Wars` | draft |
 | [[Sartar]] | Reino orlanthi em Dragon Pass; fundado 1492; capital Boldhome; libertado no Dragonrise (1625); sob Argrath | `reino` `Orlanthi` `Sartar` `Dragon Pass` `Argrath` | draft |
 | [[Pavis]] | Cidade em Prax; fundada Era Dourada; Big Rubble (15 km²); libertada por Argrath; foco do RQFR | `cidade` `Pavis` `Prax` `Big Rubble` `Argrath` | draft |
+| [[Passagem do Dragão]] | Nome pt-BR de Dragon Pass; abertura 225 km entre Pelória e Kethaela; Kero Fin; berço das Hero Wars | `região` `Dragon Pass` `geografia` `Kero Fin` | draft |
 
 ---
 
