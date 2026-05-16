@@ -1,39 +1,54 @@
 ---
 title: "Durulz"
 category: "Cultura"
-tags: [patos, raça, durulz, Upland Marsh, Delecti, Duck Point]
-sources: ["raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md", "raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md"]
-last_updated: 2026-04-14
+tags: [patos, raça, durulz, Upland Marsh, Delecti, Duck Point, Duck Hunts, DuckPac, Kafari]
+sources: ["raw/clippings/LOOKING FOWL AND FEELING FAIR DUCKS INVADE THE JONSTOWN COMPENDIUM.md", "raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md", "raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
 # Durulz
 
 ## Resumo
-Os **Durulz** são a raça dos **patos** (ducks) de [[Glorantha]]. Vivem em comunidades como [[Duck Point]], próximo ao [[Upland Marsh]], onde mantêm uma frágil trégua com as hordas de mortos-vivos do [[Necromante Delecti]].
+Os **Durulz** são a raça dos **patos** (ducks) de [[Glorantha]]. Presentes desde o [[RuneQuest]] original de 1978. Amaldiçoados pelos deuses durante a Grande Escuridão — "desconhece-se se eram originalmente humanos e tornaram-se emplumados e palmípedes, ou originalmente patos amaldiçoados com incapacidade de voar e inteligência." Raça cíclica e sombria, sobrevivem à beira do pântano do [[Necromante Delecti]]. Caçados e odiados, nunca é sensato irritá-los.
 
 ## Conteúdo
 
-### Comunidade
-- **Duck Point** — Ponto de partida para aventuras no Upland Marsh
-- **Conselho de Duck Point** — Autoridade local que teme a ira de Delecti
+### Origem e Natureza
+Os Durulz foram amaldiçoados pelos deuses em circunstâncias desconhecidas durante a Grande Escuridão. A descrição clássica de RuneQuest (1978) afirma que não se sabe se eram humanos que se tornaram patos ou patos que se tornaram sencientes. Vivem em comunidades como [[Duck Point]], próximo ao [[Upland Marsh]].
+
+### As Caçadas aos Patos (Duck Hunts)
+Um dos capítulos mais sombrios da história recente dos Durulz. As "Duck Hunts" são nada menos que um pogrom — uma tentativa de genocídio que espelha capítulos sombrios da história terrestre. Este trauma geracional ainda colore as percepções e sentimentos dos personagens Durulz. Os autores do [[DuckPac]] tratam o tema de forma sombria e madura, mostrando porque os Durulz são mais que uma piada — são um underdog, uma minoria perseguida.
+
+### Cultura e Sociedade
+- **Comércio fluvial:** Alguns Durulz dominam o ofício de **Kafari** — comércio fluvial pelos rios de [[Dragon Pass]]
+- **Combate subaquático:** Os Durulz têm vantagens naturais em ambientes aquáticos
+- **Trégua com Delecti:** O Conselho de [[Duck Point]] mantém uma frágil trégua com as hordas de mortos-vivos do Necromante Delecti
+
+### O Paradoxo dos Patos
+Os Durulz geram controvérsia em Glorantha — o que é visto como cômico por alguns é, na verdade, um veículo para explorar território sombrio. Como diz a citação de Aragorn (*O Senhor dos Anéis*) usada por [[Andrew Logan Montgomery]]: "I look foul and feel fair" — os Durulz parecem grotescos mas são uma raça sofrida e digna.
 
 ### Produtos no Jonstown Compendium
-- **[[Durulz of Darkness]]** — Aventura com durulz rebelde no Upland Marsh
+- **[[DuckPac]]** — Série de 3 livros por Drew Baker e Neil Gibson: *Book 1: Myths, Legends, & Lore* (52p), *Book 2: Duck Adventurers* (90p), *Book 3: Redfeather Dreaming* (133p, soloquest)
 - **[[Duckpac Confidential: The Duck Roles]]** — 300 PNJ durulz, 20 por ocupação
+- **[[Durulz of Darkness]]** — Aventura com durulz rebelde no Upland Marsh (Max Bantleman)
 
 ## Referências Cruzadas
-- [[Glorantha]]
 - [[Duck Point]]
 - [[Upland Marsh]]
-- [[Delecti]]
-- [[Durulz of Darkness]]
+- [[Necromante Delecti]]
+- [[DuckPac]]
 - [[Duckpac Confidential]]
+- [[Durulz of Darkness]]
+- [[Marsh Attacks]]
+- [[Andrew Logan Montgomery]]
 
 ## Referências
+- Fonte: [Looking Fowl and Feeling Fair — ALM](raw/clippings/LOOKING FOWL AND FEELING FAIR DUCKS INVADE THE JONSTOWN COMPENDIUM.md)
 - Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
 - Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
 
 ## Questões em Aberto
-- [ ] Os Durulz são jogáveis em RuneQuest?
+- [ ] Qual é a natureza exata da maldição original dos Durulz?
+- [ ] Os Durulz são uma raça jogável em RuneQuest? Sim — DuckPac Book 2 fornece regras completas
 - [ ] Qual é a natureza da trégua com Delecti?

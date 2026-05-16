@@ -224,3 +224,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-16] lint | Páginas landing adicionais para candidatos de maior frequência:
   - Páginas criadas (5): Jeff Richard, Lhankor Mhy, Gbaji, Chaosium, Passagem do Dragão
   - Index atualizado
+
+## [2026-05-16] ingest | Processado "LOOKING FOWL AND FEELING FAIR: DUCKS INVADE THE JONSTOWN COMPENDIUM.md" (ALM, 2022) — 1 página criada: DuckPac (Fonte, série 3 livros sobre Durulz). 2 páginas expandidas: Durulz (Duck Hunts, Kafari, combate subaquático, maldição original, paradoxo dos patos), Andrew Logan Montgomery (resenha adicionada). Index atualizado.

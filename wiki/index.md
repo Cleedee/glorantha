@@ -319,6 +319,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Diana Probst]] | Autora Jonstown (Beer with Teeth): Bad Omens; Prax | `autora` `Jonstown` `Prax` | draft |
 | [[Dario Corallo]] | Artista mais prolífico de Glorantha: Tales of the Reaching Moon, Tradetalk, Gloranthan Classics, Tentacles Press, Jonstown Compendium | `artista` `ilustrador` `fanzines` `Glorantha` | draft |
 | [[Duckpac Confidential]] | 300 PNJ durulz; 20 por ocupação; 10 histórias familiares | `PNJ` `Jonstown` `durulz` | draft |
+| [[DuckPac]] | Série 3 livros (Drew Baker, Neil Gibson) sobre os Durulz: Myths Legends & Lore, Duck Adventurers, Redfeather Dreaming | `Durulz` `patos` `Jonstown` `série` `Drew Baker` `Neil Gibson` | draft |
 | [[The Fall of Whitewall]] | Cerco de Whitewall 1620; heroqueste + resistência; Império Lunar | `aventura` `Jonstown` `cerco` | draft |
 | [[Dara Happan Primer]] | Minisuplemento; 4 cultos solares; Avivorus, Saggitus | `suplemento` `Jonstown` `Dara Happa` | draft |
 | [[The Return to Pavis]] | Conto de Griselda; Pavis pós-Argrath; Tentacles Press | `conto` `ficção` `Pavis` | draft |
@@ -403,7 +404,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
-| [[Durulz]] | Raça dos patos de Glorantha; Duck Point; Upland Marsh | `raça` `patos` | draft |
+| [[Durulz]] | Raça dos patos de Glorantha; amaldiçoados na Grande Escuridão; Duck Hunts (pogrom); DuckPac; Kafari (comércio fluvial) | `raça` `patos` `Durulz` `DuckPac` `Upland Marsh` | draft |
 | [[Duck Point]] | Assentamento de durulz; Conselho; trégua frágil com Delecti | `assentamento` `durulz` | draft |
 | [[Necromante Delecti]] | Necromante do Upland Marsh; hordas de mortos-vivos | `necromante` `mortos-vivos` | draft |
 | [[Argrath]] | O Libertador; expulsou Império Lunar de Pavis; reencarnação de Arkat; convocou Chuva Má sem esforço; abraça contradições dracônicas | `herói` `Libertador` `Pavis` `Arkat` `reencarnação` `Chuva Má` `Sombra` | draft |

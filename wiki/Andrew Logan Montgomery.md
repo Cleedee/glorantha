@@ -132,6 +132,8 @@ Montgomery publicou um ensaio de mitologia comparada usando o deus védico **Agn
 O ensaio argumenta que Yelm é o centro de toda a mitologia gloranthana — sua morte desencadeia a Guerra dos Deuses e seu retorno inicia o Tempo — e que não há paralelo terrestre direto para sua figura de Imperador Celestial.
 
 ### Ensaio: Wanderers in the Wastes — The Nomads of Glorantha (2025)
+### Resenha: Looking Fowl and Feeling Fair — DuckPac (Agosto 2022)
+Montgomery publicou uma resenha da série **[[DuckPac]]** (Drew Baker e Neil Gibson), três livros do Jonstown Compendium sobre os [[Durulz]] (patos) de Glorantha. Destaca o tratamento maduro das "Duck Hunts" (pogrom contra os patos), a qualidade de produção comparável a produtos oficiais da Chaosium, e o soloquest *Redfeather Dreaming*. Ver páginas: [[DuckPac]], [[Durulz]].
 ### Ensaio: Writing Riddles — Illumination in Glorantha (Outubro 2022)
 Montgomery publicou o primeiro de uma série de ensaios sobre [[Iluminação]], explorando a tensão entre exoterismo (religião comunitária, templos, sacerdócios) e esoterismo (interno, subjetivo, libertação individual) em Glorantha. Argumenta que o conflito central do cenário não é Bem vs Mal ou Lei vs Caos, mas **Verdade definida *para* você vs Verdade definida *por* você**. Ver página dedicada: [[Iluminação]].
 
