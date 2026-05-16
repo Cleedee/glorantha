@@ -78,7 +78,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Gouger]] | Javali Divino; venerado pelos Tusk Riders; rituais de sacrifício de sangue para controle de javalis gigantes | `deus` `javali` `Tusk Riders` `sacrifício` | draft |
 | [[Katrin Dirim]] | Artista prolífica de Glorantha; ilustradora dos Cults books; Greg Stafford Memorial Award 2021 | `artista` `ilustradora` `Chaosium` | draft |
 | [[Jogrampur]] | Divindade inventada pelos God Learners; experimento na Universidade de Yoranday; magia real em 901 | `deus` `God Learners` `experimento` `Yoranday` | draft |
-| [[Nick Brooke]] | Autor Jonstown Compendium; vencedor Greg Stafford Memorial Award 2020; estilo gonzo/lúdico; The Black Spear, Crimson King, Dark Side of the Moon | `escritor` `Jonstown` `Lunar` `Malkioni` | draft |
+| [[Nick Brooke]] | Escritor Jonstown Compendium; vencedor Greg Stafford Memorial Award 2020; estilo gonzo/lúdico; The Black Spear, Crimson King, Dark Side of the Moon | `escritor` `Jonstown` `Lunar` `Malkioni` | draft |
+| [[Vasana]] | Guerreira orlanthi do Starter Set; tatuagens contam sua história de iniciação, clã, tribo, facções e provações; protagonista do SoloQuest | `personagem` `Starter Set` `SoloQuest` `tatuagens` `Sartar` | draft |
+| [[Morcego Carmesim]] | Terror voador do Império Lunar; Glowspot móvel de 16 km; devora regimentos; usado contra nômades na Terceira Wane | `Crimson Bat` `terror` `Império Lunar` `Glowline` `monstro` `guerra` | draft |
+| [[Sheng Seleris]] | Conquistador nômade; explorou o ciclo lunar para derrotar exércitos Lunares na Terceira Wane; causa da criação da Glowline | `conquistador` `nômades` `Império Lunar` `Glowline` `Terceira Wane` | draft |
 
 ---
 
@@ -116,12 +119,18 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Killard Vale]] (pendente) | Vale sagrado onde Heort nasceu; lar dos Kheldon | `vale` `Sartar` `Heort` `Kheldon` | draft |
 | [[Wilmskirk]] | Cidade modelo Jrusteli de artesãos; centro de pintura e escultura em Dragon Pass | `cidade` `Sartar` `Jrusteli` `artes` | draft |
 | [[Caladraland]] | Região vulcânica ao sul de Esrolia; culto de Lodril e dos Gêmeos do Vulcão | `região` `vulcões` `Lodril` `Caladra` `Aurelion` `País Santo` `Gemborg` | draft |
+| [[Glowline]] | Região de influência direta da Lua Vermelha onde a magia Lunar é sempre efetiva; expandida por Yara Aranis | `Lunar` `Império Lunar` `Lua Vermelha` `Yara Aranis` `magia lunar` | draft |
 | [[As Terras Ermas]] | Região pós-apocalíptica devastada pelo Caos; lar dos Nômades Animais e da Batalha Eterna | `Wastes` `Caos` `pós-apocalíptico` `nômades` `Prax` | draft |
 | [[Nivorah]] | Cidade Dara Happana ancestral dos Hyalorings; abandonada durante o Tempo dos Deuses por ameaça de gelo | `cidade` `Dara Happa` `Hyalorings` `God Time` | draft |
 | [[Black Eel River]] | Rio fronteira entre Hyalorings e tribos de Rams; local do primeiro contato com Redalda | `rio` `Hyalorings` `Rams` `fronteira` | draft |
 | [[Universidade de Yoranday]] | Instituição dos God Learners; experimento com deuses artificiais; destruída em 901 por cultos artificiais | `universidade` `God Learners` `experimento` `destruída` | draft |
+| [[Colina de Orlanth Vitorioso]] | Monte sagrado em Sartar; peregrinação a 30 km de Boldhome; centro do Tempo Sagrado; clã Red Vireo; local da Lightbringers Quest de Kallyr e Argrath | `Orlanth` `Sartar` `Lightbringers` `peregrinação` `Culbrea` `Tempo Sagrado` | draft |
+| [[Karse]] | Cidade portuária antiga em Hendrikiland; entreposto comercial entre Dragon Pass, Peloria e Prax; análoga a Massalia | `cidade` `Hendrikiland` `porto` `comércio` `Mirrorsea Bay` `dragonewts` | draft |
+| [[Lugares Sagrados de Dragon Pass]] | Lista de locais em Dragon Pass com fronteira permeável entre mundos; inclui Colina de Orlanth Vitorioso, Kero Fin, Dragoneye, Quivin Peak, e outros | `locais sagrados` `Godtime` `heroquesting` `peregrinação` `Dragon Pass` | draft |
 
 ---
+
+## Cultura
 
 ## Evento
 > Batalhas, grandes sessões, heroquestes, marcos temporais
@@ -349,6 +358,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[journal-of-runic-studies-24]] | 24ª edição; Aeolianos/Esvolaring, ecologia dos Broos, código de honra Humakti, missionários Theyalanos | `periódico` `malkioni` `Aeolianos` `Broo` `Humakt` `Theyalanos` | draft |
 | [[journal-of-runic-studies-25]] | 25ª edição; Prax/Wastes, grãos de Genertela, nobreza Lunar, Chaos Gift, comércio, Wenelia/Pralori | `periódico` `malkioni` `Prax` `Wastes` `Lunars` `comércio` `Wenelia` | draft |
 | [[Journal of Runic Studies 26]] | 26ª edição; Weapons & Equipment PDF, manuscrito do Elf Pack concluído, Secrets of HeroQuesting POD, Periplus of Southern Genertela | `periódico` `malkioni` `Weapons & Equipment` `Elf Pack` `Simon Phipp` `Martin Helsdon` | draft |
+| [[Journal of Runic Studies 27]] | 27ª edição; tatuagens de Vasana, sobreviventes do Godtime, demografia de Dragon Pass, Colina de Orlanth Vitorioso, Morcego Carmesim, Sheng Seleris, Karse, Triolini | `periódico` `malkioni` `Jeff Richard` `Vasana` `Crimson Bat` `Karse` `Glowline` | draft |
 | [[journal-of-runic-studies-68]] | 68ª edição (2022); clipping incompleto — menções a pântanos de Pelória, magia de Oslira, Broo | `periódico` `malkioni` `Oslira` `Pelória` `Broo` | draft |
 | [[journal-of-runic-studies-69]] | 69ª edição (2022); Heroquesting (inconsciente coletivo, arquétipos), finanças Lunares, Stafford House Campaign | `periódico` `malkioni` `Heroquesting` `finanças` `Stafford House` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |
@@ -404,6 +414,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hyalorings]] | Cavaleiros descendentes dos Dara Happans que fugiram de Nivorah durante o Tempo dos Deuses; cultura jogável em Six Ages | `cultura` `Dara Happa` `Hyalor` `cavalos` `Nivorah` | draft |
 | [[Tusk Riders]] | Meio-trolls que montam javalis gigantes; sacrifícios a Gouger; caminhos secretos; capturados por Leika | `meio-trolls` `javalis` `Uz` `Gouger` `Colymar` | draft |
 | [[Irmãs Respiradoras]] | Filhas de Orlanth; dança circula ar nos Pockets de Boldhome; culto continuou durante Ocupação Lunar | `Orlanth` `filhas` `Boldhome` `Pockets` `ar` | draft |
+| [[Triolini]] | Povo do mar (ludoch/merfolk); ~33.000 na Baía de Choralinthor; aliados dos marinheiros desde a Abertura dos Mares | `merfolk` `ludoch` `Choralinthor Bay` `Kethaela` `raça anciã` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
 

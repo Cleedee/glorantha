@@ -2,8 +2,8 @@
 title: "Tribo Culbrea"
 category: "Cultura"
 tags: [Culbrea, Sartar, Orlanth Victorious, Hofstaring Treeleaper, Ranulf, tribo, bandidos]
-sources: ["raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 16.md"]
-last_updated: 2026-05-13
+sources: ["raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 27.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -35,8 +35,13 @@ Por cerca de 70 anos, os Culbrea foram liderados por **[[Hofstaring Treeleaper]]
 
 O atual rei, **Ranulf**, liderou a tribo na rebelião bem-sucedida contra a Ocupação Lunar. Durante a rebelião, várias sociedades guerreiras formaram pequenos clãs que sobreviveram nas colinas através de guerra e banditismo.
 
+### A Colina de Orlanth Vitorioso
+A Colina de Orlanth Vitorioso — controlada pelos Culbrea — está localizada a aproximadamente 30 km de [[Boldhome]], distância comparável à da Acrópole de Atenas ao santuário de Elêusis. Jeff Richard sugere [[Bear Butte]] (Dakota do Sul, EUA) como referência visual. Durante gerações, esteve sob proteção direta de [[Hofstaring Treeleaper]], um aliado próximo da Dinastia de Sartar.
+
+Após a Rebelião de Starbrow, a colina foi guardada pelo Culto de [[Yelmalio]] (em vez de soldados lunares). Jeff nota que isto é "uma repetição direta da Escuridão Maior". Com a Libertação de Sartar em 1625, organizar os ritos do Tempo Sagrado na colina foi visto como a prioridade mais urgente do novo Príncipe.
+
 ### Economia e Sociedade
-Comparativamente pequenos e pobres, mas com mais sociedades guerreiras que outras tribos. Receita principal: controle de locais sagrados e atividades de guerra/saque. Alguns clãs são agricultores ou pastores, redimindo o resto da tribo.
+Comparativamente pequenos e pobres, mas com mais sociedades guerreiras que outras tribos. Receita principal: controle de locais sagrados (especialmente a Colina de Orlanth Vitorioso) e atividades de guerra/saque. Alguns clãs são agricultores ou pastores, redimindo o resto da tribo.
 
 ## Referências Cruzadas
 - [[Hofstaring Treeleaper]]

@@ -7,7 +7,8 @@ sources:
   - raw/clippings/Journal of Runic Studies 5.md
   - raw/clippings/Journal of Runic Studies 12.md
   - raw/clippings/Journal of Runic Studies 23.md
-last_updated: 2026-05-13
+  - raw/clippings/Journal of Runic Studies 27.md
+last_updated: 2026-05-16
 status: draft
 aliases:
   - "Kallyr Starbrow"
@@ -37,11 +38,13 @@ Em 1621, Kallyr liderou o exército sartarita na **Batalha das Rainhas** contra 
 Jeff Richard indicou que NPCs como Kallyr podem sobreviver ou morrer de forma a alterar o meta-enredo — ela não tem "plot armor" como Argrath, Harrek ou Jar-eel.
 
 ### A Lightbringers Quest e a Chuva Má
-Quando Kallyr começou sua **Lightbringers Quest**, ela convocou a **[[A Chuva Má|Chuva Má]]**, que manifestou todos os seus medos e culpas subconscientes. Muitos foram mortos, mas a Chuva Má foi expulsa e o ritual tornou-se um heroquest:
+Após a Libertação de Sartar em 1625, Kallyr — como nova Princesa — começou preparações para realizar a **Lightbringers Quest** na [[Colina de Orlanth Vitorioso]], onde a fronteira entre mundos é mais permeável. Ela tomou medidas para limitar seus perigos e imprevisibilidade — a Chuva Má não foi convocada e o círculo completo não foi reunido.
+
+Apesar das precauções, quando Kallyr começou sua **Lightbringers Quest**, ela convocou a **[[A Chuva Má|Chuva Má]]**, que manifestou todos os seus medos e culpas subconscientes. Muitos foram mortos, mas a Chuva Má foi expulsa e o ritual tornou-se um heroquest:
 
 > "As culpas, fracassos e medos de Kallyr eram grandes também e ela achou fácil convocar a Chuva Má. Seus medos do que ela estava trazendo ao mundo — Escuridão, Desordem e Caos — se manifestaram e precisaram ser combatidos a grande custo."
 
-Kallyr era descrita como **"literal e inflexível"** demais em sua abordagem, incapaz de "abraçar contradições" como [[Argrath]] faria com sua conexão dracônica. Duas décadas depois, Argrath mal precisou mover um músculo para convocar a Chuva Má, e seu heroquest o levou mais fundo que o Submundo.
+Kallyr era descrita como **"literal e inflexível"** demais em sua abordagem, incapaz de "abraçar contradições" como [[Argrath]] faria com sua conexão dracônica. Sua quest, em última análise um fracasso, acelerou as [[Hero Wars]] e dissuadiu seguidores por uma geração — até que Argrath, desesperado diante do renovado poder Lunar, realizou a quest sem quaisquer limitações ou reservas. Duas décadas depois, Argrath mal precisou mover um músculo para convocar a Chuva Má, e seu heroquest o levou mais fundo que o Submundo.
 
 ### O Teste da Coroa
 Os personagens da campanha Colymar realizaram um **Teste da Coroa** (Crown Test) na tentativa de conquistar o governo da tribo Colymar. Este teste é parte das aventuras que incluem a participação na Rebelião de Starbrow.

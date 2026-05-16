@@ -2,8 +2,8 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard, Greg Stafford, Ranging, Joining]
-sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 18.md"]
-last_updated: 2026-05-14
+sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/How Elmal Wooed the King.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 27.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -44,6 +44,15 @@ Documentos acadêmicos de [[Jrustela]] sobre heroquesting experimental distingue
 - **Níveis 3 e abaixo:** foco dos pesquisadores que produziram o documento. Imersão mais rasa, mais próxima do mundo material.
 
 Este tipo de heroquesting experimental — reviver os mitos sem roteiro fixo — tem potencial para ser revivido.
+
+### Heroquesting em Mitos Lunares
+Jeff Richard nota que poucos não-lunares já ousaram explorar a paisagem experimental da mitologia Lunar. A maioria dos cultos celestiais reluta em olhar para as sombras, e os cultos da Terra raramente olham para o céu. Talvez alguns cultos da Água possam pegar uma rota alternativa pelo caminho da Lua Azul.
+
+Dois candidatos seriam ousados o bastante para explorar a mitologia Lunar:
+
+1. **Cultos da Escuridão** mais intrépidos, como [[Subere]], que se sentem confortáveis na escuridão mais profunda do Submundo e podem encontrar os mesmos caminhos — talvez até os conheçam melhor que a própria Deusa Vermelha. Por isso o Imperador Vermelho desconfia cautelosamente dos trolls.
+
+2. **Orlanth** — um deus famoso por reunir um bando de desajustados e forjar um caminho através do Submundo até seu fundo. Alguém disposto a se perder, a perder tudo, para encontrar o caminho certo através da escuridão mais profunda. Sua quest definidora é tão similar à da Deusa Vermelha que pode estar perigosamente próxima da fonte do Poder dela.
 
 ### Características
 - Habilidades mundanas são largamente irrelevantes — este é o reino das Runas e magia

@@ -2,8 +2,8 @@
 title: "Império Lunar"
 category: "Cultura"
 tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 25.md"]
-last_updated: 2026-05-14
+sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 25.md", "raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Runic Rants A History of the Glowline.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -26,6 +26,22 @@ Império de Glorantha com ~8,5 milhões de humanos e 1 milhão de não-humanos, 
 Poderosas famílias (clãs) cercam o [[Imperador Vermelho]], todas com algum grau de parentesco com ele. Aqueles **"nascidos no vermelho"** (born in the red) — nascidos enquanto o Imperador usava sua Máscara Vermelha divina — são superiores aos nascidos quando a máscara era mera mortal. Especula-se que apenas filhas nascem no vermelho (Hwarin Dalthippa, [[Hon-eel]], [[Jar-Eel]]). Nenhum filho de Moonson é confirmado.
 
 A **Silver Shadow Satrapy** é cheia destes parentes imperiais. Clãs satrapais como **Eel-arish** e **Taran-il** são divisões familiares das Terras Centrais Lunares, comparáveis a daimyo do Japão Imperial — conspiram entre si, mantêm exércitos privados, e lutam através de assassinatos e guerras secretas pelo controle do Imperador Vermelho e do império.
+
+### A Glowline
+A **[[Glowline]]** é a região geográfica sob influência direta da Lua Vermelha, onde a magia Lunar é sempre efetiva. Originalmente concebida como área de "Full Strength" em *White Bear & Red Moon* (1975), evoluiu para um sistema de dois níveis: meia-lua para iniciados comuns, lua cheia para quem aprendeu os segredos da religião Lunar.
+
+A Glowline existe porque **[[Sheng Seleris]]** descobriu que bastava atrasar a batalha até a fase de Lua Moribunda/Negra para derrotar exércitos Lunares — a magia Lunar é efetiva apenas 3 dias por semana (Lua Cheia, Meia-Lua Vazia e Meia-Lua Cheia). A Glowline nivela esta fraqueza, tornando todos os feitiços Lunares disponíveis e acumuláveis o tempo todo.
+
+A Glowline foi uma medida **defensiva**, não expansionista. Quando criada, o Império Lunar estava "mal segurando as pontas, tentando sobreviver à conquista por um Conquistador Mundial" (Sheng Seleris).
+
+A entidade **[[Yara Aranis]]**, que vive no [[Templo da Lua Crescente]] em Boldhome, ancora suas teias expandindo ativamente a Glowline. Ver página dedicada: [[Glowline]].
+
+### Armas de Destruição em Massa
+O [[Império Lunar]] possui várias armas que formam a espinha dorsal de seus sucessos militares: o [[Morcego Carmesim]], o Colégio de Magia Lunar, os Crater Makers, [[Jar-Eel]], e o Corpo da Lua Cheia. As unidades regulares do exército são melhores que a média, mas insuficientes para derrotar Sartar liderado por sua dinastia real — com seus magos e terrores, no entanto, o Exército Lunar pode atropelar a maioria dos inimigos.
+
+O [[Morcego Carmesim]] funciona como um **Glowspot** móvel — dentro de aproximadamente 16 km dele, magos Lunares sofrem penalidades zero mesmo nas fases de lua crescente e negra. Seu brilho rosado é visível por muitas milhas. Durante a wane **The Strong Making Peace**, o Morcego Carmesim e Yara Aranis foram usados para aterrorizar nômades não liderados por Sheng Seleris.
+
+Fora da Glowline, a situação é diferente: quatro dias por semana o braço decisivo da vitória Lunar é negado ao Exército Lunar. O exército tende a ser hesitante e facilmente derrotado fora da Glowline, a menos que liderado pelo Imperador Vermelho, acompanhado pelo Morcego Carmesim, ou por um líder de primeira linha como Fazzur Wideread.
 
 ### Características Caóticas
 Menos de 1% da população Lunar é tocada pelo Caos, concentrada na classe dominante. O culto da [[Deusa Vermelha]] tem acesso ao feitiço **Chaos Gift** (do *Red Book of Magic*), que concede uma Característica Caótica temporária e afinidade permanente com a Runa do Caos. Sacerdotisas sênior das [[Sete Mães]] também recebem este feitiço. Uma Característica Caótica distorce e mutila o recipiente — mesmo quando benéfica, resulta em partes do corpo exageradas ou grotescas.
@@ -77,6 +93,9 @@ O Império Lunar é tanto uma rede de cidades e tribos, mantida unida por [[Glam
 O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele é o chefe de todos os lugares que a luz da Lua Vermelha toca, e isso é o mundo inteiro. No entanto, o Imperador Vermelho não está necessariamente atrás de governar o mundo inteiro. Ele aceita que bárbaros distantes **submetam-se a ele** ou **sejam seus aliados**. O que importa é que reconheçam sua posição como o **pilar único de legitimidade** no mundo.
 
 ## Referências Cruzadas
+- [[Glowline]]
+- [[Morcego Carmesim]]
+- [[Yara Aranis]]
 - [[Dara Happa Stirs]]
 - [[País Santo]]
 - [[Belintar]]
@@ -89,6 +108,8 @@ O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele 
 ## Referências
 - Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
 - Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
+- Fonte: [Runic Rants: A History of the Glowline](https://godlearners.com/runic-rants-a-history-of-the-glowline/)
 - Jeff Richard no RuneQuest Facebook Group
 - Nick Brooke (expert em Lunares)
 

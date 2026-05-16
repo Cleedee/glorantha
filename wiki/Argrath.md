@@ -2,8 +2,8 @@
 title: "Argrath"
 category: "Entidade"
 tags: [herói, Libertador, Pavis, Império Lunar, Griselda, Hero Wars, Arkat, reencarnação]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
-last_updated: 2026-05-15
+sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
+last_updated: 2026-05-16
 status: draft
 aliases:
   - "Argrath White Bull"
@@ -42,7 +42,9 @@ Jeff sugere que a **Deusa Vermelha** representa uma tentativa de síntese de Nys
 - Futuro relacionamento amoroso com **Inkarne** (atual Feathered Horse Queen).
 
 ### A Chuva Má de Argrath
-Argrath demonstrou domínio extraordinário sobre a **[[A Chuva Má|Chuva Má]]**. Duas décadas após a Lightbringers Quest de [[Kallyr Testa-Estrelada]], Argrath mal precisou mover um músculo para convocar a Chuva Má, e seu heroquest o levou mais fundo que o Submundo.
+Na [[Colina de Orlanth Vitorioso]], o Príncipe Argrath — desesperado diante do renovado poder Lunar — realizou a **Lightbringers Quest** sem quaisquer limitações ou reservas, ao contrário de [[Kallyr Testa-Estrelada]], que havia feito preparativos para limitar seus perigos.
+
+Argrath demonstrou domínio extraordinário sobre a **[[A Chuva Má|Chuva Má]]**. Duas décadas após a Lightbringers Quest de Kallyr, Argrath mal precisou mover um músculo para convocar a Chuva Má, e seu heroquest o levou mais fundo que o Submundo.
 
 Enquanto Kallyr era "literal e inflexível" demais, Argrath — com sua **conexão dracônica** — era capaz de **"abraçar contradições"** de forma mais eficaz. Esta capacidade de confrontar e coexistir com sua própria Sombra permitiu-lhe ir mais longe que Kallyr no heroquesting.
 

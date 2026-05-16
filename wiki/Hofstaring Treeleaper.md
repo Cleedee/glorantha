@@ -2,8 +2,8 @@
 title: "Hofstaring Treeleaper"
 category: "Entidade"
 tags: [herói, Culbrea, Sartar, Starbrow's Rebellion, Orlanth, lança]
-sources: ["raw/clippings/Journal of Runic Studies 16.md"]
-last_updated: 2026-05-13
+sources: ["raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 27.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -16,6 +16,8 @@ Figura heroica que liderou a [[Tribo Culbrea]] por cerca de 70 anos. Conhecido p
 
 ### Liderança dos Culbrea
 Por sete décadas, Hofstaring Treeleaper foi o rei da [[Tribo Culbrea]], guiando-os com suas habilidades heroicas. Sua lança mágica tinha a capacidade de lutar independentemente.
+
+Durante seu reinado, a [[Colina de Orlanth Vitorioso]] esteve sob sua proteção direta. Como aliado próximo da Dinastia de Sartar, o apelo ao Príncipe por questões da colina era raro — Hofstaring resolvia pessoalmente as disputas entre sacerdotes e templos que competiam por prioridade nos ritos do [[Tempo Sagrado]].
 
 ### Starbrow's Rebellion
 Relutantemente, liderou a tribo na rebelião contra a Ocupação Lunar conhecida como Rebelião de Starbrow (em referência a [[Kallyr Testa-Estrelada]]). Foi morto pelos Lunares durante o conflito.
