@@ -38,6 +38,7 @@ Entre *Hero Wars* / *HeroQuest* e a publicação do *Guide to Glorantha* (dois v
 O artigo termina com a promessa: *"Now it was time to make Sorcery, the magic of the West, fit too."* — estabelecendo o tema para a Parte Dois e Parte Três.
 
 ## Referências Cruzadas
+- [[Why I (Actually) Like Sorcery in RuneQuest, Part Two]]
 - [[sorcery-in-rq-part-three]]
 - [[Malkionismo]]
 - [[God Learners]]

@@ -2,7 +2,7 @@
 title: "Greg Stafford"
 category: "Entidade"
 tags: [criador, designer, Glorantha, RuneQuest, Chaosium, Colymar]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md"]
+sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART TWO.md"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -21,6 +21,9 @@ Greg Stafford criou Glorantha como um universo de fantasia profundo, com mitolog
 Stafford sabia que Glorantha precisava integrar a **mitologia ocidental/europeia** — da qual a feitiçaria (Sorcery) é expressão — mas lutou para fazê-lo organicamente. O Oeste Malkioni de RQ3, de inspiração medieval, nunca foi um ajuste confortável. A feitiçaria, baseada num "universo impessoal" com leis imutáveis exploráveis, é um artefato da mitologia europeia (colonialismo, monoteísmo, ateísmo), enquanto Battle Magic e Rune Magic derivam de mitologias mais antigas e universais.
 
 A solução veio apenas com o *Guide to Glorantha* (dois volumes), publicado entre as eras de *Hero Wars*/*HeroQuest* e RQG, onde o Oeste Malkioni finalmente se encaixa de forma orgânica no cenário.
+
+### A Influência de *Nephilim* no Design de RQG
+No início dos anos 90, a Chaosium produziu a edição inglesa do RPG francês ***Nephilim***, um mergulho na Tradição Mistérica Ocidental. As notas de Stafford deste período revelam que *Nephilim* foi o elemento que "quebrou o código" para a feitiçaria gloranthana: como fazê-la parecer "impessoal" sem perder o caráter de tradição religiosa viva. A marca mais visível em RQG é a "roda" das Runas Elementais, mas a influência se estende à própria mecânica de feitiçaria como manipulação de Runas através de Técnicas.
 
 ### A Campanha Colymar
 A campanha Colymar de Stafford é uma das campanhas mais icônicas de Glorantha, documentada nas páginas da **Wyrms' Footnotes**. Inclui:

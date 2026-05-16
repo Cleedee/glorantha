@@ -36,6 +36,8 @@ O **Selo de Zzabur** (Zzabur's Sigil) — diagrama das relações entre Runas El
 RQG finalmente distingue os três sistemas. Magia Rúnica é para quem quer efeitos "poderosos". Feitiçaria é para o jogador metódico que planeja — com tempo e recursos, pode alcançar resultados que ninguém mais consegue.
 
 ## Referências Cruzadas
+- [[Why I (Actually) Like Sorcery in RuneQuest, Part One]]
+- [[Why I (Actually) Like Sorcery in RuneQuest, Part Two]]
 - [[Malkionismo]]
 - [[God Learners]]
 - [[Monomito]]

@@ -211,6 +211,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[cults-of-runequest-part-one-prosopaedia]] | Resenha de ALM sobre Cults of RuneQuest Part One: filosofia RQ vs CoC, estrutura de cultos (lay/initiate/Rune Priest/Lord), Prosopaedia | `blog` `review` `Cults of RuneQuest` `Prosopaedia` `filosofia` | draft |
 | [[sorcery-in-rq-part-three]] | Artigo de ALM sobre feitiçaria em RQG: evolução Malkioni, gnosis, Runas/Técnicas, Selo de Zzabur | `blog` `feitiçaria` `RQG` `Malkioni` `Zzabur` | draft |
 | [[Why I (Actually) Like Sorcery in RuneQuest, Part One]] | Artigo de ALM sobre a chegada tardia da feitiçaria em RQ3, contraste com Battle/Rune Magic, e a luta de Stafford para integrar a mitologia ocidental | `blog` `feitiçaria` `sorcery` `RQG` `Battle Magic` `Rune Magic` `God Learners` | draft |
+| [[Why I (Actually) Like Sorcery in RuneQuest, Part Two]] | Artigo de ALM sobre o acerto e falha das regras de RQ3, a ressignificação histórica de "magia", e a influência de *Nephilim* no design de Stafford | `blog` `feitiçaria` `sorcery` `RQG` `Nephilim` `alquimia` `RQ3` | draft |
 | [[Cults of RuneQuest - Darkness]] | Suplemento com cultos de deusas da escuridão; trolls; inframundo | `suplemento` `cultos` | draft |
 | [[Dorastor - Land of Doom]] | Suplemento clássico RQ3 (1993) por Sandy Petersen e Greg Stafford; reedição | `suplemento` `reedição` | draft |
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |
