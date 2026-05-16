@@ -208,6 +208,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi; cenário incluso | `suplemento` `Sartar` `layout` | draft |
 | [[Welcome to Boldhome]] | Cenário de 40 páginas em Boldhome; três partes; Andrew Logan Montgomery | `aventura` `Sartar` `Boldhome` | draft |
 | [[cults-earth-goddesses-review]] | Resenha de Andrew Logan Montgomery sobre Cults of RuneQuest: The Earth Goddesses; Imarja, Husband-Protectors, divisão das deusas da Terra | `blog` `review` `Cults of RuneQuest` `Ernalda` `Imarja` `Esrolia` | draft |
+| [[cults-of-runequest-part-one-prosopaedia]] | Resenha de ALM sobre Cults of RuneQuest Part One: filosofia RQ vs CoC, estrutura de cultos (lay/initiate/Rune Priest/Lord), Prosopaedia | `blog` `review` `Cults of RuneQuest` `Prosopaedia` `filosofia` | draft |
 | [[Cults of RuneQuest - Darkness]] | Suplemento com cultos de deusas da escuridão; trolls; inframundo | `suplemento` `cultos` | draft |
 | [[Dorastor - Land of Doom]] | Suplemento clássico RQ3 (1993) por Sandy Petersen e Greg Stafford; reedição | `suplemento` `reedição` | draft |
 | [[Jonstown Compendium]] | Plataforma de material de fãs no DriveThruRPG; 10+ novidades 2026 | `fãs` `DriveThruRPG` | draft |
