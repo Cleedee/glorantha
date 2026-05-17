@@ -2,8 +2,8 @@
 title: "Saird"
 category: "Localização"
 tags: [região, Lunar Provinces, Yelmalio, Filhos do Sol, EWF, Dara Happa, Império Lunar, Hwarin Dalthippa, Daughter's Road]
-sources: ["https://godlearners.com/journal-of-runic-studies-9/"]
-last_updated: 2026-05-09
+sources: ["https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-32/"]
+last_updated: 2026-05-17
 status: draft
 ---
 
@@ -15,7 +15,7 @@ status: draft
 ## Conteúdo
 
 ### Geografia
-Saird é uma região geográfica que sobrepõe os reinos de **Vanch**, **Imther**, **Holay**, **Aggar** (pelo menos as partes baixas) e grande parte de **Sylila**. A **Estrada da Filha** (Daughter's Road) cruza diagonalmente a região — construída pela **Hwarin Dalthippa, a Filha Conquistadora**, precede as Estradas Sartaritas em pelo menos um século. A região possui três grandes cidades em um raio de 90 km: **Mirin's Cross**, **Fyllich Kwan** e **Jillaro**.
+Saird é uma região de planícies fluviais cercadas por colinas, medindo aproximadamente **75x140 km** (comparável à Bacia Panônica ao redor de Budapeste). Sobreposta aos reinos de **Vanch**, **Imther**, **Holay**, **Aggar** (partes baixas) e grande parte de **Sylila**. A **Estrada da Filha** (Daughter's Road) cruza diagonalmente a região — construída pela **Hwarin Dalthippa, a Filha Conquistadora**, precede as Estradas Sartaritas em pelo menos um século. A região possui três grandes cidades em um raio de 90 km: **Mirin's Cross**, **Fyllich Kwan** e **Jillaro**. Técnicas de construção fortemente influenciadas por [[Dara Happa]].
 
 ### Demografia
 Densamente povoada com muitos vilarejos (500-1000 habitantes cada). Uma mistura cultural de missionários, burocratas e oficiais lunares, Yelmalions Sun Domers, sacerdotisas da Terra, outros Lightbringers, nobres Dara Happanos e camponeses Lodrilli.
@@ -38,7 +38,7 @@ O EWF foi expulso de Saird por uma coalizão de Carmanianos, Dara Happanos e sen
 A dinastia foi extinta. Saird foi brevemente conquistada por Dara Happa. Quando Dara Happa foi desmembrada pelo Império Carmaniano, Saird tornou-se dominada por tribos Orlanthi e Yelmalion.
 
 #### Grande Guerra de Jannisor (1270-1275)
-As tribos sairditas seguiram Jannisor em sua Grande Guerra contra o Império Lunar e foram derrotadas no momento da vitória dentro de Glamour.
+As tribos sairditas uniram-se na **Kynnelfing Alliance** sob Jannisor, que chegou a invadir a cidade de [[Glamour]] em 1275. Foi aliado dos **Sable Riders** de [[Prax]], que tinham imunidade aos poderes Lunares. Os Lunares descobriram a conexão profunda entre o "Lunar Deer" e a [[Deusa Vermelha]], virando os Sable Riders contra Jannisor — origem da longa tradição Sable de trabalhar com o Império Lunar. As tribos foram derrotadas no momento da vitória dentro de Glamour.
 
 #### Conquista Lunar (1309-1347)
 O Império Lunar marchou para o sul, conquistando Sylila em 1309. As tribos sairditas unificaram-se na Aliança Kynnelfing, mas foram derrotadas por **Hwarin Dalthippa** em 1347. Grupos anti-Lunares fugiram para o sul através da Deathline em Dragon Pass. As **Sete Mães** e Hwarin Dalthippa tornaram-se cultos importantes.

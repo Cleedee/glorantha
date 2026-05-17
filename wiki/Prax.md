@@ -2,8 +2,8 @@
 title: "Prax"
 category: "Localização"
 tags: [região, Prax, nômades, bisontes, cavalos, RuneQuest, fonte]
-sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-12/", "https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html", "https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities"]
-last_updated: 2026-05-13
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-32/", "https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html", "https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities"]
+last_updated: 2026-05-17
 status: draft
 ---
 
@@ -49,6 +49,15 @@ O herói **[[Argrath]] White Bull** uniu as tribos praxianas sob sua liderança 
 Os Praxianos passam a maior parte do tempo nas vastas **[[As Terras Ermas|Terras Ermas]]** (Wastes), não em Prax propriamente. Para os povos civilizados, as Terras Ermas são inóspitas — tempestades de poeira, broos, homens-escorpião e outros monstros. Mas [[Waha]] mostra o caminho para sobreviver: rebanhos movem-se de pastagem em pastagem protegidos pelos nômades.
 
 Foi nas Terras Ermas que **Jaldon Goldentooth** tornou-se um Herói, e lá que o [[Touro da Tempestade]] defende o cadáver corrompido de seu amigo e suserano [[Genert]]. Durante a Ocupação Lunar, muitos Praxianos exilaram-se nas Terras Ermas e juntaram-se à **White Bull Society**, que começou lá. Agora retornam a Prax a convite de Argrath.
+
+### Demografia de Prax Civilizado (1626)
+Segundo [[Jeff Richard]], em 1626:
+- **Pavis County:** ~25.650 humanos (excluindo nômades que invernam)
+- **Sun County:** ~19.000 humanos
+
+**Maiores cultos em Pavis County:** Ernalda 5.325 (+4.375 iniciados da Grain Goddess), Orlanth 4.700, Zola Fel 1.500, Yelmalio 575, Pavis ~1.000, Humakt 650, Storm Bull 550, Seven Mothers ~500 (pós-Libertação).
+
+**Sun County:** Yelmalio 4.375, Zola Fel 2.000. Ernalda opera como Grain Goddess cult ligado a Yelmalio, sem o suporte de Orlanth.
 
 ### Expansão para Pent
 Após a Dragonkill War e o fechamento de Dragon Pass, os Nômades Animais passaram por um período de calma e crescimento. Eventualmente expandiram-se para norte em **Pent**, culminando na lendária batalha de **No-Feet-on-the-Ground**, onde até o sol e a tempestade tomaram parte e a própria terra recuou do contato com a batalha. Esta batalha dividiu os Cavaleiros do Cavalo (Horse Barbarians) em divisões Leste e Oeste.

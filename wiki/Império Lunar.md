@@ -2,8 +2,8 @@
 title: "Império Lunar"
 category: "Cultura"
 tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/runic-rants-a-history-of-the-glowline/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-32/", "https://godlearners.com/runic-rants-a-history-of-the-glowline/"]
+last_updated: 2026-05-17
 status: draft
 ---
 
@@ -89,6 +89,42 @@ O Império Lunar é tanto uma rede de cidades e tribos, mantida unida por [[Glam
 - Sobre Belintar e o País Santo: Lunares sob Jar-Eel ajudaram a destruir o País Santo após assassinato de Belintar.
 - Jar-Eel, a "Rainha-Bruxa de Sangue Venenoso", acusada de assassinar Belintar para facilitar conquistas lunares.
 
+### Colonização de Tarsh
+Tarsh foi colonizado em duas ondas de colonos de [[Saird]] (Holay, Aggar, Imther, Vanch) após a Conquering Daughter **Hwarin Dalthippa** (filha do primeiro Imperador Vermelho, construtora da Daughter's Road) por volta de 1330. O movimento foi de ~150 km de Filichet a Bagnot.
+
+**Arim the Pauper** liderou os exilados de Holay e fundou Tarsh. **Sorana Tor** (Earth Goddess ao pé de [[Kero Fin]]) uniu-se a ele. Seus filhos começaram a **Twin Dynasty**, que terminou em 1448. Guerra civil até 1538, quando **Palashee Long Axe** tomou poder e aliou Tarsh a [[Sartar]]. Morto em 1555, Tarsh tornou-se um Reino Provincial Lunar.
+
+Os colonos eram principalmente Orlanth Thunderous/Adventurous com minoria Yelmalio, após séculos de intercâmbio com Dara Happa. Por 1450 estavam estabelecidos ao longo dos rios Oslira e Black Eel até Wintertop, governados por uma dinastia Orlanth Rex em Bagnot. Após a dinastia terminar sem herdeiro em 1448, uma nova dinastia de Wintertop foi coroada.
+
+### Demografia de Cultos
+
+#### Coração Lunar
+Segundo [[Jeff Richard]], nos Heartlands:
+- **Sete Mães:** ~24% da população (individual ou coletivamente)
+- **Todos cultos Lunares:** ~34%
+- **Lodril:** ~14%
+- **Oria (Grain Goddess):** ~10%
+- **Dendara:** ~5%
+- **Yelm:** ~4% (principalmente nobreza; maioria da população é leiga)
+- **Shargash e Polaris:** ~2% cada
+
+Em **Tarsh**, a distribuição se assemelha: ~25% Sete Mães, ~10% Hon-eel. O restante segue deuses Lightbringers.
+
+#### Pavis County e Sun County (1626)
+- **Pavis County:** ~25.650 humanos
+- **Sun County:** ~19.000 humanos
+
+Maiores cultos: Ernalda 9.700 (incluindo 4.375 iniciados da Grain Goddess), Yelmalio 4.900, Orlanth 4.700, Zola Fel 3.500, Pavis ~1.000, Humakt 650, Storm Bull 550. Sete Mães: ~500 (pós-Libertação, só em Pavis County).
+
+**Big Rubble:** Pavis 500, Kyger Litor 500, Aldrya 1000, Black Fang 250+, Thed 200, Mallia 175, Zorak Zoran 150, Argan Argar 50, ~250 outros.
+
+#### Iniciados vs Membros Leigos
+- **Iniciados:** experimentaram os segredos mágicos do culto, agem como condutos divinos, usam magia Rúnica — "como ser casado" com o deus.
+- **Membros leigos:** participam de cerimônias e festas, aprendem magia espiritual e habilidades, mas podem ter laços mais profundos com outro culto.
+- **Associate members:** iniciados de um culto que participam dos segredos mágicos de outro culto próximo (ex: Issaries/Chalana Arroy/Lhankor Mhy/Orlanth; Orlanth/Ernalda; Babeester Gor/Ernalda).
+
+Em comunidades onde o deus é central (Orlanth em clã Orlanthi, Pavis na Real City), a maioria dos membros são iniciados. Em outras (Pavis em New Pavis), a maioria é leiga.
+
 ### O Imperador Vermelho e a Reivindicação Universal
 O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele é o chefe de todos os lugares que a luz da Lua Vermelha toca, e isso é o mundo inteiro. No entanto, o Imperador Vermelho não está necessariamente atrás de governar o mundo inteiro. Ele aceita que bárbaros distantes **submetam-se a ele** ou **sejam seus aliados**. O que importa é que reconheçam sua posição como o **pilar único de legitimidade** no mundo.
 
@@ -109,6 +145,7 @@ O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele 
 - Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
+- Fonte: [Journal of Runic Studies #32](https://godlearners.com/journal-of-runic-studies-32/)
 - Fonte: [Runic Rants: A History of the Glowline](https://godlearners.com/runic-rants-a-history-of-the-glowline/)
 - Jeff Richard no RuneQuest Facebook Group
 - Nick Brooke (expert em Lunares)

@@ -2,8 +2,8 @@
 title: "Yelmalio"
 category: "Entidade"
 tags: [deus, sol, Lightfore, Fogo/Céu, Cold Sun, Preserver of Light, Sun Dome, mitologia, Elmal]
-sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html"]
-last_updated: 2026-05-14
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://godlearners.com/journal-of-runic-studies-32/"]
+last_updated: 2026-05-17
 status: draft
 ---
 
@@ -41,20 +41,32 @@ Todas estas qualidades — honra, promessas, resistência, dever, fraternidade m
 ### Culto e Sun Domes
 O culto de Yelmalio é centrado nos Sun Domes — comunidades fortificadas de guerreiros dedicados ao Cold Sun. Em [[Sartar]], após a heroquest de Monrogh Lantern (séc. XVI), Yelmalio foi reconhecido como a verdadeira identidade do deus cultuado como [[Elmal]], unificando o culto. Muitos ex-Elmali migraram para o Sun Dome County.
 
-### Números do Culto em Dragon Pass
-Segundo Jeff Richard, há **~18.000 membros do culto de Yelmalio em Dragon Pass**:
-- **6.000** em Sartar (concentrados no Sun Dome, Alda-Chur e Boldhome)
+### Números do Culto (Jeff Richard, 1626)
+
+#### Dragon Pass
+- **~18.000** no Dragon Pass como um todo
+- **6.525** em Sartar (incluindo Far Point e Sun Dome County)
+  - **2.700** em Sun Dome County
+  - **1.725** no Far Point (Alda-Chur + tribo Vantaros)
 - **12.000** em Tarsh
-- Números negligenciáveis em outras áreas
 
-No **Rio dos Berços** (Zola Fel, Prax): ~4.500 cultistas:
-- **4.000** em Sun County
-- **500** em Pavis County
+#### Prax Civilizado
+- **4.900** no total (575 em Pavis County, 4.375 em Sun County)
 
-Para comparação, os cultos de Ernalda (~112.000), Orlanth (~85.000) e Sete Mães (~66.500) são muito maiores em Dragon Pass.
+Comparação: Ernalda (~112.000), Orlanth (~85.000) e Sete Mães (~66.500) em Dragon Pass.
+
+#### Yelmalio Nômade
+- **~15.000** seguidores entre os nômades de Prax e as Terras Ermas, **dois terços da tribo Impala**. Identidade tribal frequentemente sobrepuja a cultual — Impala Riders ainda atacam Sun County. Os Yelmalions nômades coexistem com 60.000+ cultistas de Waha e 19.000 de Orlanth entre as tribos.
+
+### Sun County vs Sun Dome County (Sartar)
+O culto se comporta diferentemente nas duas regiões:
+- **Sun Dome County (Sartar):** O culto é 25% maior e mais rico, com templários mais habilidosos e disciplinados. Porém, precisa lidar com um culto de Orlanth muito mais poderoso. O Sun Dome é efetivamente apenas mais uma tribo entre muitas — aliado do Príncipe de Sartar.
+- **Sun County (Prax):** O culto é menor em número absoluto, mas pode abordar o culto de Orlanth como igual. Objetivamente mais fraco que os templários de Sartar, mas muito mais forte em relação aos vizinhos. Muito mais independente e autônomo. O culto de Ernalda local é efetivamente um culto de Grain Goddess, ligado a Yelmalio — sem o suporte do culto de Orlanth e sem laços com Esrolia.
+
+Ambas as regiões mantêm laços religiosos e culturais próximos. Dois dos últimos três Counts de Sun County foram sartaritas. Sun County foi dos primeiros a seguir a visão de Monrogh.
 
 ### Culto em Alda-Chur
-No **Far Place** (região de Alda-Chur), dos 1.700 cultistas de Yelmalio, **1.400** estão em Alda-Chur ou entre a tribo Vantaros. [[Harvar Ironfist]], um Yelmalion Rune Lord, usou o apoio Lunar e a organização centralizada do culto para dominar a confederação tribal, apesar dos Orlanthi serem numericamente superiores.
+No **Far Place** (região de Alda-Chur), [[Harvar Ironfist]], um Yelmalion Rune Lord, usou o apoio Lunar e a organização centralizada do culto para dominar a confederação tribal, apesar dos Orlanthi serem numericamente superiores.
 
 ## Referências Cruzadas
 - [[Elmal]]
@@ -71,6 +83,7 @@ No **Far Place** (região de Alda-Chur), dos 1.700 cultistas de Yelmalio, **1.40
 ## Referências
 - Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html)
 - Fonte: [Journal of Runic Studies #31](https://godlearners.com/journal-of-runic-studies-31/)
+- Fonte: [Journal of Runic Studies #32](https://godlearners.com/journal-of-runic-studies-32/)
 
 ## Questões em Aberto
 - [ ] Yelmalio tem outros epítetos além de Cold Sun e Preserver of Light?

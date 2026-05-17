@@ -2,8 +2,8 @@
 title: "QuestWorlds"
 category: "Conceito"
 tags: [sistema, regras, QuestWorlds, SRD, Chaosium, Ian Cooper, storytelling]
-sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://godlearners.com/journal-of-runic-studies-8/"]
-last_updated: 2026-05-09
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://godlearners.com/journal-of-runic-studies-8/", "https://godlearners.com/journal-of-runic-studies-32/"]
+last_updated: 2026-05-17
 status: draft
 ---
 
@@ -21,6 +21,9 @@ Em novembro de 2021, a Chaosium publicou um update no blog com arte de Lionel Ma
 
 ### Origem
 O QuestWorlds nasceu de profundas mudanças no sistema HeroQuest, lideradas por [[Ian Cooper]]. As transformações foram compiladas num **SRD** (System Reference Document) disponível em [github.com/ChaosiumInc/QuestWorlds](https://github.com/ChaosiumInc/QuestWorlds).
+
+### Copy Editing (Janeiro 2022)
+Em janeiro de 2022, o QuestWorlds rulebook foi para copy editing com o slogan "2022 is going to be the year of QuestWorlds!" — descrito como HeroQuest 2.3. O SRD já estava disponível. O livro seria genérico (sem Glorantha inclusa), mas com tweaks leves compatíveis com HeroQuest Glorantha.
 
 ### Publicação
 - **PDF:** 2025 — Chaosium
