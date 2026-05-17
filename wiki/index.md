@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-16
+last_updated: 2026-05-17
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -269,7 +269,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Skull Ruins - Tusk Riders Need Blood!]] | Aventura 76p; Ricardo Shankland; Leika captura Tusk Rider; ritual de sangue; batalha em larga escala | `aventura` `Jonstown` `Tusk Riders` `Colymar` `Dario Corallo` | draft |
 | [[Ricardo Shankland]] | Autor Jonstown; escrita clara e concisa; Skull Ruins - Tusk Riders Need Blood! | `autor` `Jonstown` `RuneQuest` | draft |
 | [[The Salt Man]] | Monster of the Month; abominação praxiana que não deveria existir | `Jonstown` `Monster of the Month` `Prax` | draft |
-| [[Sandheart]] | Série de aventuras Jonstown; Jon Webb; 4 volumes; último: The God Skin & Mad Prax | `Jonstown` `aventura` `Prax` | draft |
+| [[Sandheart]] | Série de aventuras Jonstown; Jon Webb; 4 volumes. Vol 1: Tales of the Sun County Militia. Vol 2: The Corn Dolls (sandbox investigativo em Cliffheath, East Sun County, ~50 NPCs). Vol 4: The God Skin & Mad Prax | `Jonstown` `aventura` `Prax` `Sun County` | draft |
 | [[Lands of RuneQuest - Dragon Pass]] | Primeiro volume da linha Lands of RuneQuest; gazetteer completo de Dragon Pass com história, geografia e bestiário | `suplemento` `Dragon Pass` `gazetteer` `Ossi Hiekkala` `Jeff Richard` | draft |
 | [[Sun County]] | Suplemento clássico RQ3 sobre o Sun Dome de Yelmalio em Prax; remasterizado 2024 | `suplemento` `clássico` `RQ3` `Yelmalio` `Sun Dome` | draft |
 | [[Griselda]] | Personagem ficcional Gloranthana; Oliver Dickinson; Kraken Chapbooks | `personagem` `ficção` `Oliver Dickinson` `Kraken` | draft |
@@ -337,5 +337,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-16 (JRS 31)*
+*Última atualização: 2026-05-17 (Sandheart Vol 2)*
 
