@@ -28,8 +28,7 @@ Pesquisa profunda, curadoria e síntese do universo fictício de **Glorantha** (
 │   ├── assets/      ← Imagens e mídia local
 │   └── *.md         ← Páginas individuais da wiki
 ├── scripts/         ← Ferramentas auxiliares de manutenção
-│   ├── sync_readme.py  ← Sincroniza tabelas do README.md com a wiki
-│   └── ingest_source.py ← Extrai entidades de fontes raw e gera páginas wiki
+│   └── sync_readme.py  ← Sincroniza tabelas do README.md com a wiki
 └── .gitignore       ← raw/ ignorado do versionamento
 ```
 
@@ -57,10 +56,10 @@ Nunca processe múltiplos arquivos de uma vez. Sempre pause para revisão.
 
 ```
 [raw/source.md]  (arquivo local, NÃO versionado)
-    ↓  (leitura — um arquivo por vez, ou via scripts/ingest_source.py)
-[Extração de fatos, entidades, conceitos]
+    ↓  (leitura — um arquivo por vez)
+[Extração manual de fatos, entidades, conceitos pelo LLM]
     ↓
-[Rascunho/atualização de páginas em /wiki]
+[Rascunho/atualização de páginas em /wiki — escrita curada, página a página]
     ↓  (frontmatter sources: usa URL original do site, nunca raw/clippings/)
 [Apresentar diff + resumo ao humano]
     ↓  (aguardar aprovação)
