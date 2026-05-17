@@ -2,7 +2,7 @@
 title: "The Cults of RuneQuest: Part One — The Prosopaedia"
 category: "Fonte"
 tags: [blog, Andrew Logan Montgomery, review, Cults of RuneQuest, Prosopaedia, filosofia, cultos]
-sources: ["raw/clippings/THE CULTS OF RUNEQUEST Part One, Some Thoughts on Chaosium Cults and the Prosopaedia.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2023/08/the-cults-of-runequest-part-one-some.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -37,7 +37,7 @@ RQ e CoC são "matéria e antimatéria" — mitologia e anti-mitologia. Ambos ap
 - [[Membresia Dupla de Cultos]]
 
 ## Referências
-- Fonte original: [The Cults of RuneQuest: Part One](raw/clippings/THE CULTS OF RUNEQUEST Part One, Some Thoughts on Chaosium Cults and the Prosopaedia.md)
+- Fonte original: [The Cults of RuneQuest: Part One](https://andrewloganmontgomery.blogspot.com/2023/08/the-cults-of-runequest-part-one-some.html)
 - [Andrew Logan Montgomery — Blog](https://andrewloganmontgomery.blogspot.com/)
 
 ## Questões em Aberto

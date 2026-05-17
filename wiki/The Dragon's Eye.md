@@ -2,7 +2,7 @@
 title: "The Dragon's Eye"
 category: "Fonte"
 tags: [aventura, RuneQuest, Jonathan Tweet, Dragon Pass, landmarks, Your Glorantha May Vary]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 5.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-5/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -41,7 +41,7 @@ O livro oferece aos mestres mais possibilidades do que poderiam usar. Para cada 
 
 ## Referências
 - Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - [Anúncio oficial no blog da Chaosium](https://www.chaosium.com/blogchaosium-announces-runequest-the-dragons-eye-is-in-development/)
 - [Tweet de Jonathan Tweet](https://twitter.com/JonathanMTweet/status/1414618404158246912)
 

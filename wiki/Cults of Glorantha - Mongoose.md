@@ -2,7 +2,7 @@
 title: "Cults of Glorantha (Mongoose)"
 category: "Fonte"
 tags: [suplemento, cultos, Mongoose, Lawrence Whitaker, 2010, 2ª edição]
-sources: ["raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md"]
+sources: ["https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -29,7 +29,7 @@ Este suplemento precedeu a série moderna de **Cults of RuneQuest** da Chaosium.
 - [[Cults of RuneQuest - Mythology]]
 
 ## Referências
-- Fonte: [Mongoose Glorantha Titles — Well of Daliath](raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md)
+- Fonte: [Mongoose Glorantha Titles — Well of Daliath](https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/)
 
 ## Questões em Aberto
 - [ ] Houve uma 1ª edição de Cults of Glorantha pela Mongoose?

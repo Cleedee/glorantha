@@ -2,7 +2,7 @@
 title: "Pelória"
 category: "Localização"
 tags: [região, Peloria, bacia, Império Lunar, Dara Happa, clima, planície, cavalos]
-sources: ["raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-8/", "https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -84,7 +84,7 @@ O domínio nômade terminou em **1460**, quando Sheng Seleris foi finalmente der
 - [[Shargash]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #8](raw/clippings/Journal of Runic Studies 8.md)
+- Fonte: [Journal of Runic Studies #8](https://godlearners.com/journal-of-runic-studies-8/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

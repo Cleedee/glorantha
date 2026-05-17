@@ -2,7 +2,7 @@
 title: "Dara Happan Primer"
 category: "Fonte"
 tags: [suplemento, Jonstown Compendium, Dara Happa, cultos solares, Avivorus, Saggitus]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md"]
+sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -33,7 +33,7 @@ status: draft
 - [[Cults of RuneQuest - Lightbringers]]
 
 ## Referências
-- Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
+- Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
 - [Dara Happan Primer — DriveThruRPG](https://www.drivethrurpg.com/en/product/561123/dara-happa-primer)
 
 ## Questões em Aberto

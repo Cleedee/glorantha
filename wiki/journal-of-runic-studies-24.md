@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #24"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Ludovic, Aeolianos, Aeolismo, Esvularing, Broo, Honra, Humakt, Lightbringers, Theyalanos]
-sources: ["raw/clippings/Journal of Runic Studies 24.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-24/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -73,7 +73,7 @@ Foram chocados ao serem mortos na Baixa Pelória por bárbaros montados que ador
 - [[Greg Stafford Memorial Award]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #24](raw/clippings/Journal of Runic Studies 24.md)
+- Fonte original: [Journal of Runic Studies #24](https://godlearners.com/journal-of-runic-studies-24/)
 
 ## Questões em Aberto
 - [ ] Os Aeolianos têm um templo central ou autoridade religiosa?

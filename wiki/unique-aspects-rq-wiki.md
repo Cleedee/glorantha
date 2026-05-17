@@ -2,7 +2,7 @@
 title: "Unique Aspects of Glorantha — RuneQuest RPG Wiki"
 category: "Fonte"
 tags: [site, referência, RuneQuest, Chaosium, wiki, Glorantha, heroquesting, clã, moeda, calendário, casamento, Heort]
-sources: ["raw/clippings/Unique Aspects of Glorantha  The RuneQuest RPG Wiki.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/unique-aspects-of-glorantha.html#community"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -46,7 +46,7 @@ Um dia é o tempo do sol atravessar o céu (leste→oeste). A noite é o tempo d
 - [[Orlanth]]
 
 ## Referências
-- Fonte original: [Unique Aspects of Glorantha — RuneQuest RPG Wiki](raw/clippings/Unique Aspects of Glorantha  The RuneQuest RPG Wiki.md)
+- Fonte original: [Unique Aspects of Glorantha — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/unique-aspects-of-glorantha.html#community)
 - [RuneQuest RPG Wiki — Chaosium](https://rqwiki.chaosium.com/)
 
 ## Questões em Aberto

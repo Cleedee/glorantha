@@ -2,7 +2,7 @@
 title: "Black Monk Games"
 category: "Fonte"
 tags: [empresa, distribuidora, Polônia, Moon Design, Chaosium]
-sources: ["raw/clippings/Journal of Runic Studies 20.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -23,7 +23,7 @@ Em 2021, Black Monk Games tornou-se oficialmente parceira da Moon Design Publica
 - [[RuneQuest Starter Set]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #20](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #20](https://godlearners.com/journal-of-runic-studies-20/)
 
 ## Questões em Aberto
 - [ ] Quais outros produtos da Chaosium são distribuídos pela Black Monk Games?

@@ -2,7 +2,7 @@
 title: "Lawrence Whitaker"
 category: "Entidade"
 tags: [autor, designer, Mongoose, Glorantha, Signs & Portents, Pavis, Dragonewts, Mostali]
-sources: ["raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md"]
+sources: ["https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -41,7 +41,7 @@ Whitaker foi um dos principais autores que expandiu o cenário de Glorantha dura
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [Mongoose Glorantha Titles — Well of Daliath](raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md)
+- Fonte: [Mongoose Glorantha Titles — Well of Daliath](https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/)
 - [Well of Daliath — Mongoose Titles](https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/)
 
 ## Questões em Aberto

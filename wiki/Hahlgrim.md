@@ -2,7 +2,7 @@
 title: "Hahlgrim"
 category: "Entidade"
 tags: [herói, videojogo, Warlords, Caos, Dorastor]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -28,7 +28,7 @@ status: draft
 - [[Orlanthi]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Hahlgrim existe no lore canônico de Glorantha?

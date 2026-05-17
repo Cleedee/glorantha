@@ -2,7 +2,7 @@
 title: "Korolstead"
 category: "Fonte"
 tags: [sourcebook, Smoking Ruin, John Lawson, Jonstown Compendium, aventura, suplemento]
-sources: ["raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-17/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -25,7 +25,7 @@ Companheiro de *The Smoking Ruin & Other Stories* por **John Lawson** para o [[J
 - [[The Smoking Ruin]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #17](raw/clippings/Journal of Runic Studies 17.md)
+- Fonte: [Journal of Runic Studies #17](https://godlearners.com/journal-of-runic-studies-17/)
 - [Korolstead no DriveThruRPG](https://www.drivethrurpg.com/product/373384/Korolstead-Secrets-of-the-Smoking-Ruin)
 
 ## Questões em Aberto

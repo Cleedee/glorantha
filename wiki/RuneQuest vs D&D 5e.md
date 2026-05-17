@@ -2,7 +2,7 @@
 title: "RuneQuest vs D&D 5e"
 category: "Conceito"
 tags: [comparação, D&D, 5e, filosofia, trágico, cômico, heroico, divino]
-sources: ["raw/clippings/The fundamental difference between RuneQuest and 5e.md"]
+sources: ["https://wellofdaliath.chaosium.com/the-fundamental-difference-between-runequest-and-5e/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -53,7 +53,7 @@ Ambas as abordagens são válidas e divertidas, mas **satisfazem desejos muito d
 - [[Appendix N de RuneQuest]]
 
 ## Referências
-- Fonte: [The fundamental difference between RuneQuest and 5e — Well of Daliath](raw/clippings/The fundamental difference between RuneQuest and 5e.md)
+- Fonte: [The fundamental difference between RuneQuest and 5e — Well of Daliath](https://wellofdaliath.chaosium.com/the-fundamental-difference-between-runequest-and-5e/)
 
 ## Questões em Aberto
 - [ ] Esta filosofia se aplica igualmente a QuestWorlds?

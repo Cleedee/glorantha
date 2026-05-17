@@ -2,7 +2,7 @@
 title: "Tempo Sagrado"
 category: "Conceito"
 tags: [Tempo Sagrado, Sacred Time, liminalidade, heróis, renascimento, luz, rituais, calendário, Theyala]
-sources: ["raw/clippings/THE SACRED TIME, An Episode.md", "raw/clippings/Cults of Runequest Mythology and Eliade's Eternal Return.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/01/the-sacred-time-episode.html", "https://andrewloganmontgomery.blogspot.com/2023/10/cults-of-runequest-mythology-and.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -92,7 +92,7 @@ Testes são principalmente de habilidades mágicas e de performance — **não**
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [THE SACRED TIME, An Episode — Andrew Logan Montgomery](raw/clippings/THE SACRED TIME, An Episode.md)
+- Fonte: [THE SACRED TIME, An Episode — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2025/01/the-sacred-time-episode.html)
 - *RuneQuest Roleplaying in Glorantha*, pp. 420-427
 - *The Seven Tailed Wolf*, pp. 18-25
 - *The Company of the Dragon*, pp. 164-170

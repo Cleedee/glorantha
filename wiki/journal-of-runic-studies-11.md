@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #11"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Genert, Earth goddesses, Valley of Plenty, QAD, Pendragon, Runic Rants]
-sources: ["raw/clippings/Journal of Runic Studies 11.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-11/"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -62,7 +62,7 @@ Edição alemã de RQ3 vendeu 1500 cópias. Teve uma reimpressão em softcover. 
 - [[Ludovic (God Learners)]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #11](raw/clippings/Journal of Runic Studies 11.md)
+- Fonte original: [Journal of Runic Studies #11](https://godlearners.com/journal-of-runic-studies-11/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-11/)
 
 ## Questões em Aberto

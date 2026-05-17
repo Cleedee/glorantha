@@ -2,7 +2,7 @@
 title: "Triolini"
 category: "Cultura"
 tags: [merfolk, ludoch, Choralinthor Bay, Mirrorsea Bay, Abertura dos Mares, raça anciã, Kethaela]
-sources: ["raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-80/"]
 last_updated: 2026-05-16
 status: draft
 aliases:
@@ -48,8 +48,8 @@ Para campanhas envolvendo comércio marítimo de longa distância, alianças e p
 - [[Waertagi]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
-- Fonte: [Journal of Runic Studies #80](raw/clippings/Journal of Runic Studies 80.md)
+- Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
+- Fonte: [Journal of Runic Studies #80](https://godlearners.com/journal-of-runic-studies-80/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

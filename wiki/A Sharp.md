@@ -2,7 +2,7 @@
 title: "A Sharp"
 category: "Conceito"
 tags: [desenvolvedora, videojogo, King of Dragon Pass, Six Ages, Tacoma, David Dunham]
-sources: ["raw/clippings/Six Ages Ride Like the Wind.md", "raw/clippings/Six Ages 2 Lights Going Out.md"]
+sources: ["https://en.wikipedia.org/wiki/Six_Ages:_Ride_Like_the_Wind", "https://en.wikipedia.org/wiki/Six_Ages_2:_Lights_Going_Out"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -46,8 +46,8 @@ status: draft
 - [[David Dunham]]
 
 ## Referências
-- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](raw/clippings/Six Ages Ride Like the Wind.md)
-- Fonte: [Six Ages 2: Lights Going Out — Wikipedia](raw/clippings/Six Ages 2 Lights Going Out.md)
+- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](https://en.wikipedia.org/wiki/Six_Ages:_Ride_Like_the_Wind)
+- Fonte: [Six Ages 2: Lights Going Out — Wikipedia](https://en.wikipedia.org/wiki/Six_Ages_2:_Lights_Going_Out)
 - [Site oficial da A Sharp](https://a-sharp.com/)
 
 ## Questões em Aberto

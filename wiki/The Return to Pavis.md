@@ -2,7 +2,7 @@
 title: "The Return to Pavis"
 category: "Fonte"
 tags: [conto, ficção, Pavis, Argrath, Griselda, Tentacles Press]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md"]
+sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -30,7 +30,7 @@ Griselda, uma heroína pícara, retorna a Pavis após Argrath ter expulsado o ex
 - [[A Pyre for Gods and Heroes]]
 
 ## Referências
-- Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
+- Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
 - [The Return to Pavis — DriveThruRPG](https://www.drivethrurpg.com/en/product/548706/the-return-to-pavis-a-griselda-story)
 
 ## Questões em Aberto

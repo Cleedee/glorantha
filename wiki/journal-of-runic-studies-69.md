@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #69"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Ludovic, Heroquesting, Jeff Richard, Stafford House, Lunars, finanças]
-sources: ["raw/clippings/Journal of Runic Studies 69.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -34,7 +34,7 @@ O conteúdo de heroquesting (inconsciente coletivo, arquétipos, bênçãos/mald
 - [[Greg Stafford]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #69](raw/clippings/Journal of Runic Studies 69.md)
+- Fonte original: [Journal of Runic Studies #69](https://godlearners.com/journal-of-runic-studies-69/)
 
 ## Questões em Aberto
 - [ ] Haverá um Volume 2 do Chaosium Archival Collection?

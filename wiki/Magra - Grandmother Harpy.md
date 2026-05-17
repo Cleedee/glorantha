@@ -2,7 +2,7 @@
 title: "Magra: Grandmother Harpy"
 category: "Fonte"
 tags: [culto, Jonstown Compendium, harpias, Caos, Dorastor, Peter Hart]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -33,8 +33,8 @@ Inclui a viagem de **Phineus** (primo de Paulis Longvale) a Dorastor em missão 
 - [[Caos]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
 - [Magra: Grandmother Harpy — DriveThruRPG](https://www.drivethrurpg.com/en/product/548776/magra-grandmother-harpy)
 
 ## Questões em Aberto

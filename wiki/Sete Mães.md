@@ -2,7 +2,7 @@
 title: "Sete Mães"
 category: "Conceito"
 tags: [lunar, culto, deusa vermelha, caminho lunar]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -62,7 +62,7 @@ Exemplos de imperialistas que suprimem a missão das Sete Mães: **Euglyptus the
 - [[Yelm]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
+- Fonte: [Journal of Runic Studies #3](https://godlearners.com/journal-of-runic-studies-3/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

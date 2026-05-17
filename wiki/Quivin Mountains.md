@@ -2,7 +2,7 @@
 title: "Quivin Mountains"
 category: "Localização"
 tags: [montanhas, sartar, geologia, lodril, kero fin, boldhome, anões]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -38,7 +38,7 @@ A capital de Sartar, [[Boldhome]], foi construída nas falésias das Montanhas Q
 - [[Duck Point]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

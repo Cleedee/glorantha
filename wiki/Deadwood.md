@@ -2,7 +2,7 @@
 title: "Deadwood"
 category: "Localização"
 tags: [Deadwood, Indigo Mountains, elfos, trolls, Aldryami, Uz, Gorakiki, beetle]
-sources: ["raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -41,7 +41,7 @@ O Deadwood ilustra o conflito entre as **Raças Anciãs**: elas geralmente veem 
 - [[Old Woods]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #28](raw/clippings/Journal of Runic Studies 28.md)
+- Fonte: [Journal of Runic Studies #28](https://godlearners.com/journal-of-runic-studies-28/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

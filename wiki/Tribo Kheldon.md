@@ -2,7 +2,7 @@
 title: "Tribo Kheldon"
 category: "Cultura"
 tags: [Kheldon, Sartar, Killard Vale, Heort, Vinga, Black Rock, tribo]
-sources: ["raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-16/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -38,7 +38,7 @@ Seguindo o novo formato do Sartar Homeland Boxed Set: cerca de um terço das cri
 - [[Sartar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
+- Fonte: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
 
 ## Questões em Aberto
 - [ ] Os Kheldon serão detalhados no Sartar Homeland Boxed Set?

@@ -2,7 +2,7 @@
 title: "Tusk Riders"
 category: "Cultura"
 tags: [meio-trolls, javalis, Uz, Colymar, Sartar, Gouger, sacrifício]
-sources: ["raw/clippings/SKULL RUINS -- Tusk Riders Need Blood!, a Review.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/07/skull-ruins-tusk-riders-need-blood.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -36,7 +36,7 @@ Na aventura **[[Skull Ruins - Tusk Riders Need Blood!]]**, um Tusk Rider chamado
 - [[Leika Blacksper]]
 
 ## Referências
-- Fonte: [Review de Andrew Logan Montgomery](raw/clippings/SKULL RUINS -- Tusk Riders Need Blood!, a Review.md)
+- Fonte: [Review de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2024/07/skull-ruins-tusk-riders-need-blood.html)
 
 ## Questões em Aberto
 - [ ] Qual é a origem exata dos meio-trolls Tusk Riders?

@@ -2,7 +2,7 @@
 title: "RuneQuest: Roleplaying in Glorantha (RQG)"
 category: "Fonte"
 tags: [RuneQuest, 7ª edição, 2018, Glorantha, Greg Stafford, Steve Perrin, Jeff Richard, Jason Durall, Andrew Logan Montgomery, review, mitologia, sistema]
-sources: ["raw/clippings/RUNEQUEST ROLEPLAYING IN GLORANTHA, THE REVIEW.md", "raw/clippings/Dual Cult Membership.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2018/05/runequest-roleplaying-in-glorantha.html", "https://wellofdaliath.chaosium.com/dual-cult-membership/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -127,8 +127,8 @@ Heróis podem combinar duas ou três abordagens. Nem heroquesting nem Iluminaç�
 
 ## Referências
 - Fonte: [RUNEQUEST: ROLEPLAYING IN GLORANTHA, THE REVIEW — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2018/05/runequest-roleplaying-in-glorantha.html)
-- Fonte: [Review of RuneQuest: Roleplaying in Glorantha — El Runeblog](raw/clippings/Review of RuneQuest Roleplaying in Glorantha.md)
-- Fonte: [Dual Cult Membership](raw/clippings/Dual Cult Membership.md)
+- Fonte: [Review of RuneQuest: Roleplaying in Glorantha — El Runeblog](https://elruneblog.blogspot.com/2018/06/review-of-runequest-roleplaying-in.html)
+- Fonte: [Dual Cult Membership](https://wellofdaliath.chaosium.com/dual-cult-membership/)
 
 ## Questões em Aberto
 - [ ] RQG continuará sendo vendido após o lançamento do RRQG?

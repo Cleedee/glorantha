@@ -8,9 +8,9 @@ tags:
   - Pamaltela
   - regiões
 sources:
-  - raw/clippings/Glorantha.md
-  - raw/clippings/Journal of Runic Studies 11.md
-  - raw/clippings/Journal of Runic Studies 25.md
+  - https://1d6chan.miraheze.org/wiki/Glorantha
+  - https://godlearners.com/journal-of-runic-studies-11/
+  - https://godlearners.com/journal-of-runic-studies-25/
 last_updated: 2026-05-10
 status: estavel
 ---
@@ -95,7 +95,7 @@ No passado o jardim de Genert até ele ser devastado pelo Diabo — agora um vas
 - [[The Wastes]]
 
 ## Referências
-- Fonte: [Glorantha](raw/clippings/Glorantha.md)
+- Fonte: [Glorantha](https://1d6chan.miraheze.org/wiki/Glorantha)
 
 ## Questões em Aberto
 - [ ] Detalhes sobre cada sub-região

@@ -2,7 +2,7 @@
 title: "Moeda Gloranthana"
 category: "Conceito"
 tags: [moeda, economia, comércio, prata, ouro, cobre, chumbo, Lunars, guilders, wheels, clacks, bolgs, Issaries, Argan Argar]
-sources: ["raw/clippings/Unique Aspects of Glorantha  The RuneQuest RPG Wiki.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/unique-aspects-of-glorantha.html#community"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -49,7 +49,7 @@ Os trolls usam o **bolg** de chumbo como moeda e também como munição — eles
 - [[Calendário Gloranthano]]
 
 ## Referências
-- Fonte: [Unique Aspects of Glorantha — RuneQuest RPG Wiki](raw/clippings/Unique Aspects of Glorantha  The RuneQuest RPG Wiki.md)
+- Fonte: [Unique Aspects of Glorantha — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/unique-aspects-of-glorantha.html#community)
 
 ## Questões em Aberto
 - [ ] Quem eram os Gold Wheel Dancers?

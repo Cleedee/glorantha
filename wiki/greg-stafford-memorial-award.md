@@ -2,7 +2,7 @@
 title: "Greg Stafford Memorial Award"
 category: "Conceito"
 tags: [prêmio, fandom, Chaosium, Glorantha, Greg Stafford]
-sources: ["raw/clippings/Journal of Runic Studies 20.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -30,7 +30,7 @@ O **Greg Stafford Memorial Award for Gloranthan Fandom** é um prêmio concedido
 - [[Chaosium]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #20](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #20](https://godlearners.com/journal-of-runic-studies-20/)
 
 ## Questões em Aberto
 - [ ] Quem foram os vencedores entre 2021 e 2024?

@@ -2,7 +2,7 @@
 title: "Yara Aranis"
 category: "Entidade"
 tags: [entidade, Lunar, Templo da Lua Crescente, Glowline, aranha, teia]
-sources: ["raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-27/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -33,8 +33,8 @@ Junto com o [[Morcego Carmesim]], Yara Aranis foi usada durante a wane **The Str
 - [[Sheng Seleris]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
-- Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
+- Fonte: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
+- Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
 
 ## Questões em Aberto
 - [ ] Yara Aranis é uma divindade, um espírito ou um tipo específico de entidade lunar?

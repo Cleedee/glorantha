@@ -2,7 +2,7 @@
 title: "Valley of Plenty"
 category: "Fonte"
 tags: [campanha, QuestWorlds, Jaldonkillers, crianças, Dundealos, Shawn Carpenter, Peggy Carpenter, review, Jonstown]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Jonstown Jottings 26 Valley of Plenty.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html", "https://rlyehreviews.blogspot.com/2020/08/jonstown-jottings-26-valley-of-plenty.html", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-80/"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -113,9 +113,9 @@ A campanha está sendo mestreada por [[Claudio Torcato]] no servidor Discord man
 - [[Claudio Torcato]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
-- Fonte: [Jonstown Jottings #26: Valley of Plenty](raw/clippings/Jonstown Jottings 26 Valley of Plenty.md) — Review por pookie (2020-08-17)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
+- Fonte: [Jonstown Jottings #26: Valley of Plenty](https://rlyehreviews.blogspot.com/2020/08/jonstown-jottings-26-valley-of-plenty.html) — Review por pookie (2020-08-17)
 - [Valley of Plenty — DriveThruRPG](https://www.drivethrurpg.com/en/product/316797/valley-of-plenty)
 
 ## Questões em Aberto

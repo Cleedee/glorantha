@@ -2,7 +2,7 @@
 title: "Prince of Sartar"
 category: "Fonte"
 tags: [graphic novel, HQ, Jeff Richard, Kalin Kadiev, Argrath, Hero Wars, King of Sartar]
-sources: ["raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -47,7 +47,7 @@ A leitura da HQ é recomendada porque mostra, em forma de imagens, diversos aspe
 - [[RuneQuest - Roleplaying in Glorantha (RQG)]]
 
 ## Referências
-- Fonte: [Drops Glorantha #3 - Prince of Sartar](raw/clippings/Drops Glorantha 3 - Prince of Sartar.md)
+- Fonte: [Drops Glorantha #3 - Prince of Sartar](https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html)
 - [Prince of Sartar (web comic)](http://www.princeofsartar.com/comic/1-the-flame-of-sartar/)
 
 ## Questões em Aberto

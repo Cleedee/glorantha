@@ -2,7 +2,7 @@
 title: "Belintar"
 category: "Entidade"
 tags: [deus-rei, país santo, kethaela, 1318]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-80/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -90,9 +90,9 @@ Jeff Richard descreve o Torneio como "uma das baterias Thelêmicas que alimentam
 - [[Androgeus]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
-- Fonte: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
-- Fonte: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
+- Fonte: [Journal of Runic Studies #6](https://godlearners.com/journal-of-runic-studies-6/)
+- Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
 - Jeff Richard no RuneQuest Facebook Group
 - Escribas de Argrath
 

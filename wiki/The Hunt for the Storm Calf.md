@@ -2,7 +2,7 @@
 title: "The Hunt for the Storm Calf"
 category: "Fonte"
 tags: [aventura, RuneQuest, PDF, bezerro, tempestade]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -31,7 +31,7 @@ status: draft
 - [[A Darkness at Runegate]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 - [The Hunt for the Storm Calf — DriveThruRPG](https://www.drivethrurpg.com/es/product/542148/runequest-the-hunt-for-the-storm-calf)
 
 ## Questões em Aberto

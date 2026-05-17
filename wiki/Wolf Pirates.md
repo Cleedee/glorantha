@@ -2,7 +2,7 @@
 title: "Wolf Pirates"
 category: "Cultura"
 tags: [wolf pirates, harrek, mercenários, Mirrorsea, Karse, Império Lunar]
-sources: ["raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -56,7 +56,7 @@ A participação dos Wolf Pirates foi um ponto de virada tanto para os Lunares q
 - [[Harrek]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
+- Fonte: [Journal of Runic Studies #6](https://godlearners.com/journal-of-runic-studies-6/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

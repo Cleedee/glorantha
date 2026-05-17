@@ -2,7 +2,7 @@
 title: "Cultos e o Chaos"
 category: "Conceito"
 tags: [Chaos, cultos, relações, Primal Chaos, Cults of RuneQuest, Hon-eel, Humakt, Yelm]
-sources: ["raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -52,7 +52,7 @@ Esta classificação exclui cultos que possuem explicitamente a Runa do Chaos ([
 - [[Cults of RuneQuest]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #29](raw/clippings/Journal of Runic Studies 29.md)
+- Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
 - Jeff Richard no RuneQuest Facebook Group
 - Sneak peek dos próximos livros de Cults of RuneQuest
 

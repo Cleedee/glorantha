@@ -2,7 +2,7 @@
 title: "The Whispering Flowers of Lorthing Vale"
 category: "Fonte"
 tags: [aventura, Jonstown Compendium, Lorthing Vale, Lhankor Mhy, flores misteriosas, Max Bantleman]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -29,8 +29,8 @@ Sia é uma pastora que conhece bem o Lorthing Vale. Os aventureiros devem agir c
 - [[Jonstown]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
 - [The Whispering Flowers of Lorthing Vale — DriveThruRPG](https://www.drivethrurpg.com/en/product/549181/the-whispering-flowers-of-lorthing-vale)
 
 ## Questões em Aberto

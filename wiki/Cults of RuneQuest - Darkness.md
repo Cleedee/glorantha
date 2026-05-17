@@ -2,7 +2,7 @@
 title: "Cults of RuneQuest: Darkness"
 category: "Fonte"
 tags: [suplemento, cultos, escuridão, trolls, inframundo, RuneQuest, segunda metade 2026]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/notas/Publicações Futuras.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "raw/notas/Publicações Futuras.md"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -31,7 +31,7 @@ status: draft
 - [[Lords of Terror]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 - Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
 
 ## Questões em Aberto

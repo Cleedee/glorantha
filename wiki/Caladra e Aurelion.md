@@ -2,7 +2,7 @@
 title: "Caladra e Aurelion"
 category: "Entidade"
 tags: [deuses, vulcão, Caladraland, Lodril, God Learners, gêmeos]
-sources: ["raw/clippings/Journal of Runic Studies 18.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-18/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -34,7 +34,7 @@ O principal vulcão de Caladraland, **Veskarthan**, entrou em erupção em 1050 
 - [[Belintar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #18](raw/clippings/Journal of Runic Studies 18.md)
+- Fonte: [Journal of Runic Studies #18](https://godlearners.com/journal-of-runic-studies-18/)
 
 ## Questões em Aberto
 - [ ] Qual a diferença teológica entre Caladra e Aurelion?

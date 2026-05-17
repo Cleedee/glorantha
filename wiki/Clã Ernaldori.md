@@ -2,7 +2,7 @@
 title: "Clã Ernaldori"
 category: "Cultura"
 tags: [sartar, clã, ernaldori, grande, rico, demografia]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/"]
 last_updated: 2026-05-07
 status: draft
 ---
@@ -38,7 +38,7 @@ Clã grande e rico de Sartar, um dos clãs detalhados para o Sartar Homeland Box
 - [[Jeff Richard]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

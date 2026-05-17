@@ -2,7 +2,7 @@
 title: "Trollpak"
 category: "Fonte"
 tags: [troll, Uz, suplemento, Chaosium, 1982, cultura troll, Trollball]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -49,7 +49,7 @@ Membros de times de Trollball da **tribo Sazdorf** são mencionados como partici
 - [[Tribo Sazdorf]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
 - [Trollpak — Chaosium](https://www.chaosium.com/trollpak-pdf/)
 
 ## Questões em Aberto

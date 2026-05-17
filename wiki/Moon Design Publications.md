@@ -2,7 +2,7 @@
 title: "Moon Design Publications"
 category: "Fonte"
 tags: [editora, Chaosium, HeroQuest, Glorantha, 2015, 2020]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -34,7 +34,7 @@ A Moon Design Publications trabalhou em parceria com a Chaosium para produzir ma
 - [[Chaosium]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 
 ## Questões em Aberto
 - [ ] A Moon Design Publications ainda publica material para Glorantha?

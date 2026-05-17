@@ -2,7 +2,7 @@
 title: "Creek-Stream River"
 category: "Localização"
 tags: [rio, sartar, hidrografia, skyfall lake, choralinthor, nochet]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -35,7 +35,7 @@ A pouca profundidade do rio é uma das razões pelas quais o transporte fluvial 
 - [[Geologia de Glorantha]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

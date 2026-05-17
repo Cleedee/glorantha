@@ -2,7 +2,7 @@
 title: "RuneQuest Fantasy Roleplaying"
 category: "Conceito"
 tags: [RQFR, sistema, Pavis, Big Rubble, Jeff Richard, Mike Mearls, 2027-2028]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/notas/Publicações Futuras.md", "raw/clippings/A bit more insight on the RQG revised project.md", "raw/clippings/Update on what's happening with RQ.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "raw/notas/Publicações Futuras.md", "https://wellofdaliath.chaosium.com/a-bit-more-insight-on-the-rqg-revised-project/", "https://wellofdaliath.chaosium.com/update-on-whats-happening-with-rq/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -58,10 +58,10 @@ A Chaosium confirma que haverá **duas versões** de RuneQuest coexistindo:
 - [[Michael O'Brien]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 - Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
-- Fonte: [A bit more insight on the RQG revised project — Well of Daliath](raw/clippings/A bit more insight on the RQG revised project.md)
-- Fonte: [Update on what's happening with RQ — Well of Daliath](raw/clippings/Update on what's happening with RQ.md)
+- Fonte: [A bit more insight on the RQG revised project — Well of Daliath](https://wellofdaliath.chaosium.com/a-bit-more-insight-on-the-rqg-revised-project/)
+- Fonte: [Update on what's happening with RQ — Well of Daliath](https://wellofdaliath.chaosium.com/update-on-whats-happening-with-rq/)
 
 ## Questões em Aberto
 - [ ] RQFR será compatível com suplementos existentes de RQG?

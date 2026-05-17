@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies 28"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Ludovic]
-sources: ["raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -53,7 +53,7 @@ status: draft
 
 ## Referências
 - Fonte: [Journal of Runic Studies #28 — God Learners](https://godlearners.com/journal-of-runic-studies-28/)
-- Arquivo local: [raw/clippings/Journal of Runic Studies 28.md](raw/clippings/Journal of Runic Studies 28.md)
+- Fonte: [https://godlearners.com/journal-of-runic-studies-28/](https://godlearners.com/journal-of-runic-studies-28/)
 
 ## Questões em Aberto
 - [ ] N/A — Arquivo fonte completo ingerido.

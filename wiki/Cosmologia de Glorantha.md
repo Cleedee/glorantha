@@ -2,7 +2,7 @@
 title: "Cosmologia de Glorantha"
 category: "Conceito"
 tags: [cosmologia, mito, creation, sol, luas, underworld, céu]
-sources: ["raw/clippings/Glorantha.md", "raw/clippings/The RuneQuest RPG Wiki - The World.md"]
+sources: ["https://1d6chan.miraheze.org/wiki/Glorantha", "https://rqwiki.chaosium.com/glorantha/the-world.html"]
 last_updated: 2026-04-27
 status: draft
 ---
@@ -49,7 +49,7 @@ O mundo é povoado por entidades mágicas — personificações de coisas, repre
 - [[Uz]]
 
 ## Referências
-- Fonte: [Glorantha](raw/clippings/Glorantha.md)
+- Fonte: [Glorantha](https://1d6chan.miraheze.org/wiki/Glorantha)
 
 ## Questões em Aberto
 - [ ] Detalhes sobre as torres do leste e oeste

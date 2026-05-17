@@ -2,7 +2,7 @@
 title: "Bad Omens"
 category: "Fonte"
 tags: [aventura, Jonstown Compendium, Prax, Bison Tribe, xamã, Beer with Teeth, Diana Probst]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -32,8 +32,8 @@ O clã Straw Weaver da Tribo dos Bisontes convida os aventureiros para seu ritua
 - [[Erhehta]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
 - [Bad Omens — DriveThruRPG](https://www.drivethrurpg.com/en/product/548092/bad-omens)
 
 ## Questões em Aberto

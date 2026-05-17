@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #16"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Black Spear, White Bull, Kheldon, Culbrea, Starter Set, Jeff Richard]
-sources: ["raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-16/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -80,7 +80,7 @@ Evan e JM, acompanhados por Becca (13th Age Iconic Podcast), discutem os cultos 
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
+- Fonte original: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-16/)
 
 ## Questões em Aberto

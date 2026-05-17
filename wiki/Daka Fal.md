@@ -2,7 +2,7 @@
 title: "Daka Fal"
 category: "Entidade"
 tags: [deus, julgamento, morte, espíritos, xamanismo, ancestrais, Runas, Homem Chifrudo]
-sources: ["raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -40,7 +40,7 @@ Daka Fal é um dos cultos listados em **[[Cults of RuneQuest - The Lightbringers
 - [[Membresia Dupla de Cultos]]
 
 ## Referências
-- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md)
+- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html)
 
 ## Questões em Aberto
 - [ ] A linha entre Daka Fal e o Homem Chifrudo é deliberadamente ambígua ou é uma evolução cultural específica dos Nômades?

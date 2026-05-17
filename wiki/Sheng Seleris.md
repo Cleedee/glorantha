@@ -2,7 +2,7 @@
 title: "Sheng Seleris"
 category: "Entidade"
 tags: [conquistador, nômades, Império Lunar, Glowline, Terceira Wane, Dara Happa, Yara Aranis, Morcego Carmesim]
-sources: ["raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Sheng Seleris II.md", "raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-5/", "https://wellofdaliath.chaosium.com/notes-on-sheng-seleris-ii/", "https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -111,12 +111,12 @@ Godunya (o Imperador Dragão de [[Kralorela]]) tem sua própria visão: o desper
 - [[Templo da Lua Alcançada]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
-- Fonte: [Sheng Seleris II — Well of Daliath](raw/clippings/Sheng Seleris II.md)
+- Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
+- Fonte: [Sheng Seleris II — Well of Daliath](https://wellofdaliath.chaosium.com/notes-on-sheng-seleris-ii/)
 - Fonte: [Glowline](wiki/Glowline.md)
 
-- Fonte: [Journal of Runic Studies #28](raw/clippings/Journal of Runic Studies 28.md)
+- Fonte: [Journal of Runic Studies #28](https://godlearners.com/journal-of-runic-studies-28/)
 
 ## Questões em Aberto
 - [ ] O que foram exatamente os "concursos mágicos" entre Sheng Seleris e o Red Emperor?

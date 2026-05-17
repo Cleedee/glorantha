@@ -2,7 +2,7 @@
 title: "Sistemas de Magia em RuneQuest"
 category: "Magia"
 tags: [RuneQuest, Battle Magic, Rune Magic, feitiçaria, sorcery, mitologia, sistemas mágicos, alquimia, RQ3]
-sources: ["raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART TWO.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -64,8 +64,8 @@ Para detalhes sobre a evolução da feitiçaria em RQG, ver [[sorcery-in-rq-part
 - [[Why I (Actually) Like Sorcery in RuneQuest, Part Two]]
 
 ## Referências
-- Fonte: [Why I (Actually) Like Sorcery in RuneQuest, Part One](raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md)
-- Fonte: [Why I (Actually) Like Sorcery in RuneQuest, Part Two](raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART TWO.md)
+- Fonte: [Why I (Actually) Like Sorcery in RuneQuest, Part One](https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html)
+- Fonte: [Why I (Actually) Like Sorcery in RuneQuest, Part Two](https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html)
 - [[Andrew Logan Montgomery]]
 
 ## Questões em Aberto

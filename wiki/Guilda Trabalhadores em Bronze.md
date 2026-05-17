@@ -2,7 +2,7 @@
 title: "Guilda Trabalhadores em Bronze"
 category: "Cultura"
 tags: [boldhome, guilda, gustbran, sartar, artesãos]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/"]
 last_updated: 2026-05-07
 status: draft
 ---
@@ -37,7 +37,7 @@ Guilda de Boldhome centrada no culto de Gustbran; exemplo de como cultos menores
 - [[Guildas de Sartar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "Upland Marsh"
 category: "Localização"
 tags: [sourcebook, pântano, manuscrito completo, RuneQuest, durulz, Lismelder, Greydog]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -40,7 +40,7 @@ A região também é conhecida por diversas espécies de plantas e animais monst
 
 ## Referências
 - Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
-- Fonte: [Journey to Jonstown #82: Marsh Attacks!](raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md)
+- Fonte: [Journey to Jonstown #82: Marsh Attacks!](https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/)
 
 ## Questões em Aberto
 - [ ] Quais são as_SPECIES de plantas e animais monstruosos da região?

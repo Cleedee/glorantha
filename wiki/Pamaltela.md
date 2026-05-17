@@ -2,7 +2,7 @@
 title: "Pamaltela"
 category: "Localização"
 tags: [continente, sul, Genertela, regiões]
-sources: ["raw/clippings/Glorantha.md"]
+sources: ["https://1d6chan.miraheze.org/wiki/Glorantha"]
 last_updated: 2026-04-27
 status: draft
 ---
@@ -50,7 +50,7 @@ Ao sul de Kothar. Realmente não é relevante.
 - [[Pamalt]]
 
 ## Referências
-- Fonte: [Glorantha](raw/clippings/Glorantha.md)
+- Fonte: [Glorantha](https://1d6chan.miraheze.org/wiki/Glorantha)
 
 ## Questões em Aberto
 - [ ] Detalhes sobre cada sub-região

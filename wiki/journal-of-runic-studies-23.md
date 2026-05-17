@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #23"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Ludovic, Chuva Má, Bad Rain, Irmãos do Trovão, Kallyr, Argrath, Harmast, Maruts]
-sources: ["raw/clippings/Journal of Runic Studies 23.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-23/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -65,7 +65,7 @@ Ver página dedicada: [[A Chuva Má]].
 - [[Duckpac Confidential]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #23](raw/clippings/Journal of Runic Studies 23.md)
+- Fonte original: [Journal of Runic Studies #23](https://godlearners.com/journal-of-runic-studies-23/)
 
 ## Questões em Aberto
 - [ ] Qual é a Sombra de Kallyr? E a de Argrath?

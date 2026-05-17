@@ -2,7 +2,7 @@
 title: "Orlanth"
 category: "Entidade"
 tags: [deus, rei dos deuses, Orlanthi, tempestade, Glorantha, Armamento, Lightbringers]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 23.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-23/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -128,8 +128,8 @@ Nota: as **Ruínas Fumegantes** (Smoking Ruins) são as mesmas do Sul Selvagem? 
 - [[Hogar Audaz]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
-- Fonte: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
+- Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
 - Sartar Homeland Boxed Set (excerto), via Jeff Richard no Facebook
 
 ## Questões em Aberto

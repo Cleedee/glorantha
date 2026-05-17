@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #14"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, GenCon, ENNIE, Starter Set, White Bull, Jonstown]
-sources: ["raw/clippings/Journal of Runic Studies 14.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-14/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -67,7 +67,7 @@ A campanha da casa Chaosium continua: os aventureiros carregam contra os **Grani
 - [[The Bad Winds]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #14](raw/clippings/Journal of Runic Studies 14.md)
+- Fonte original: [Journal of Runic Studies #14](https://godlearners.com/journal-of-runic-studies-14/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-14/)
 
 ## Questões em Aberto

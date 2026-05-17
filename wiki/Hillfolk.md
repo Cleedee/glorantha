@@ -2,7 +2,7 @@
 title: "Hillfolk"
 category: "Fonte"
 tags: [RPG, DramaSystem, Kickstarter, Diana Jones Award, 2012, 2014, Robin D. Laws]
-sources: ["raw/clippings/Interview with Robin D. Laws.md"]
+sources: ["https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -31,7 +31,7 @@ Robin relatou uma campanha de 36 episódios usando o cenário *Alma Mater Magica
 - [[DramaSystem]]
 
 ## Referências
-- Fonte: [Interview with Robin D. Laws — Juegos y Dados](raw/clippings/Interview with Robin D. Laws.md)
+- Fonte: [Interview with Robin D. Laws — Juegos y Dados](https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/)
 
 ## Questões em Aberto
 - [ ] Hillfolk tem cenários ambientados em Glorantha?

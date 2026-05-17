@@ -2,7 +2,7 @@
 title: "Amal-See Calax"
 category: "Entidade"
 tags: [sacerdotisa, Lua Vermelha, Império Lunar, 1580, Tratado]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -27,7 +27,7 @@ Como Enviada da Delegação Comercial Imperial, Amal-See Calax atuou como diplom
 - [[Tratado da Sétima Lua Minguante]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 
 ## Questões em Aberto
 - [ ] Amal-See Calax aparece em outras fontes de Glorantha?

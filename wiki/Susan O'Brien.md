@@ -2,7 +2,7 @@
 title: "Susan O'Brien"
 category: "Entidade"
 tags: [editora, A Pyre for Gods and Heroes, Greg Stafford, Chaosium]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -27,7 +27,7 @@ status: draft
 - [[Michael O'Brien]]
 
 ## Referências
-- Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md)
+- Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html)
 
 ## Questões em Aberto
 - [ ] Susan O'Brien tem outros projetos na Chaosium?

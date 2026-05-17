@@ -2,7 +2,7 @@
 title: "Uz (Trolls)"
 category: "Cultura"
 tags: [raça, trolls, Uz, elder race]
-sources: ["raw/clippings/Glorantha.md", "raw/clippings/Drops Glorantha 4 - Trollball.md"]
+sources: ["https://1d6chan.miraheze.org/wiki/Glorantha", "https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html"]
 last_updated: 2026-04-27
 status: draft
 ---
@@ -45,8 +45,8 @@ Filhotes trolls pequenos, estúpidos e atrofiados. Usados como comida, escravos 
 - [[Templo da Espada de Madeira]]
 
 ## Referências
-- Fonte: [Glorantha](raw/clippings/Glorantha.md)
-- Fonte: [Glorantha](raw/clippings/Drops Glorantha 4 - Trollball.md)
+- Fonte: [Glorantha](https://1d6chan.miraheze.org/wiki/Glorantha)
+- Fonte: [Glorantha](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
 
 ## Questões em Aberto
 - [ ] Detalhes sobre Kyger Litor, Zorak Zoran, Argan Argar

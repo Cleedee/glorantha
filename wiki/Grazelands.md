@@ -2,7 +2,7 @@
 title: "Grazelands"
 category: "Localização"
 tags: [Grazelands, Pony Breeders, Feathered Horse Queen, Dragon Pass, cavalos, pastores]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - Dragon Pass.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities"]
 last_updated: 2026-05-15
 status: draft
 aliases:
@@ -36,7 +36,7 @@ Os Grazelanders foram aliados de [[Argrath]] durante as Hero Wars, fornecendo ca
 - [[Inkarne]]
 
 ## Referências
-- Fonte: [The RuneQuest RPG Wiki — Dragon Pass](raw/clippings/The RuneQuest RPG Wiki - Dragon Pass.md)
+- Fonte: [The RuneQuest RPG Wiki — Dragon Pass](https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities)
 
 ## Questões em Aberto
 - [ ] Quem é a atual Feathered Horse Queen?

@@ -2,7 +2,7 @@
 title: "Secrets of Dorastor"
 category: "Fonte"
 tags: [suplemento, Dorastor, Simon Phipp, Jonstown Compendium, campanha anos 80]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -35,7 +35,7 @@ O guia abrange:
 - [[Holiday Dorastor - Spider Woods]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 - [Secrets of Dorastor — DriveThruRPG](https://www.drivethrurpg.com/en/product/318512/secrets-of-dorastor)
 
 ## Questões em Aberto

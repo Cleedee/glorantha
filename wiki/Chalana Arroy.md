@@ -2,7 +2,7 @@
 title: "Chalana Arroy"
 category: "Entidade"
 tags: [deusa, cura, não-violência, Orlanthi, Holy Country, Paz, Lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -40,7 +40,7 @@ Interpretar um iniciado de Chalana Arroy é desafiador. A menos que o personagem
 - [[Império dos Amigos dos Wyrms]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - Jeff Richard no BRP Central, 2021
 
 ## Questões em Aberto

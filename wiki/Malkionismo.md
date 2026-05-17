@@ -2,7 +2,7 @@
 title: "Malkionismo"
 category: "Conceito"
 tags: [malkioni, filosofia, religião, brithini]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 24.md", "raw/clippings/Journal of Runic Studies 25.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART TWO.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-24/", "https://godlearners.com/journal-of-runic-studies-25/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -87,7 +87,7 @@ Jeff Richard e Nick Brooke esclarecem que os Malkioni contemporâneos **não sã
 - [[Jeff Richard]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

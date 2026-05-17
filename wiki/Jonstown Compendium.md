@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-80/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -126,7 +126,7 @@ O bibliotecário dos God Learners iniciou uma lista de todos os "freeforms" (LAR
 - [[Sartar]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 - [Jonstown Compendium — DriveThruRPG](https://www.drivethrurpg.com/)
 
 ## Questões em Aberto

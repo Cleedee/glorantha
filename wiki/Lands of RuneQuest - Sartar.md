@@ -2,7 +2,7 @@
 title: "Lands of RuneQuest: Sartar"
 category: "Fonte"
 tags: [suplemento, RuneQuest, Sartar, tribos, clãs, Hogar Audaz, Orlanthi, segunda metade 2026]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -37,7 +37,7 @@ Snippets do livro foram compartilhados em novembro de 2025 mostrando conteúdo d
 - [[Hogar Audaz]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Qual será o preço e número de páginas?

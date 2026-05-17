@@ -2,7 +2,7 @@
 title: "The RuneQuest RPG Wiki — Dragon Pass"
 category: "Fonte"
 tags: [site, referência, RuneQuest, Chaosium, wiki, Dragon Pass, Sartar, Esrolia, Grazelands, Prax, Tarsh]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - Dragon Pass.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -46,7 +46,7 @@ Lar dos **Beast People**: centauros, minotauros, sátiros, raposas-mulher, manti
 - [[Mostali]]
 
 ## Referências
-- Fonte original: [The RuneQuest RPG Wiki — Dragon Pass](raw/clippings/The RuneQuest RPG Wiki - Dragon Pass.md)
+- Fonte original: [The RuneQuest RPG Wiki — Dragon Pass](https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities)
 - [RuneQuest RPG Wiki — Chaosium](https://rqwiki.chaosium.com/)
 
 ## Questões em Aberto

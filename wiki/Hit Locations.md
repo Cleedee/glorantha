@@ -2,7 +2,7 @@
 title: "Hit Locations"
 category: "Conceito"
 tags: [RuneQuest, combate, hit points, ferimentos, anatomia]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - Combat.md"]
+sources: ["https://rqwiki.chaosium.com/rules/combat.html#strike-ranks"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -66,7 +66,7 @@ Todas as criaturas curam naturalmente com o tempo. A **taxa de cura** (healing r
 - [[Chalana Arroy]]
 
 ## Referências
-- Fonte: [The RuneQuest RPG Wiki - Combat](raw/clippings/The RuneQuest RPG Wiki - Combat.md)
+- Fonte: [The RuneQuest RPG Wiki - Combat](https://rqwiki.chaosium.com/rules/combat.html#strike-ranks)
 
 ## Questões em Aberto
 - [ ] Quais são as tabelas completas de Hit Locations para outras raças (trolls, durulz, etc)?

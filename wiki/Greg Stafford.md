@@ -2,7 +2,7 @@
 title: "Greg Stafford"
 category: "Entidade"
 tags: [criador, designer, Glorantha, RuneQuest, Chaosium, Colymar]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md", "raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART TWO.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html", "https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -58,8 +58,8 @@ Seu romance inacabado **[[A Pyre for Gods and Heroes]]** (originalmente conhecid
 - [[Kallyr Testa-Estrelada]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 
 ## Questões em Aberto
 - [ ] Qual foi o papel exato de Stafford na fundação da Chaosium?

@@ -2,7 +2,7 @@
 title: "Myth and History — RuneQuest RPG Wiki"
 category: "Fonte"
 tags: [site, referência, RuneQuest, Chaosium, wiki, mitologia, história, Lightbringers, Gbaji, EWF, Dragonrise, Hero Wars]
-sources: ["raw/clippings/Myth and History  The RuneQuest RPG Wiki.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -53,7 +53,7 @@ Kallyr Starbow libertou Boldhome e proclamou-se Princesa de [[Sartar]]. Começar
 - [[Hero Wars]]
 
 ## Referências
-- Fonte original: [Myth and History — RuneQuest RPG Wiki](raw/clippings/Myth and History  The RuneQuest RPG Wiki.md)
+- Fonte original: [Myth and History — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history)
 - [RuneQuest RPG Wiki — Chaosium](https://rqwiki.chaosium.com/)
 
 ## Questões em Aberto

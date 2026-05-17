@@ -2,7 +2,7 @@
 title: "Caos"
 category: "Conceito"
 tags: [Caos, inimigo, Dorastor, monstros, ordem vs caos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -35,7 +35,7 @@ O Caos é uma das forças fundamentais do universo de Glorantha, opondo-se à Or
 - [[Orlanthi]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Qual é a origem do Caos em Glorantha?

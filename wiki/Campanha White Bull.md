@@ -2,7 +2,7 @@
 title: "Campanha White Bull"
 category: "Evento"
 tags: [white bull, chaosium, youtube, kallyr, lightbringers]
-sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 8.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-8/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -80,7 +80,7 @@ Jeff Richard demonstrou um preview das **regras de combate em massa**:
 - [[Regras de Batalha em Massa]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Vídeo no YouTube: [White Bull Campaign Returns](https://www.youtube.com/watch?v=WsmSAl0YzMw)
 
 ## Questões em Aberto

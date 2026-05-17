@@ -2,7 +2,7 @@
 title: "Mongoose Publishing"
 category: "Fonte"
 tags: [editora, Mongoose, Glorantha, 2006-2010, Robin Laws, Lawrence Whitaker]
-sources: ["raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md"]
+sources: ["https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -40,7 +40,7 @@ O **Well of Daliath** (wellofdaliath.chaosium.com) é um site que preserva o cat
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [Mongoose Glorantha Titles — Well of Daliath](raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md)
+- Fonte: [Mongoose Glorantha Titles — Well of Daliath](https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/)
 - [Well of Daliath](https://wellofdaliath.chaosium.com/)
 
 ## Questões em Aberto

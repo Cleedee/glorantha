@@ -2,7 +2,7 @@
 title: "Big Rubble e Pavis"
 category: "Localização"
 tags: [Pavis, Big Rubble, ruínas, Império Lunar, Prax, Sartar, 1610]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/Levels of The Big Rubble.md", "raw/clippings/Layout of the Big Rubble.md", "raw/clippings/Notes on the Big Rubble.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html", "https://wellofdaliath.chaosium.com/levels-of-the-big-rubble/", "https://wellofdaliath.chaosium.com/layout-of-the-big-rubble/", "https://wellofdaliath.chaosium.com/notes-on-the-big-rubble/"]
 last_updated: 2026-04-20
 status: draft
 ---
@@ -126,10 +126,10 @@ O futuro suplemento **[[RuneQuest Fantasy Roleplaying]]** terá como centro Pavi
 
 ## Referências
 
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
-- Fonte: [Levels of The Big Rubble](raw/clippings/Levels of The Big Rubble.md) — Well of Daliath (2024-06-09)
-- Fonte: [Layout of the Big Rubble](raw/clippings/Layout of the Big Rubble.md) — Well of Daliath (2025-06-21)
-- Fonte: [Notes on the Big Rubble](raw/clippings/Notes on the Big Rubble.md) — Well of Daliath (2024-01-15)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
+- Fonte: [Levels of The Big Rubble](https://wellofdaliath.chaosium.com/levels-of-the-big-rubble/) — Well of Daliath (2024-06-09)
+- Fonte: [Layout of the Big Rubble](https://wellofdaliath.chaosium.com/layout-of-the-big-rubble/) — Well of Daliath (2025-06-21)
+- Fonte: [Notes on the Big Rubble](https://wellofdaliath.chaosium.com/notes-on-the-big-rubble/) — Well of Daliath (2024-01-15)
 - Wyrms' Footnotes nº 11 — Chaosium (1981)
 
 ## Questões em Aberto

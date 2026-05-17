@@ -2,7 +2,7 @@
 title: "Hogar Audaz"
 category: "Localização"
 tags: [capital, Sartar, Boldhome, Orlanthi, reino]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -20,4 +20,4 @@ Nome português de **[[Boldhome]]**, capital do reino de [[Sartar]]. Construída
 - [[Irmãs Respiradoras]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)

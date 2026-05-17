@@ -2,7 +2,7 @@
 title: "Ricardo Shankland"
 category: "Fonte"
 tags: [autor, Jonstown Compendium, RuneQuest, Glorantha, Skull Ruins]
-sources: ["raw/clippings/SKULL RUINS -- Tusk Riders Need Blood!, a Review.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/07/skull-ruins-tusk-riders-need-blood.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -27,7 +27,7 @@ Segundo Andrew Logan Montgomery, a escrita de Shankland contrasta com o estilo "
 - [[Dario Corallo]]
 
 ## Referências
-- Fonte: [Review de Andrew Logan Montgomery](raw/clippings/SKULL RUINS -- Tusk Riders Need Blood!, a Review.md)
+- Fonte: [Review de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2024/07/skull-ruins-tusk-riders-need-blood.html)
 
 ## Questões em Aberto
 - [ ] Ricardo Shankland tem outras publicações além de Skull Ruins?

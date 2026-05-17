@@ -2,7 +2,7 @@
 title: "Alakoring's Legacy"
 category: "Fonte"
 tags: [jonstown, clãs, sartar, questworlds, questionário]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/"]
 last_updated: 2026-05-07
 status: draft
 ---
@@ -34,7 +34,7 @@ Suplemento de Edan e Alister Jones (dupla pai/filho) para Jonstown Compendium; q
 - [[Clãs de Sartar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Jonstown Compendium: [Alakoring's Legacy](https://www.drivethrurpg.com/product/363702/Alakorings-Legacy?affiliate_id=326228)
 
 ## Questões em Aberto

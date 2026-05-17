@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #9"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Steve Perrin, Elmal, Yelmalio, Boldhome, Saird, White Bull]
-sources: ["raw/clippings/Journal of Runic Studies 9.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-9/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -54,7 +54,7 @@ Continuação da campanha Chaosium através da aventura "Dragon of Thunder Hills
 - [[Ludovic (God Learners)]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #9](raw/clippings/Journal of Runic Studies 9.md)
+- Fonte original: [Journal of Runic Studies #9](https://godlearners.com/journal-of-runic-studies-9/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-9/)
 
 ## Questões em Aberto

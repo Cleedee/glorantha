@@ -2,7 +2,7 @@
 title: "OUROBOROS"
 category: "Conceito"
 tags: [OUROBOROS, Cosmic Dragon, Orlanth, Arangorf, Sh'harkazeel, utuma, dragão, poema, EWF]
-sources: ["raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -67,7 +67,7 @@ Através de suas insights dracônicas, os governantes do EWF tinham acesso a pod
 - [[Dragon Pass]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #29](raw/clippings/Journal of Runic Studies 29.md)
+- Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
 - Jeff Richard no RuneQuest Facebook Group
 - Wyrm's Footnotes 14
 

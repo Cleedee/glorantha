@@ -2,7 +2,7 @@
 title: "Why I (Actually) Like Sorcery in RuneQuest, Part Two"
 category: "Fonte"
 tags: [blog, Andrew Logan Montgomery, feitiçaria, sorcery, RQG, alquimia, Nephilim, RQ3, Malkioni, God Learners]
-sources: ["raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART TWO.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -50,7 +50,7 @@ Stafford lutou para desenvolver um "feeling" pela feitiçaria análogo ao que ti
 - [[Sistemas de Magia em RuneQuest]]
 
 ## Referências
-- Fonte original: [Why I (Actually) Like Sorcery in RuneQuest, Part Two](raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART TWO.md)
+- Fonte original: [Why I (Actually) Like Sorcery in RuneQuest, Part Two](https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html)
 - [[Andrew Logan Montgomery]]
 
 ## Questões em Aberto

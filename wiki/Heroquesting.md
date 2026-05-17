@@ -2,7 +2,7 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard, Greg Stafford, Ranging, Joining]
-sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -165,7 +165,7 @@ GMs **podem e devem criar seus próprios eventos míticos** que se encaixem nos 
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #69](raw/clippings/Journal of Runic Studies 69.md)
+- Fonte: [Journal of Runic Studies #69](https://godlearners.com/journal-of-runic-studies-69/)
 
 ## Questões em Aberto
 - [ ] Quais são as regras específicas de bênçãos e maldições?

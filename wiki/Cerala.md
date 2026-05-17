@@ -2,7 +2,7 @@
 title: "Cerala"
 category: "Entidade"
 tags: [deusa, Hyalor, Aldrya, florestas, magia, Hyalorings]
-sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
+sources: ["https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -29,7 +29,7 @@ A descoberta de Cerala foi um evento transformador para os Hyalorings. Quando a 
 - [[Hyalorings]]
 
 ## Referências
-- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)
+- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html)
 
 ## Questões em Aberto
 - [ ] Cerala aparece em outras fontes canônicas de Glorantha?

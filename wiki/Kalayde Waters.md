@@ -2,7 +2,7 @@
 title: "Kalayde Waters"
 category: "Fonte"
 tags: [Jonstown, aventura, Sean Fitzgerald, julgamento, Orlanthi, lei, tribunal, Lhankor Mhy]
-sources: ["raw/clippings/Trial and Tribulation A look at Kalayde Waters.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/12/trial-and-tribulation-look-at-kalayde.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -45,7 +45,7 @@ A aventura também contém uma seção expandida sobre **hospitalidade e saudaç
 - [[Orlanthi das Colinas]]
 
 ## Referências
-- Fonte: [Trial and Tribulation: A look at Kalayde Waters — Andrew Logan Montgomery](raw/clippings/Trial and Tribulation A look at Kalayde Waters.md)
+- Fonte: [Trial and Tribulation: A look at Kalayde Waters — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2024/12/trial-and-tribulation-look-at-kalayde.html)
 - [Kalayde Waters no DriveThruRPG](https://www.drivethrurpg.com/en/product/497278/kalayde-waters)
 - [Kalayde Waters VTT Edition](https://www.drivethrurpg.com/en/product/497292/kalayde-waters-vtt-edition)
 

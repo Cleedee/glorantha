@@ -2,7 +2,7 @@
 title: "Cults of RuneQuest: The Lightbringers"
 category: "Fonte"
 tags: [suplemento, cultos, Lightbringers, Orlanth, Tempestade, Chaosium, review]
-sources: ["raw/clippings/Cults of RuneQuest The Lightbringers review.md", "raw/clippings/Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/2023/08/cults-of-runequest-lightbringers-review.html", "https://elruneblog.blogspot.com/search?q=cults+of+runequest&updated-max=2024-03-13T21:51:00%2B01:00&max-results=20&start=3&by-date=false"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -30,8 +30,8 @@ status: draft
 - [[Cults of Prax]]
 
 ## Referências
-- Fonte: [Cults of RuneQuest: The Lightbringers review — El Runeblog](raw/clippings/Cults of RuneQuest The Lightbringers review.md)
-- Fonte: [Runeblog](raw/clippings/Runeblog.md)
+- Fonte: [Cults of RuneQuest: The Lightbringers review — El Runeblog](https://elruneblog.blogspot.com/2023/08/cults-of-runequest-lightbringers-review.html)
+- Fonte: [Runeblog](https://elruneblog.blogspot.com/search?q=cults+of+runequest&updated-max=2024-03-13T21:51:00%2B01:00&max-results=20&start=3&by-date=false)
 
 ## Questões em Aberto
 - [ ] Quantas páginas tem este suplemento?

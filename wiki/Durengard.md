@@ -2,7 +2,7 @@
 title: "Durengard"
 category: "Localização"
 tags: [cidade, Heortland, porto, Belintar, Malkioni, Mirrorsea]
-sources: ["raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-7/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -37,7 +37,7 @@ Maior cidade a leste do Planalto das Sombras em [[Heortland]]. Importante porto 
 - [[Baía de Mirrorsea]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
+- Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 - Mapa de Durengard por Jeff Richard © 2021 Chaosium Inc.
 

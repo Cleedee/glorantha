@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #17"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Argrath, Dart Wars, Orlanthi, Dara Happan, Korolstead, Beer With Teeth]
-sources: ["raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-17/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -96,7 +96,7 @@ Ilustração de um elfo negro (Voralan) por @CrimFlower no Twitter.
 - [[Dendara]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #17](raw/clippings/Journal of Runic Studies 17.md)
+- Fonte original: [Journal of Runic Studies #17](https://godlearners.com/journal-of-runic-studies-17/)
 
 ## Questões em Aberto
 - [ ] O Sartar Homeland Boxed Set detalha todas as reformas de Argrath?

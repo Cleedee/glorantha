@@ -2,7 +2,7 @@
 title: "Nick Brooke"
 category: "Entidade"
 tags: [escritor, Jonstown Compendium, Greg Stafford Memorial Award, Lunar, Malkioni]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 11.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 20.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 24.md", "raw/clippings/Journal of Runic Studies 25.md", "raw/clippings/CRIMSON KING, ANOTHER RUNEQUEST REVIEW.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-20/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-24/", "https://godlearners.com/journal-of-runic-studies-25/", "https://andrewloganmontgomery.blogspot.com/2023/01/crimson-king-another-runequest-review.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -51,7 +51,7 @@ Nick Brooke é um dos principais especialistas em material Lunar do Jonstown Com
 - [[Reaching Moon Megacorp]]
 
 ## Referências
-- Fonte: [Crimson King, Another RuneQuest Review](raw/clippings/CRIMSON KING, ANOTHER RUNEQUEST REVIEW.md)
+- Fonte: [Crimson King, Another RuneQuest Review](https://andrewloganmontgomery.blogspot.com/2023/01/crimson-king-another-runequest-review.html)
 - [[Andrew Logan Montgomery]]
 - [[Journal of Runic Studies]]
 

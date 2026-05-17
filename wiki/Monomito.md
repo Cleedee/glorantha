@@ -2,7 +2,7 @@
 title: "Monomito"
 category: "Conceito"
 tags: [mitologia, filosofia, deus invisível, god learners]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -57,8 +57,8 @@ O Monomito nunca substituiu completamente muitos nomes e cultos tradicionais, ma
 - [[God Learners]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

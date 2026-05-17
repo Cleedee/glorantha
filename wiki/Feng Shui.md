@@ -2,7 +2,7 @@
 title: "Feng Shui"
 category: "Fonte"
 tags: [RPG, ação, artes marciais, Daedalus, Atlas Games, Robin D. Laws, 1996]
-sources: ["raw/clippings/Interview with Robin D. Laws.md"]
+sources: ["https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -31,7 +31,7 @@ Feng Shui foi nomeado para o **Ennie Award 2016**.
 - [[Nexus]]
 
 ## Referências
-- Fonte: [Interview with Robin D. Laws — Juegos y Dados](raw/clippings/Interview with Robin D. Laws.md)
+- Fonte: [Interview with Robin D. Laws — Juegos y Dados](https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/)
 
 ## Questões em Aberto
 - [ ] Feng Shui tem alguma conexão com cenários de fantasia da Chaosium?

@@ -3,11 +3,11 @@ title: "Kallyr Testa-Estrelada"
 category: "Entidade"
 tags: [Kallyr, Starbrow, rebelião, Sartar, HeroQuest, líder, rex, orlanth, Ernaldesta]
 sources:
-  - raw/clippings/Drops Glorantha 4 - Trollball.md
-  - raw/clippings/Journal of Runic Studies 5.md
-  - raw/clippings/Journal of Runic Studies 12.md
-  - raw/clippings/Journal of Runic Studies 23.md
-  - raw/clippings/Journal of Runic Studies 27.md
+  - https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html
+  - https://godlearners.com/journal-of-runic-studies-5/
+  - https://godlearners.com/journal-of-runic-studies-12/
+  - https://godlearners.com/journal-of-runic-studies-23/
+  - https://godlearners.com/journal-of-runic-studies-27/
 last_updated: 2026-05-16
 status: draft
 aliases:
@@ -66,8 +66,8 @@ Os personagens da campanha Colymar realizaram um **Teste da Coroa** (Crown Test)
 - [[Orlanth]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Wyrms' Footnotes nº 11 — Chaosium (1981)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 

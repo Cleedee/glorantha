@@ -2,7 +2,7 @@
 title: "Cults of RuneQuest: The Prosopaedia"
 category: "Fonte"
 tags: [suplemento, mitologia, dicionário, deuses, heróis, Katrin Dirim, 140 páginas, Chaosium]
-sources: ["raw/clippings/Cults of RuneQuest The Prosopaedia - What is it for.md"]
+sources: ["https://elruneblog.blogspot.com/2024/09/cults-of-runequest-prosopaedia-what-is.html"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -58,7 +58,7 @@ status: draft
 - [[Arkat, o Destruidor]]
 
 ## Referências
-- Fonte: [Cults of RuneQuest: The Prosopaedia - What is it for? — El Runeblog](raw/clippings/Cults of RuneQuest The Prosopaedia - What is it for.md)
+- Fonte: [Cults of RuneQuest: The Prosopaedia - What is it for? — El Runeblog](https://elruneblog.blogspot.com/2024/09/cults-of-runequest-prosopaedia-what-is.html)
 
 ## Questões em Aberto
 - [ ] O Prosopaedia cobre todas as culturas de Glorantha?

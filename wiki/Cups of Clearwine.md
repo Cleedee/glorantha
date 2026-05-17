@@ -2,7 +2,7 @@
 title: "Cups of Clearwine"
 category: "Fonte"
 tags: [sourcebook, Clearwine, Colymar, Beer With Teeth, Jonstown Compendium, POD]
-sources: ["raw/clippings/Journal of Runic Studies 15.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-15/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -31,7 +31,7 @@ Sourcebook de **Beer With Teeth** para o [[Jonstown Compendium]], sequência de 
 - [[Beer with Teeth]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #15](raw/clippings/Journal of Runic Studies 15.md)
+- Fonte: [Journal of Runic Studies #15](https://godlearners.com/journal-of-runic-studies-15/)
 - [Cups of Clearwine no DriveThruRPG](https://www.drivethrurpg.com/product/363078/Cups-of-Clearwine)
 
 ## Questões em Aberto

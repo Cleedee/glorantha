@@ -2,7 +2,7 @@
 title: "Eiritha"
 category: "Entidade"
 tags: [deusa, rebanho, Eiritha, Nômades Animais, Prax, terra, fertilidade]
-sources: ["raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -35,7 +35,7 @@ Eiritha é um dos 16 cultos das deusas da Terra em **[[Cults of RuneQuest - The 
 - [[Cults of RuneQuest - The Earth Goddesses]]
 
 ## Referências
-- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md)
+- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html)
 
 ## Questões em Aberto
 - [ ] Eiritha tem culto organizado com sacerdotisas, ou é puramente xamânico?

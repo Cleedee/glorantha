@@ -2,7 +2,7 @@
 title: "Talastar"
 category: "Localização"
 tags: [região, Dorastor, Warlords, Caos]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -23,7 +23,7 @@ Talastar aparece junto com Dorastor como cenário de RuneQuest Warlords, sugerin
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 
 ## Questões em Aberto
 - [ ] Talastar também foi devastada por Arkat?

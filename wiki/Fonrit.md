@@ -2,7 +2,7 @@
 title: "Fonrit"
 category: "Localização"
 tags: [sourcebook, região, QuestWorlds, HeroQuest, Ian Cooper, açúcar, comércio, Koraru]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 5.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-5/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -37,7 +37,7 @@ status: draft
 
 ## Referências
 - Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 
 ## Questões em Aberto
 - [ ] Qual é a relação política de Fonrit com o Império Lunar?

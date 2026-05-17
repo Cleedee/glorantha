@@ -2,7 +2,7 @@
 title: "Steve Perrin"
 category: "Entidade"
 tags: [designer, RuneQuest, Chaosium, criador, co-criador, RQ1, RQ2, Perrin, Luise Perrin, Superworld, Wild Cards, GRRM]
-sources: ["raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -47,8 +47,8 @@ Para uma visão geral completa da carreira de Perrin como designer de RPG, veja 
 Perrin foi casado com **Luise Perenne** (Luise Perrin), cujo nome e arte também graciaram a capa da primeira edição de RuneQuest. Ele estava recentemente fazendo crowdfunding para o cuidado de sua esposa. Faleceu em 3 de agosto de 2021.
 
 ## Referências
-- Fonte: [Journal of Runic Studies #9](raw/clippings/Journal of Runic Studies 9.md)
-- Fonte: [Journal of Runic Studies #10](raw/clippings/Journal of Runic Studies 10.md)
+- Fonte: [Journal of Runic Studies #9](https://godlearners.com/journal-of-runic-studies-9/)
+- Fonte: [Journal of Runic Studies #10](https://godlearners.com/journal-of-runic-studies-10/)
 - [Chaosium Blog: Vale and Farewell Steve Perrin](https://www.chaosium.com/blogvale-and-farewell-steve-perrin-1946-2021/)
 - [George R.R. Martin: Farewell to an Ace](https://georgerrmartin.com/notablog/2021/08/15/farewell-to-an-ace/)
 - [James Davis Nicoll: Steve Perrin's Worlds of Wonder (TOR)](https://www.tor.com/2021/08/20/steve-perrins-worlds-of-wonder-changed-the-game-for-rpgs/)

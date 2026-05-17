@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #13"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, White Bull, Hero Wars, Lunars, Sartar, Jonstown]
-sources: ["raw/clippings/Journal of Runic Studies 13.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-13/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -126,7 +126,7 @@ WayneBooks documentou a edição francesa do RuneQuest 3ª edição (Oriflam, an
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #13](raw/clippings/Journal of Runic Studies 13.md)
+- Fonte original: [Journal of Runic Studies #13](https://godlearners.com/journal-of-runic-studies-13/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-13/)
 - [Playbook da Batalha no BRP Central](https://basicroleplaying.org/topic/10383-another-question-for-the-sages/?tab=comments#comment-154100)
 

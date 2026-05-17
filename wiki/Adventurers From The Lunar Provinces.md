@@ -2,7 +2,7 @@
 title: "Adventurers From The Lunar Provinces"
 category: "Fonte"
 tags: [Peter Hart, Jonstown Compendium, Lunar, Tarsh, Aggar, Imther, Vanch, Holay, Hydra]
-sources: ["raw/clippings/HYDRA - ADVENTURERS FROM THE LUNAR PROVINCES, a RuneQuest Review.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2023/01/hydra-adventurers-from-lunar-provinces.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -54,7 +54,7 @@ A review de [[Andrew Logan Montgomery]] destaca que Glorantha rejeita o dualismo
 - [[A Bad Day at Duck Rock]]
 
 ## Referências
-- Fonte original: [Hydra — Adventurers From The Lunar Provinces, a RuneQuest Review](raw/clippings/HYDRA - ADVENTURERS FROM THE LUNAR PROVINCES, a RuneQuest Review.md)
+- Fonte original: [Hydra — Adventurers From The Lunar Provinces, a RuneQuest Review](https://andrewloganmontgomery.blogspot.com/2023/01/hydra-adventurers-from-lunar-provinces.html)
 - [Adventurers From The Lunar Provinces no DriveThruRPG](https://www.drivethrurpg.com/product/418577/Hydra--Adventurers-from-the-Lunar-Provinces)
 - [[Andrew Logan Montgomery]]
 

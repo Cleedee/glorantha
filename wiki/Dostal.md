@@ -2,7 +2,7 @@
 title: "Dostal"
 category: "Entidade"
 tags: [deus, caça, Hyalorings, magia]
-sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
+sources: ["https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -25,7 +25,7 @@ Os Hyalorings sacrificam vacas a Dostal para obter sua magia de caça. Esta magi
 - [[Elmal]]
 
 ## Referências
-- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)
+- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html)
 
 ## Questões em Aberto
 - [ ] Dostal aparece em outras fontes de Glorantha?

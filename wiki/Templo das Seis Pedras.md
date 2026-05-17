@@ -2,7 +2,7 @@
 title: "Templo das Seis Pedras"
 category: "Localização"
 tags: [templo, Humakt, Upland Marsh, regeneração]
-sources: ["raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -34,7 +34,7 @@ O sourcebook Marsh Attacks inclui detalhamento do templo, bem como de **Fortalez
 - [[Indrodar]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #82: Marsh Attacks!](raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md)
+- Fonte: [Journey to Jonstown #82: Marsh Attacks!](https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/)
 
 ## Questões em Aberto
 - [ ] Quais são os detalhes da história do templo?

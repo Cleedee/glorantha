@@ -2,7 +2,7 @@
 title: "Appendix N de RuneQuest"
 category: "Conceito"
 tags: [literatura, inspirações, Jeff Richard, mitologia, heroquest, revised RQG]
-sources: ["raw/clippings/Appendix N.md", "raw/clippings/Out of the Suitcase 17 the first Appendix N.md"]
+sources: ["https://wellofdaliath.chaosium.com/appendix-n/", "https://www.chaosium.com/blogout-of-the-suitcase-17-the-first-appendix-n/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -90,8 +90,8 @@ O blog **Grognardia** observou a estranha serendipidade:
 - [[Rick Meints]]
 
 ## Referências
-- Fonte: [Appendix N — Well of Daliath](raw/clippings/Appendix N.md)
-- Fonte: [Out of the Suitcase #17 — Chaosium Blog](raw/clippings/Out of the Suitcase 17 the first Appendix N.md)
+- Fonte: [Appendix N — Well of Daliath](https://wellofdaliath.chaosium.com/appendix-n/)
+- Fonte: [Out of the Suitcase #17 — Chaosium Blog](https://www.chaosium.com/blogout-of-the-suitcase-17-the-first-appendix-n/)
 - [Grognardia — The First Appendix N](https://grognardia.blogspot.com/2021/07/the-first-appendix-n.html)
 - [Rick Meints — Out of the Suitcase #17](https://www.chaosium.com/blogout-of-the-suitcase-17-the-first-appendix-n/)
 

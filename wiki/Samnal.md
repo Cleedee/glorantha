@@ -2,7 +2,7 @@
 title: "Samnal"
 category: "Entidade"
 tags: [deus, cocheiros, rodas, Hyalorings, rivalidade]
-sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
+sources: ["https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -25,7 +25,7 @@ Os seguidores de Samnal formam o **Wheel clan**, que já atacou e saqueou as ter
 - [[Hyalor]]
 
 ## Referências
-- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)
+- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html)
 
 ## Questões em Aberto
 - [ ] Samnal aparece em outras fontes de Glorantha?

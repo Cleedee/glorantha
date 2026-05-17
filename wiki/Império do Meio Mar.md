@@ -2,7 +2,7 @@
 title: "Império do Meio Mar"
 category: "Cultura"
 tags: [Middle Sea Empire, Jrustela, Seshnela, God Learners, Malkioni, Monomito, Segunda Era]
-sources: ["raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -50,7 +50,7 @@ Seus insights foram adotados por seus inimigos: informação e comércio Jrustel
 - [[Fronela]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #28](raw/clippings/Journal of Runic Studies 28.md)
+- Fonte: [Journal of Runic Studies #28](https://godlearners.com/journal-of-runic-studies-28/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

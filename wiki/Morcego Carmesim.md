@@ -2,7 +2,7 @@
 title: "Morcego Carmesim"
 category: "Entidade"
 tags: [Crimson Bat, terror, Império Lunar, Glowline, monstro, guerra, Lua Vermelha, magia lunar, Yara Aranis]
-sources: ["raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-27/"]
 last_updated: 2026-05-16
 status: draft
 aliases:
@@ -47,7 +47,7 @@ Jeff Richard menciona que Glorantha é povoada por monstros gigantes horríveis 
 - [[Cults of RuneQuest - The Lunar Way]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
+- Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

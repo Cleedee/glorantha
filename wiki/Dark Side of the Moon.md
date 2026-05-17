@@ -2,7 +2,7 @@
 title: "Dark Side of the Moon"
 category: "Fonte"
 tags: [Jonstown, Lunar, apócrifa, Sedenya, Sete Mães, herético, lore, Iluminação]
-sources: ["raw/clippings/Apocrypha Now A look at Dark Side of the Moon.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/10/apocrypha-now-look-at-dark-side-of-moon.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -43,7 +43,7 @@ O livro exemplifica o propósito do [[Jonstown Compendium]]: oferecer **"takes" 
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [Apocrypha Now: A look at Dark Side of the Moon — Andrew Logan Montgomery](raw/clippings/Apocrypha Now A look at Dark Side of the Moon.md)
+- Fonte: [Apocrypha Now: A look at Dark Side of the Moon — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2024/10/apocrypha-now-look-at-dark-side-of-moon.html)
 - [Dark Side of the Moon no DriveThruRPG](https://www.drivethrurpg.com/en/product/499033/dark-side-of-the-moon-runequest)
 
 ## Questões em Aberto

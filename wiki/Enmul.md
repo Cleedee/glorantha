@@ -2,7 +2,7 @@
 title: "Enmul"
 category: "Entidade"
 tags: [PJ, criança, espião, Dundealosford, Orlanthi das Colinas, Valley of Plenty]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -26,7 +26,7 @@ status: draft
 - [[Ernalda]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 
 ## Questões em Aberto
 - [ ] Enmul é um PJ canônico ou criação do jogador?

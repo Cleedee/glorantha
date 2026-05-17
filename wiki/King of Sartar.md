@@ -2,7 +2,7 @@
 title: "King of Sartar"
 category: "Fonte"
 tags: [livro, Greg Stafford, Argrath, Sartar, mitologia, ficção]
-sources: ["raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -45,7 +45,7 @@ O livro é uma referência fundamental para entender a lore de Sartar e a figura
 - [[Leika Blacksper]]
 
 ## Referências
-- Fonte: [Drops Glorantha #3 - Prince of Sartar](raw/clippings/Drops Glorantha 3 - Prince of Sartar.md)
+- Fonte: [Drops Glorantha #3 - Prince of Sartar](https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html)
 - Referenciado em: [[journal-of-runic-studies-18]], [[Orlanth]], [[Elmal]], [[Leika Blacksper]], [[A Pyre for Gods and Heroes]]
 
 ## Questões em Aberto

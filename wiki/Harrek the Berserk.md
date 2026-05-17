@@ -2,7 +2,7 @@
 title: "Harrek the Berserk"
 category: "Entidade"
 tags: [Harrek, Rathori, Wolf Pirates, White Bear God, Hero Wars, Argrath, Gunda, Dart Warrior]
-sources: ["raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -67,7 +67,7 @@ Harrek pode ser pensado como um grande fator aleatório ao longo das Hero Wars. 
 - [[Hero Wars]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #29](raw/clippings/Journal of Runic Studies 29.md)
+- Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
 - Jeff Richard no RuneQuest Facebook Group
 - Arte: © 2021 Chaosium Inc.
 

@@ -2,7 +2,7 @@
 title: "As Eras de Glorantha"
 category: "Conceito"
 tags: [cronologia, eras, mitologia, história, tempo solar, tempo mythic]
-sources: ["raw/clippings/Drops Glorantha 6 - As Eras de Glorantha.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-6-as-eras-de-glorantha.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -54,5 +54,5 @@ De 1.120 ST até o presente (o ano canônico padrão para a maioria dos jogos de
 
 ## Referências
 
-- Fonte: [Drops Glorantha #6 - As Eras de Glorantha](raw/clippings/Drops Glorantha 6 - As Eras de Glorantha.md) — Jogatina Sem Teresina (2026-01-16)
+- Fonte: [Drops Glorantha #6 - As Eras de Glorantha](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-6-as-eras-de-glorantha.html) — Jogatina Sem Teresina (2026-01-16)
 - Autor: [[Claudio Torcato]]

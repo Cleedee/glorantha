@@ -2,7 +2,7 @@
 title: "Ernalda"
 category: "Entidade"
 tags: [deusa, rainha dos deuses, Orlanthi, terra, fertilidade, Glorantha]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/The Cults of RuneQuest Part Three The Earth Goddesses.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html", "https://godlearners.com/journal-of-runic-studies-7/", "https://andrewloganmontgomery.blogspot.com/2023/08/the-cults-of-runequest-part-three-earth.html"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -55,8 +55,8 @@ Ernalda beneficia-se da proximidade de [[Esrolia]] e dos [[Grazelands]], onde os
 - [[Feathered Horse Queen]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
-- Fonte: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
+- Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
 - Sartar Homeland Boxed Set (excerto), via Jeff Richard no Facebook
 
 ## Questões em Aberto

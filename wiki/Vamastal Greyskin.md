@@ -2,7 +2,7 @@
 title: "Vamastal Greyskin"
 category: "Entidade"
 tags: [rei, Sambari, Sartar, heroquesting, Starbrow]
-sources: ["raw/clippings/Journal of Runic Studies 18.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-18/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -34,7 +34,7 @@ Ilustrado por **Anna Orlova** para o futuro Sartar Homeland Boxed Set.
 - [[Sartar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #18](raw/clippings/Journal of Runic Studies 18.md)
+- Fonte: [Journal of Runic Studies #18](https://godlearners.com/journal-of-runic-studies-18/)
 
 ## Questões em Aberto
 - [ ] Em qual heroquest Vamastal adquiriu sua pele cinzenta?

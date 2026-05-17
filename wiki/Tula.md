@@ -2,7 +2,7 @@
 title: "Tula"
 category: "Conceito"
 tags: [território, clã, terras, Orlanthi, Glorantha]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -26,7 +26,7 @@ No capítulo "Crescendo Em Sua Sela", os personagens adolescentes exploram a tul
 - [[Tribo dos Dundealos]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 
 ## Questões em Aberto
 - [ ] A tula tem fronteiras definidas ou é um conceito mais fluido?

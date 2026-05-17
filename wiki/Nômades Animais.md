@@ -2,7 +2,7 @@
 title: "Nômades Animais"
 category: "Cultura"
 tags: [nômades, animais, montaria, Wastes, Prax, pastoreio, xamanismo]
-sources: ["raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -68,7 +68,7 @@ Com exceção de deuses poderosos como o Touro da Tempestade e Eiritha, os Nôma
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha — Andrew Logan Montgomery](raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md)
+- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html)
 - *Nomad Gods* (1977), Greg Stafford
 - *The Final Riddle* (2021), Andrew Logan Montgomery
 

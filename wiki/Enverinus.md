@@ -2,7 +2,7 @@
 title: "Enverinus"
 category: "Entidade"
 tags: [deus, fogo, sacrifício, Fogo/Céu, Lunar, Dara Happa, Yelm, Agni]
-sources: ["raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -37,7 +37,7 @@ No panteão Orlanthi e em [[Prax]], o fogo sacrificial assumiu uma forma diferen
 - [[Império Lunar]]
 
 ## Referências
-- Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md)
+- Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html)
 
 ## Questões em Aberto
 - [ ] Enverinus tem templos dedicados ou é invocado apenas em sacrifícios de outros cultos?

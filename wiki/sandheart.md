@@ -2,7 +2,7 @@
 title: "Sandheart"
 category: "Fonte"
 tags: [Jonstown Compendium, série de aventuras, Prax, Jon Webb, Michael O'Brien]
-sources: ["raw/clippings/Journal of Runic Studies 19.md", "raw/clippings/Journal of Runic Studies 20.md", "raw/clippings/Journal of Runic Studies 24.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-19/", "https://godlearners.com/journal-of-runic-studies-20/", "https://godlearners.com/journal-of-runic-studies-24/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -33,8 +33,8 @@ O quarto e último volume da série Sandheart contém duas aventuras — uma de 
 - [[Prax]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #19](raw/clippings/Journal of Runic Studies 19.md)
-- Fonte: [Journal of Runic Studies #20](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #19](https://godlearners.com/journal-of-runic-studies-19/)
+- Fonte: [Journal of Runic Studies #20](https://godlearners.com/journal-of-runic-studies-20/)
 - [Sandheart Volume 4 — DriveThruRPG](https://www.drivethrurpg.com/product/375994/The-God-Skin--Mad-Prax-Sandheart-Volume-Four)
 
 ## Questões em Aberto

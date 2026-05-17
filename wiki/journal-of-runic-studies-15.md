@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #15"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Bearwalkers, Rathori, Starter Set, White Bull, Griselda, Jonstown]
-sources: ["raw/clippings/Journal of Runic Studies 15.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-15/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -71,7 +71,7 @@ Artigo detalhado sobre vinho no mundo antigo para enriquecer jogos com detalhes 
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #15](raw/clippings/Journal of Runic Studies 15.md)
+- Fonte original: [Journal of Runic Studies #15](https://godlearners.com/journal-of-runic-studies-15/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-15/)
 
 ## Questões em Aberto

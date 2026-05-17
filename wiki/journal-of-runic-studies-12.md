@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #12"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, White Bull, batalha em massa, Sartar, geografia, Chalana Arroy, Eurmal, Maran Gor]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -101,7 +101,7 @@ Jeff Richard explicou o papel de [[Eurmal]] na sociedade Orlanthi:
 - [[Jonstown Compendium]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte original: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-12/)
 - [Podcast Episódio 3](https://godlearners.com/episode-3-passions-in-runequest/)
 

@@ -2,7 +2,7 @@
 title: "Six Ages"
 category: "Fonte"
 tags: [videojogo, computador, Glorantha, sucessor, King of Dragon Pass, Robin D. Laws, A Sharp, série, Kitfox Games]
-sources: ["raw/clippings/Interview with Robin D. Laws.md", "raw/clippings/Six Ages Ride Like the Wind.md", "raw/clippings/Six Ages 2 Lights Going Out.md"]
+sources: ["https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/", "https://en.wikipedia.org/wiki/Six_Ages:_Ride_Like_the_Wind", "https://en.wikipedia.org/wiki/Six_Ages_2:_Lights_Going_Out"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -46,9 +46,9 @@ status: draft
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [Interview with Robin D. Laws — Juegos y Dados](raw/clippings/Interview with Robin D. Laws.md)
-- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](raw/clippings/Six Ages Ride Like the Wind.md)
-- Fonte: [Six Ages 2: Lights Going Out — Wikipedia](raw/clippings/Six Ages 2 Lights Going Out.md)
+- Fonte: [Interview with Robin D. Laws — Juegos y Dados](https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/)
+- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](https://en.wikipedia.org/wiki/Six_Ages:_Ride_Like_the_Wind)
+- Fonte: [Six Ages 2: Lights Going Out — Wikipedia](https://en.wikipedia.org/wiki/Six_Ages_2:_Lights_Going_Out)
 - [Site oficial](https://sixages.com/)
 
 ## Questões em Aberto

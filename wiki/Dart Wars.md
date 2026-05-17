@@ -2,7 +2,7 @@
 title: "Dart Wars"
 category: "Conceito"
 tags: [Império Lunar, espionagem, casas nobres, Imperador Vermelho, política, Irrippi Ontor]
-sources: ["raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-17/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -38,7 +38,7 @@ Ludovic sugere que as Dart Wars podem inspirar campanhas de thriller de espionag
 - [[Dara Happan Justice]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #17](raw/clippings/Journal of Runic Studies 17.md)
+- Fonte: [Journal of Runic Studies #17](https://godlearners.com/journal-of-runic-studies-17/)
 
 ## Questões em Aberto
 - [ ] Há mais detalhes sobre Dart Warriors em outras fontes?

@@ -2,7 +2,7 @@
 title: "The Fall of Whitewall"
 category: "Fonte"
 tags: [aventura, Jonstown Compendium, Whitewall, Murallas Brancas, cerco, 1620, heroqueste, Império Lunar]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md"]
+sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -34,7 +34,7 @@ Os heróis devem resistir ao cerco lunar de Whitewall em 1620. A aventura inclui
 - [[Whitewall]]
 
 ## Referências
-- Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
+- Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
 - [The Fall of Whitewall — DriveThruRPG](https://www.drivethrurpg.com/en/product/559290/the-fall-of-whitewall)
 
 ## Questões em Aberto

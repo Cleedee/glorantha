@@ -2,7 +2,7 @@
 title: "Sample Combat: Vasana vs Broo"
 category: "Conceito"
 tags: [RuneQuest, combate, exemplo, Strike Ranks, Broo]
-sources: ["raw/clippings/RuneQuest Sample Combat.md", "raw/clippings/The RuneQuest RPG Wiki - Combat.md"]
+sources: ["https://philgamer.wordpress.com/2019/09/03/runequest-sample-combat/", "https://rqwiki.chaosium.com/rules/combat.html#strike-ranks"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -91,7 +91,7 @@ status: draft
 - [[Broo]]
 
 ## Referências
-- Fonte: [RuneQuest Sample Combat](raw/clippings/RuneQuest Sample Combat.md)
+- Fonte: [RuneQuest Sample Combat](https://philgamer.wordpress.com/2019/09/03/runequest-sample-combat/)
 
 ## Questões em Aberto
 - [ ] Quais são as estatísticas completas da Vasana?

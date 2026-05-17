@@ -2,7 +2,7 @@
 title: "Brithini"
 category: "Cultura"
 tags: [malkioni, filosofia, cosmologia, deus invisível]
-sources: ["raw/clippings/Journal of Runic Studies 2.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -40,7 +40,7 @@ Conforme textos compartilhados por Jeff Richard, a cosmologia brithini descreve:
 - [[Jeff Richard]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

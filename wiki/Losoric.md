@@ -2,7 +2,7 @@
 title: "Losoric"
 category: "Entidade"
 tags: [xamã, Dundealosford, Tribo dos Dundealos, Derikos, Espiritual]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -26,7 +26,7 @@ Durante o feriado sagrado da Estação do Fogo, o espírito da tribo atraiu Deri
 - [[Tribo dos Dundealos]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 
 ## Questões em Aberto
 - [ ] Losoric é uma NPC canônica de Valley of Plenty ou criação do mestre?

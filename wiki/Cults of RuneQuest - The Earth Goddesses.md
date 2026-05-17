@@ -2,7 +2,7 @@
 title: "Cults of RuneQuest: The Earth Goddesses"
 category: "Fonte"
 tags: [suplemento, cultos, deusas da terra, Ernalda, Chaosium, review]
-sources: ["raw/clippings/Cults of RuneQuest The Earth Goddesses review.md"]
+sources: ["https://elruneblog.blogspot.com/2023/10/cults-of-runequest-earth-goddesses.html"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -31,7 +31,7 @@ status: draft
 - [[Aldrya]]
 
 ## Referências
-- Fonte: [Cults of RuneQuest: The Earth Goddesses review — El Runeblog](raw/clippings/Cults of RuneQuest The Earth Goddesses review.md)
+- Fonte: [Cults of RuneQuest: The Earth Goddesses review — El Runeblog](https://elruneblog.blogspot.com/2023/10/cults-of-runequest-earth-goddesses.html)
 
 ## Questões em Aberto
 - [ ] Quantas páginas tem o suplemento?

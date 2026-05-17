@@ -2,7 +2,7 @@
 title: "Irmãs Respiradoras"
 category: "Entidade"
 tags: [Orlanth, filhas, Boldhome, Pockets, ar, Ocupação Lunar]
-sources: ["raw/clippings/Journal of Runic Studies 20.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
 last_updated: 2026-05-15
 status: draft
 aliases:
@@ -31,7 +31,7 @@ O culto das Irmãs Respiradoras exemplifica a resistência Orlanthi durante a Oc
 - [[Sartar Homeland Boxed Set]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #20 — Jeff's Notes](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #20 — Jeff's Notes](https://godlearners.com/journal-of-runic-studies-20/)
 
 ## Questões em Aberto
 - [ ] As Irmãs Respiradoras têm nomes individuais?

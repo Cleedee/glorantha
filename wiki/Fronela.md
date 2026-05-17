@@ -2,7 +2,7 @@
 title: "Fronela"
 category: "Localização"
 tags: [região, Mongoose, Lawrence Whitaker, 2008, Glorantha]
-sources: ["raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md"]
+sources: ["https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -25,7 +25,7 @@ status: draft
 - [[Lawrence Whitaker]]
 
 ## Referências
-- Fonte: [Mongoose Glorantha Titles — Well of Daliath](raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md)
+- Fonte: [Mongoose Glorantha Titles — Well of Daliath](https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/)
 
 ## Questões em Aberto
 - [ ] Onde fica Fronela em relação a Sartar?

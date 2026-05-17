@@ -2,7 +2,7 @@
 title: "Torre dos God Learners"
 category: "Localização"
 tags: [god learners, malkioni, torre, biblioteca, lhankor mhy]
-sources: ["raw/clippings/Journal of Runic Studies 4.md", "raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -40,7 +40,7 @@ Os God Learners continuam ocupando a torre e o processo de limpeza, catalogaçã
 - [[Terceira Era]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Foto da torre em ruínas: Hannah Wright (Unsplash)
 
 ## Questões em Aberto

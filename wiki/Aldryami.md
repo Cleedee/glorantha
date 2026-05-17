@@ -2,7 +2,7 @@
 title: "Aldryami"
 category: "Cultura"
 tags: [raça, elfos, Aldryami, elder race]
-sources: ["raw/clippings/Glorantha.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/The Elder Races  The RuneQuest RPG Wiki.md"]
+sources: ["https://1d6chan.miraheze.org/wiki/Glorantha", "https://godlearners.com/journal-of-runic-studies-80/", "https://rqwiki.chaosium.com/glorantha/elder-races.html"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -40,8 +40,8 @@ Milhões de Aldryami vivem na Errinoru Jungle de Pamaltela. Também são encontr
 - [[Pamaltela]]
 
 ## Referências
-- Fonte: [Glorantha](raw/clippings/Glorantha.md)
-- Fonte: [Elf Pack](raw/clippings/Drops Glorantha 4 - Trollball.md)
+- Fonte: [Glorantha](https://1d6chan.miraheze.org/wiki/Glorantha)
+- Fonte: [Elf Pack](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
 
 ## Questões em Aberto
 - [ ] Detalhes sobre Aldrya

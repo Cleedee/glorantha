@@ -2,7 +2,7 @@
 title: "Kralorela"
 category: "Localização"
 tags: [região, Kralorela, dragões, Imperadores Dragão, misticismo, Genertela]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Draconic Mysticism, the Void, and the Kralori.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://wellofdaliath.chaosium.com/draconic-mysticism-the-void-and-the-kralori/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -41,7 +41,7 @@ Na [[Segunda Era]], os [[God Learners]] descobriram que [[Gbaji]] é conhecido p
 
 ## Referências
 - Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
-- Fonte: [Draconic Mysticism, the Void, and the Kralori — Well of Daliath](raw/clippings/Draconic Mysticism, the Void, and the Kralori.md)
+- Fonte: [Draconic Mysticism, the Void, and the Kralori — Well of Daliath](https://wellofdaliath.chaosium.com/draconic-mysticism-the-void-and-the-kralori/)
 - Guide to Glorantha
 - Jeff Richard, Well of Daliath, 2024-12-24
 

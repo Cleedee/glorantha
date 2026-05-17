@@ -2,7 +2,7 @@
 title: "Templo da Espada de Madeira"
 category: "Localização"
 tags: [Humakt, templo, Sartar, culto, espada, troll]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -35,7 +35,7 @@ A localização exata do templo dentro de Sartar não é especificada na fonte c
 - [[Sartar]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
 - Wyrms' Footnotes nº 11 — Chaosium (1981)
 
 ## Questões em Aberto

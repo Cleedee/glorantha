@@ -2,7 +2,7 @@
 title: "RuneQuest 2ª Edição (RQ2)"
 category: "Fonte"
 tags: [RuneQuest, 1979, segunda edição, Steve Perrin, Greg Stafford, clássico, Rurik]
-sources: ["raw/clippings/RuneQuest Classic Edition review (RQ2).md", "raw/clippings/Runeblog.md", "raw/clippings/Out of the Suitcase 17 the first Appendix N.md"]
+sources: ["https://elruneblog.blogspot.com/2021/06/runequest-classic-edition-review-rq2.html", "https://elruneblog.blogspot.com/search?q=cults+of+runequest&updated-max=2024-03-13T21:51:00%2B01:00&max-results=20&start=3&by-date=false", "https://www.chaosium.com/blogout-of-the-suitcase-17-the-first-appendix-n/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -103,8 +103,8 @@ RQ2 se tornou a base do sistema **BRP** (Basic Roleplaying), usado em:
 - [[Trollpak]]
 
 ## Referências
-- Fonte: [RuneQuest Classic Edition review — El Runeblog](raw/clippings/RuneQuest Classic Edition review (RQ2).md)
-- Fonte: [Runeblog](raw/clippings/Runeblog.md)
+- Fonte: [RuneQuest Classic Edition review — El Runeblog](https://elruneblog.blogspot.com/2021/06/runequest-classic-edition-review-rq2.html)
+- Fonte: [Runeblog](https://elruneblog.blogspot.com/search?q=cults+of+runequest&updated-max=2024-03-13T21:51:00%2B01:00&max-results=20&start=3&by-date=false)
 
 ## Questões em Aberto
 - [ ] Qual foi a diferença exata entre RQ1 e RQ2 além da capa colorida?

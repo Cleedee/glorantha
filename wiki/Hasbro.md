@@ -2,7 +2,7 @@
 title: "Hasbro"
 category: "Fonte"
 tags: [empresa, marca, HeroQuest, Moon Design, 2020]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -31,7 +31,7 @@ A venda forçou:
 - [[Hero Wars]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 
 ## Questões em Aberto
 - [ ] A Hasbro tem planos para usar a marca HeroQuest em RPG?

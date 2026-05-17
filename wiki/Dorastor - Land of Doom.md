@@ -2,7 +2,7 @@
 title: "Dorastor: Land of Doom"
 category: "Fonte"
 tags: [suplemento, RuneQuest 3e, reedição, Dorastor, Caos, 1993]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -39,7 +39,7 @@ Dorastor é uma região de Glorantha associada ao **Caos**. É o cenário do vid
 - [[Hahlgrim]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Qual será o formato da reedição?

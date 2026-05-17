@@ -2,7 +2,7 @@
 title: "The RuneQuest RPG Wiki — As Runas"
 category: "Fonte"
 tags: [site, referência, RuneQuest, Chaosium, wiki, Runas, Elementos, Poderes, Formas, Condições]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - The Runes.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/the-runes.html#type-of-runes"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -35,7 +35,7 @@ As Runas de Poder são polaridades inerentemente conflitantes, como Fertilidade 
 - [[Cosmologia de Glorantha]]
 
 ## Referências
-- Fonte original: [The RuneQuest RPG Wiki — The Runes](raw/clippings/The RuneQuest RPG Wiki - The Runes.md)
+- Fonte original: [The RuneQuest RPG Wiki — The Runes](https://rqwiki.chaosium.com/glorantha/the-runes.html#type-of-runes)
 - [RuneQuest RPG Wiki — Chaosium](https://rqwiki.chaosium.com/)
 
 ## Questões em Aberto

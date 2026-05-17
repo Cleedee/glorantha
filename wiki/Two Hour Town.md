@@ -2,7 +2,7 @@
 title: "Two Hour Town"
 category: "Localização"
 tags: [sartar, atletismo, orlanth, ernalda, competição]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/"]
 last_updated: 2026-05-07
 status: draft
 ---
@@ -47,7 +47,7 @@ Cidade de Sartar que sedia competição atlética bienal celebrando o cortejo de
 - [[Esportes Orlanthi]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

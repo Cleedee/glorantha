@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #4"
 category: "Fonte"
 tags: [clippings, godlearners, jeff-richard, chaosium, sartar, lunares]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/"]
 last_updated: 2026-05-07
 status: draft
 ---
@@ -140,7 +140,7 @@ Quarta edição do periódico malkioni, com detalhes da nova torre dos God Learn
 - [[Asrelia]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Chaosium Blog, Jeff Richard no RuneQuest Facebook Group
 - Nick Brooke (Jonstown Compendium)
 - Austin Conrad (Monster of the Month)

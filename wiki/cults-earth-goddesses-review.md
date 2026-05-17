@@ -2,7 +2,7 @@
 title: "The Cults of RuneQuest Part Three: The Earth Goddesses"
 category: "Fonte"
 tags: [blog, Andrew Logan Montgomery, review, Cults of RuneQuest, Earth Goddesses, Ernalda, Imarja, Esrolia]
-sources: ["raw/clippings/The Cults of RuneQuest Part Three The Earth Goddesses.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2023/08/the-cults-of-runequest-part-three-earth.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -41,7 +41,7 @@ O livro cobre 16 cultos: Ernalda, Aldrya, Asrelia, Babeester Gor, Caladra e Aure
 - [[Eiritha]]
 
 ## Referências
-- Fonte original: [The Cults of RuneQuest Part Three: The Earth Goddesses](raw/clippings/The Cults of RuneQuest Part Three The Earth Goddesses.md)
+- Fonte original: [The Cults of RuneQuest Part Three: The Earth Goddesses](https://andrewloganmontgomery.blogspot.com/2023/08/the-cults-of-runequest-part-three-earth.html)
 - [Andrew Logan Montgomery — Blog](https://andrewloganmontgomery.blogspot.com/)
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "Dragonkill War"
 category: "Evento"
 tags: [Dragonkill War, dragões, dragonewts, EWF, Dragon Pass, 1042, 1120, Terceiro Conselho, Segundo Conselho, Invincible Golden Horde]
-sources: ["raw/clippings/Myth and History  The RuneQuest RPG Wiki.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history"]
 last_updated: 2026-05-15
 status: draft
 aliases:
@@ -39,7 +39,7 @@ Humanos temem os dragões desde então. Ninguém mais ousa quebrar os ovos dos d
 - [[Hero Wars]]
 
 ## Referências
-- Fonte: [Myth and History — RuneQuest RPG Wiki](raw/clippings/Myth and History  The RuneQuest RPG Wiki.md)
+- Fonte: [Myth and History — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history)
 
 ## Questões em Aberto
 - [ ] Quantos dragões participaram da Dragonkill War?

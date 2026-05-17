@@ -2,7 +2,7 @@
 title: "A Pyre for Gods and Heroes"
 category: "Fonte"
 tags: [romance, Greg Stafford, Andrew Logan Montgomery, Primeira Era, Harmast, ficção oficial, 411, Harmast's Saga, Susan O'Brien, Jeff Richard]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -65,8 +65,8 @@ Um trecho do romance, "Invitations", está disponível gratuitamente: [Invitatio
 - [[KaijuCon]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
-- Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
+- Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html)
 - [Excerto "Invitations" — Chaosium](https://www.chaosium.com/blogread-invitations-an-excerpt-from-greg-staffords-forthcoming-gloranthan-novel-a-pyre-for-gods-and-heroes/)
 
 ## Questões em Aberto

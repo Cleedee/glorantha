@@ -2,7 +2,7 @@
 title: "Compacto RPG"
 category: "Fonte"
 tags: [sistema, RPG, autoria, Claudio Torcato, Cleedee]
-sources: ["raw/clippings/Hub do Cláudio.md"]
+sources: ["https://telegra.ph/Minhas-distra%C3%A7%C3%B5es-01-17"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -30,7 +30,7 @@ status: draft
 - [[Claudio Torcato]]
 
 ## Referências
-- Fonte: [Hub do Cláudio](raw/clippings/Hub do Cláudio.md)
+- Fonte: [Hub do Cláudio](https://telegra.ph/Minhas-distra%C3%A7%C3%B5es-01-17)
 - [Compacto RPG — Itch.io](https://cleedee.itch.io/compacto-rpg)
 
 ## Questões em Aberto

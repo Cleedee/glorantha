@@ -2,7 +2,7 @@
 title: "Calendário Gloranthano"
 category: "Conceito"
 tags: [calendário, Theyala, semanas, estações, tempo, dias, estações, Runa, Glorantha]
-sources: ["raw/clippings/THE SACRED TIME, An Episode.md", "raw/clippings/Unique Aspects of Glorantha  The RuneQuest RPG Wiki.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/01/the-sacred-time-episode.html", "https://rqwiki.chaosium.com/glorantha/unique-aspects-of-glorantha.html#community"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -73,7 +73,7 @@ Existem outros calendários em Glorantha — Brithini, Lunares, Dara Happanos, K
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [THE SACRED TIME, An Episode — Andrew Logan Montgomery](raw/clippings/THE SACRED TIME, An Episode.md)
+- Fonte: [THE SACRED TIME, An Episode — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2025/01/the-sacred-time-episode.html)
 - *RuneQuest Roleplaying in Glorantha*, p. 420
 
 ## Questões em Aberto

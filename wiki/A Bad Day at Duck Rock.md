@@ -2,7 +2,7 @@
 title: "A Bad Day at Duck Rock"
 category: "Fonte"
 tags: [aventura, Jonstown Compendium, Peter Hart, Dario Corallo, Duck Valley, Beast Valley]
-sources: ["raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-17/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -28,7 +28,7 @@ Aventura de **Peter Hart** (ilustrada por **Dario Corallo**) para o [[Jonstown C
 - [[Durulz]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #17](raw/clippings/Journal of Runic Studies 17.md)
+- Fonte: [Journal of Runic Studies #17](https://godlearners.com/journal-of-runic-studies-17/)
 - [A Bad Day at Duck Rock no DriveThruRPG](https://www.drivethrurpg.com/product/373528/Bad-Day-at-Duck-Rock)
 
 ## Questões em Aberto

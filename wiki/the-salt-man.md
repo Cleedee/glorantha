@@ -2,7 +2,7 @@
 title: "The Salt Man"
 category: "Fonte"
 tags: [Jonstown Compendium, Monster of the Month, Prax, abominação]
-sources: ["raw/clippings/Journal of Runic Studies 20.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -26,7 +26,7 @@ Como Monster of the Month, The Salt Man fornece estatísticas de jogo, lore e ga
 - [[Waha]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #20](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #20](https://godlearners.com/journal-of-runic-studies-20/)
 - [The Salt Man — DriveThruRPG](https://www.drivethrurpg.com/product/375604/The-Salt-Man)
 
 ## Questões em Aberto

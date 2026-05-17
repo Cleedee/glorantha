@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #3"
 category: "Fonte"
 tags: [clippings, godlearners, jeff-richard, chaosium, sartar, lunar]
-sources: ["raw/clippings/Journal of Runic Studies 3.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-3/"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -97,7 +97,7 @@ Terceira edição do periódico malkioni, com prévias do Sartar Homeland Boxed 
 - [[Gamemaster's Guide]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
+- Fonte: [Journal of Runic Studies #3](https://godlearners.com/journal-of-runic-studies-3/)
 - Chaosium Blog: [Rune Spell Reference](https://www.chaosium.com/blogrune-spell-reference-tables-free-download-for-the-red-book-of-magic/)
 - Jeff Richard no RuneQuest Facebook Group
 

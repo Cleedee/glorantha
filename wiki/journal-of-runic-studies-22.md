@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #22"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Ludovic, Chalana Arroy, Jeff Richard, Horse Rider, Sorana Tor, Yarandros, Yelmalio]
-sources: ["raw/clippings/Journal of Runic Studies 22.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-22/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -51,7 +51,7 @@ Cultistas de [[Yelmalio]] reivindicam que o motivo representa [[Yelmalio]] e [[E
 - [[RuneQuest Starter Set]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #22](raw/clippings/Journal of Runic Studies 22.md)
+- Fonte original: [Journal of Runic Studies #22](https://godlearners.com/journal-of-runic-studies-22/)
 
 ## Questões em Aberto
 - [ ] Quem é Sorana Tor e qual sua relação exata com Kero Fin?

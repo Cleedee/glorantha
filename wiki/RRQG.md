@@ -2,7 +2,7 @@
 title: "RRQG"
 category: "Conceito"
 tags: [RuneQuest, revisão, RQG, MOB, Mark Morrison, Brian Holland, 2026-2027]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/A bit more insight on the RQG revised project.md", "raw/clippings/Update on what's happening with RQ.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://wellofdaliath.chaosium.com/a-bit-more-insight-on-the-rqg-revised-project/", "https://wellofdaliath.chaosium.com/update-on-whats-happening-with-rq/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -64,8 +64,8 @@ Segundo MOB: *"Tristemente, nos últimos 8 anos RuneQuest não cresceu suficient
 
 ## Referências
 - Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
-- Fonte: [A bit more insight on the RQG revised project — Well of Daliath](raw/clippings/A bit more insight on the RQG revised project.md)
-- Fonte: [Update on what's happening with RQ — Well of Daliath](raw/clippings/Update on what's happening with RQ.md)
+- Fonte: [A bit more insight on the RQG revised project — Well of Daliath](https://wellofdaliath.chaosium.com/a-bit-more-insight-on-the-rqg-revised-project/)
+- Fonte: [Update on what's happening with RQ — Well of Daliath](https://wellofdaliath.chaosium.com/update-on-whats-happening-with-rq/)
 
 ## Questões em Aberto
 - [ ] RRQG terá novo título ou manterá "RuneQuest: Roleplaying in Glorantha"?

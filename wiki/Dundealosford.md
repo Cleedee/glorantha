@@ -2,7 +2,7 @@
 title: "Dundealosford"
 category: "Localização"
 tags: [cidade, Tribo dos Dundealos, Sartar, Orlanthi]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -30,7 +30,7 @@ No primeiro capítulo de Valley of Plenty (**Diversão e Jogos**), as aventuras 
 - [[Sartar]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 
 ## Questões em Aberto
 - [ ] Dundealosford aparece em outras fontes canônicas de Glorantha?

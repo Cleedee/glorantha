@@ -2,7 +2,7 @@
 title: "Mito de Criação de Glorantha"
 category: "Conceito"
 tags: [mito, criação, God Time, Lightbringers, Grande Compromisso, Yelm, Orlanth, Unholy Trio, Umath]
-sources: ["raw/clippings/Glorantha.md", "raw/clippings/Myth and History  The RuneQuest RPG Wiki.md"]
+sources: ["https://1d6chan.miraheze.org/wiki/Glorantha", "https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -46,8 +46,8 @@ Para detalhes das eras individuais (Green Age, Golden Age, Storm Age, Chaos Age,
 - [[Primeiro Conselho]]
 
 ## Referências
-- Fonte: [Glorantha](raw/clippings/Glorantha.md)
-- Fonte: [Myth and History — RuneQuest RPG Wiki](raw/clippings/Myth and History  The RuneQuest RPG Wiki.md)
+- Fonte: [Glorantha](https://1d6chan.miraheze.org/wiki/Glorantha)
+- Fonte: [Myth and History — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history)
 
 ## Questões em Aberto
 - [ ] Quem são exatamente Flesh Man e Ginna Jar?

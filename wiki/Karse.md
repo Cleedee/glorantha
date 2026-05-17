@@ -2,7 +2,7 @@
 title: "Karse"
 category: "Localização"
 tags: [cidade, Hendrikiland, porto, comércio, Mirrorsea Bay, dragonewts, Massalia]
-sources: ["raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-27/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -48,7 +48,7 @@ Durante os anos 1600, mercadores de [[Etyries]] e cultistas das [[Sete Mães]] t
 - [[Dormal]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
+- Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
 - Jeff Richard no RuneQuest Facebook Group e BRP Central, 2021
 - [Massalia por Jean-Claude Golvin](https://en.wikipedia.org/wiki/Massalia)
 

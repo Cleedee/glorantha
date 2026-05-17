@@ -2,7 +2,7 @@
 title: "Puerta Rúnica"
 category: "Localização"
 tags: [cidade, Runegate, Sartar, plaga, rainha Leika]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -23,7 +23,7 @@ A cidade caiu presa de uma **terrible plaga**, que é o foco da aventura **A Dar
 - [[RuneQuest]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Onde exatamente está localizada Puerta Rúnica?

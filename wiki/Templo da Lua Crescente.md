@@ -2,7 +2,7 @@
 title: "Templo da Lua Crescente"
 category: "Localização"
 tags: [templo, Lunar, Boldhome, Dragon Pass, Glowline, Yara Aranis, Greg Stafford]
-sources: ["raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-16/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -35,7 +35,7 @@ Uma das três tesourarias lunares em Dragon Pass (junto com Boldhome e New Pavis
 - [[Tesouraria Lunar de Boldhome]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
+- Fonte: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
 
 ## Questões em Aberto
 - [ ] O esboço de Greg Stafford foi publicado oficialmente?

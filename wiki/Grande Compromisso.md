@@ -2,7 +2,7 @@
 title: "Grande Compromisso"
 category: "Conceito"
 tags: [Great Compromise, Guerra dos Deuses, Tempo, deuses, regras cósmicas]
-sources: ["raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -42,7 +42,7 @@ A [[Deusa Vermelha]] é a violação mais notória: ela apareceu durante o Tempo
 - [[Castle Blue]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #28](raw/clippings/Journal of Runic Studies 28.md)
+- Fonte: [Journal of Runic Studies #28](https://godlearners.com/journal-of-runic-studies-28/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

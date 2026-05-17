@@ -2,7 +2,7 @@
 title: "Saird"
 category: "Localização"
 tags: [região, Lunar Provinces, Yelmalio, Filhos do Sol, EWF, Dara Happa, Império Lunar, Hwarin Dalthippa, Daughter's Road]
-sources: ["raw/clippings/Journal of Runic Studies 9.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-9/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -60,7 +60,7 @@ Monrogh só aparece na história depois de 1582. Os Reis Provinciais, buscando a
 - [[Nysalor]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #9](raw/clippings/Journal of Runic Studies 9.md)
+- Fonte: [Journal of Runic Studies #9](https://godlearners.com/journal-of-runic-studies-9/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 - *Glorantha Sourcebook* (Chaosium)
 - *Guide to Glorantha* (Chaosium)

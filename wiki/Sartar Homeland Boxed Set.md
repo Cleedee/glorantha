@@ -2,7 +2,7 @@
 title: "Sartar Homeland Boxed Set"
 category: "Fonte"
 tags: [sartar, boxed set, arte, chaosium, moda, tribal, clãs, Leika]
-sources: ["raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -175,10 +175,10 @@ Chefe bibliotecário do Templo do Conhecimento de Jonstown. Originalmente de Esr
 - [[Tribo Colymar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
-- Fonte: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
-- Fonte: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
+- Fonte: [Journal of Runic Studies #3](https://godlearners.com/journal-of-runic-studies-3/)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
+- Fonte: [Journal of Runic Studies #6](https://godlearners.com/journal-of-runic-studies-6/)
+- Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
 - [Jaye Kovach Interview no YouTube](https://www.youtube.com/watch?v=0fxvPG7WYwg)
 - Arte © 2021 Chaosium Inc.
 

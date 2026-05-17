@@ -2,7 +2,7 @@
 title: "Cidade das Maravilhas"
 category: "Localização"
 tags: [país santo, belintar, deuses, outromundo]
-sources: ["raw/clippings/Journal of Runic Studies 2.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -39,7 +39,7 @@ Capital do País Santo sob Belintar, onde deuses, espíritos e mortais conviviam
 - [[Outro Mundo]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Jeff Richard no RuneQuest Facebook Group
 - Mapa de Greg Stafford © 2021 Chaosium Inc.
 

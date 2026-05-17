@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #6"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, heroquesting, País Santo, Torneio, Império Lunar, pipeline]
-sources: ["raw/clippings/Journal of Runic Studies 6.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -48,7 +48,7 @@ Após a queda de Belintar, os Lunares atacaram Heortland — o ponto fraco do p�
 - [[Ludovic (God Learners)]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
+- Fonte original: [Journal of Runic Studies #6](https://godlearners.com/journal-of-runic-studies-6/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-6/)
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "Glorantha, Meaning, and Mythology"
 category: "Conceito"
 tags: [mitologia, significado, interpretação, Elmal, Yelmalio, Vinga, antropologia, Malinowski, Andrew Logan Montgomery, fractal]
-sources: ["raw/clippings/Glorantha, Meaning, and Mythology.md", "raw/clippings/The Only Story You Need More Thoughts on Glorantha.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2021/09/glorantha-meaning-and-mythology.html", "https://andrewloganmontgomery.blogspot.com/2026/04/the-only-story-you-need-more-thoughts.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -89,7 +89,7 @@ Isto reforça o argumento central do ensaio: mitos não são fatos históricos, 
 - [[Lightfore]]
 
 ## Referências
-- Fonte original: [Glorantha, Meaning, and Mythology](raw/clippings/Glorantha%2C%20Meaning%2C%20and%20Mythology.md)
+- Fonte original: [Glorantha, Meaning, and Mythology](https://andrewloganmontgomery.blogspot.com/2021/09/glorantha-meaning-and-mythology.html)
 - [Blog de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2021/09/glorantha-meaning-and-mythology.html)
 
 ## Questões em Aberto

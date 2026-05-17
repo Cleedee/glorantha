@@ -2,7 +2,7 @@
 title: "Ralzakark"
 category: "Entidade"
 tags: [Broo, Rei, Dorastor, Caos, 1580, Tratado Lunar]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -31,7 +31,7 @@ Como Senhor de Dorastor, Ralzakark governa a terra maldita do Caos, sendo uma da
 - [[Dorastor - Land of Doom]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 
 ## Questões em Aberto
 - [ ] Ralzakark ainda governa Dorastor na timeline atual?

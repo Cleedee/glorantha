@@ -2,7 +2,7 @@
 title: "Gouger"
 category: "Entidade"
 tags: [deus, javali, Tusk Riders, sacrifício, sangue, Uz]
-sources: ["raw/clippings/SKULL RUINS -- Tusk Riders Need Blood!, a Review.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/07/skull-ruins-tusk-riders-need-blood.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -29,7 +29,7 @@ Gouger é central para a identidade e sobrevivência dos Tusk Riders como força
 - [[Uz (Trolls)]]
 
 ## Referências
-- Fonte: [Review de Andrew Logan Montgomery](raw/clippings/SKULL RUINS -- Tusk Riders Need Blood!, a Review.md)
+- Fonte: [Review de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2024/07/skull-ruins-tusk-riders-need-blood.html)
 
 ## Questões em Aberto
 - [ ] Gouger é uma divindade independente ou um aspecto de outro deus troll?

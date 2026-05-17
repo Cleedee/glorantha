@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #25"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Ludovic, Malkionismo, Prax, Wastes, Genertela, comércio, Lunars, nobreza, Wenelia, Pralori]
-sources: ["raw/clippings/Journal of Runic Studies 25.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-25/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -74,7 +74,7 @@ Em 115, **Lalmor of the Vathmai** chegou de Dragon Pass, unificou os Entruli e t
 - [[Armies and Enemies of Dragon Pass]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #25](raw/clippings/Journal of Runic Studies 25.md)
+- Fonte original: [Journal of Runic Studies #25](https://godlearners.com/journal-of-runic-studies-25/)
 
 ## Questões em Aberto
 - [ ] Onde fica exatamente Porluftha, a cidade submersa de Wenelia?

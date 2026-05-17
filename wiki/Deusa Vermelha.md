@@ -2,7 +2,7 @@
 title: "Deusa Vermelha"
 category: "Entidade"
 tags: [lunar, deusa, orlanthi, história]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Myth and History  The RuneQuest RPG Wiki.md", "raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-80/", "https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history", "https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -91,7 +91,7 @@ Jar-Eel, conhecida como "Rainha-Bruxa de Sangue Venenoso", é uma figura proemin
 - [[Belintar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Escribas de Argrath
 
 ## Questões em Aberto

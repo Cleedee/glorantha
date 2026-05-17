@@ -2,7 +2,7 @@
 title: "Michael O'Brien"
 category: "Entidade"
 tags: [MOB, Chaosium, RRQG, RuneQuest, revisado]
-sources: ["raw/clippings/A bit more insight on the RQG revised project.md", "raw/clippings/Update on what's happening with RQ.md"]
+sources: ["https://wellofdaliath.chaosium.com/a-bit-more-insight-on-the-rqg-revised-project/", "https://wellofdaliath.chaosium.com/update-on-whats-happening-with-rq/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -40,8 +40,8 @@ Segundo MOB: *"Tristemente, nos últimos 8 anos RuneQuest não cresceu suficient
 - [[Brian Holland]]
 
 ## Referências
-- Fonte: [A bit more insight on the RQG revised project — Well of Daliath](raw/clippings/A bit more insight on the RQG revised project.md)
-- Fonte: [Update on what's happening with RQ — Well of Daliath](raw/clippings/Update on what's happening with RQ.md)
+- Fonte: [A bit more insight on the RQG revised project — Well of Daliath](https://wellofdaliath.chaosium.com/a-bit-more-insight-on-the-rqg-revised-project/)
+- Fonte: [Update on what's happening with RQ — Well of Daliath](https://wellofdaliath.chaosium.com/update-on-whats-happening-with-rq/)
 
 ## Questões em Aberto
 - [ ] Michael O'Brien tem outros papéis na Chaosium além de RuneQuest?

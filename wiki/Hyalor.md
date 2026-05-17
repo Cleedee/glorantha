@@ -2,7 +2,7 @@
 title: "Hyalor"
 category: "Entidade"
 tags: [deus, Hyalorings, cavalos, Dara Happa, Tábuas Douradas]
-sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
+sources: ["https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -36,7 +36,7 @@ Hyalor é o deus mais reverenciado entre os Hyalorings. Seu shrino pode ser cobe
 - [[Six Ages - Ride Like the Wind]]
 
 ## Referências
-- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)
+- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html)
 
 ## Questões em Aberto
 - [ ] Hyalor aparece em outras fontes de Glorantha além de Six Ages?

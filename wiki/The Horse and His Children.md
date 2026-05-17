@@ -2,7 +2,7 @@
 title: "The Horse and His Children"
 category: "Fonte"
 tags: [aventura, QuestWorlds, infanto-juvenil, Glorantha]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -32,7 +32,7 @@ Compatível com [[QuestWorlds]].
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 - [The Horse and His Children — DriveThruRPG](https://www.drivethrurpg.com/en/product/552612/the-horse-and-his-children)
 
 ## Questões em Aberto

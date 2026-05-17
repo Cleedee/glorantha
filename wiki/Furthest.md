@@ -2,7 +2,7 @@
 title: "Furthest"
 category: "Localização"
 tags: [cidade, Lunar, Dragon Pass, Hon-eel, Tarsh, comércio]
-sources: ["raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 19.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-19/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -42,7 +42,7 @@ Em Furthest, **70%** da população são membros de cultos Lunares — a maior d
 - [[Early Rise]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #13](raw/clippings/Journal of Runic Studies 13.md)
+- Fonte: [Journal of Runic Studies #13](https://godlearners.com/journal-of-runic-studies-13/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

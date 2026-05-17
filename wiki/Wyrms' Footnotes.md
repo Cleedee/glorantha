@@ -2,7 +2,7 @@
 title: "Wyrms' Footnotes"
 category: "Fonte"
 tags: [revista, Chaosium, Wyrms Footnotes, campanha, Greg Stafford, Colymar]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -47,7 +47,7 @@ As campanhas documentadas na Wyrms' Footnotes são consideradas cenários cláss
 - [[The Red Cow]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
 - [Wyrms' Footnotes nº 11 — Chaosium](https://www.chaosium.com/wyrms-footnotes-11-pdf/)
 
 ## Questões em Aberto

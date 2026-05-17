@@ -2,7 +2,7 @@
 title: "Rathori"
 category: "Cultura"
 tags: [Rathori, werebears, Rathorela, Genertela, Jamie Revell, Bearwalkers]
-sources: ["raw/clippings/Journal of Runic Studies 15.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-15/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -26,7 +26,7 @@ A mitologia e práticas religiosas Rathori são detalhadas no sourcebook, inclui
 - [[Genertela]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #15](raw/clippings/Journal of Runic Studies 15.md)
+- Fonte: [Journal of Runic Studies #15](https://godlearners.com/journal-of-runic-studies-15/)
 
 ## Questões em Aberto
 - [ ] Rathorela é canônica ou invenção de Jamie Revell?

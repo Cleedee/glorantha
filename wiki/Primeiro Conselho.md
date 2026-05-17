@@ -2,7 +2,7 @@
 title: "Primeiro Conselho"
 category: "Conceito"
 tags: [Primeira Era, conselho, ruptura, A Pyre for Gods and Heroes]
-sources: ["raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md", "raw/clippings/Myth and History  The RuneQuest RPG Wiki.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html", "https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -26,7 +26,7 @@ Rivalidades antigas e conflitos entre povos fora do Conselho levaram à formaç�
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](raw/clippings/Greg Stafford's A Pyre for Gods and Heroes at Long Last. or, Where the $%& Have You Been the Last 5 Months Montgomery.md)
+- Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html)
 
 ## Questões em Aberto
 - [ ] O que era o Primeiro Conselho?

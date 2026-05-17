@@ -2,7 +2,7 @@
 title: "Exército Sartarita"
 category: "Conceito"
 tags: [Sartar, militar, milícia, thanes, sociedades guerreiras, mercenários, Orlanth Rex, Kallyr, Argrath]
-sources: ["raw/clippings/Journal of Runic Studies 10.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-10/"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -71,7 +71,7 @@ Durante a Ocupação Lunar, Kallyr liderava "um conglomerado heterogêneo de cau
 - [[Sartar Homeland Boxed Set]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #10](raw/clippings/Journal of Runic Studies 10.md)
+- Fonte: [Journal of Runic Studies #10](https://godlearners.com/journal-of-runic-studies-10/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "The Red Cow"
 category: "Fonte"
 tags: [campanha, HeroQuest, Glorantha, QuestWorlds, Sartar, clã, libertação, Moon Design]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html", "https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -53,8 +53,8 @@ Os livros da campanha foram atualizados para [[QuestWorlds]], mantendo relevânc
 - [[Sartar]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 - [The Coming Storm — DriveThruRPG](https://www.drivethrurpg.com/en/product/230014/the-coming-storm)
 - [The Eleven Lights — DriveThruRPG](https://www.drivethrurpg.com/en/product/230018/the-eleven-lights)
 

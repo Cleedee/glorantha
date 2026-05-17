@@ -2,7 +2,7 @@
 title: "Armor Points"
 category: "Conceito"
 tags: [RuneQuest, combate, armadura, defesa, damage]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - Combat.md"]
+sources: ["https://rqwiki.chaosium.com/rules/combat.html#strike-ranks"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -47,7 +47,7 @@ Ao usar escudos contra armas de longo alcance:
 - [[RuneQuest]]
 
 ## Referências
-- Fonte: [The RuneQuest RPG Wiki - Combat](raw/clippings/The RuneQuest RPG Wiki - Combat.md)
+- Fonte: [The RuneQuest RPG Wiki - Combat](https://rqwiki.chaosium.com/rules/combat.html#strike-ranks)
 
 ## Questões em Aberto
 - [ ] Quais são os valores específicos de todas as armaduras?

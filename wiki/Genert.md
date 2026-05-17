@@ -2,7 +2,7 @@
 title: "Genert"
 category: "Entidade"
 tags: [deus, pai, Genertela, Earth goddesses, Frona, Seshna, Ralia, Ernalda, Pelora, Kralora, Teshna, Wastes]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 11.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-11/"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -57,8 +57,8 @@ Segundo os mapas mitológicos fabulosos de [[Zzabur]], Pent era uma vez parte do
 - [[Teshnos]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
-- Fonte: [Journal of Runic Studies #11](raw/clippings/Journal of Runic Studies 11.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
+- Fonte: [Journal of Runic Studies #11](https://godlearners.com/journal-of-runic-studies-11/)
 - *Glorantha Sourcebook* (Chaosium)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 

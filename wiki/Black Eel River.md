@@ -2,7 +2,7 @@
 title: "Black Eel River"
 category: "Localização"
 tags: [rio, Hyalorings, Rams, fronteira]
-sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
+sources: ["https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -27,7 +27,7 @@ Em certo momento, as tribos de Rams cruzaram o rio e invadiram as terras Hyalori
 - [[Elmal]]
 
 ## Referências
-- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)
+- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html)
 
 ## Questões em Aberto
 - [ ] Black Eel River aparece em outras fontes de Glorantha?

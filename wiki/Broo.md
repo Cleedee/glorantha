@@ -2,7 +2,7 @@
 title: "Broo"
 category: "Entidade"
 tags: [raça, criatura, Caos, Dorastor, Ralzakark]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 24.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-24/"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -52,7 +52,7 @@ Os Broos habitam Dorastor, a terra maldita do Caos.
 - [[Caos]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 
 ## Questões em Aberto
 - [ ] Qual é a aparência típica de um Broo?

@@ -2,7 +2,7 @@
 title: "Argrath"
 category: "Entidade"
 tags: [herói, Libertador, Pavis, Império Lunar, Griselda, Hero Wars, Arkat, reencarnação]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 17.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md", "raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-27/", "https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html", "https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 aliases:
@@ -106,9 +106,9 @@ Esta conexão vincula Argrath ao mito primordial de **Arkat vs Gbaji**, um confl
 - [[Prince of Sartar]]
 
 ## Referências
-- Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
-- Fonte: [Drops Glorantha #3 - Prince of Sartar](raw/clippings/Drops Glorantha 3 - Prince of Sartar.md)
+- Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
+- Fonte: [Drops Glorantha #3 - Prince of Sartar](https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ### Sartar Magical Union

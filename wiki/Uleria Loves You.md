@@ -9,8 +9,8 @@ tags:
   - apple lane
   - jonstown compendium
   - chaosium
-sources: ["raw/clippings/Uleria Loves You - Chaosium  Jonstown Compendium.md"]
-  - raw/clippings/Uleria Loves You - Chaosium  Jonstown Compendium.md
+sources: ["https://www.drivethrurpg.com/en/product/564988/uleria-loves-you?src=hottest"]
+  - https://www.drivethrurpg.com/en/product/564988/uleria-loves-you?src=hottest
 last_updated: 2026-04-21
 status: estavel
 ---

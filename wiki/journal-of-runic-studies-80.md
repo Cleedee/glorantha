@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #80"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Belintar, luas, elfos, Aldryami, Valley of Plenty, Arkat, sea gods, elder races]
-sources: ["raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-80/"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -75,7 +75,7 @@ Citando David Scott: "muito mais fácil permanecer membro leigo".
 - [[Heroquesting]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #80](raw/clippings/Journal of Runic Studies 80.md)
+- Fonte original: [Journal of Runic Studies #80](https://godlearners.com/journal-of-runic-studies-80/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-80/)
 
 ## Questões em Aberto

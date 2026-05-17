@@ -2,7 +2,7 @@
 title: "Trollball"
 category: "Conceito"
 tags: [troll, esporte, jogo, Uz, cultura]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -69,7 +69,7 @@ A existência do Trollball ilustra a profundidade cultural dos trolls em Glorant
 - [[Tribo Sazdorf]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
 - Fonte: [Trollball Rules PDF](raw/Trollball-Rules-EN.pdf) — União das Associações Europeias de Trollball (2013)
 - [Trollpak (1982)](https://www.chaosium.com/trollpak-pdf/) — Chaosium
 - [União das Associações Europeias de Trollball](https://trollball.eu/)

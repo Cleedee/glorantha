@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #18"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Orlanth, Heroquesting, Caladraland, Wilmskirk, Harmast, Greg Stafford]
-sources: ["raw/clippings/Journal of Runic Studies 18.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-18/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -80,7 +80,7 @@ Jeff compartilha glimpses de como clãs, tribos e confederações se encaixam, c
 - [[Eurmal]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #18](raw/clippings/Journal of Runic Studies 18.md)
+- Fonte original: [Journal of Runic Studies #18](https://godlearners.com/journal-of-runic-studies-18/)
 
 ## Questões em Aberto
 - [ ] A estátua dourada de Eurmal Lightbringer ainda existe?

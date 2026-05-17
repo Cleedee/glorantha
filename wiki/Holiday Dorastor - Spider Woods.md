@@ -2,7 +2,7 @@
 title: "Holiday Dorastor - Spider Woods"
 category: "Fonte"
 tags: [suplemento, Dorastor, Simon Phipp, Spider Woods]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -26,7 +26,7 @@ Produto da linha de suplementos de Dorastor de Simon Phipp, focado nas **Spider 
 - [[Secrets of Dorastor]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 - [Holiday Dorastor - Spider Woods — DriveThruRPG](https://www.drivethrurpg.com/en/product/363111/holiday-dorastor-spider-woods)
 
 ## Questões em Aberto

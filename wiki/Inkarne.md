@@ -2,7 +2,7 @@
 title: "Inkarne"
 category: "Entidade"
 tags: [feathered horse queen, sartar, luar, arte]
-sources: ["raw/clippings/Journal of Runic Studies 3.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-3/"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -34,7 +34,7 @@ Atual Rainha do Cavalo Emplumado (Feathered Horse Queen), retratada em arte ao l
 - [[Anna Orlova]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
+- Fonte: [Journal of Runic Studies #3](https://godlearners.com/journal-of-runic-studies-3/)
 - Arte por Anna Orlova © 2021 Chaosium Inc.
 
 ## Questões em Aberto

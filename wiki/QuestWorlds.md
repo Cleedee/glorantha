@@ -2,7 +2,7 @@
 title: "QuestWorlds"
 category: "Conceito"
 tags: [sistema, regras, QuestWorlds, SRD, Chaosium, Ian Cooper, storytelling]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Journal of Runic Studies 8.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://godlearners.com/journal-of-runic-studies-8/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -48,7 +48,7 @@ O sistema já está sendo utilizado em mesas de Glorantha, incluindo:
 - [[The Horse and His Children]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 - [QuestWorlds SRD — GitHub](https://github.com/ChaosiumInc/QuestWorlds)
 - [QuestWorlds — DriveThruRPG](https://www.drivethrurpg.com/en/product/509287/questworlds)
 

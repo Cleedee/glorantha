@@ -2,7 +2,7 @@
 title: "Why I (Actually) Like Sorcery in RuneQuest, Part Three"
 category: "Fonte"
 tags: [blog, Andrew Logan Montgomery, feitiçaria, sorcery, RQG, Malkioni, Zzabur, Runas, Técnicas, Arachne Solara]
-sources: ["raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART THREE.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_24.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -45,7 +45,7 @@ RQG finalmente distingue os três sistemas. Magia Rúnica é para quem quer efei
 - [[RuneQuest - Roleplaying in Glorantha (RQG)]]
 
 ## Referências
-- Fonte original: [Why I (Actually) Like Sorcery in RuneQuest, Part Three](raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART THREE.md)
+- Fonte original: [Why I (Actually) Like Sorcery in RuneQuest, Part Three](https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_24.html)
 - [Andrew Logan Montgomery — Blog](https://andrewloganmontgomery.blogspot.com/)
 
 ## Questões em Aberto

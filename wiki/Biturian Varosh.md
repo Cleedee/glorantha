@@ -2,7 +2,7 @@
 title: "Biturian Varosh"
 category: "Entidade"
 tags: [personagem, viajante, prax, cultos, narração]
-sources: ["raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 21.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-21/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -31,7 +31,7 @@ O podcast God Learners seguiu as viagens icônicas de Biturian Varosh em dois ep
 - [[God Learners]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 
 ## Questões em Aberto
 - [ ] Quantos capítulos compõem a jornada de Biturian Varosh?

@@ -2,7 +2,7 @@
 title: "Yelmalio"
 category: "Entidade"
 tags: [deus, sol, Lightfore, Fogo/Céu, Cold Sun, Preserver of Light, Sun Dome, mitologia, Elmal]
-sources: ["raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -51,7 +51,7 @@ O culto de Yelmalio é centrado nos Sun Domes — comunidades fortificadas de gu
 - [[Orlanth]]
 
 ## Referências
-- Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md)
+- Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html)
 
 ## Questões em Aberto
 - [ ] Yelmalio tem outros epítetos além de Cold Sun e Preserver of Light?

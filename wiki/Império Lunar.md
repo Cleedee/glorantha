@@ -2,7 +2,7 @@
 title: "Império Lunar"
 category: "Cultura"
 tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 25.md", "raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Runic Rants A History of the Glowline.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/runic-rants-a-history-of-the-glowline/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -106,9 +106,9 @@ O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele 
 - [[Irrippi Ontor]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
-- Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
+- Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
 - Fonte: [Runic Rants: A History of the Glowline](https://godlearners.com/runic-rants-a-history-of-the-glowline/)
 - Jeff Richard no RuneQuest Facebook Group
 - Nick Brooke (expert em Lunares)

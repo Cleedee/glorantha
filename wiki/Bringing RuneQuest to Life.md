@@ -2,7 +2,7 @@
 title: "Bringing RuneQuest to Life"
 category: "Conceito"
 tags: [runas, RuneQuest, GM, imersão, narrativa, metodologia, Andrew Logan Montgomery]
-sources: ["raw/clippings/Chaosium Con Australia A Personal Report.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/06/chaosium-con-australia-personal-report.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -81,7 +81,7 @@ Deixe os **jogadores** interpretarem e narrarem o dano que causam e recebem. Dei
 - [[Glorantha, Meaning, and Mythology]]
 
 ## Referências
-- Fonte: [Chaosium Con Australia — A Personal Report](raw/clippings/Chaosium Con Australia A Personal Report.md)
+- Fonte: [Chaosium Con Australia — A Personal Report](https://andrewloganmontgomery.blogspot.com/2024/06/chaosium-con-australia-personal-report.html)
 
 ## Questões em Aberto
 - [ ] Outros autores/publicações expandem esta metodologia?

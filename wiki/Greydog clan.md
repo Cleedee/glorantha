@@ -2,7 +2,7 @@
 title: "Greydog clan"
 category: "Cultura"
 tags: [clã, Upland Marsh, Greydog, durulz]
-sources: ["raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -30,7 +30,7 @@ O clã é descrito como "famoso" (famous Greydog clan) no artigo original, indic
 - [[Durulz]]
 
 ## Referências
--Fonte: [Journey to Jonstown #82: Marsh Attacks!](raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md)
+- Fonte: [Journey to Jonstown #82: Marsh Attacks!](https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/)
 
 ## Questões em Aberto
 - [ ] Quais são os detalhes da história do clã Greydog?

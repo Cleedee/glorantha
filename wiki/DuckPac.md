@@ -2,7 +2,7 @@
 title: "DuckPac"
 category: "Fonte"
 tags: [DuckPac, Durulz, patos, Jonstown Compendium, Drew Baker, Neil Gibson, suplemento]
-sources: ["raw/clippings/LOOKING FOWL AND FEELING FAIR DUCKS INVADE THE JONSTOWN COMPENDIUM.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2022/08/looking-fowl-and-feeling-fair-ducks.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -36,7 +36,7 @@ O review de [[Andrew Logan Montgomery]] destaca que DuckPac é o primeiro tratam
 - [[Neil Gibson]]
 
 ## Referências
-- Fonte: [Looking Fowl and Feeling Fair — ALM](raw/clippings/LOOKING FOWL AND FEELING FAIR DUCKS INVADE THE JONSTOWN COMPENDIUM.md)
+- Fonte: [Looking Fowl and Feeling Fair — ALM](https://andrewloganmontgomery.blogspot.com/2022/08/looking-fowl-and-feeling-fair-ducks.html)
 - [DuckPac Book 1 — DriveThruRPG](https://www.drivethrurpg.com/product/401760/DuckPac--Book-1-Myths-Legends--Lore)
 - [DuckPac Book 2 — DriveThruRPG](https://www.drivethrurpg.com/product/405617/DuckPac--Book-2-Duck-Adventurers)
 - [DuckPac Book 3 — DriveThruRPG](https://www.drivethrurpg.com/product/407087/DuckPac--Book-3-Redfeather-Dreaming)

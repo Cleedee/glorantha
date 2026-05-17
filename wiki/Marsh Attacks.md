@@ -2,7 +2,7 @@
 title: "Marsh Attacks"
 category: "Fonte"
 tags: [sourcebook, Jonstown, RuneQuest, Upland Marsh, durulz, Lismelder, Greydog]
-sources: ["raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -51,7 +51,7 @@ O sourcebook fornece material detalhado para a região do [[Upland Marsh]], incl
 - [[Greydog clan]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #82: Marsh Attacks!](raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md)
+- Fonte: [Journey to Jonstown #82: Marsh Attacks!](https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/)
 - Produto: [Marsh Attacks no DriveThruRPG](https://www.drivethrurpg.com/en/product/562474/marsh-attacks)
 
 ## Questões em Aberto

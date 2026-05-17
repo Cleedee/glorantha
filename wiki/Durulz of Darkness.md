@@ -2,7 +2,7 @@
 title: "Durulz of Darkness"
 category: "Fonte"
 tags: [aventura, Jonstown Compendium, durulz, patos, Upland Marsh, Delecti, horror, Apocalypse Now, Max Bantleman]
-sources: ["raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -39,7 +39,7 @@ A aventura se passa **após o Dragonrise** e a **Rebelião de Starbrow**: o Imp�
 - [[Duck Point]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
 - [Durulz of Darkness — DriveThruRPG](https://www.drivethrurpg.com/en/product/557875/durulz-of-darkness)
 
 ## Questões em Aberto

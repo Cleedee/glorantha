@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #5"
 category: "Fonte"
 tags: [clippings, godlearners, jeff-richard, chaosium, sartar, lunares, arkat, elmal]
-sources: ["raw/clippings/Journal of Runic Studies 5.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-5/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -134,5 +134,5 @@ Quinta edição do periódico malkioni, com notícias da Chaosium (Meints Index,
 - [[Fonrit]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Ludovic (God Learners), 2021-07-18

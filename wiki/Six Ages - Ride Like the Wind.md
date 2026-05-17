@@ -2,7 +2,7 @@
 title: "Six Ages: Ride Like the Wind"
 category: "Fonte"
 tags: [videojogo, computador, Glorantha, Six Ages, Orlanthi, pré-história, A Sharp, Robin Laws, David Dunham]
-sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md", "raw/clippings/Six Ages Ride Like the Wind.md"]
+sources: ["https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html", "https://en.wikipedia.org/wiki/Six_Ages:_Ride_Like_the_Wind"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -67,8 +67,8 @@ Em Six Ages, o jogador controla um clã dos **[[Hyalorings]]** — cavaleiros de
 - [[Dara Happa]]
 
 ## Referências
-- Fonte: [Six Ages Ride like the Wind — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)
-- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](raw/clippings/Six Ages Ride Like the Wind.md)
+- Fonte: [Six Ages Ride like the Wind — El Runeblog](https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html)
+- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](https://en.wikipedia.org/wiki/Six_Ages:_Ride_Like_the_Wind)
 - [Site oficial](https://sixages.com/)
 
 ## Questões em Aberto

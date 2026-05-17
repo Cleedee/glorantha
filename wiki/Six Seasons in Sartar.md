@@ -2,7 +2,7 @@
 title: "Six Seasons in Sartar"
 category: "Fonte"
 tags: [campanha, Jonstown Compendium, Andrew Logan Montgomery, HeroQuest, RuneQuest, Sartar, Haraborn]
-sources: ["raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md", "raw/clippings/Chaosium Con Australia A Personal Report.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html", "https://andrewloganmontgomery.blogspot.com/2024/06/chaosium-con-australia-personal-report.html"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -41,7 +41,7 @@ Montgomery anunciou um livro complementar, *[[The Seven-Tailed Wolf]]*, planejad
 - [[Haraborn]]
 
 ## Referências
-- Fonte: [The Fall of the Haraborn (Again) — Blog de ALM](raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md)
+- Fonte: [The Fall of the Haraborn (Again) — Blog de ALM](https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html)
 - [Six Seasons in Sartar no DriveThruRPG](https://www.drivethrurpg.com/product/313871/Six-Seasons-in-Sartar)
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "Skull Ruins - Tusk Riders Need Blood!"
 category: "Fonte"
 tags: [aventura, Jonstown Compendium, Tusk Riders, Leika, Colymar, Ricardo Shankland, Dario Corallo]
-sources: ["raw/clippings/SKULL RUINS -- Tusk Riders Need Blood!, a Review.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/07/skull-ruins-tusk-riders-need-blood.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -45,7 +45,7 @@ A aventura foi elogiada por:
 - [[Ricardo Shankland]]
 
 ## Referências
-- Fonte: [Review de Andrew Logan Montgomery](raw/clippings/SKULL RUINS -- Tusk Riders Need Blood!, a Review.md)
+- Fonte: [Review de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2024/07/skull-ruins-tusk-riders-need-blood.html)
 - [Skull Ruins - Tusk Riders Need Blood! — DriveThruRPG](https://www.drivethrurpg.com/en/product/482306/Skull-Ruins-Tusk-Riders-Need-Blood)
 
 ## Questões em Aberto

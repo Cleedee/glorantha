@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #26"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Weapons & Equipment, Elf Pack, ChaosiumCon, Simon Phipp]
-sources: ["raw/clippings/Journal of Runic Studies 26.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-26/"]
 last_updated: 2026-05-16
 status: draft
 ---

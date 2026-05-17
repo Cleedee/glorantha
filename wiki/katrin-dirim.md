@@ -2,7 +2,7 @@
 title: "Katrin Dirim"
 category: "Entidade"
 tags: [artista, ilustradora, Chaosium, Cults of RuneQuest, Greg Stafford Memorial Award]
-sources: ["raw/clippings/Journal of Runic Studies 20.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -32,7 +32,7 @@ Katrin Dirim foi a vencedora do prêmio de 2021. Vencedores anteriores incluem *
 - [[Jonstown Compendium]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #20](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #20](https://godlearners.com/journal-of-runic-studies-20/)
 - [Chaosium Blog — Katrin Dirim Greg Stafford Memorial Award 2021](https://www.chaosium.com/blogartist-katrin-dirim-is-the-2021-recipient-of-the-greg-stafford-memorial-award-for-gloranthan-fandom/)
 
 ## Questões em Aberto

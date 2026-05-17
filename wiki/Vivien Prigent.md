@@ -2,7 +2,7 @@
 title: "Vivien Prigent"
 category: "Entidade"
 tags: [autor, Jonstown Compendium, Pavis, campanha, As the Appearance of Horses]
-sources: ["raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -22,7 +22,7 @@ status: draft
 - [[RuneQuest]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
 
 ## Questões em Aberto
 - [ ] Vivien Prigent tem outras obras publicadas?

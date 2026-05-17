@@ -2,7 +2,7 @@
 title: "13th Age in Glorantha"
 category: "Fonte"
 tags: [sistema, 13th Age, Glorantha, Rob Heinsoo, Jonathan Tweet, Dragon Pass, Hero Wars, sourcebook]
-sources: ["raw/clippings/13TH AGE GLORANTHA A REVIEW.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2018/03/13th-age-glorantha-review.html"]
 last_updated: 2026-04-27
 status: draft
 ---
@@ -108,7 +108,7 @@ Recomendado para quem quer níveis de poder mais altos com abordagem gamista.
 - [[Ernalda]]
 
 ## Referências
-- Fonte: [13TH AGE GLORANTHA A REVIEW](raw/clippings/13TH AGE GLORANTHA A REVIEW.md) — Andrew Logan Montgomery, 2018-03-06
+- Fonte: [13TH AGE GLORANTHA A REVIEW](https://andrewloganmontgomery.blogspot.com/2018/03/13th-age-glorantha-review.html) — Andrew Logan Montgomery, 2018-03-06
 
 ## Questões em Aberto
 - [x] Quais as diferenças específicas entre as classes de 13G e as equivalentes em QuestWorlds?

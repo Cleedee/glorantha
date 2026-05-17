@@ -43,5 +43,5 @@ RuneQuest influenciou profundamente a indústria: seu sistema d100 originou [[Ca
 - [[Dual Cult Membership]]
 
 ## Referências
-- Fonte: [RuneQuest: Roleplaying in Glorantha — review](raw/clippings/RUNEQUEST ROLEPLAYING IN GLORANTHA, THE REVIEW.md)
-- Fonte: [RuneQuest Classic Edition review](raw/clippings/RuneQuest Classic Edition review (RQ2).md)
+- Fonte: [RuneQuest: Roleplaying in Glorantha — review](https://andrewloganmontgomery.blogspot.com/2018/05/runequest-roleplaying-in-glorantha.html)
+- Fonte: [RuneQuest Classic Edition review](https://elruneblog.blogspot.com/2021/06/runequest-classic-edition-review-rq2.html)

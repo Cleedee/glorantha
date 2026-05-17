@@ -2,7 +2,7 @@
 title: "Harmast, o Descalço"
 category: "Entidade"
 tags: [herói, Primeira Era, 411, romance, A Pyre for Gods and Heroes, heroquest]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 23.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-23/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -60,7 +60,7 @@ Os últimos são provavelmente os mais perigosos — e mais recompensadores — 
 - [[Lokamayadon]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Harmast aparece em outras fontes de Glorantha?

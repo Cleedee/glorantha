@@ -2,7 +2,7 @@
 title: "The Eleven Lights"
 category: "Fonte"
 tags: [campanha, HeroQuest, Glorantha 2e, QuestWorlds, Red Cow, volume 2, Moon Design]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html", "https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -49,8 +49,8 @@ A introdução do volume estabelece a linhagem das campanhas de Glorantha, traç
 - [[Big Rubble e Pavis]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 - [The Eleven Lights — DriveThruRPG](https://www.drivethrurpg.com/en/product/230018/the-eleven-lights)
 
 ## Questões em Aberto

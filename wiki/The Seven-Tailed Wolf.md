@@ -2,7 +2,7 @@
 title: "The Seven-Tailed Wolf"
 category: "Fonte"
 tags: [suplemento, Jonstown Compendium, Andrew Logan Montgomery, Six Seasons in Sartar, Company of the Dragon, Haraborn]
-sources: ["raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -30,7 +30,7 @@ Anunciado em setembro de 2021 no blog de Montgomery, como parte de uma série de
 - [[Jonstown Compendium]]
 
 ## Referências
-- Fonte: [The Fall of the Haraborn (Again) — Blog de ALM](raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md)
+- Fonte: [The Fall of the Haraborn (Again) — Blog de ALM](https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html)
 
 ## Questões em Aberto
 - [ ] O livro foi realmente publicado?

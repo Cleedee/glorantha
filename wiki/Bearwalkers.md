@@ -2,7 +2,7 @@
 title: "Bearwalkers"
 category: "Fonte"
 tags: [sourcebook, Rathori, werebears, Rathorela, Jamie Revell, Jonstown Compendium]
-sources: ["raw/clippings/Journal of Runic Studies 15.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-15/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -30,7 +30,7 @@ Os Rathori são os "werebears" de Glorantha, um povo da região oeste de Generte
 - [[QuestWorlds]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #15](raw/clippings/Journal of Runic Studies 15.md)
+- Fonte: [Journal of Runic Studies #15](https://godlearners.com/journal-of-runic-studies-15/)
 - [Bearwalkers no DriveThruRPG](https://www.drivethrurpg.com/product/371722/Bearwalkers)
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "Membresia Dupla de Cultos"
 category: "Conceito"
 tags: [cultos, iniciação, RuneQuest, RQG, mecânicas, religião, Jeff Richard, espíritos]
-sources: ["raw/clippings/Dual Cult Membership.md"]
+sources: ["https://wellofdaliath.chaosium.com/dual-cult-membership/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -62,7 +62,7 @@ Esta distinção entre cultos rúnicos e de espíritos reflete uma preocupação
 - [[Cultos de Glorantha]]
 
 ## Referências
-- Fonte: [Dual Cult Membership — Well of Daliath](raw/clippings/Dual Cult Membership.md)
+- Fonte: [Dual Cult Membership — Well of Daliath](https://wellofdaliath.chaosium.com/dual-cult-membership/)
 - Jeff Richard, Well of Daliath, 2024-12-28
 
 ## Questões em Aberto

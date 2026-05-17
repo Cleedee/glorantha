@@ -2,7 +2,7 @@
 title: "Sun County"
 category: "Fonte"
 tags: [suplemento, clássico, RQ3, Avalon Hill, Sun County, Yelmalio, Sun Dome, Prax, Michael O'Brien, Trevor Ackerly]
-sources: ["raw/clippings/The Return of Sun County The Re-Release of a Classic.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/11/the-return-of-sun-county-re-release-of.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -53,7 +53,7 @@ A Chaosium relançou *Sun County* em 2024 como uma **remasterização completa**
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [The Return of "Sun County" — Andrew Logan Montgomery](raw/clippings/The Return of Sun County The Re-Release of a Classic.md)
+- Fonte: [The Return of "Sun County" — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2024/11/the-return-of-sun-county-re-release-of.html)
 - [Sun County no DriveThruRPG](https://www.drivethrurpg.com/en/product/503811/sun-county-1992)
 
 ## Questões em Aberto

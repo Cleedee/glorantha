@@ -2,7 +2,7 @@
 title: "Tomate"
 category: "Entidade"
 tags: [mestre, YouTube, Por Um Punhado de Dados, Dorastor, Reino do Trovão, Caminho Lunar]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -27,7 +27,7 @@ Tomate mencionou que um grupo de RPG nos anos 80 revezava o papel de mestre, e c
 - [[Simon Phipp]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 - [Por Um Punhado de Dados — YouTube](https://www.youtube.com/)
 
 ## Questões em Aberto

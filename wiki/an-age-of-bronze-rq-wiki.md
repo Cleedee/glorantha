@@ -2,7 +2,7 @@
 title: "An Age of Bronze — RuneQuest RPG Wiki"
 category: "Fonte"
 tags: [site, referência, RuneQuest, Caosium, wiki, Idade do Bronze, metais, wyter]
-sources: ["raw/clippings/An Age of Bronze  The RuneQuest RPG Wiki.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/an-age-of-bronze.html#what-is-glorantha"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -53,7 +53,7 @@ Glorantha é amplamente considerada um dos maiores cenários de fantasia de todo
 - [[Kero Fin]]
 
 ## Referências
-- Fonte original: [An Age of Bronze — RuneQuest RPG Wiki](raw/clippings/An Age of Bronze  The RuneQuest RPG Wiki.md)
+- Fonte original: [An Age of Bronze — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/an-age-of-bronze.html#what-is-glorantha)
 - [RuneQuest RPG Wiki — Chaosium](https://rqwiki.chaosium.com/)
 
 ## Questões em Aberto

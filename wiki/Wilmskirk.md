@@ -2,7 +2,7 @@
 title: "Wilmskirk"
 category: "Localização"
 tags: [cidade, Sartar, Jrusteli, Wilms, artes, Balmyr, Locaem, Sambari]
-sources: ["raw/clippings/Journal of Runic Studies 18.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-18/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -46,7 +46,7 @@ Nota histórica: o exílio, em vez da execução, era a maneira preferida de **F
 - [[Fazzur Wideread]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #18](raw/clippings/Journal of Runic Studies 18.md)
+- Fonte: [Journal of Runic Studies #18](https://godlearners.com/journal-of-runic-studies-18/)
 
 ## Questões em Aberto
 - [ ] Qual é a população atual de Wilmskirk?

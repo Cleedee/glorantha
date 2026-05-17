@@ -2,7 +2,7 @@
 title: "Kero Fin"
 category: "Entidade"
 tags: [deusa, montanhas, sartar, quivin, lodril, mãe, geologia]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -33,7 +33,7 @@ Kero Fin é um marco geográfico e religioso central em Sartar. Como divindade-m
 - [[Geologia de Glorantha]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

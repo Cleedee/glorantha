@@ -2,7 +2,7 @@
 title: "Lunar Imperial Finances"
 category: "Conceito"
 tags: [Império Lunar, economia, impostos, guerra, Dragon Pass]
-sources: ["raw/clippings/Journal of Runic Studies 69.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -57,7 +57,7 @@ Jeff argumenta que o império foi desesperado para extrair mais impostos de seus
 - [[Dragonrise]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #69](raw/clippings/Journal of Runic Studies 69.md)
+- Fonte: [Journal of Runic Studies #69](https://godlearners.com/journal-of-runic-studies-69/)
 - Original: [Lunar Imperial Finances — Well of Daliath](https://wellofdaliath.chaosium.com/lunar-imperial-finances/)
 
 ## Questões em Aberto

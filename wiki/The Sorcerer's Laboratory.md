@@ -2,7 +2,7 @@
 title: "The Sorcerer's Laboratory"
 category: "Fonte"
 tags: [feitiçaria, Jonstown Compendium, magia, cultos, guildas, Dragon Pass, Paul Watts]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -39,8 +39,8 @@ A feitiçaria é vista por muitos como um exótico preserve de acadêmicos excê
 - [[Kethaela]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
 - [The Sorcerer's Laboratory — DriveThruRPG](https://www.drivethrurpg.com/en/product/549761/the-sorcerer-s-laboratory)
 
 ## Questões em Aberto

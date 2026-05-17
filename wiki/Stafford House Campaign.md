@@ -2,7 +2,7 @@
 title: "Stafford House Campaign"
 category: "Fonte"
 tags: [sourcebook, Chaosium, arquivo, Greg Stafford, RuneQuest, berkeley]
-sources: ["raw/clippings/Journal of Runic Studies 69.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -43,7 +43,7 @@ O Journal of Runic Studies avaliou o livro como "um corte muito profundo da hist
 - [[Jonstown Compendium]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #69](raw/clippings/Journal of Runic Studies 69.md)
+- Fonte: [Journal of Runic Studies #69](https://godlearners.com/journal-of-runic-studies-69/)
 - Produto: [The Stafford House Campaign no DriveThruRPG](https://www.drivethrurpg.com/product/412892/The-Stafford-House-Campaign)
 
 ## Questões em Aberto

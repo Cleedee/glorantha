@@ -2,7 +2,7 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["raw/clippings/Review RuneQuest Starter Set.md", "raw/clippings/Review Cults of RuneQuest Mythology.md", "raw/clippings/Review The Lunar Way.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -56,8 +56,8 @@ Ludovic é o autor da 12ª edição do Journal of Runic Studies (setembro de 202
 - [[Cults of RuneQuest - The Lunar Way]]
 
 ## Referências
-- Fonte: [Review: Cults of RuneQuest: Mythology — God Learners](raw/clippings/Review Cults of RuneQuest Mythology.md)
-- Fonte: [Review: The Lunar Way — God Learners](raw/clippings/Review The Lunar Way.md)
+- Fonte: [Review: Cults of RuneQuest: Mythology — God Learners](https://godlearners.com/review-cults-of-runequest-mythology/)
+- Fonte: [Review: The Lunar Way — God Learners](https://godlearners.com/review-the-lunar-way/)
 
 ## Questões em Aberto
 - [ ] Ludovic revisará os livros restantes de Cults of RuneQuest?

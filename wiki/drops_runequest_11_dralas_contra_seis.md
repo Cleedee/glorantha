@@ -2,7 +2,7 @@
 title: "Drops RuneQuest #11 - Dralas contra Seis"
 category: "Conceito"
 tags: ["RuneQuest", "combate", "Strike Ranks", "magia rúnica", "magia espiritual", "Multispell", "Coordenation", "Befuddle", "clippings"]
-sources: ["raw/clippings/Drops RuneQuest 11 - Dralas contra Seis.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/11/drops-runequest-11-dralas-contra-seis.html"]
 last_updated: 2026-04-28
 status: draft
 ---
@@ -105,7 +105,7 @@ A chave para o sucesso foi:
 - [[Claudio Torcato]]
 
 ## Referências
-- Fonte: [Drops RuneQuest #11 - Dralas contra Seis](raw/clippings/Drops RuneQuest 11 - Dralas contra Seis.md)
+- Fonte: [Drops RuneQuest #11 - Dralas contra Seis](https://jogatinasemteresina.blogspot.com/2025/11/drops-runequest-11-dralas-contra-seis.html)
 - Originalmente publicado em: https://jogatinasemteresina.blogspot.com/2025/11/drops-runequest-11-dralas-contra-seis.html
 - Livro: RuneQuest 7ª Edição / RuneQuest: Roleplaying in Glorantha (RQ:G)
 

@@ -2,7 +2,7 @@
 title: "Claudio Torcato"
 category: "Entidade"
 tags: [jogador, mestre, Glorantha, QuestWorlds, Jaldonkillers, Cleedee, Compacto RPG]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Hub do Cláudio.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://telegra.ph/Minhas-distra%C3%A7%C3%B5es-01-17"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -54,9 +54,9 @@ A **Saga dos Jaldonkillers** usa o material de **Valley of Plenty** de Shawn e P
 - [[Por Um Punhado de Dados]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
-- Fonte: [Hub do Cláudio](raw/clippings/Hub do Cláudio.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
+- Fonte: [Hub do Cláudio](https://telegra.ph/Minhas-distra%C3%A7%C3%B5es-01-17)
 - [Jogatinas em Teresina](https://jogatinasemteresina.blogspot.com/)
 
 ## Questões em Aberto

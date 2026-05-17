@@ -2,7 +2,7 @@
 title: "As Terras Ermas"
 category: "Localização"
 tags: [Wastes, Erma, Prax, Caos, Batalha Eterna, pós-apocalíptico, nômades]
-sources: ["raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -39,7 +39,7 @@ A região de [[Prax]] é a parte mais conhecida e acessível das Terras Ermas, s
 - [[Waha]]
 
 ## Referências
-- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha — Andrew Logan Montgomery](raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md)
+- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html)
 - *Nomad Gods* (1977), Greg Stafford
 
 ## Questões em Aberto

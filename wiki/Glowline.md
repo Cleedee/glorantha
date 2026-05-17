@@ -2,7 +2,7 @@
 title: "Glowline"
 category: "Localização"
 tags: [Lunar, Império Lunar, Lua Vermelha, Yara Aranis, Deusa Vermelha, magia lunar, ciclo lunar]
-sources: ["raw/clippings/Runic Rants A History of the Glowline.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["https://godlearners.com/runic-rants-a-history-of-the-glowline/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-27/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -68,8 +68,8 @@ O *Glorantha Bestiary* de RQG manteve o texto antigo de *Cults of Terror*, afirm
 
 ## Referências
 - Fonte: [Runic Rants: A History of the Glowline](https://godlearners.com/runic-rants-a-history-of-the-glowline/)
-- Fonte: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
-- Fonte: [Journal of Runic Studies #27](raw/clippings/Journal of Runic Studies 27.md)
+- Fonte: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
+- Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
 
 ## Questões em Aberto
 - [ ] Expandir detalhes sobre como a Glowline funciona mecanicamente em RQG.

@@ -2,7 +2,7 @@
 title: "Cults of RuneQuest: The Gods of Fire and Sky"
 category: "Fonte"
 tags: [suplemento, cultos, deuses solares, Yelm, Yelmalio, Chaosium, review, 154 páginas]
-sources: ["raw/clippings/Cults of RuneQuest The Gods of Fire and Sky, a review.md"]
+sources: ["https://elruneblog.blogspot.com/2025/09/cults-of-runequest-gods-of-fire-and-sky.html"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -28,7 +28,7 @@ status: draft
 - [[Yelmalio]]
 
 ## Referências
-- Fonte: [Cults of RuneQuest: The Gods of Fire and Sky review — El Runeblog](raw/clippings/Cults of RuneQuest The Gods of Fire and Sky, a review.md)
+- Fonte: [Cults of RuneQuest: The Gods of Fire and Sky review — El Runeblog](https://elruneblog.blogspot.com/2025/09/cults-of-runequest-gods-of-fire-and-sky.html)
 
 ## Questões em Aberto
 - [ ] Yelmalio substituiu Elmal ou são o mesmo deus?

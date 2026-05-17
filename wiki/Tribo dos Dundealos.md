@@ -2,7 +2,7 @@
 title: "Tribo dos Dundealos"
 category: "Cultura"
 tags: [tribo, Orlanthi, Sartar, Matadores de Jaldon, cavalos, Dundealos]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -40,7 +40,7 @@ Os Dundealos incluem:
 - [[Os Matadores de Jaldon]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 
 ## Questões em Aberto
 - [ ] Qual é a relação da tribo com o reino de Sartar politicamente?

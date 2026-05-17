@@ -2,7 +2,7 @@
 title: "Yelm"
 category: "Entidade"
 tags: [deus, sol, imperador, Fogo/Céu, mitologia, cosmologia, Dara Happa, Lightbringers]
-sources: ["raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md", "raw/clippings/Cults of RuneQuest The Gods of Fire and Sky, a review.md", "raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://elruneblog.blogspot.com/2025/09/cults-of-runequest-gods-of-fire-and-sky.html", "https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -62,7 +62,7 @@ ALM argumenta que não há paralelo direto a Yelm em mitologias terrestres. Os i
 - [[Cults of RuneQuest - The Gods of Fire and Sky]]
 
 ## Referências
-- Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md)
+- Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html)
 
 ## Questões em Aberto
 - [ ] Yelm tem outras manifestações além do Disco Solar?

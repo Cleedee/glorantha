@@ -2,7 +2,7 @@
 title: "Reaching Moon Megacorp"
 category: "Cultura"
 tags: [empresa, Jonstown, fanzine, Tales of the Reaching Moon, RuneQuest, Glorantha]
-sources: ["raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -51,7 +51,7 @@ A Reaching Moon Megacorp também é conhecida por organizar jogos freeform épic
 - [[Life of Moonson]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #82: Marsh Attacks!](raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md)
+- Fonte: [Journey to Jonstown #82: Marsh Attacks!](https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/)
 
 ## Questões em Aberto
 - [ ] Quais são todos os títulos publicados pela empresa?

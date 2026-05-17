@@ -32,3 +32,4 @@ venv/
 
 # Keep all markdown, Python, and asset files
 # Explicitly tracked: *.md, *.qwen.md, *.py, images in wiki/assets/
+raw/

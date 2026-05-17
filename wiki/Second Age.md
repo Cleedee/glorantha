@@ -2,7 +2,7 @@
 title: "Second Age"
 category: "Entidade"
 tags: ["cultura", "heroquest", "ritual"]
-sources: ["raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -140,7 +140,7 @@ Jeff concludes with this:
 
 
 ## Referências
-- Fonte: [Journal of Runic Studies #29](raw/clippings/Journal of Runic Studies 29.md)
+- Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
 
 ## Questões em Aberto
 - [ ] Revisar e expandir conteúdo

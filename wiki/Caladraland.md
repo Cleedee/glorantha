@@ -2,7 +2,7 @@
 title: "Caladraland"
 category: "Localização"
 tags: [região, vulcões, Lodril, Caladra, Aurelion, País Santo, Gemborg]
-sources: ["raw/clippings/Journal of Runic Studies 18.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-18/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -68,7 +68,7 @@ Seu reino sofreu terrivelmente com uma década de invasões bárbaras, mas ele m
 - [[God Learners]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #18](raw/clippings/Journal of Runic Studies 18.md)
+- Fonte: [Journal of Runic Studies #18](https://godlearners.com/journal-of-runic-studies-18/)
 
 ## Questões em Aberto
 - [ ] Qual é a situação atual de Caladraland nas Guerras Heroicas?

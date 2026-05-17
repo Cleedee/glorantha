@@ -2,7 +2,7 @@
 title: "Cults of Prax"
 category: "Fonte"
 tags: [suplemento, clássico, prax, cultos, biturian varosh, RuneQuest, splatbook]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -38,7 +38,7 @@ Uma inovação notável de design foi a inclusão das aventuras de **Biturian Va
 - [[Cults of RuneQuest - Mythology]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - [Runeblogger Review](https://elruneblog.blogspot.com/2021/08/cults-of-prax-review.html)
 - [Chaosium Store](https://www.chaosium.com/cults-of-prax-softcover-pod/)
 

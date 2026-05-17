@@ -2,7 +2,7 @@
 title: "Welcome to Boldhome"
 category: "Fonte"
 tags: [aventura, RuneQuest, Sartar, Boldhome, Hogar Audaz, Andrew Logan Montgomery, 40 páginas, três partes, Ossi Hiekkala]
-sources: ["raw/clippings/'Welcome to Boldhome' – We're adding a 40 page new scenario to the forthcoming Lands of RuneQuest Sartar book.md"]
+sources: ["https://www.chaosium.com/blogwelcome-to-boldhome-were-adding-a-40-page-new-scenario-to-the-forthcoming-lands-of-runequest-sartar-book/"]
 last_updated: 2026-04-19
 status: draft
 ---
@@ -40,7 +40,7 @@ Também disponível para compra separada.
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [Chaosium Blog](raw/clippings/'Welcome to Boldhome' – We're adding a 40 page new scenario to the forthcoming Lands of RuneQuest Sartar book.md)
+- Fonte: [Chaosium Blog](https://www.chaosium.com/blogwelcome-to-boldhome-were-adding-a-40-page-new-scenario-to-the-forthcoming-lands-of-runequest-sartar-book/)
 
 ## Questões em Aberto
 - [ ] Quais são as três partes do cenário?

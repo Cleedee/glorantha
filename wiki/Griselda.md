@@ -2,7 +2,7 @@
 title: "Griselda"
 category: "Entidade"
 tags: [personagem, ficção, Oliver Dickinson, The Kraken, Jonstown, Kraken Chapbooks]
-sources: ["raw/clippings/Journal of Runic Studies 15.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-15/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -29,7 +29,7 @@ Fabian Küchler estava editando e diagramando uma nova história de Griselda esc
 - [[The Complete Griselda]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #15](raw/clippings/Journal of Runic Studies 15.md)
+- Fonte: [Journal of Runic Studies #15](https://godlearners.com/journal-of-runic-studies-15/)
 - [The Complete Griselda na Chaosium](https://www.chaosium.com/the-complete-griselda-pdf/)
 
 ## Questões em Aberto

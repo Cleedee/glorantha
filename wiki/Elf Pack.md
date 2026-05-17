@@ -2,7 +2,7 @@
 title: "Elf Pack"
 category: "Fonte"
 tags: [suplemento, elfos, Aldryami, Shannon Appelcline, RuneQuest, Trollpak]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 26.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-26/"]
 last_updated: 2026-05-16
 status: draft
 ---

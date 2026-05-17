@@ -2,7 +2,7 @@
 title: "Desafios Mágicos"
 category: "Conceito"
 tags: [magia, competição, heroquesting, justiça, verdade, Torneio, Hon-eel]
-sources: ["raw/clippings/Journal of Runic Studies 6.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -50,7 +50,7 @@ Desafios mágicos são uma excelente ferramenta para jogadores serem proativos c
 - [[Feathered Horse Queen]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
+- Fonte: [Journal of Runic Studies #6](https://godlearners.com/journal-of-runic-studies-6/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

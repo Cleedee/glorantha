@@ -2,7 +2,7 @@
 title: "Grungnak Fearless"
 category: "Fonte"
 tags: [monster, zorak zoran, jonstown, austin conrad]
-sources: ["raw/clippings/Journal of Runic Studies 3.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-3/"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -37,7 +37,7 @@ status: draft
 - [[Red Book of Magic]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
+- Fonte: [Journal of Runic Studies #3](https://godlearners.com/journal-of-runic-studies-3/)
 - Jonstown Compendium: [Grungnak Fearless](https://www.drivethrurpg.com/product/362573/Grungnak-Fearless?affiliate_id=326228)
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "Alarums & Excursions"
 category: "Fonte"
 tags: [zine, RPG, fanzine, Robin D. Laws, Rob Heinsoo, Jonathan Tweet]
-sources: ["raw/clippings/Interview with Robin D. Laws.md"]
+sources: ["https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -31,7 +31,7 @@ Muitos designers que passaram pelo A&E se tornaram figuras centrais da indústri
 - [[Jonathan Tweet]]
 
 ## Referências
-- Fonte: [Interview with Robin D. Laws — Juegos y Dados](raw/clippings/Interview with Robin D. Laws.md)
+- Fonte: [Interview with Robin D. Laws — Juegos y Dados](https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/)
 
 ## Questões em Aberto
 - [ ] Quem publicava o Alarums & Excursions?

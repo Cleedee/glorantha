@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #8"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Peloria, Alkoth, Shargash, QuestWorlds, King of Dragon Pass]
-sources: ["raw/clippings/Journal of Runic Studies 8.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-8/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -53,7 +53,7 @@ Novo episódio: jogadores ficam muito "amigáveis" com Tarndisi enquanto buscam 
 - [[Ludovic (God Learners)]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #8](raw/clippings/Journal of Runic Studies 8.md)
+- Fonte original: [Journal of Runic Studies #8](https://godlearners.com/journal-of-runic-studies-8/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-8/)
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "Touro da Tempestade"
 category: "Entidade"
 tags: [deus, guerra, Caos, Storm Bull, Nômades Animais, Prax, fúria, Vento do Deserto]
-sources: ["raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -41,7 +41,7 @@ O Touro da Tempestade é um culto detalhado em **[[Cults of RuneQuest - The Ligh
 - [[13th Age in Glorantha]]
 
 ## Referências
-- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md)
+- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html)
 
 ## Questões em Aberto
 - [ ] O Touro da Tempestade está verdadeiramente morto ou apenas em outro plano?

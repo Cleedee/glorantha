@@ -2,7 +2,7 @@
 title: "Glorantha"
 category: "Conceito"
 tags: [cenário, campanha, mundo, fantasia, Greg Stafford, Dragon Pass, Sartar, cosmologia]
-sources: ["raw/clippings/Glorantha.md", "raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/An Age of Bronze  The RuneQuest RPG Wiki.md"]
+sources: ["https://1d6chan.miraheze.org/wiki/Glorantha", "https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html", "https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://rqwiki.chaosium.com/glorantha/an-age-of-bronze.html#what-is-glorantha"]
 last_updated: 2026-04-27
 status: draft
 ---
@@ -90,9 +90,9 @@ Glorantha é considerada um dos maiores cenários de fantasia de todos os tempos
 - [[Mostali]]
 
 ## Referências
-- Fonte: [Glorantha](raw/clippings/Glorantha.md)
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [Glorantha](https://1d6chan.miraheze.org/wiki/Glorantha)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 
 ## Questões em Aberto
 - [x] Qual é a cosmologia completa? — Cosmologia de Glorantha criada

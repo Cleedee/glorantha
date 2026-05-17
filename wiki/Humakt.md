@@ -2,7 +2,7 @@
 title: "Humakt"
 category: "Entidade"
 tags: [deus, guerra, morte, culto, humakti, espada]
-sources: ["raw/clippings/Drops Glorantha 4 - Trollball.md", "raw/clippings/Journal of Runic Studies 24.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html", "https://godlearners.com/journal-of-runic-studies-24/"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -57,7 +57,7 @@ As regras de honra **não se aplicam** a animais, monstros e mortos-vivos, a men
 - [[Wyrms' Footnotes]]
 
 ## Referências
-- Fonte: [Drops Glorantha #4 - Trollball](raw/clippings/Drops Glorantha 4 - Trollball.md)
+- Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
 - Wyrms' Footnotes nº 11 — Chaosium (1981)
 
 ## Questões em Aberto

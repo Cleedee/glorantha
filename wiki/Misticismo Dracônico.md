@@ -2,7 +2,7 @@
 title: "Misticismo Dracônico"
 category: "Conceito"
 tags: [misticismo, dragões, Vazio, Kralorela, cosmologia, iluminação, Gbaji]
-sources: ["raw/clippings/Draconic Mysticism, the Void, and the Kralori.md"]
+sources: ["https://wellofdaliath.chaosium.com/draconic-mysticism-the-void-and-the-kralori/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -49,7 +49,7 @@ A preferência ou reconhecimento kralori de um dos deuses do caos foi um dilema 
 - [[Dragões]]
 
 ## Referências
-- Fonte: [Draconic Mysticism, the Void, and the Kralori — Well of Daliath](raw/clippings/Draconic Mysticism, the Void, and the Kralori.md)
+- Fonte: [Draconic Mysticism, the Void, and the Kralori — Well of Daliath](https://wellofdaliath.chaosium.com/draconic-mysticism-the-void-and-the-kralori/)
 - Cults of Terror (referenciado por Jeff Richard)
 - Jeff Richard, Well of Daliath, 2024-12-24
 

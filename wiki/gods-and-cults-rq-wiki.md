@@ -2,7 +2,7 @@
 title: "Gods and Cults — RuneQuest RPG Wiki"
 category: "Fonte"
 tags: [site, referência, RuneQuest, Chaosium, wiki, deuses, cultos, Runas, tabela]
-sources: ["raw/clippings/Gods and Cults  The RuneQuest RPG Wiki.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/gods-and-cults.html#important-gods"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -66,7 +66,7 @@ Os membros de elite dos cultos são chamados **Mestres das Runas** (Rune Masters
 - [[Lhankor Mhy]]
 
 ## Referências
-- Fonte original: [Gods and Cults — RuneQuest RPG Wiki](raw/clippings/Gods and Cults  The RuneQuest RPG Wiki.md)
+- Fonte original: [Gods and Cults — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/gods-and-cults.html#important-gods)
 - [RuneQuest RPG Wiki — Chaosium](https://rqwiki.chaosium.com/)
 
 ## Questões em Aberto

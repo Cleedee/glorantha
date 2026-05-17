@@ -2,7 +2,7 @@
 title: "Sartar Free Army"
 category: "Conceito"
 tags: [Argrath, Sartar, exército, reforma militar, Prax, dragonewts, Grazelanders]
-sources: ["raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-17/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -53,7 +53,7 @@ Argrath chegou com cavalaria competente com anos de experiência combinada — d
 - [[Sun Dome Templars]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #17](raw/clippings/Journal of Runic Studies 17.md)
+- Fonte: [Journal of Runic Studies #17](https://godlearners.com/journal-of-runic-studies-17/)
 
 ## Questões em Aberto
 - [ ] O Sartar Homeland Boxed Set detalha o Exército Livre?

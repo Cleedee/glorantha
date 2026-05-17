@@ -2,7 +2,7 @@
 title: "Abiding Book"
 category: "Conceito"
 tags: [Abiding Book, Malkionismo, Hrestoli, Deus Invisível, Jrustela, teologia, Seshnegi]
-sources: ["raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -45,7 +45,7 @@ Por volta desta época, os Jrusteli começaram a experimentar com navios maríti
 - [[Arkat]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #29](raw/clippings/Journal of Runic Studies 29.md)
+- Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

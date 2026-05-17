@@ -2,7 +2,7 @@
 title: "Ian Cooper"
 category: "Entidade"
 tags: [designer, QuestWorlds, HeroQuest, Chaosium, Glorantha]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -32,7 +32,7 @@ Cooper deseja que o QuestWorlds seja **agnóstico de cenário**, não apenas lig
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 
 ## Questões em Aberto
 - [ ] Qual é o histórico completo de Ian Cooper com Glorantha?

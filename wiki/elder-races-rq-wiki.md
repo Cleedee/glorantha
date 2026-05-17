@@ -2,7 +2,7 @@
 title: "The Elder Races — RuneQuest RPG Wiki"
 category: "Fonte"
 tags: [site, referência, RuneQuest, Chaosium, wiki, Raças Anciãs, Aldryami, Dragonewts, Mostali, Trolls, Broo]
-sources: ["raw/clippings/The Elder Races  The RuneQuest RPG Wiki.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/elder-races.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -45,7 +45,7 @@ Centauros, patos ([[Durulz]]), babuínos inteligentes, mer-people, gigantes, mor
 - [[Mostal]]
 
 ## Referências
-- Fonte original: [The Elder Races — RuneQuest RPG Wiki](raw/clippings/The Elder Races  The RuneQuest RPG Wiki.md)
+- Fonte original: [The Elder Races — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/elder-races.html)
 - [RuneQuest RPG Wiki — Chaosium](https://rqwiki.chaosium.com/)
 
 ## Questões em Aberto

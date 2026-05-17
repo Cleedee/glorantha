@@ -2,7 +2,7 @@
 title: "Publicações Futuras de Glorantha"
 category: "Fonte"
 tags: [roadmap, publicações, Chaosium, upcoming, pipeline]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 6.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-6/"]
 last_updated: 2026-05-09
 status: draft
 ---

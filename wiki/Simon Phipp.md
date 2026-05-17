@@ -2,7 +2,7 @@
 title: "Simon Phipp"
 category: "Entidade"
 tags: [autor, Dorastor, Secrets of Dorastor, God Learners, campanha anos 80, heroquesting]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 26.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-26/"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -33,7 +33,7 @@ Simon foi entrevistado no podcast **[[God Learners]]** (Episódio 35) especifica
 - [[God Learners]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 - [God Learners — Episódio 35](https://godlearners.com/episode-35-secrets-of-dorastor/)
 - [Secrets of Dorastor — DriveThruRPG](https://www.drivethrurpg.com/en/product/318512/secrets-of-dorastor)
 

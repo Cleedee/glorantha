@@ -2,7 +2,7 @@
 title: "Hero Wars"
 category: "Fonte"
 tags: [sistema, RPG, HeroQuest, 2000, 2003, Robin D. Laws, Greg Stafford]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Drops Glorantha 3 - Prince of Sartar.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://godlearners.com/journal-of-runic-studies-13/", "https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -48,7 +48,7 @@ Hero Wars (2000) → HeroQuest (2003) → HeroQuest: Glorantha (2015) → QuestW
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 
 ## Referências Cruzadas
 - [[HeroQuest Glorantha]]
@@ -62,9 +62,9 @@ Hero Wars (2000) → HeroQuest (2003) → HeroQuest: Glorantha (2015) → QuestW
 - [[Argrath]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds%20e%20Glorantha.md)
-- Fonte: [Journal of Runic Studies #13](raw/clippings/Journal%20of%20Runic%20Studies%2013.md)
-- Fonte: [Drops Glorantha #3 - Prince of Sartar](raw/clippings/Drops Glorantha 3 - Prince of Sartar.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
+- Fonte: [Journal of Runic Studies #13](https://godlearners.com/journal-of-runic-studies-13/)
+- Fonte: [Drops Glorantha #3 - Prince of Sartar](https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

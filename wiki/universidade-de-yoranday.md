@@ -2,7 +2,7 @@
 title: "Universidade de Yoranday"
 category: "Localização"
 tags: [God Learners, universidade, feiticeiros, Yoranday, experimento, destruída]
-sources: ["raw/clippings/Journal of Runic Studies 20.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -31,7 +31,7 @@ A destruição da Universidade de Yoranday é um dos exemplos mais dramáticos d
 - [[Humct]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #20 — Jeff's Notes](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #20 — Jeff's Notes](https://godlearners.com/journal-of-runic-studies-20/)
 
 ## Questões em Aberto
 - [ ] Onde ficava geograficamente a Universidade de Yoranday?

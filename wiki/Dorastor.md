@@ -2,7 +2,7 @@
 title: "Dorastor"
 category: "Localização"
 tags: [terra maldita, Caos, Dorastor, Dorasta, Genert, Pelora, Arkat, Ralzakark, Broos]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -60,8 +60,8 @@ Dorastor está localizado a leste/sudeste do **Império Lunar**, relativamente d
 - [[Talastar]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 
 ## Questões em Aberto
 - [ ] Qual é a extensão geográfica exata de Dorastor?

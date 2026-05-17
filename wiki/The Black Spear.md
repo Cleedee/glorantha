@@ -2,7 +2,7 @@
 title: "The Black Spear"
 category: "Fonte"
 tags: [Nick Brooke, Hero Wars, Jonstown Compendium, Mike O'Connor, aventura]
-sources: ["raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -33,9 +33,9 @@ Lançado em outubro de 2021. Ludovic brinca que a máquina de marketing de Nick 
 - [[Duel at Dangerford]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #14](raw/clippings/Journal of Runic Studies 14.md)
-- Fonte: [Journal of Runic Studies #15](raw/clippings/Journal of Runic Studies 15.md)
-- Fonte: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
+- Fonte: [Journal of Runic Studies #14](https://godlearners.com/journal-of-runic-studies-14/)
+- Fonte: [Journal of Runic Studies #15](https://godlearners.com/journal-of-runic-studies-15/)
+- Fonte: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
 - [Black Spear no DriveThruRPG](https://www.drivethrurpg.com/product/372888/Black-Spear)
 
 ## Questões em Aberto

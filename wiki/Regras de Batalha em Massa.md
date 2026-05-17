@@ -2,7 +2,7 @@
 title: "Regras de Batalha em Massa"
 category: "Conceito"
 tags: [regras, combate, batalha, exércitos, RuneQuest, Guiding Passion, White Bull]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -73,7 +73,7 @@ O band leader faz outro teste de Batalha para determinar quantas rodadas os aven
 - [[Heroquesting]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - [White Bull Campaign no YouTube](https://www.youtube.com/watch?v=whqDyrtDvdo)
 
 ## Questões em Aberto

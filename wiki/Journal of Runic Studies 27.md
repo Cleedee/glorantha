@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies 27"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Jeff Richard, Vasana, Crimson Bat, Glowline, Sheng Seleris, Karse, Hill of Orlanth Victorious, Triolini, Yara Aranis]
-sources: ["raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-27/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -49,7 +49,7 @@ status: draft
 
 ## Referências
 - Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
-- Fonte: [Journal of Runic Studies #27 (raw)](raw/clippings/Journal of Runic Studies 27.md)
+- Fonte: [Journal of Runic Studies #27 (raw)](https://godlearners.com/journal-of-runic-studies-27/)
 
 ## Questões em Aberto
 - [ ] Quem é a "Red Vireo"? Clã novo a ser detalhado no Sartar Homeland Boxed Set?

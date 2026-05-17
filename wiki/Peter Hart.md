@@ -2,7 +2,7 @@
 title: "Peter Hart"
 category: "Entidade"
 tags: [autor, Jonstown Compendium, Magra, harpias, Caos, Lunar, Hydra]
-sources: ["raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md", "raw/clippings/HYDRA - ADVENTURERS FROM THE LUNAR PROVINCES, a RuneQuest Review.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/", "https://andrewloganmontgomery.blogspot.com/2023/01/hydra-adventurers-from-lunar-provinces.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -24,7 +24,7 @@ status: draft
 - [[RuneQuest]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
 
 ## Questões em Aberto
 - [x] Peter Hart tem outras obras publicadas? Sim — *Adventurers From The Lunar Provinces* e a vindoura *Hydra!*, além de *Magra* e *A Bad Day at Duck Rock*.

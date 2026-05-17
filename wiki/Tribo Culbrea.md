@@ -2,7 +2,7 @@
 title: "Tribo Culbrea"
 category: "Cultura"
 tags: [Culbrea, Sartar, Orlanth Victorious, Hofstaring Treeleaper, Ranulf, tribo, bandidos]
-sources: ["raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-27/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -52,8 +52,8 @@ Comparativamente pequenos e pobres, mas com mais sociedades guerreiras que outra
 - [[Hill of Orlanth Victorious]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #13](raw/clippings/Journal of Runic Studies 13.md)
-- Fonte: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
+- Fonte: [Journal of Runic Studies #13](https://godlearners.com/journal-of-runic-studies-13/)
+- Fonte: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
 
 ## Questões em Aberto
 - [ ] Os Culbrea serão detalhados no Sartar Homeland Boxed Set?

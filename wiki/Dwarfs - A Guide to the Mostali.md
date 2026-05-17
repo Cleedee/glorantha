@@ -2,7 +2,7 @@
 title: "Dwarfs: A Guide to the Mostali"
 category: "Fonte"
 tags: [suplemento, Dwarfs, Mostali, Lawrence Whitaker, Mongoose, 2009]
-sources: ["raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md"]
+sources: ["https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -28,7 +28,7 @@ Os Mostali são os anões de Glorantha, uma raça antiga e misteriosa com sua pr
 - [[Lawrence Whitaker]]
 
 ## Referências
-- Fonte: [Mongoose Glorantha Titles — Well of Daliath](raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md)
+- Fonte: [Mongoose Glorantha Titles — Well of Daliath](https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/)
 
 ## Questões em Aberto
 - [ ] Os Mostali são jogáveis em alguma edição de Glorantha?

@@ -2,7 +2,7 @@
 title: "Dario Corallo"
 category: "Entidade"
 tags: [artista, Glorantha, ilustrador, fanzines, Tales of the Reaching Moon, Tradetalk, RuneQuest, Jonstown Compendium, Tentacles Press, Sicília]
-sources: ["raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Vale and Farewell, Dario Corallo (1960-2026).md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/", "https://godlearners.com/journal-of-runic-studies-80/", "https://www.chaosium.com/blogvale-and-farewell-dario-corallo-19602026/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -49,8 +49,8 @@ Faleceu aos 66 anos em 2026. [[Rick Meints]] escreveu: "Devemos a Dario uma dív
 - [[Prax]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
-- Fonte: [Vale and Farewell, Dario Corallo — Chaosium Blog](raw/clippings/Vale and Farewell, Dario Corallo (1960-2026).md)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
+- Fonte: [Vale and Farewell, Dario Corallo — Chaosium Blog](https://www.chaosium.com/blogvale-and-farewell-dario-corallo-19602026/)
 
 ## Questões em Aberto
 - [x] Dario Corallo tem outros artpacks publicados?

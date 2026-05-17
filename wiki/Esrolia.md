@@ -2,7 +2,7 @@
 title: "Esrolia"
 category: "Localização"
 tags: [Esrolia, Kethaela, Nochet, matriarcado, Ernalda, Terra, Wolf Pirates, Harrek, País Santo]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - Dragon Pass.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -36,7 +36,7 @@ Esrolia é o centro do culto à Terra. [[Ernalda]] é a divindade principal, e s
 - [[Grazelands]]
 
 ## Referências
-- Fonte: [The RuneQuest RPG Wiki — Dragon Pass](raw/clippings/The RuneQuest RPG Wiki - Dragon Pass.md)
+- Fonte: [The RuneQuest RPG Wiki — Dragon Pass](https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities)
 
 ## Questões em Aberto
 - [ ] Quem é a atual Rainha de Esrolia?

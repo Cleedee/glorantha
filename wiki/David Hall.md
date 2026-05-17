@@ -2,7 +2,7 @@
 title: "David Hall"
 category: "Entidade"
 tags: [autor, Jonstown, Reaching Moon Megacorp, Greg Stafford Memorial Award]
-sources: ["raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -39,7 +39,7 @@ Em 2026, David e a equipe retornam com **House of Malan**, um jogo freeform para
 - [[Greg Stafford Memorial Award]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #82: Marsh Attacks!](raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md)
+- Fonte: [Journey to Jonstown #82: Marsh Attacks!](https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/)
 
 ## Questões em Aberto
 - [ ] Quais outros títulos David Hall escreveu para Glorantha?

@@ -2,7 +2,7 @@
 title: "Redalda"
 category: "Entidade"
 tags: [deusa, cavalos, cultura equina, Orlanthi, Estação do Fogo]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html", "https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -32,7 +32,7 @@ Segundo eventos narrados em [[Six Ages - Ride Like the Wind]], Redalda tem uma o
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 
 ## Questões em Aberto
 - [ ] Redalda é exclusivamente uma deusa dos cavalos ou tem outros domínios?

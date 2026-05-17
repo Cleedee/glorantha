@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #20"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Starter Set, Katrin Dirim, Boldhome, Malkioni, Jonstown Compendium]
-sources: ["raw/clippings/Journal of Runic Studies 20.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -124,4 +124,4 @@ Castas Malkioni: **talars** (nobres), **zzaburi** (feiticeiros/filósofos), **ho
 - [[Malkionismo]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #20 — God Learners](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #20 — God Learners](https://godlearners.com/journal-of-runic-studies-20/)

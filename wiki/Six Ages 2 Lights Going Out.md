@@ -2,7 +2,7 @@
 title: "Six Ages 2: Lights Going Out"
 category: "Fonte"
 tags: [videojogo, computador, Glorantha, Six Ages, A Sharp, Kitfox Games, apocalipse, sequência]
-sources: ["raw/clippings/Six Ages 2 Lights Going Out.md"]
+sources: ["https://en.wikipedia.org/wiki/Six_Ages_2:_Lights_Going_Out"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -45,7 +45,7 @@ status: draft
 - [[David Dunham]]
 
 ## Referências
-- Fonte: [Six Ages 2: Lights Going Out — Wikipedia](raw/clippings/Six Ages 2 Lights Going Out.md)
+- Fonte: [Six Ages 2: Lights Going Out — Wikipedia](https://en.wikipedia.org/wiki/Six_Ages_2:_Lights_Going_Out)
 - [Site oficial](https://sixages.com/)
 - [Rock Paper Shotman review](https://www.rockpapershotgun.com/six-ages-2-lights-going-out-review)
 

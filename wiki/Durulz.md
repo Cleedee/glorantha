@@ -2,7 +2,7 @@
 title: "Durulz"
 category: "Cultura"
 tags: [patos, raça, durulz, Upland Marsh, Delecti, Duck Point, Duck Hunts, DuckPac, Kafari]
-sources: ["raw/clippings/LOOKING FOWL AND FEELING FAIR DUCKS INVADE THE JONSTOWN COMPENDIUM.md", "raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md", "raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2022/08/looking-fowl-and-feeling-fair-ducks.html", "https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/", "https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -44,9 +44,9 @@ Os Durulz geram controvérsia em Glorantha — o que é visto como cômico por a
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [Looking Fowl and Feeling Fair — ALM](raw/clippings/LOOKING FOWL AND FEELING FAIR DUCKS INVADE THE JONSTOWN COMPENDIUM.md)
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
-- Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
+- Fonte: [Looking Fowl and Feeling Fair — ALM](https://andrewloganmontgomery.blogspot.com/2022/08/looking-fowl-and-feeling-fair-ducks.html)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
+- Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
 
 ## Questões em Aberto
 - [ ] Qual é a natureza exata da maldição original dos Durulz?

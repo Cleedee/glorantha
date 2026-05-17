@@ -2,7 +2,7 @@
 title: "RuneQuest Starter Set"
 category: "Fonte"
 tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021]
-sources: ["raw/clippings/Review RuneQuest Starter Set.md", "raw/clippings/Journal of Runic Studies 3.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/Journal of Runic Studies 15.md", "raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -80,7 +80,7 @@ Dois vídeos de unboxing do Starter Set foram publicados em setembro de 2021:
 - [[Battle of Dangerford]]
 
 ## Referências
-- Fonte: [Review: RuneQuest Starter Set — God Learners (Ludovic)](raw/clippings/Review RuneQuest Starter Set.md)
+- Fonte: [Review: RuneQuest Starter Set — God Learners (Ludovic)](https://godlearners.com/review-runequest-starter-set/)
 - Fonte: [Chaosium Blog — Design Diary 12](https://www.chaosium.com/blogrunequest-starter-set-design-diary-12-putting-the-soloquest-in-runequest/)
 - Fonte: [Chaosium Blog — Design Diary 13](https://www.chaosium.com/blogrunequest-starter-set-design-diary-13-writing-the-battle-of-dangerford-soloquest/)
 - [Página de Cadastro](https://www.chaosium.com/runequest-get-the-starter-set/)

@@ -2,7 +2,7 @@
 title: "Lismelder tribe"
 category: "Cultura"
 tags: [tribo, Upland Marsh, Lismelder, durulz]
-sources: ["raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md"]
+sources: ["https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -26,7 +26,7 @@ A tribo faz parte das culturas do Upland Marsh, região conhecida por ser o lar 
 - [[Durulz]]
 
 ## Referências
-- Fonte: [Journey to Jonstown #82: Marsh Attacks!](raw/clippings/Journey to Jonstown 82 Marsh Attacks!.md)
+- Fonte: [Journey to Jonstown #82: Marsh Attacks!](https://www.chaosium.com/blogjourney-to-jonstown-82-marsh-attacks/)
 
 ## Questões em Aberto
 - [ ] Quais são os detalhes da história da tribo Lismelder?

@@ -2,7 +2,7 @@
 title: "White Bear and Red Moon"
 category: "Fonte"
 tags: [jogo de tabuleiro, batalha, reedição, Chaosium, Orlanthi, Império Lunar]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -30,7 +30,7 @@ O jogo simula conflitos entre as facções de Glorantha, nomeadamente os **Orlan
 - [[Glorantha]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Qual é a data de lançamento da reedição?

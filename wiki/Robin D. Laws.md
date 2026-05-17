@@ -2,7 +2,7 @@
 title: "Robin D. Laws"
 category: "Entidade"
 tags: [designer, autor, Hero Wars, GUMSHOE, Hillfolk, Dying Earth, Feng Shui, 1964]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md", "raw/clippings/Interview with Robin D. Laws.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -97,8 +97,8 @@ status: draft
 - [[The Esoterrorists]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
-- Fonte: [Interview with Robin D. Laws — Juegos y Dados](raw/clippings/Interview with Robin D. Laws.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
+- Fonte: [Interview with Robin D. Laws — Juegos y Dados](https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/)
 - [Blog de Robin D. Laws](http://robin-d-laws.blogspot.com/)
 - [Ken and Robin Talk About Stuff](http://www.kenandrobintalkaboutstuff.com/)
 

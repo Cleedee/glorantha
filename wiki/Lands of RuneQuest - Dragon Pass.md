@@ -2,7 +2,7 @@
 title: "Lands of RuneQuest: Dragon Pass"
 category: "Fonte"
 tags: [suplemento, RuneQuest, Dragon Pass, gazetteer, geografia, história, Ossi Hiekkala, Jeff Richard]
-sources: ["raw/clippings/Lands of RuneQuest Dragon Pass.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/10/lands-of-runequest-dragon-pass.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -49,7 +49,7 @@ O livro detalha figuras importantes como Kallyr Starbrow, Cragspider, Fazzur Wid
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [Lands of RuneQuest: Dragon Pass — Andrew Logan Montgomery](raw/clippings/Lands of RuneQuest Dragon Pass.md)
+- Fonte: [Lands of RuneQuest: Dragon Pass — Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2024/10/lands-of-runequest-dragon-pass.html)
 - [Página do produto na Chaosium](https://www.chaosium.com/lands-of-runequest-dragon-pass-hardcover/)
 
 ## Questões em Aberto

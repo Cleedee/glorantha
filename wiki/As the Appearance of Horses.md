@@ -2,7 +2,7 @@
 title: "As the Appearance of Horses"
 category: "Fonte"
 tags: [campanha, Jonstown Compendium, Pavis, praga de gafanhotos, heroquest, Argrath, Vivien Prigent]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md", "raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -37,8 +37,8 @@ De **New Pavis** ao coração dos **Wastes**, os aventureiros encontram:
 - [[Wastes]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
-- Fonte: [Journey to Jonstown #80 — Chaosium](raw/clippings/Journey to Jonstown 80 Durulz of Darkness and other new releases by indie RQ creators.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
+- Fonte: [Journey to Jonstown #80 — Chaosium](https://www.chaosium.com/blogjourney-to-jonstown-80-durulz-of-darkness-and-other-new-releases-by-indie-rq-creators/)
 - [As the Appearance of Horses — DriveThruRPG](https://www.drivethrurpg.com/en/product/551260/as-the-appearance-of-horses)
 
 ## Questões em Aberto

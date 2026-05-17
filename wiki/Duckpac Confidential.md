@@ -2,7 +2,7 @@
 title: "Duckpac Confidential: The Duck Roles"
 category: "Fonte"
 tags: [suplemento, Jonstown Compendium, durulz, patos, PNJ, ocupações]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md"]
+sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -29,7 +29,7 @@ status: draft
 - [[Durulz]]
 
 ## Referências
-- Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
+- Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
 - [Duckpac Confidential — DriveThruRPG](https://www.drivethrurpg.com/en/product/544418/duckpac-confidential-the-duck-roles)
 
 ## Questões em Aberto

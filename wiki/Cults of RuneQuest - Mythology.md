@@ -2,7 +2,7 @@
 title: "Cults of RuneQuest: Mythology"
 category: "Fonte"
 tags: [suplemento, mitologia, cultos, Chaosium, review, 158 páginas]
-sources: ["raw/clippings/Cults of RuneQuest Mythology, a review.md", "raw/clippings/Cults of Runequest Mythology and Eliade's Eternal Return.md"]
+sources: ["https://elruneblog.blogspot.com/2024/03/cults-of-runequest-mythology-review.html", "https://andrewloganmontgomery.blogspot.com/2023/10/cults-of-runequest-mythology-and.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -77,7 +77,7 @@ O livro *Mythology* dedica suas primeiras 20 páginas a explicar os três concei
 - [[Jrustelan Monomyth]]
 
 ## Referências
-- Fonte: [Cults of RuneQuest: Mythology review — El Runeblog](raw/clippings/Cults of RuneQuest Mythology, a review.md)
+- Fonte: [Cults of RuneQuest: Mythology review — El Runeblog](https://elruneblog.blogspot.com/2024/03/cults-of-runequest-mythology-review.html)
 
 ## Questões em Aberto
 - [ ] Os mapas míticos cobrem todo Glorantha ou apenas Genertela central?

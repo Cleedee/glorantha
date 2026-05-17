@@ -2,7 +2,7 @@
 title: "Eurmal"
 category: "Entidade"
 tags: [deus, trickster, Orlanthi, caos, desordem, ilusão, palhaço, clowns, sacred]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -45,7 +45,7 @@ Tricksters, que rejeitam ou vivem fora das normas sociais dominantes, são frequ
 - [[Argrath]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 - Arte por Agathe Pitie, © 2021 Chaosium Inc.
 

@@ -2,7 +2,7 @@
 title: "Alkoth"
 category: "Localização"
 tags: [cidade, Dara Happa, Submundo, Shargash, morte, Oslira, Henjarl, Império Lunar]
-sources: ["raw/clippings/Journal of Runic Studies 8.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-8/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -67,7 +67,7 @@ Durante a Terra Terceira (Third Wane), piratas fluviais alkothianos navegaram pe
 
 ## Referências
 
-- Fonte: [Journal of Runic Studies #8](raw/clippings/Journal of Runic Studies 8.md)
+- Fonte: [Journal of Runic Studies #8](https://godlearners.com/journal-of-runic-studies-8/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 
 ## Questões em Aberto

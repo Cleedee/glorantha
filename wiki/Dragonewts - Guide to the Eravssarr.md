@@ -2,7 +2,7 @@
 title: "Dragonewts: Guide to the Eravssarr"
 category: "Fonte"
 tags: [suplemento, Dragonewts, Eravssarr, Lawrence Whitaker, Mongoose, 2007]
-sources: ["raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md"]
+sources: ["https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -28,7 +28,7 @@ Os Dragonewts são uma raça antiga e misteriosa de Glorantha, predatando a maio
 - [[Lawrence Whitaker]]
 
 ## Referências
-- Fonte: [Mongoose Glorantha Titles — Well of Daliath](raw/clippings/Mongoose Glorantha Titles by Robin Laws & Lawrence Whitaker.md)
+- Fonte: [Mongoose Glorantha Titles — Well of Daliath](https://wellofdaliath.chaosium.com/home/gloranthan-canon/mongoose-titles-by-robin-laws-lawrence-whitaker/)
 
 ## Questões em Aberto
 - [ ] O que é Eravssarr?

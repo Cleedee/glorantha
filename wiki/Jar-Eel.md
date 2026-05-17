@@ -2,7 +2,7 @@
 title: "Jar-Eel"
 category: "Entidade"
 tags: [lunar, deusa vermelha, heroína, Moonson, Moonsword, Chaos, Imperador Vermelho]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -91,8 +91,8 @@ Apesar da reputação maligna, seu apelido "Rainha-Bruxa de Sangue Venenoso" pod
 - [[Moonsword]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
-- Fonte: [Journal of Runic Studies #28](raw/clippings/Journal of Runic Studies 28.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
+- Fonte: [Journal of Runic Studies #28](https://godlearners.com/journal-of-runic-studies-28/)
 - Escribas de Argrath
 - Arte: Jon Hodgson © 2021 Chaosium Inc.
 

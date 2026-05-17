@@ -2,7 +2,7 @@
 title: "Eyes' Rise"
 category: "Fonte"
 tags: [sourcebook, Jonstown, RuneQuest, QuestWorlds, vila, River Folk]
-sources: ["raw/clippings/Journal of Runic Studies 69.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md"]
 last_updated: 2026-05-05
 status: draft
 ---
@@ -34,7 +34,7 @@ Eyes' Rise é uma "pequena vila maioritariamente esquecida no Rio das Berços" (
 - [[QuestWorlds]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #69](raw/clippings/Journal of Runic Studies 69.md)
+- Fonte: [Journal of Runic Studies #69](https://godlearners.com/journal-of-runic-studies-69/)
 - Produto: [Eyes' Rise no DriveThruRPG](https://www.drivethrurpg.com/product/412218/Eyes-Rise)
 
 ## Questões em Aberto

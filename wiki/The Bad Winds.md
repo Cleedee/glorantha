@@ -2,7 +2,7 @@
 title: "The Bad Winds"
 category: "Magia"
 tags: [elementais, ventos, mallia, doença, kolatting, espíritos]
-sources: ["raw/clippings/Journal of Runic Studies 12.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-12/"]
 last_updated: 2026-05-13
 status: draft
 aliases:
@@ -35,7 +35,7 @@ Publicado por **Austin Conrad** no [[Jonstown Compendium]] como parte da série 
 - [[Caos]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #12](raw/clippings/Journal of Runic Studies 12.md)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
 - [The Bad Winds no DriveThruRPG](https://www.drivethrurpg.com/product/369358/The-Bad-Winds)
 
 ## Questões em Aberto

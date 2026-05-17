@@ -2,7 +2,7 @@
 title: "Clã Hiording"
 category: "Cultura"
 tags: [sartar, clã, hiording, incompleto, demografia]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/"]
 last_updated: 2026-05-07
 status: draft
 ---
@@ -40,7 +40,7 @@ Clã sartarita com escrita possivelmente incompleta para o Sartar Homeland Boxed
 - [[Matt Ryan]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Jeff Richard no RuneQuest Facebook Group
 - Cartografia © 2021 Chaosium Inc.
 

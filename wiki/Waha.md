@@ -2,7 +2,7 @@
 title: "Waha"
 category: "Entidade"
 tags: [herói, fundador, civilizador, Nômades Animais, pacto, Waha, Eiritha]
-sources: ["raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -35,7 +35,7 @@ Waha é listado entre os cultos de **[[Cults of RuneQuest - The Lightbringers]]*
 - [[Cults of RuneQuest - The Lightbringers]]
 
 ## Referências
-- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md)
+- Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html)
 
 ## Questões em Aberto
 - [ ] Waha é adorado apenas como herói ancestral ou como divindade plena?

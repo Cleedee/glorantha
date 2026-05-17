@@ -2,7 +2,7 @@
 title: "GUMSHOE"
 category: "Conceito"
 tags: [sistema, RPG, investigação, Pelgrane Press, Robin D. Laws, Trail of Cthulhu]
-sources: ["raw/clippings/Interview with Robin D. Laws.md"]
+sources: ["https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -38,7 +38,7 @@ Segundo Robin Laws, GUMSHOE funciona bem para introduzir novos jogadores ao hobb
 - [[Trail of Cthulhu]]
 
 ## Referências
-- Fonte: [Interview with Robin D. Laws — Juegos y Dados](raw/clippings/Interview with Robin D. Laws.md)
+- Fonte: [Interview with Robin D. Laws — Juegos y Dados](https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/)
 
 ## Questões em Aberto
 - [ ] GUMSHOE será usado para cenários de Glorantha?

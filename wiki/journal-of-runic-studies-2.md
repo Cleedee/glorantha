@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #2"
 category: "Fonte"
 tags: [clippings, godlearners, jeff-richard, chaosium, malkioni]
-sources: ["raw/clippings/Journal of Runic Studies 2.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -90,7 +90,7 @@ Segunda edição do periódico de estudos runicos malkioni, contendo notícias d
 - [[Arkat Caosban]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Chaosium: [The Red Book of Magic](https://www.chaosium.com/the-red-book-of-magic-hardcover/)
 - Jeff Richard no RuneQuest Facebook Group
 

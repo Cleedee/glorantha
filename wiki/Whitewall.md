@@ -2,7 +2,7 @@
 title: "Whitewall"
 category: "Localização"
 tags: [cidade, Murallas Brancas, cerco, 1620, Orlanthi, Império Lunar, Sartar]
-sources: ["raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md"]
+sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html"]
 last_updated: 2026-04-14
 status: draft
 ---
@@ -24,7 +24,7 @@ Em 1620, o Império Lunar lançou um cerco contra Whitewall para eliminar o últ
 - [[Sartar]]
 
 ## Referências
-- Fonte: [Noticias D100 abr 2026 — El Runeblog](raw/clippings/Noticias D100 Cthulhu, RuneQuest, Mythras, Warhammer, etc. (abr. 2026).md)
+- Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
 
 ## Questões em Aberto
 - [ ] Whitewall caiu ou resistiu?

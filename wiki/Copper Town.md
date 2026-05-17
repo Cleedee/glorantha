@@ -2,7 +2,7 @@
 title: "Copper Town"
 category: "Localização"
 tags: [barastar, mineração, cobre, asrelia, 2000 pessoas]
-sources: ["raw/clippings/Journal of Runic Studies 4.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-4/"]
 last_updated: 2026-05-07
 status: draft
 ---
@@ -41,7 +41,7 @@ Cidade de ~2000 pessoas próxima às minas de cobre das colinas Barastaros; cobr
 - [[Mineração]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #4](raw/clippings/Journal of Runic Studies 4.md)
+- Fonte: [Journal of Runic Studies #4](https://godlearners.com/journal-of-runic-studies-4/)
 - Arte por Loic Muzy © 2021 Chaosium Inc.
 - Jeff Richard no RuneQuest Facebook Group
 

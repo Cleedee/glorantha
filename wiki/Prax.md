@@ -2,7 +2,7 @@
 title: "Prax"
 category: "Localização"
 tags: [região, Prax, nômades, bisontes, cavalos, RuneQuest, fonte]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 12.md", "raw/clippings/WANDERERS IN THE WASTES The Nomads of Glorantha.md", "raw/clippings/The RuneQuest RPG Wiki - Dragon Pass.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-12/", "https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html", "https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities"]
 last_updated: 2026-05-13
 status: draft
 ---

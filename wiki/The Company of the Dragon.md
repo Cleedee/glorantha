@@ -2,7 +2,7 @@
 title: "The Company of the Dragon"
 category: "Fonte"
 tags: [campanha, Jonstown Compendium, Andrew Logan Montgomery, RuneQuest, Sartar, sequência]
-sources: ["raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Journal of Runic Studies 10.md", "raw/clippings/Journal of Runic Studies 13.md", "raw/clippings/Journal of Runic Studies 14.md", "raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -35,8 +35,8 @@ Montgomery escreveu *The Company of the Dragon* durante a pandemia de COVID-19, 
 - [[The Seven-Tailed Wolf]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #9](raw/clippings/Journal of Runic Studies 9.md)
-- Fonte: [The Fall of the Haraborn (Again) — Blog de ALM](raw/clippings/THE FALL OF THE HARABORN (AGAIN) Coming Back to Six Seasons in Sartar after Two Years, Two Books, and Too Long.md)
+- Fonte: [Journal of Runic Studies #9](https://godlearners.com/journal-of-runic-studies-9/)
+- Fonte: [The Fall of the Haraborn (Again) — Blog de ALM](https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html)
 - [The Company of the Dragon no DriveThruRPG](https://www.drivethrurpg.com/product/350649/THE-COMPANY-OF-THE-DRAGON)
 
 ## Questões em Aberto

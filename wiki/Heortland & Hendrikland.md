@@ -2,7 +2,7 @@
 title: "Heortland & Hendrikland"
 category: "Localização"
 tags: [sourcebook, Heortland, Hendrikland, Harald Smith, RuneQuest]
-sources: ["raw/notas/Publicações Futuras.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 24.md"]
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-24/"]
 last_updated: 2026-05-09
 status: draft
 ---

@@ -2,7 +2,7 @@
 title: "The RuneQuest RPG Wiki — The World"
 category: "Fonte"
 tags: [site, referência, RuneQuest, Chaosium, wiki, cosmologia, geografia, Glorantha, Genertela, Pamaltela]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - The World.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/the-world.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -38,7 +38,7 @@ O mundo é povoado por entidades mágicas que são personificações de coisas, 
 - [[Pamaltela]]
 
 ## Referências
-- Fonte original: [The RuneQuest RPG Wiki — The World](raw/clippings/The RuneQuest RPG Wiki - The World.md)
+- Fonte original: [The RuneQuest RPG Wiki — The World](https://rqwiki.chaosium.com/glorantha/the-world.html)
 - [RuneQuest RPG Wiki — Chaosium](https://rqwiki.chaosium.com/)
 
 ## Questões em Aberto

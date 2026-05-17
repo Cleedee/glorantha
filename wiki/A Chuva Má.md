@@ -2,7 +2,7 @@
 title: "A Chuva Má"
 category: "Conceito"
 tags: [Bad Rain, Orlanth, Sombra, Shadow, heroquesting, Lightbringers, Kallyr, Argrath, Harmast, Urain, trolls, Zorak Zoran, Manthi Flints, Angorsk Ig]
-sources: ["raw/clippings/Journal of Runic Studies 23.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-23/"]
 last_updated: 2026-05-15
 status: draft
 aliases:
@@ -78,7 +78,7 @@ Este conceito é chave para a narrativa de Greg Stafford. Seus protagonistas —
 - [[Greg Stafford]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #23](raw/clippings/Journal of Runic Studies 23.md)
+- Fonte: [Journal of Runic Studies #23](https://godlearners.com/journal-of-runic-studies-23/)
 
 ## Questões em Aberto
 - [ ] Qual era exatamente a Sombra de Kallyr? E a de Argrath?

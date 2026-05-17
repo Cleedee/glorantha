@@ -2,7 +2,7 @@
 title: "Nivorah"
 category: "Localização"
 tags: [cidade, Dara Happa, Hyalorings, God Time, gelo]
-sources: ["raw/clippings/Six Ages Ride like the Wind - My first adventures!.md"]
+sources: ["https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -27,7 +27,7 @@ O destino final de Nivorah não é claro — se foi destruída pelo gelo, abando
 - [[Tempo dos Deuses]]
 
 ## Referências
-- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](raw/clippings/Six Ages Ride like the Wind - My first adventures!.md)
+- Fonte: [Six Ages: Ride like the Wind - My first adventures! — El Runeblog](https://elruneblog.blogspot.com/2018/06/six-ages-ride-like-wind-my-first.html)
 
 ## Questões em Aberto
 - [ ] Nivorah aparece em outras fontes de Glorantha?

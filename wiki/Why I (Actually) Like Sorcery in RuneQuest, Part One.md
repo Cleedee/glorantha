@@ -2,7 +2,7 @@
 title: "Why I (Actually) Like Sorcery in RuneQuest, Part One"
 category: "Fonte"
 tags: [blog, Andrew Logan Montgomery, feitiçaria, sorcery, RQG, Battle Magic, Rune Magic, Malkioni, God Learners, Greg Stafford]
-sources: ["raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -46,7 +46,7 @@ O artigo termina com a promessa: *"Now it was time to make Sorcery, the magic of
 - [[Sistemas de Magia em RuneQuest]]
 
 ## Referências
-- Fonte original: [Why I (Actually) Like Sorcery in RuneQuest, Part One](raw/clippings/WHY I (ACTUALLY) LIKE SORCERY IN RUNEQUEST ROLEPLAYING IN GLORANTHA, PART ONE.md)
+- Fonte original: [Why I (Actually) Like Sorcery in RuneQuest, Part One](https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html)
 - [[Andrew Logan Montgomery]]
 
 ## Questões em Aberto

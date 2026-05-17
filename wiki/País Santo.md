@@ -2,7 +2,7 @@
 title: "País Santo"
 category: "Localização"
 tags: [kethaela, belintar, deus-rei, holy country]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 11.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-11/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -106,9 +106,9 @@ Após a Batalha do Muro em Construção (Building Wall Battle), os Lunares sabia
 - [[Androgeus]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
-- Fonte: [Journal of Runic Studies #6](raw/clippings/Journal of Runic Studies 6.md)
-- Fonte: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
+- Fonte: [Journal of Runic Studies #6](https://godlearners.com/journal-of-runic-studies-6/)
+- Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
 - Jeff Richard no RuneQuest Facebook Group
 - Mapa de Greg Stafford para o País Santo
 - Mapa de Colin Driver © 2021 Chaosium Inc.

@@ -2,7 +2,7 @@
 title: "Elmal"
 category: "Entidade"
 tags: [deus, caça, proteção, Orlanthi, cavalos, Tribo dos Dundealos, sol, Yelmalio, Lightfore, Dragon Pass, Monrogh]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 7.md", "raw/clippings/Journal of Runic Studies 9.md", "raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-9/", "https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -78,8 +78,8 @@ Os livros da **HeroWars** (especialmente o suplemento "Storm Tribe") perpetuaram
 - [[Orlanth]]
 
 ## Referências
-- Fonte: [Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 - Jeff Richard no BRP Forums, 2021 (transição Elmal→Yelmalio)
 - *Storm Tribe* (HeroWars) — Moon Design

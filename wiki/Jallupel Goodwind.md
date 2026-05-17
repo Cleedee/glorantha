@@ -2,7 +2,7 @@
 title: "Jallupel Goodwind"
 category: "Fonte"
 tags: [Monster of the Month, Austin Conrad, Diana Probst, Beer With Teeth, Jonstown Compendium, aventura]
-sources: ["raw/clippings/Journal of Runic Studies 16.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-16/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -31,7 +31,7 @@ Diferente dos MOTM tradicionais que focam em uma única criatura ou monstro, *Ja
 - [[Diana Probst]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
+- Fonte: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
 - [Jallupel Goodwind no DriveThruRPG](https://www.drivethrurpg.com/product/372585/Jallupel-Goodwind)
 
 ## Questões em Aberto

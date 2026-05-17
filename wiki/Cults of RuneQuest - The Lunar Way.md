@@ -2,7 +2,7 @@
 title: "Cults of RuneQuest: The Lunar Way"
 category: "Fonte"
 tags: [suplemento, cultos, Império Lunar, Deusa Vermelha, iluminação, Chaosium, review, 151 páginas]
-sources: ["raw/clippings/Cults of RuneQuest The Lunar Way - Review.md", "raw/clippings/THE LUNAR WAY A REVIEW.md"]
+sources: ["https://elruneblog.blogspot.com/2024/07/cults-of-runequest-lunar-way-review.html", "https://andrewloganmontgomery.blogspot.com/2024/05/the-lunar-way-review.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -122,7 +122,7 @@ Loïc Muzy (capa: Deusa Vermelha no Morcego Carmesim), Agathe Pitié (fresco Sev
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [Cults of RuneQuest: The Lunar Way review — El Runeblog](raw/clippings/Cults of RuneQuest The Lunar Way - Review.md)
+- Fonte: [Cults of RuneQuest: The Lunar Way review — El Runeblog](https://elruneblog.blogspot.com/2024/07/cults-of-runequest-lunar-way-review.html)
 
 ## Questões em Aberto
 - [ ] O que são os Sete Passos da Deusa?

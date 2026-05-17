@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #7"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Belintar, Torneio, Orlanth, Ernalda, Sartar]
-sources: ["raw/clippings/Journal of Runic Studies 7.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-7/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -75,7 +75,7 @@ Os jogadores aceitam a chamada do Mestre para uma aventura paralela do livreto *
 - [[Ludovic (God Learners)]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #7](raw/clippings/Journal of Runic Studies 7.md)
+- Fonte original: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-7/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 

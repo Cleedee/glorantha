@@ -2,7 +2,7 @@
 title: "Arkat Caosban"
 category: "Entidade"
 tags: [heroi, heroquesting, caos, transcultural, queda, arkati, halikiv, Gbaji]
-sources: ["raw/clippings/Journal of Runic Studies 2.md", "raw/clippings/Journal of Runic Studies 5.md", "raw/clippings/Journal of Runic Studies 23.md", "raw/clippings/Journal of Runic Studies 80.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-80/"]
 last_updated: 2026-05-09
 status: draft
 aliases:
@@ -67,8 +67,8 @@ Após a destruição do culto original pelos God Learners, vários grupos reivin
 - [[Harmast, o Descalço]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #2](raw/clippings/Journal of Runic Studies 2.md)
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ### Legado e Cultos Modernos

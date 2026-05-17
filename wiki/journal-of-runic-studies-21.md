@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #21"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Ludovic, Biturian Varosh, Prax, Saranioth, Meints Index]
-sources: ["raw/clippings/Journal of Runic Studies 21.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-21/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -42,7 +42,7 @@ status: draft
 - [[Dorastor]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #21](raw/clippings/Journal of Runic Studies 21.md)
+- Fonte original: [Journal of Runic Studies #21](https://godlearners.com/journal-of-runic-studies-21/)
 
 ## Questões em Aberto
 - [ ] Quem é Saranioth The Wanderer?

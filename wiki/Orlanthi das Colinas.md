@@ -2,7 +2,7 @@
 title: "Orlanthi das Colinas"
 category: "Cultura"
 tags: [Orlanthi, agricultura, colinas, Orlanth, Ernalda, Tribo dos Dundealos]
-sources: ["raw/clippings/Jogando A Saga dos Matadores de Jaldon.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -29,7 +29,7 @@ Os Orlanthi das Colinas fazem parte da Tribo dos Dundealos, demonstrando a diver
 - [[Orlanthi]]
 
 ## Referências
-- Fonte: [Jogando A Saga dos Matadores de Jaldon](raw/clippings/Jogando A Saga dos Matadores de Jaldon.md)
+- Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 
 ## Questões em Aberto
 - [ ] Os Orlanthi das Colinas têm identidade política distinta dentro da tribo?

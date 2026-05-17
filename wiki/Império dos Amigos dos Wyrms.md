@@ -2,7 +2,7 @@
 title: "Império dos Amigos dos Wyrms"
 category: "Cultura"
 tags: [EWF, Third Council, dragões, dragonewts, Segunda Era, magia dracônica, Orlanth Rex, Dragon Pass]
-sources: ["raw/clippings/Journal of Runic Studies 28.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-28/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -71,7 +71,7 @@ Onde o EWF era dominante, também vemos o Panteão dos Lightbringers ([[Orlanth]
 - [[Genertela]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #28](raw/clippings/Journal of Runic Studies 28.md)
+- Fonte: [Journal of Runic Studies #28](https://godlearners.com/journal-of-runic-studies-28/)
 - Jeff Richard no RuneQuest Facebook Group
 - Cults of RuneQuest (próximo volume)
 

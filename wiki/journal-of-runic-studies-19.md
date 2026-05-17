@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #19"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Tarsh Lunar, Red Book of Magic, Sandheart, Six Seasons in Sartar, Orlanthi]
-sources: ["raw/clippings/Journal of Runic Studies 19.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-19/"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -55,4 +55,4 @@ O vindouro **Cults Book** de RuneQuest conterá uma decomposição de membros de
 - [[Six Seasons in Sartar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #19 — God Learners](raw/clippings/Journal of Runic Studies 19.md)
+- Fonte: [Journal of Runic Studies #19 — God Learners](https://godlearners.com/journal-of-runic-studies-19/)

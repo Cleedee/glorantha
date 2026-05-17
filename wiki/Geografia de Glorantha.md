@@ -2,7 +2,7 @@
 title: "Geografia de Glorantha"
 category: "Conceito"
 tags: [geografia, mundo, lua vermelha, plano]
-sources: ["raw/clippings/Journal of Runic Studies 3.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-3/"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -40,7 +40,7 @@ Mundo (quase) plano, (quase) quadrado, com 8000 km de lado; Lua Vermelha com ~35
 - [[Pamaltela]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
+- Fonte: [Journal of Runic Studies #3](https://godlearners.com/journal-of-runic-studies-3/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

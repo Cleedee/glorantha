@@ -2,7 +2,7 @@
 title: "Lokamayadon"
 category: "Entidade"
 tags: [Primeira Era, A Pyre for Gods and Heroes, figura heroica]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -24,7 +24,7 @@ Mencionado no romance de Greg Stafford como parte da história da Primeira Era. 
 - [[Nysalor]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Quem ou o que é Lokamayadon?

@@ -2,7 +2,7 @@
 title: "The Coming Storm"
 category: "Fonte"
 tags: [campanha, HeroQuest, QuestWorlds, Glorantha, cenário, Moon Design]
-sources: ["raw/clippings/QuestWorlds e Glorantha.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -34,7 +34,7 @@ Os livros da campanha The Red Cow (The Coming Storm + The Eleven Lights) foram a
 - [[The Red Cow]]
 
 ## Referências
-- Fonte: [QuestWorlds e Glorantha](raw/clippings/QuestWorlds e Glorantha.md)
+- Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
 - [The Coming Storm — DriveThruRPG](https://www.drivethrurpg.com/en/product/230014/the-coming-storm)
 
 ## Questões em Aberto

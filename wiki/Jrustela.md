@@ -2,7 +2,7 @@
 title: "Jrustela"
 category: "Localização"
 tags: [ilha-continente, God Learners, Malkioni, Abiding Book, Olodo, Timinits]
-sources: ["raw/clippings/Journal of Runic Studies 29.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -45,7 +45,7 @@ Jrustela se tornou o núcleo do [[Império do Meio Mar]] e o berço intelectual 
 - [[Monomito]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #29](raw/clippings/Journal of Runic Studies 29.md)
+- Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

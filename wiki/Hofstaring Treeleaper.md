@@ -2,7 +2,7 @@
 title: "Hofstaring Treeleaper"
 category: "Entidade"
 tags: [herói, Culbrea, Sartar, Starbrow's Rebellion, Orlanth, lança]
-sources: ["raw/clippings/Journal of Runic Studies 16.md", "raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-27/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -32,7 +32,7 @@ Após sua morte, os Culbrea sofreram punições severas, perdendo clãs para out
 - [[Sartar]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #16](raw/clippings/Journal of Runic Studies 16.md)
+- Fonte: [Journal of Runic Studies #16](https://godlearners.com/journal-of-runic-studies-16/)
 
 ## Questões em Aberto
 - [ ] Há mais informações sobre suas habilidades heroicas?

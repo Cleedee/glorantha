@@ -2,7 +2,7 @@
 title: "Haraspac"
 category: "Entidade"
 tags: [engenheiro, anão, Argrath, Sartar, cercos, Exército Livre]
-sources: ["raw/clippings/Journal of Runic Studies 17.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-17/"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -23,7 +23,7 @@ No [[Sartar Free Army]], os cercos eram deixados a especialistas organizados e l
 - [[Mostali]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #17](raw/clippings/Journal of Runic Studies 17.md)
+- Fonte: [Journal of Runic Studies #17](https://godlearners.com/journal-of-runic-studies-17/)
 
 ## Questões em Aberto
 - [ ] Haraspac tem sangue anão confirmado ou é só rumor?

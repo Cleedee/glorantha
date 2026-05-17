@@ -2,7 +2,7 @@
 title: "Dhole's House"
 category: "Fonte"
 tags: [ferramenta, criação de personagens, Call of Cthulhu, Chaosium, website]
-sources: ["raw/clippings/Journal of Runic Studies 20.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -26,7 +26,7 @@ A Chaosium planeja desenvolver ferramentas de criação de personagens similares
 - [[Call of Cthulhu]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #20](raw/clippings/Journal of Runic Studies 20.md)
+- Fonte: [Journal of Runic Studies #20](https://godlearners.com/journal-of-runic-studies-20/)
 - [Dhole's House](https://www.dholeshouse.org/)
 
 ## Questões em Aberto

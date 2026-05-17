@@ -2,7 +2,7 @@
 title: "Nysalor"
 category: "Entidade"
 tags: [deus, ambíguo, Primeira Era, A Pyre for Gods and Heroes]
-sources: ["raw/clippings/Noticias D100 do blog Runeblog.md"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -27,7 +27,7 @@ O romance **[[A Pyre for Gods and Heroes]]** mostra o **nascimento de Nysalor** 
 - [[Lokamayadon]]
 
 ## Referências
-- Fonte: [Noticias D100 — Runeblog](raw/clippings/Noticias D100 do blog Runeblog.md)
+- Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 
 ## Questões em Aberto
 - [ ] Nysalor é o mesmo Nysalor que aparece em lore de Prax/Glorantha?

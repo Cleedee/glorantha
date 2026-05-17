@@ -2,7 +2,7 @@
 title: "Lunar Heartlands"
 category: "Localização"
 tags: [lunar, peloria, camponeses, dara happa]
-sources: ["raw/clippings/Journal of Runic Studies 3.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-3/"]
 last_updated: 2026-05-06
 status: draft
 ---
@@ -54,7 +54,7 @@ Região central do Império Lunar com 5,4 milhões de pessoas, 80% camponeses ru
 - [[Glorious Reascent of Yelm]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #3](raw/clippings/Journal of Runic Studies 3.md)
+- Fonte: [Journal of Runic Studies #3](https://godlearners.com/journal-of-runic-studies-3/)
 - Jeff Richard no RuneQuest Facebook Group
 
 ## Questões em Aberto

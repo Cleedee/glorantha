@@ -2,7 +2,7 @@
 title: "As Runas"
 category: "Conceito"
 tags: [Runas, Elementos, Poderes, Formas, Condições, Roda Elemental, Glorantha, cosmologia, magia]
-sources: ["raw/clippings/The RuneQuest RPG Wiki - The Runes.md", "raw/clippings/Gods and Cults  The RuneQuest RPG Wiki.md"]
+sources: ["https://rqwiki.chaosium.com/glorantha/the-runes.html#type-of-runes", "https://rqwiki.chaosium.com/glorantha/gods-and-cults.html#important-gods"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -114,7 +114,7 @@ A tabela abaixo lista as principais divindades de Dragon Pass e suas Runas assoc
 - [[Heroquesting]]
 
 ## Referências
-- Fonte: [The RuneQuest RPG Wiki — The Runes](raw/clippings/The RuneQuest RPG Wiki - The Runes.md)
+- Fonte: [The RuneQuest RPG Wiki — The Runes](https://rqwiki.chaosium.com/glorantha/the-runes.html#type-of-runes)
 
 ## Questões em Aberto
 - [ ] Quantas Runas existem além das listadas?

@@ -2,7 +2,7 @@
 title: "Aeolianos"
 category: "Cultura"
 tags: [Aeolianos, Aeolismo, Esvularing, Heortland, Malkionismo, Deus Invisível, Orlanthi, God Forgot, Esvular]
-sources: ["raw/clippings/Journal of Runic Studies 24.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-24/"]
 last_updated: 2026-05-15
 status: draft
 aliases:
@@ -60,7 +60,7 @@ A cidade de **Mount Passant** é uma das principais da região. Para sua visuali
 - [[Refuge]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #24](raw/clippings/Journal of Runic Studies 24.md)
+- Fonte: [Journal of Runic Studies #24](https://godlearners.com/journal-of-runic-studies-24/)
 
 ## Questões em Aberto
 - [ ] O Aeolismo tem escrituras ou textos sagrados próprios?

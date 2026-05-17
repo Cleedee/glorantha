@@ -2,7 +2,7 @@
 title: "Leika Blacksper"
 category: "Entidade"
 tags: [sartar, rex, rainha, orlanth, colymar, tribo, Kallyr]
-sources: ["raw/clippings/Journal of Runic Studies 5.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-5/"]
 last_updated: 2026-05-09
 status: draft
 aliases:
@@ -52,7 +52,7 @@ aliases:
 - [[Skull Ruins - Tusk Riders Need Blood!]]
 
 ## Referências
-- Fonte: [Journal of Runic Studies #5](raw/clippings/Journal of Runic Studies 5.md)
+- Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 - *RuneQuest Gamemaster Pack* — Chaosium
 

@@ -2,7 +2,7 @@
 title: "Dorasta"
 category: "Entidade"
 tags: [deusa, terra, Dorastor, Genert, Pelora]
-sources: ["raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md"]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html"]
 last_updated: 2026-04-13
 status: draft
 ---
@@ -29,7 +29,7 @@ Assim como a região de Dorastor, a própria Dorasta sofreu com a devastação c
 - [[Arkat, o Destruidor]]
 
 ## Referências
-- Fonte: [Drops Glorantha #5 — Dorastor](raw/clippings/Drops Glorantha 5 - Dorastor e as Campanhas do Por Um Punhado de Dados.md)
+- Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
 
 ## Questões em Aberto
 - [ ] Dorasta está viva ou foi destruída por Arkat?

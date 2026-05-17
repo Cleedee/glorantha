@@ -2,7 +2,7 @@
 title: "Shargash"
 category: "Entidade"
 tags: [deus, fogo, purificação, guerra, Fogo/Céu, Dara Happa, Shargash, ordem]
-sources: ["raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html"]
 last_updated: 2026-05-14
 status: draft
 ---
@@ -39,7 +39,7 @@ Shargash é o mais Acala/Fudō Myō-ō dos deuses gloranthanos — um purificado
 - [[Cults of RuneQuest - The Gods of Fire and Sky]]
 
 ## Referências
-- Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md)
+- Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html)
 
 ## Questões em Aberto
 - [ ] Há relatos de magia de Shargash sendo usada além de Alkoth?

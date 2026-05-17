@@ -2,7 +2,7 @@
 title: "King of Dragon Pass"
 category: "Fonte"
 tags: [videojogo, computador, Glorantha, David Dunham, Robin D. Laws, Issaries, Orlanthi, A Sharp, 1999]
-sources: ["raw/clippings/Interview with Robin D. Laws.md", "raw/clippings/Six Ages Ride Like the Wind.md", "raw/clippings/Journal of Runic Studies 8.md"]
+sources: ["https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/", "https://en.wikipedia.org/wiki/Six_Ages:_Ride_Like_the_Wind", "https://godlearners.com/journal-of-runic-studies-8/"]
 last_updated: 2026-05-09
 status: draft
 ---
@@ -48,8 +48,8 @@ Combina ficção interativa, RPG e estratégia baseada em turnos. O jogador cont
 - [[Orlanthi]]
 
 ## Referências
-- Fonte: [Interview with Robin D. Laws — Juegos y Dados](raw/clippings/Interview with Robin D. Laws.md)
-- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](raw/clippings/Six Ages Ride Like the Wind.md)
+- Fonte: [Interview with Robin D. Laws — Juegos y Dados](https://juegosydados.wordpress.com/2016/07/19/interview-with-robin-d-laws/)
+- Fonte: [Six Ages: Ride Like the Wind — Wikipedia](https://en.wikipedia.org/wiki/Six_Ages:_Ride_Like_the_Wind)
 - Eurogamer: ["Cult classic RPG King of Dragon Pass' spiritual successor Six Ages out next month on PC"](https://www.eurogamer.net/cult-classic-rpg-king-of-dragon-pass-follow-up-six-ages-out-next-month-on-pc)
 
 ## Questões em Aberto

@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #10"
 category: "Fonte"
 tags: [periódico, malkioni, Ludovic, God Learners, Steve Perrin, GRRM, Orlanth, Boldhome, White Bull, Sartarite, Exército]
-sources: ["raw/clippings/Journal of Runic Studies 10.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-10/"]
 last_updated: 2026-05-10
 status: draft
 ---
@@ -70,7 +70,7 @@ Newt Newport (D101 Games, OpenQuest) lançou o selo "Arkat's Playground" para co
 - [[Ludovic (God Learners)]]
 
 ## Referências
-- Fonte original: [Journal of Runic Studies #10](raw/clippings/Journal of Runic Studies 10.md)
+- Fonte original: [Journal of Runic Studies #10](https://godlearners.com/journal-of-runic-studies-10/)
 - [God Learners Website](https://godlearners.com/journal-of-runic-studies-10/)
 
 ## Questões em Aberto

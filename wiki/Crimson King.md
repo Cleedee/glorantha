@@ -2,7 +2,7 @@
 title: "Crimson King"
 category: "Fonte"
 tags: [Nick Brooke, Jonstown Compendium, aventura, Lunar, Império Lunar, Hero Wars, 1627]
-sources: ["raw/clippings/CRIMSON KING, ANOTHER RUNEQUEST REVIEW.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2023/01/crimson-king-another-runequest-review.html"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -47,7 +47,7 @@ O artigo que inspirou esta página (de [[Andrew Logan Montgomery]]) contextualiz
 - [[Andrew Logan Montgomery]]
 
 ## Referências
-- Fonte: [Crimson King, Another RuneQuest Review](raw/clippings/CRIMSON KING, ANOTHER RUNEQUEST REVIEW.md)
+- Fonte: [Crimson King, Another RuneQuest Review](https://andrewloganmontgomery.blogspot.com/2023/01/crimson-king-another-runequest-review.html)
 - [Crimson King no DriveThruRPG](https://www.drivethrurpg.com/product/422451/Crimson-King-RuneQuest)
 - [[Andrew Logan Montgomery]]
 

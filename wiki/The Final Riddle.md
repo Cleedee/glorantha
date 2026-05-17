@@ -2,7 +2,7 @@
 title: "The Final Riddle"
 category: "Fonte"
 tags: [aventura, Andrew Logan Montgomery, Jonstown Compendium, New Pavis, Wastes, Heart of Darkness, Drives, Lady Amarj, Grande Inverno]
-sources: ["raw/clippings/Drives & Epic Passions, a Sneak Peak at THE FINAL RIDDLE.md"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2022/12/drives-epic-passions-sneak-peak-at.html"]
 last_updated: 2026-05-16
 status: draft
 aliases:
@@ -60,7 +60,7 @@ Drives são um tipo especial de Paixão (Passion), introduzido como regra opcion
 
 ## Referências
 - Fonte: [Drives & Epic Passions, a Sneak Peak at THE FINAL RIDDLE — ALM Blog](https://andrewloganmontgomery.blogspot.com/2022/12/drives-epic-passions-sneak-peak-at.html)
-- Fonte: [Journal of Runic Studies #8](raw/clippings/Journal of Runic Studies 8.md)
+- Fonte: [Journal of Runic Studies #8](https://godlearners.com/journal-of-runic-studies-8/)
 - Fonte: [Periplus of Southern Genertela — Martin Helsdon](https://www.drivethrurpg.com/product/399135/Periplus-of-Southern-Genertela)
 
 ## Questões em Aberto
