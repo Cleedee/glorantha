@@ -7,7 +7,6 @@ Uso:
 
 Lê:
     - wiki/*.md (frontmatter para categoria)
-    - raw/clippings/ e raw/notas/ (contagem de fontes)
     - git log (contagem de commits)
 
 Escreve:
@@ -20,8 +19,6 @@ import subprocess
 from datetime import datetime
 
 WIKI_DIR = "wiki"
-RAW_CLIPPINGS = "raw/clippings"
-RAW_NOTAS = "raw/notas"
 README = "README.md"
 
 CATEGORY_ORDER = [
@@ -101,7 +98,7 @@ def build_stats_table(total_pages, total_sources, total_commits):
         "| Métrica | Valor |",
         "|---------|-------|",
         f"| Páginas na wiki | {total_pages} |",
-        f"| Fontes processadas | {total_sources} |",
+        f"| Fontes referenciadas | {total_sources} |",
         f"| Commits | {total_commits} |",
         f"| Última atualização | {date_str} |",
         "| Idioma | Português Brasileiro (pt-BR) |",
@@ -143,6 +140,7 @@ def main():
 
     category_counts = {cat: 0 for cat in CATEGORY_ORDER}
     total_pages = 0
+    all_sources = set()
 
     for fname in os.listdir(WIKI_DIR):
         fpath = os.path.join(WIKI_DIR, fname)
@@ -155,14 +153,19 @@ def main():
         if cat and cat in category_counts:
             category_counts[cat] += 1
 
-    total_sources = 0
-    for d in (RAW_CLIPPINGS, RAW_NOTAS):
-        if os.path.isdir(d):
-            total_sources += len([
-                f for f in os.listdir(d)
-                if os.path.isfile(os.path.join(d, f))
-            ])
+        # Coleta URLs de fontes do frontmatter
+        with open(fpath, "r", encoding="utf-8") as f:
+            content = f.read()
+        m = re.match(r"^---\s*\n(.*?)\n---", content, re.DOTALL)
+        if m:
+            fm = m.group(1)
+            sources_m = re.search(r'^sources:\s*\[(.*?)\]', fm, re.MULTILINE)
+            if sources_m:
+                sources_str = sources_m.group(1)
+                for s in re.findall(r'"(https?://[^"]+)"', sources_str):
+                    all_sources.add(s)
 
+    total_sources = len(all_sources)
     total_commits = count_git_commits()
 
     ok = replace_table(README,

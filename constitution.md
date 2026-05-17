@@ -18,8 +18,9 @@ Pesquisa profunda, curadoria e síntese do universo fictício de **Glorantha** (
 
 ```
 /home/claudio/Projetos/glorantha/
-├── qwen.md          ← Este arquivo (constituição, NÃO editar sem motivo)
-├── raw/             ← Fonte imutável de verdade (documentos fonte)
+├── constitution.md  ← Este arquivo (constituição, NÃO editar sem motivo)
+├── raw/             ← Fonte imutável de verdade (documentos fonte, LOCAL APENAS)
+│                      ⚠️ NÃO versionado no git — conteúdo protegido por direitos autorais.
 │                      O LLM APENAS LÊ deste diretório.
 ├── wiki/            ← Artefato vivo mantido pelo LLM.
 │   ├── index.md     ← Índice mestre de todas as páginas
@@ -27,11 +28,14 @@ Pesquisa profunda, curadoria e síntese do universo fictício de **Glorantha** (
 │   ├── assets/      ← Imagens e mídia local
 │   └── *.md         ← Páginas individuais da wiki
 ├── scripts/         ← Ferramentas auxiliares de manutenção
-│   └── sync_readme.py  ← Sincroniza tabelas do README.md com a wiki
-└── .gitignore
+│   ├── sync_readme.py  ← Sincroniza tabelas do README.md com a wiki
+│   └── ingest_source.py ← Extrai entidades de fontes raw e gera páginas wiki
+└── .gitignore       ← raw/ ignorado do versionamento
 ```
 
 **Regra de ouro:** O LLM **lê** de `/raw` e **escreve** em `/wiki`. Nunca o contrário.
+
+**Referências:** Nas páginas wiki, use **URLs originais dos sites de origem** (ex: `https://godlearners.com/...`), nunca caminhos `raw/clippings/...`.
 
 ### Modo de Ingestão
 
@@ -52,12 +56,12 @@ Nunca processe múltiplos arquivos de uma vez. Sempre pause para revisão.
 ### Workflow: Ingest (Ingestão)
 
 ```
-[raw/source.md]
-    ↓  (leitura — um arquivo por vez)
+[raw/source.md]  (arquivo local, NÃO versionado)
+    ↓  (leitura — um arquivo por vez, ou via scripts/ingest_source.py)
 [Extração de fatos, entidades, conceitos]
     ↓
 [Rascunho/atualização de páginas em /wiki]
-    ↓
+    ↓  (frontmatter sources: usa URL original do site, nunca raw/clippings/)
 [Apresentar diff + resumo ao humano]
     ↓  (aguardar aprovação)
 [Atualizar wiki/index.md]
@@ -88,7 +92,7 @@ python scripts/sync_readme.py
 O script:
 1. Lê o `category` do frontmatter de todas as páginas em `/wiki/` (excluindo `index.md` e `log.md`)
 2. Conta páginas por categoria e atualiza a tabela **Categorias da Wiki**
-3. Conta arquivos fonte em `/raw/clippings/` e `/raw/notas/`, commits git, data atual, e atualiza a tabela **Estatísticas Atuais**
+3. Conta commits git, data atual, e atualiza a tabela **Estatísticas Atuais**
 4. Re-escreve apenas as duas tabelas no `README.md`, preservando o resto
 
 **Quando executar:** após cada ingestão, antes do commit final.
@@ -144,7 +148,7 @@ Toda página nova deve seguir este template:
 title: "Título da Página"
 category: "Categoria"        # Entidade | Localização | Evento | Magia | Conceito | Fonte | Cultura | Cronologia
 tags: [tag1, tag2, tag3]
-sources: ["raw/arquivo_origem.md"]
+sources: ["https://url-da-fonte-original.com/..."]
 last_updated: YYYY-MM-DD
 status: draft                # draft | em_revisao | estavel
 ---
@@ -165,7 +169,7 @@ status: draft                # draft | em_revisao | estavel
 - [[Página Relacionada 2]]
 
 ## Referências
-- Fonte: [Nome da fonte](raw/arquivo_origem.md)
+- Fonte: [Nome da fonte](https://url-da-fonte-original.com/...)
 - <!-- Outras referências -->
 
 ## Questões em Aberto
@@ -227,14 +231,15 @@ git commit -m "docs: atualizar log e index após ingest de fonte"
 
 ## F. Instruções para Sessões Futuras
 
-1. **Leia este arquivo (`qwen.md`) primeiro.**
-2. Verifique o estado atual de `/raw/` e `/wiki/`.
+1. **Leia este arquivo (`constitution.md`) primeiro.**
+2. Verifique o estado atual de `/raw/` (local, não versionado) e `/wiki/`.
 3. Se houver arquivos em `/raw/` ainda não processados, siga o workflow de **Ingest**.
 4. Se o usuário fizer uma pergunta, siga o workflow de **Query**.
 5. Se solicitado, execute o workflow de **Lint**.
 6. **Nunca** pule a etapa de revisão humana no workflow de ingestão.
 7. Mantenha o idioma **sempre em pt-BR**.
-8. Ao final de cada sessão, faça commit das mudanças com o prefixo adequado.
+8. **Nunca** use caminhos `raw/clippings/...` como referência nas páginas wiki — use URLs originais dos sites de origem.
+9. Ao final de cada sessão, faça commit das mudanças com o prefixo adequado.
 
 ---
 
