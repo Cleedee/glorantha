@@ -2,8 +2,8 @@
 title: "Yelm"
 category: "Entidade"
 tags: [deus, sol, imperador, Fogo/Céu, mitologia, cosmologia, Dara Happa, Lightbringers]
-sources: ["raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md", "raw/clippings/Cults of RuneQuest The Gods of Fire and Sky, a review.md"]
-last_updated: 2026-05-14
+sources: ["raw/clippings/Fire From the Sky Thoughts on the Pantheon of Yelm.md", "raw/clippings/Cults of RuneQuest The Gods of Fire and Sky, a review.md", "raw/clippings/Journal of Runic Studies 29.md"]
+last_updated: 2026-05-16
 status: draft
 ---
 
@@ -36,6 +36,16 @@ A morte de Yelm por Orlanth é o evento central da mitologia gloranthana:
 5. Yelm retorna e o Tempo começa
 
 O próprio ciclo das Eras de Glorantha espelha este padrão: explorar novos poderes, cair em conflito e ser resgatado.
+
+### Relação com o Chaos
+Yelm é um **Inimigo do Chaos Primordial**. Ele faz algumas exceções caóticas — [[Deusa Vermelha]] e [[Nysalor]] — mas em geral odeia o Chaos.
+
+### Relação com Orlanth
+Yelm é **Neutro** em relação a Orlanth — não Hostil, muito menos Inimigo. E vice-versa.
+
+> Se Orlanth fosse inimigo de cada deus com quem lutou, ele não teria amigos! E se Yelm fosse inimigo de cada deus rebelde, ele não teria nada para governar!
+
+Esta neutralidade mútua é significativa: apesar de Orlanth ter matado Yelm e desencadeado a Guerra dos Deuses, ambos reconhecem que seus papéis cósmicos são complementares, não antagônicos.
 
 ### Paralelos Mitológicos
 ALM argumenta que não há paralelo direto a Yelm em mitologias terrestres. Os indo-europeus preferiam deuses da tempestade tribais/chefes. O Egito teve vários deuses solares sucessivos, mas nenhum com status de "imperador dos céus". O mais próximo é o **Imperador de Jade** chinês, centro de uma ordem celestial espelhada na Terra. Em Glorantha, toda a mitologia gira em torno de Yelm — sua morte, a busca por sua luz, e seu retorno que inicia o Tempo.

@@ -2,7 +2,7 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard, Greg Stafford, Ranging, Joining]
-sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 27.md"]
+sources: ["raw/clippings/Journal of Runic Studies 69.md", "raw/clippings/Journal of Runic Studies 6.md", "raw/clippings/Journal of Runic Studies 80.md", "raw/clippings/Journal of Runic Studies 18.md", "raw/clippings/Journal of Runic Studies 27.md", "raw/clippings/Journal of Runic Studies 29.md"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -60,6 +60,24 @@ Dois candidatos seriam ousados o bastante para explorar a mitologia Lunar:
 
 ### O Uso do Inconsciente Coletivo
 Esta não é a primeira vez que Jeff usa o "inconsciente coletivo" como referência ao heroquesting e ao Tempo Deus. É útil descrever heroquesting como "aventure-se no mundo dos mitos" em vez de toda essa questão de "reencenação de mitos" dos anos 1990 e início dos anos 2000.
+
+### Hero Plane vs Reencenação de Mitos
+Jeff Richard espera que as pessoas tenham evoluído além da visão de heroquesting apresentada em *King of Dragon Pass* ou nos livros de HeroWars/HeroQuest.
+
+> Toda cultura realiza cerimônias e ritos que fazem com que os mundos mundano e divino se sobreponham no que é chamado de **Hero Plane**. É aqui que você obtém sua magia rúnica, seus espíritos aliados, faz amizade com espíritos de culto, e tudo mais.
+
+Isso é "jogável", mas só fica interessante quando as coisas dão errado — quando a cerimônia não funciona mais previsivelmente, quando inimigos perigosos aparecem, etc.
+
+Mas o mais interessante para Jeff é **deliberadamente explorar os reinos míticos e descobrir caminhos previamente desconhecidos** pelo mundo divino:
+
+> Mas muito mais interessante para mim é deliberadamente explorar os reinos míticos e descobrir caminhos previamente desconhecidos através do mundo divino. Isto é o que heróis como Alakoring, Argrath, Arkat, a Feathered Horse Queen, Harmast, Harrek, Jaldon Goldentooth, Pavis, Sir Ethilrist, Cragspider, Jar-eel, Hwarin Dalthippa, Hon-eel e a Deusa Vermelha fizeram. Eles não "inventaram" novos mitos — eles viajaram caminhos previamente desconhecidos pelo Hero Plane e trouxeram suas experiências de volta ao mundo mundano. Eles descobriram caminhos e eventos que sempre estiveram latentes no Tempo Deus.
+
+> Repetir a história de outra pessoa não é o ponto do heroquesting — ninguém se torna um herói sendo apenas o understudy! Torna-se um herói fazendo seu próprio caminho pelo reino mítico de arquétipos e Runas. Torne o divino e eterno no pessoal e psicológico!
+
+### As Hero Wars e o Retorno ao Heroquesting Experimental
+Esta abordagem ao heroquesting era bastante comum no final da Primeira Era e ao longo da Segunda Era. A maioria das pessoas a evitou após as catástrofes que encerraram aquela Era. **Mas não em todos os lugares** — no Império Lunar e no País Santo, este tipo de exploração espiritual permaneceu, embora por fins muito diferentes. E Sartar e sua dinastia herdam as técnicas desenvolvidas no País Santo.
+
+> Conforme as Hero Wars se desenvolvem, os protagonistas assumem mais riscos e apostas em seu heroquesting — como redescobrir as técnicas dos God Learners e do Império dos Amigos dos Wyrms, usar magia caótica em heroquests, e mais. As pessoas assumem atalhos, fazem mudanças permanentes para ganhos de curto prazo, e todo tipo de coisa que as pessoas fazem quando estão desesperadas e ambiciosas. Isso se torna as Hero Wars. Começamos de um ponto de partida familiar, mas no final, o mundo mudou tanto que mal podemos reconhecer de onde começamos.
 
 ### Arquétipos
 O foco em arquétipos é significativo. Quando Jeff roda um hero quest, os personagens encontram:

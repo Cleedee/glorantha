@@ -18,6 +18,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Second Age]] | Era de experimentação mítica ampla; God Learners, misticismo dracônico, Monomito; terminou em catástrofes (1120) | `Segunda Era` `God Learners` `EWF` `Monomito` `heroquesting` | draft |
 | [[Rostand the Speaker]] | Ensinou "kernels of draconic consciousness" nos anos 560; precursor da comunicação Orlanthi-dragões | `dragões` `Orlanthi` `560` `EWF` | draft |
 | [[Vistikos Left-eye]] | Estabeleceu "formula and pattern for a draconic human life" nos anos 570; precursor do EWF | `dragões` `EWF` `570` | draft |
+| [[Yelm]] | Imperador Celestial, deus sol; irmão do meio; morte desencadeia Guerra dos Deuses; Lightbringers; Tempo começa com seu retorno; Neutro com Orlanth, Inimigo do Chaos (exceto Deusa Vermelha e Nysalor) | `deus` `sol` `imperador` `Fogo/Céu` `Lightbringers` `Chaos` `Orlanth` | draft |
 
 ---
 
@@ -37,8 +38,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Sample Combat]] | Exemplo prático: Vasana vs Broo; aplicação de Strike Ranks | `RuneQuest` `combate` `exemplo` | draft |
 | [[Hit Locations]] | Sistema de locais de impacto; 7 regiões; efeitos de dano; membros decepados | `RuneQuest` `combate` `hit points` | draft |
 | [[Armor Points]] | Sistema de proteção; armaduras; escudos; redução de dano | `RuneQuest` `combate` `defesa` | draft |
-| [[Heroquesting]] | Exploração do inconsciente coletivo; níveis de imersão de Jirtsyl; Plano Divino Multi-Dimensional | `RuneQuest` `heroquest` `mitologia` `Jrustela` | draft |
-| [[Monomito]] | Visão filosófica malkioni; traduz particularidades em universalidades; God Learners | `filosofia` `malkioni` `God Learners` | draft |
+| [[Heroquesting]] | Exploração do inconsciente coletivo; Hero Plane vs reencenação; exploração deliberada de caminhos míticos; níveis de imersão de Jirtsyl; Ranging and Joining; Hero Soul Points | `RuneQuest` `heroquest` `mitologia` `Hero Plane` `Jrustela` `Ranging` | draft |
+| [[Monomito]] | Visão filosófica malkioni; traduz particularidades em universalidades; God Learners; expansão Segunda Era (comparação com números arábicos); adoção por inimigos dos impérios | `filosofia` `malkioni` `God Learners` `Segunda Era` `EWF` | draft |
 | [[Sete Mães]] | Culto lunar central; 100% membros leigos, 25% iniciados entre camponeses | `lunar` `culto` `camponeses` | draft |
 | [[Geografia de Glorantha]] | Mundo plano, quadrado, 8000 km lado; Lua Vermelha ~35 km diâmetro | `geografia` `plano` `lua vermelha` | draft |
 | [[Grande Compromisso]] | Acordo pós-Guerra dos Deuses; 3 regras universais: concessão de reivindicações, aceitação do passado, não-manifestação direta | `Great Compromise` `Guerra dos Deuses` `Tempo` `regras cósmicas` | draft |
@@ -61,6 +62,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[A Chuva Má]] | A Sombra de Orlanth — escuridão reprimida que emerge como Chuva Má; central para heroquesting Orlanthi e Lightbringers Quest | `Bad Rain` `Orlanth` `Sombra` `heroquesting` `Lightbringers` | draft |
 | [[As Runas]] | Arquétipos cósmicos: Elementos (roda elemental), Poderes, Formas e Condições; inclui tabela de associações Runa por divindade | `Runas` `Elementos` `Poderes` `Formas` `Condições` `cosmologia` | draft |
 | [[Iluminação]] | Transcendência espiritual; tensão exotérico vs esotérico; tema central de Glorantha; estrutura Lunar | `Nysalor` `Gbaji` `Lua` `Sevening` `Arkat` `exoterismo` `esoterismo` | draft |
+| [[Cultos e o Chaos]] | Lista de cultos amigáveis/neutros ao Chaos Primordial; sneak peek dos Cults books | `Chaos` `cultos` `Humakt` `Yelm` `Hon-eel` `Yara Aranis` | draft |
 | [[RuneQuest]] | Sistema d100 criado por Steve Perrin e Greg Stafford (1978); combate realista, strike ranks, locais de impacto; 7ª ed em 2018 | `sistema` `RPG` `d100` `Chaosium` `franquia` | draft |
 | [[Hrunda]] | Deus macaco louco; culto no Old Woods de Esrolia; Temple of Bones; Monster of the Month Vol 2 | `deus` `macaco` `Esrolia` `Eurmal` | draft |
 | [[Gimgim the Grim]] | Agente secreto do Imperador Vermelho; operava em Pavis; coletava inteligência em Prax | `agente` `Imperador Vermelho` `Pavis` `Prax` | draft |
@@ -113,7 +115,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Holiday Dorastor - Spider Woods]] | Produto de Simon Phipp; Spider Woods de Dorastor | `suplemento` `Dorastor` | draft |
 | [[God Learners]] | Podcast + periódico JRS; estudo de feitiçaria, Monomito e legado dos God Learners históricos | `podcast` `Dorastor` `feitiçaria` `monomito` | draft |
 | [[Desafios Mágicos]] | Prática de provar verdade através de competições thaumaturgicas em Glorantha | `magia` `competição` `heroquesting` `verdade` | draft |
-| [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619 | `wolf pirates` `harrek` `mercenários` `Império Lunar` | draft |
+| [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619; Harrek: Rathori, Dart Warrior (1605), White Bear God como fetch (1609), fator aleatório das Hero Wars | `wolf pirates` `harrek` `mercenários` `Império Lunar` `Rathori` `fetch` | draft |
 | [[Journal of Runic Studies 2]] | 2ª edição do periódico malkioni; insights de Jeff Richard; Lore de Glorantha | `periódico` `malkioni` `Jeff Richard` | draft |
 | [[Journal of Runic Studies 3]] | 3ª edição; Sartar Homeland Boxed Set; Império Lunar moderno; Glorantha plana | `periódico` `sartar` `lunar` `geografia` | draft |
 | [[Journal of Runic Studies 4]] | 4ª edição; Torre God Learners; clãs Sartar; demografia; esportes | `periódico` `sartar` `demografia` `esportes` | draft |
@@ -284,7 +286,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Reaching Moon Megacorp]] | Empresa de David Hall; Tales of the Reaching Moon; títulos Jonstown | `empresa` `Jonstown` | draft |
 | [[Lismelder tribe]] | Tribo do Upland Marsh; detalhada em Marsh Attacks | `tribo` `Upland Marsh` | draft |
 | [[Greydog clan]] | Clã famoso do Upland Marsh; Greydog Inn; brewing | `clã` `Upland Marsh` | draft |
-| [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619 | `wolf pirates` `harrek` `mercenários` `Império Lunar` | draft |
+| [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619; Harrek: Rathori, Dart Warrior (1605), White Bear God como fetch (1609), fator aleatório das Hero Wars | `wolf pirates` `harrek` `mercenários` `Império Lunar` `Rathori` `fetch` | draft |
 | [[Exército Sartarita]] | Milícias, thanes, sociedades guerreiras e mercenários de Sartar; transformação sob Argrath | `Sartar` `militar` `thanes` `Argrath` | draft |
 | [[Nômades Animais]] | Povos nômades das Terras Ermas que montam bestas exóticas; sociedade fundada por Waha | `nômades` `animais` `Prax` `Wastes` `xamanismo` `montaria` | draft |
 | [[Hyalorings]] | Cavaleiros descendentes dos Dara Happans que fugiram de Nivorah durante o Tempo dos Deuses; cultura jogável em Six Ages | `cultura` `Dara Happa` `Hyalor` `cavalos` `Nivorah` | draft |
