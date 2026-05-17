@@ -63,9 +63,21 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[As Runas]] | Arquétipos cósmicos: Elementos (roda elemental), Poderes, Formas e Condições; inclui tabela de associações Runa por divindade | `Runas` `Elementos` `Poderes` `Formas` `Condições` `cosmologia` | draft |
 | [[Iluminação]] | Transcendência espiritual; tensão exotérico vs esotérico; tema central de Glorantha; estrutura Lunar | `Nysalor` `Gbaji` `Lua` `Sevening` `Arkat` `exoterismo` `esoterismo` | draft |
 | [[Cultos e o Chaos]] | Lista de cultos amigáveis/neutros ao Chaos Primordial; sneak peek dos Cults books | `Chaos` `cultos` `Humakt` `Yelm` `Hon-eel` `Yara Aranis` | draft |
+| [[Proximate Holy Realm]] | Estado em que o reino divino é aproximado do mundo mortal; EWF, Belintar, Hero Wars | `heroquest` `plano divino` `EWF` `Belintar` | draft |
+| [[Men-of-All]] | Campeões Malkioni que rompem o sistema de castas; dominam 4 tarefas de Malkion; Hrestol | `Malkioni` `Hrestol` `cavalaria` `castas` | draft |
+| [[Feitiçaria em Glorantha]] | Sistema mágico Malkioni; palácios de memória; God Time; virtualmente ilimitado | `Malkioni` `zzaburi` `palácios de memória` `God Time` | draft |
 | [[RuneQuest]] | Sistema d100 criado por Steve Perrin e Greg Stafford (1978); combate realista, strike ranks, locais de impacto; 7ª ed em 2018 | `sistema` `RPG` `d100` `Chaosium` `franquia` | draft |
 | [[Hrunda]] | Deus macaco louco; culto no Old Woods de Esrolia; Temple of Bones; Monster of the Month Vol 2 | `deus` `macaco` `Esrolia` `Eurmal` | draft |
 | [[Gimgim the Grim]] | Agente secreto do Imperador Vermelho; operava em Pavis; coletava inteligência em Prax | `agente` `Imperador Vermelho` `Pavis` `Prax` | draft |
+| [[Valind]] | Deus do Inverno; associado a Orlanth Aventureiro; provisão de neve; odeia a Red Goddess | `deus` `inverno` `Orlanth` `neve` | draft |
+| [[Froalar]] | Filho de Talar; fundou Frowal em Seshnela; liderou Seshnegi pela Grande Escuridão | `Malkioni` `Seshnela` `Frowal` `Seshnegi` | draft |
+| [[Castelain]] | Talar descendente de Issaries; fundou a Estrada Maniriana (~1170); Príncipes Mercadores | `Malkioni` `Issaries` `Maniria` `comércio` | draft |
+| [[Ifttala]] | Filha de Seshna Likita; mãe dos bárbaros das colinas; morta por Hrestol | `deusa` `Seshnela` `bárbaros` `Hrestol` | draft |
+| [[Seshna Likita]] | Deusa da Terra de Seshnela; mãe de Ifttala; criadora dos Pendali; matou Hrestol | `deusa` `terra` `Seshnela` `Pendali` | draft |
+| [[Horal]] | Terceiro filho de Malkion; soldado com espada de Humakt; progenitor dos Horali | `Malkioni` `guerra` `Humakt` `Horali` | draft |
+| [[Dronar]] | Último filho de Malkion; muitos filhos trabalhadores; progenitor dos Dronari | `Malkioni` `agricultura` `Dronari` | draft |
+| [[Zzabur]] | Filho de Malkion; Primeiro Mago; mestre dos Brithini; feitiçaria destruiu nações; desapareceu com Brithos | `Malkioni` `feitiçaria` `Brithos` `Primeiro Mago` | draft |
+| [[Hrestol]] | Filho de Froalar; primeiro Men-of-All; matou Ifttala; fundou cavalaria Malkioni | `Malkioni` `Men-of-All` `Seshnela` `cavalaria` | draft |
 
 ---
 
@@ -262,6 +274,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Prince of Sartar]] | Graphic novel de Jeff Richard + Kalin Kadiev; saga de Argrath nas Hero Wars; baseada em King of Sartar; incompleta | `graphic novel` `HQ` `Argrath` `Hero Wars` | draft |
 | [[King of Sartar]] | Livro de Greg Stafford; fonte de Prince of Sartar; mitos e narrativas de Sartar; O Armamento de Orlanth, Jarosar, Leika | `livro` `Greg Stafford` `Sartar` `mitologia` | draft |
 | [[Dark Side of the Moon]] | Compilação de apócrifa Lunar herética; textos de Greg Stafford, Seleric Verses, write-ups alternativos das Sete Mães | `Jonstown` `Lunar` `apócrifa` `Sedenya` `Greg Stafford` | draft |
+| [[Cults of Glorantha]] | Slipcase set Chaosium 2022; 2 livros de cultos + Prosopaedia; organizado por panteões | `Chaosium` `suplemento` `cultos` `Prosopaedia` | draft |
 
 ---
 
@@ -292,9 +305,17 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hyalorings]] | Cavaleiros descendentes dos Dara Happans que fugiram de Nivorah durante o Tempo dos Deuses; cultura jogável em Six Ages | `cultura` `Dara Happa` `Hyalor` `cavalos` `Nivorah` | draft |
 | [[Tusk Riders]] | Meio-trolls que montam javalis gigantes; sacrifícios a Gouger; caminhos secretos; capturados por Leika | `meio-trolls` `javalis` `Uz` `Gouger` `Colymar` | draft |
 | [[Império do Meio Mar]] | Maior nação de Glorantha; Jrustela + Seshnela (789); God Learners; Monomito; conquistou Ralios (740) | `Middle Sea Empire` `Jrustela` `Seshnela` `God Learners` `Malkioni` | draft |
+| [[Brithos]] | Ilha-mãe Malkioni; lar de Zzabur; desapareceu no Closing of the Seas | `Malkioni` `Zzabur` `ilha` `desaparecida` | draft |
+| [[Seshnela]] | Reino Malkioni; berço do Hrestolismo; destruído no final da Segunda Era; agora ruínas | `Malkioni` `Froalar` `Hrestol` `Segunda Era` | draft |
+| [[Frowal]] | Primeira colônia Malkioni em Seshnela; fundada por Froalar; agora ruínas na Castle Coast | `Malkioni` `Seshnela` `Froalar` `ruínas` | draft |
 | [[Império dos Amigos dos Wyrms]] | EWF/Terceiro Conselho (826); magia dracônica; Grande Ritual; queda na Dragonkill War (1120); Orlanth Rex | `EWF` `dragões` `dragonewts` `Segunda Era` `Orlanth Rex` | draft |
+| [[Príncipes Mercadores de Maniria]] | Rota comercial Safelster-Esrolia (~1170); Castelain; Issaries; sincretismo com Lightbringers | `Malkioni` `comércio` `Maniria` `Issaries` | draft |
+| [[Castas Malkioni]] | Talar, Zzaburi, Horali, Dronari; filhos de Malkion; magia por casta | `Malkioni` `castas` `talar` `zzaburi` `horali` `dronari` | draft |
+| [[Malkioni]] | Seguidores de Malkion; sociedade ocidental; feitiçaria; castas; Hrestolismo, Rokarismo | `Malkion` `sociedade` `feitiçaria` `Deus Invisível` | draft |
 | [[Irmãs Respiradoras]] | Filhas de Orlanth; dança circula ar nos Pockets de Boldhome; culto continuou durante Ocupação Lunar | `Orlanth` `filhas` `Boldhome` `Pockets` `ar` | draft |
+| [[Closing of the Seas]] | Evento cataclísmico; fechou oceanos à humanidade; fim da Segunda Era; coincidiu com desaparecimento de Brithos | `Malkioni` `Middle Sea Empire` `Zzabur` `Segunda Era` | draft |
 | [[Triolini]] | Povo do mar (ludoch/merfolk); ~33.000 na Baía de Choralinthor; aliados dos marinheiros desde a Abertura dos Mares | `merfolk` `ludoch` `Choralinthor Bay` `Kethaela` `raça anciã` | draft |
+| [[Castle Coast]] | Último remanescente do Hrestolismo; fortaleza anã Rhis; ruínas de Frowal e Laurmal; ~50k habitantes | `Malkioni` `Hrestolismo` `Ralios` `ruínas` | draft |
 | [[Arangorf]] | Inner Dragon abraçado por Orlanth; conceito dracônico central na mística do EWF | `dragão` `Orlanth` `EWF` `dracônico` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
@@ -314,5 +335,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-16 (JRS 29)*
+*Última atualização: 2026-05-16 (JRS 30)*
 

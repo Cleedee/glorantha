@@ -2,7 +2,7 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard, Greg Stafford, Ranging, Joining]
-sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-29/"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-30/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -73,6 +73,18 @@ Mas o mais interessante para Jeff é **deliberadamente explorar os reinos mític
 > Mas muito mais interessante para mim é deliberadamente explorar os reinos míticos e descobrir caminhos previamente desconhecidos através do mundo divino. Isto é o que heróis como Alakoring, Argrath, Arkat, a Feathered Horse Queen, Harmast, Harrek, Jaldon Goldentooth, Pavis, Sir Ethilrist, Cragspider, Jar-eel, Hwarin Dalthippa, Hon-eel e a Deusa Vermelha fizeram. Eles não "inventaram" novos mitos — eles viajaram caminhos previamente desconhecidos pelo Hero Plane e trouxeram suas experiências de volta ao mundo mundano. Eles descobriram caminhos e eventos que sempre estiveram latentes no Tempo Deus.
 
 > Repetir a história de outra pessoa não é o ponto do heroquesting — ninguém se torna um herói sendo apenas o understudy! Torna-se um herói fazendo seu próprio caminho pelo reino mítico de arquétipos e Runas. Torne o divino e eterno no pessoal e psicológico!
+
+### Proximate Holy Realm
+O **Proximate Holy Realm** (Reino Sagrado Proximado) é um estado em que o reino divino é trazido para mais perto do mundo mortal através de magia generalizada e adoção de "costumes sagrados".
+
+> O mundo mundano e o reino divino são distintos. Muitos filósofos e sacerdotes afirmam que o reino divino (que existe eternamente no God Time) fundamenta e define nosso mundo mundano. Todos sabem que eles se sobreponham durante cerimônias de adoração e em alguns lugares específicos onde o reino divino irrompe através do mundo mundano.
+
+Heroquesters interagem com ambos os reinos. São mortais, nascidos no Tempo, mas seus heroquests os fazem interagir com arquétipos e poderes ligados ao reino divino. Essa sobreposição do reino divino e do mundo mundano com a qual o heroquester interage é usualmente chamada de **Hero Plane**.
+
+#### Exemplos Históricos
+- **Empire of the Wyrms Friends**: sacerdotes em Dragon Pass criaram o Proximate Holy Realm através de magia generalizada e costumes sagrados. O Sacred Ring (posteriormente Third Council) governou todo Dragon Pass. Trazia prosperidade mas exigia recursos crescentes. Colapsou em 1042.
+- **País Sagrado de Belintar**: Belintar manteve o Proximate Holy Realm através do Torneio dos Mestres da Sorte e da Morte. Era fácil cruzar para o reino divino e vice-versa, especialmente durante o Torneio. Terminou quando Jar-eel matou Belintar em 1616.
+- **Hero Wars**: muitos filósofos acreditam que Dragon Pass permanece perto de um Proximate Holy Realm durante as Hero Wars, seja pelos esforços Lunares para mudar o reino divino ou pelos True Dragons despertados desde o Dragonrise.
 
 ### As Hero Wars e o Retorno ao Heroquesting Experimental
 Esta abordagem ao heroquesting era bastante comum no final da Primeira Era e ao longo da Segunda Era. A maioria das pessoas a evitou após as catástrofes que encerraram aquela Era. **Mas não em todos os lugares** — no Império Lunar e no País Santo, este tipo de exploração espiritual permaneceu, embora por fins muito diferentes. E Sartar e sua dinastia herdam as técnicas desenvolvidas no País Santo.
