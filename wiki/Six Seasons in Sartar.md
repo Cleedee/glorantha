@@ -32,6 +32,9 @@ Montgomery foi convidado como International Guest of Honor para a primeira Chaos
 ### The Seven-Tailed Wolf
 Montgomery anunciou um livro complementar, *[[The Seven-Tailed Wolf]]*, planejado para a primavera de 2022, contendo material cortado de *Six Seasons* e *Company of the Dragon* mais um novo cenário sobre o que acontece após o retorno dos Haraborn ao Black Stag Vale.
 
+### Inspiração no \*Kóryos
+Montgomery declarou que o \*kóryos — a tradição indo-europeia de warbands de adolescentes — foi o modelo para *Six Seasons in Sartar*. A campanha segue as linhas gerais da ideia: iniciação na idade adulta, sair pelo mundo para formar uma warband, eventualmente voltar para casa. Montgomery seguiu o exemplo de Greg Stafford, que fragmentou a tradição entre os cultos dos Filhos de [[Umath]] em vez de copiá-la diretamente, homenageando o mito original mas criando algo novo. Ver página dedicada: [[Kóryos]].
+
 ## Referências Cruzadas
 - [[Andrew Logan Montgomery]]
 - [[The Company of the Dragon]]
@@ -39,9 +42,11 @@ Montgomery anunciou um livro complementar, *[[The Seven-Tailed Wolf]]*, planejad
 - [[Jonstown Compendium]]
 - [[Sartar]]
 - [[Haraborn]]
+- [[Kóryos]]
 
 ## Referências
 - Fonte: [The Fall of the Haraborn (Again) — Blog de ALM](https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html)
+- Fonte: [The Sons of Umath: The Kóryos Myth in Gloranthan Gaming](https://andrewloganmontgomery.blogspot.com/2022/01/the-sons-of-umath-koryos-myth-in.html)
 - [Six Seasons in Sartar no DriveThruRPG](https://www.drivethrurpg.com/product/313871/Six-Seasons-in-Sartar)
 
 ## Questões em Aberto

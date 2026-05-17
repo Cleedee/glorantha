@@ -116,6 +116,16 @@ Orlanth segue "Aquele Que o Chamou", descrito como um "parente a oeste". Mastako
 
 Nota: as **Ruínas Fumegantes** (Smoking Ruins) são as mesmas do Sul Selvagem? Elas não seriam "ruínas" até o final da Primeira Era, nem "fumegantes" até os anos 1200. Mas a coerência temporal não se aplica no **Tempo dos Deuses** (God Time).
 
+### Orlanth e o \*Kóryos: O Jovem Rebelde
+
+Orlanth espelha o cerne da tradição do \*kóryos indo-europeu: o jovem sem pai e rebelde que lidera uma warband em guerras e pilhagens, eventualmente vencendo e corteando [[Ernalda]], assentando-se como figura de autoridade. Mais significativamente, ele lidera seus seguidores para longe das terras de seu pai para reivindicar novos territórios — exatamente como as warbands do \*kóryos deixavam as fronteiras ancestrais para explorar e conquistar novas terras.
+
+> "Os Filhos de Umath viviam na Grande Montanha Impenetrável que hoje é chamada O Pico. Viviam no alto de suas encostas em grandes vales escondidos. Muitos outros povos viviam lá também, alguns mais numerosos que a Tribo da Tempestade. 'Agora é a hora', disse Orlanth, 'de partirmos'."
+
+Os três Filhos de Umath — Orlanth, [[Humakt]] e [[Touro da Tempestade]] — juntos formam a representação completa do \*kóryos: Orlanth como o núcleo (rebeldia e eventual assentamento), Humakt como a associação com a morte e a liminalidade, e o Touro da Tempestade como o aspecto bestial e berserker.
+
+Ver página dedicada: [[Kóryos]].
+
 ## Referências Cruzadas
 - [[Ernalda]]
 - [[Orlanthi]]
@@ -126,10 +136,15 @@ Nota: as **Ruínas Fumegantes** (Smoking Ruins) são as mesmas do Sul Selvagem? 
 - [[Barntar]]
 - [[Irmãs Respiradoras]]
 - [[Hogar Audaz]]
+- [[Kóryos]]
+- [[Humakt]]
+- [[Touro da Tempestade]]
+- [[Umath]]
 
 ## Referências
 - Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 - Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
+- Fonte: [The Sons of Umath: The Kóryos Myth in Gloranthan Gaming](https://andrewloganmontgomery.blogspot.com/2022/01/the-sons-of-umath-koryos-myth-in.html)
 - Sartar Homeland Boxed Set (excerto), via Jeff Richard no Facebook
 
 ## Questões em Aberto
@@ -137,3 +152,4 @@ Nota: as **Ruínas Fumegantes** (Smoking Ruins) são as mesmas do Sul Selvagem? 
 - [ ] Quantos subcultos de Orlanth existem documentados?
 - [x] Como Vinga se relaciona com Orlanth Adventurous? — Vinga é um aspecto feminino, representando guerreiras e aventureiras
 - [ ] Investigar as representações de Orlanth com quatro cabeças em diferentes culturas
+- [ ] Como a jornada de Orlanth ecoa as migrações indo-europeias do \*kóryos?

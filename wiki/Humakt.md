@@ -49,15 +49,31 @@ Apesar das regras, canções e histórias de Glorantha estão cheias de exemplos
 
 As regras de honra **não se aplicam** a animais, monstros e mortos-vivos, a menos que sejam capazes de se comunicar ou demonstrar que seguem as regras de honra.
 
+### Humakt e o \*Kóryos: O Guerreiro Liminar
+
+Humakt personifica a associação mais profunda do \*kóryos com a Morte. No rito de iniciação indo-europeu que separava o menino de sua infância, ele também era separado da "vida" — contado entre os Mortos até provar-se como homem, tomando esposa e constituindo família. O adolescente dog-warrior era um *instrumento* da Morte, um *representante* dos antepassados.
+
+> "Por ser ele próprio Morto, caminhava ao lado daqueles que tinham ido antes dele. Havia algo de sagrado na warband. Eram agentes do Outro Mundo e dos Mortos."
+
+Em [[Humakt]], esta faceta é brilhantemente exemplificada: ao entrar no culto, o indivíduo rompe seus laços com parentes, família e vida para tornar-se membro de uma companhia mercenária, uma warband jurada ao deus da Morte. São guardiões entre vivos e mortos, instrumentos da morte.
+
+No \*kóryos tradicional, a warband eventualmente se assentava, tomava esposas e retornava à vida. Mas Stafford já atribuiu o aspecto de "assentamento" a [[Orlanth]], deixando os Humakti em seu status liminar permanente — ecoando aqueles membros do \*kóryos que nunca retornavam à sociedade humana, tornando-se capitães-guias vitalícios, particularmente temidos e respeitados como guerreiros e campeões do Outro Mundo.
+
+Ver página dedicada: [[Kóryos]].
+
 ## Referências Cruzadas
 - [[Templo da Espada de Madeira]]
 - [[Trollball]]
 - [[Tribo Sazdorf]]
 - [[Uz (Trolls)]]
 - [[Wyrms' Footnotes]]
+- [[Kóryos]]
+- [[Orlanth]]
+- [[Touro da Tempestade]]
 
 ## Referências
 - Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
+- Fonte: [The Sons of Umath: The Kóryos Myth in Gloranthan Gaming](https://andrewloganmontgomery.blogspot.com/2022/01/the-sons-of-umath-koryos-myth-in.html)
 - Wyrms' Footnotes nº 11 — Chaosium (1981)
 
 ## Questões em Aberto
@@ -65,3 +81,4 @@ As regras de honra **não se aplicam** a animais, monstros e mortos-vivos, a men
 - [ ] Quais são as runas associadas a Humakt?
 - [ ] Humakt tem aliados ou inimigos no panteão de Glorantha?
 - [ ] Que tipo de magia os humaktis praticam?
+- [ ] Como a relação de Humakt com o \*kóryos se reflete nos rituais do culto?

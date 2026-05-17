@@ -134,6 +134,9 @@ O ensaio argumenta que Yelm é o centro de toda a mitologia gloranthana — sua 
 ### Ensaio: Wanderers in the Wastes — The Nomads of Glorantha (2025)
 ### Resenha: Looking Fowl and Feeling Fair — DuckPac (Agosto 2022)
 Montgomery publicou uma resenha da série **[[DuckPac]]** (Drew Baker e Neil Gibson), três livros do Jonstown Compendium sobre os [[Durulz]] (patos) de Glorantha. Destaca o tratamento maduro das "Duck Hunts" (pogrom contra os patos), a qualidade de produção comparável a produtos oficiais da Chaosium, e o soloquest *Redfeather Dreaming*. Ver páginas: [[DuckPac]], [[Durulz]].
+### Ensaio: The Sons of Umath — The \*Kóryos Myth in Gloranthan Gaming (Janeiro 2022)
+Montgomery publicou um ensaio seminal conectando os cultos dos Filhos de [[Umath]] ([[Orlanth]], [[Humakt]], [[Touro da Tempestade]]) à tradição indo-europeia do \*kóryos — warbands de adolescentes que viviam à margem da sociedade como guerreiros-lobo. O artigo argumenta que Greg Stafford, em *[[Cults of Prax]]*, fragmentou esta tradição entre os diversos deuses, criando uma representação jogável e original que mantém o DNA mítico indo-europeu sem copiá-lo. Montgomery revela que o \*kóryos foi o modelo para *[[Six Seasons in Sartar]]* e *[[The Company of the Dragon]]*. Ver página dedicada: [[Kóryos]].
+
 ### Ensaio: Writing Riddles — Illumination in Glorantha (Outubro 2022)
 Montgomery publicou o primeiro de uma série de ensaios sobre [[Iluminação]], explorando a tensão entre exoterismo (religião comunitária, templos, sacerdócios) e esoterismo (interno, subjetivo, libertação individual) em Glorantha. Argumenta que o conflito central do cenário não é Bem vs Mal ou Lei vs Caos, mas **Verdade definida *para* você vs Verdade definida *por* você**. Ver página dedicada: [[Iluminação]].
 
@@ -155,6 +158,7 @@ Montgomery publicou em março de 2025 um artigo abrangente sobre os [[Nômades A
 
 ## Referências
 - Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html)
+- Fonte: [The Sons of Umath: The Kóryos Myth in Gloranthan Gaming](https://andrewloganmontgomery.blogspot.com/2022/01/the-sons-of-umath-koryos-myth-in.html)
 - [Blog de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/)
 
 ## Questões em Aberto

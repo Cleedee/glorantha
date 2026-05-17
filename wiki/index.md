@@ -61,6 +61,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Malkionismo]] | Sistema filosófico-religioso malkioni; escolas Brithinismo, Hrestolismo, Aeolismo; Moorcockiano/Vanceano na 3ª Era | `malkioni` `filosofia` `religião` `Brithini` `Aeolismo` | draft |
 | [[A Chuva Má]] | A Sombra de Orlanth — escuridão reprimida que emerge como Chuva Má; central para heroquesting Orlanthi e Lightbringers Quest | `Bad Rain` `Orlanth` `Sombra` `heroquesting` `Lightbringers` | draft |
 | [[As Runas]] | Arquétipos cósmicos: Elementos (roda elemental), Poderes, Formas e Condições; inclui tabela de associações Runa por divindade | `Runas` `Elementos` `Poderes` `Formas` `Condições` `cosmologia` | draft |
+| [[Kóryos]] | Tradição indo-europeia de warbands iniciáticas (guerreiros-lobo/cão); modelo mitológico para os Filhos de Umath (Orlanth, Humakt, Touro da Tempestade) em Cults of Prax | `kóryos` `proto-indo-europeu` `warband` `iniciação` `guerreiros-lobo` `Cults of Prax` `Sons of Umath` | draft |
 | [[Iluminação]] | Transcendência espiritual; tensão exotérico vs esotérico; tema central de Glorantha; estrutura Lunar | `Nysalor` `Gbaji` `Lua` `Sevening` `Arkat` `exoterismo` `esoterismo` | draft |
 | [[Cultos e o Chaos]] | Lista de cultos amigáveis/neutros ao Chaos Primordial; sneak peek dos Cults books | `Chaos` `cultos` `Humakt` `Yelm` `Hon-eel` `Yara Aranis` | draft |
 | [[Proximate Holy Realm]] | Estado em que o reino divino é aproximado do mundo mortal; EWF, Belintar, Hero Wars | `heroquest` `plano divino` `EWF` `Belintar` | draft |
