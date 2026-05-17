@@ -161,6 +161,16 @@ A tribo Culbrea exemplifica o impacto da Ocupação Lunar e Rebelião:
 ### Gorangian Bronzeguts
 Chefe bibliotecário do Templo do Conhecimento de Jonstown. Originalmente de Esrolia. Exemplo de sartarita importante fora da aristocracia marcial ou templos da Terra. Epíteto "Bronzeguts" referencia o estudioso grego Didymus Chalcenterus.
 
+### Conteúdo Adicional (JRS #31)
+Atualizações de Jeff Richard (janeiro 2022):
+
+- **Iniciações e o Ordeal:** [[Andrew Logan Montgomery]] (autor de *Six Seasons in Sartar* e *Company of the Dragon*) trabalhou com Jeff no desenvolvimento das iniciações da idade adulta e dos anos de aprendizagem — também conhecidos como "the Ordeal".
+- **Livreto de Campanha 1625-1627:** Um livreto "campanha" que segue estação por estação entre 1625 e 1627, onde os aventureiros baseados em Boldhome têm oportunidades de participar de todos os grandes eventos da linha do tempo oficial.
+- **Boldhome Descrito em Detalhe:** A capital recebe descrição detalhada.
+- **Novo Material da Casa de Sartar.**
+- **Diretrizes para Criação de Clã/Guilda/Templo:** Incluindo mecânicas de gestão tipo *Pendragon*.
+- O projeto cresceu tanto em escala e tamanho que não é certo que seja um boxed set (especialmente com a escassez de papelão), mas é o que a Chaosium está tentando alcançar.
+
 ### Cronograma de Produção
 - Após *Weapons & Equipment Guide* (em layout) e *Cults of Glorantha* (gigante).
 - Antes do *Gamemaster's Guide* (início de 2022).
@@ -173,12 +183,19 @@ Chefe bibliotecário do Templo do Conhecimento de Jonstown. Originalmente de Esr
 - [[Inkarne]]
 - [[Leika Blacksper]]
 - [[Tribo Colymar]]
+- [[Andrew Logan Montgomery]]
+- [[Six Seasons in Sartar]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #3](https://godlearners.com/journal-of-runic-studies-3/)
 - Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Fonte: [Journal of Runic Studies #6](https://godlearners.com/journal-of-runic-studies-6/)
 - Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
+- Fonte: [Journal of Runic Studies #9](https://godlearners.com/journal-of-runic-studies-9/)
+- Fonte: [Journal of Runic Studies #10](https://godlearners.com/journal-of-runic-studies-10/)
+- Fonte: [Journal of Runic Studies #12](https://godlearners.com/journal-of-runic-studies-12/)
+- Fonte: [Journal of Runic Studies #13](https://godlearners.com/journal-of-runic-studies-13/)
+- Fonte: [Journal of Runic Studies #31](https://godlearners.com/journal-of-runic-studies-31/)
 - [Jaye Kovach Interview no YouTube](https://www.youtube.com/watch?v=0fxvPG7WYwg)
 - Arte © 2021 Chaosium Inc.
 

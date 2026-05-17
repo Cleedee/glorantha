@@ -38,8 +38,37 @@ Em 1621, Kallyr liderou o exército sartarita na **Batalha das Rainhas** contra 
 Jeff Richard indicou que NPCs como Kallyr podem sobreviver ou morrer de forma a alterar o meta-enredo — ela não tem "plot armor" como Argrath, Harrek ou Jar-eel.
 
 ### A Lightbringers Quest e a Chuva Má
-Após a Libertação de Sartar em 1625, Kallyr — como nova Princesa — começou preparações para realizar a **Lightbringers Quest** na [[Colina de Orlanth Vitorioso]], onde a fronteira entre mundos é mais permeável. Ela tomou medidas para limitar seus perigos e imprevisibilidade — a Chuva Má não foi convocada e o círculo completo não foi reunido.
+Após a Libertação de Sartar em 1625, Kallyr — como nova Princesa — começou preparações para realizar a **Lightbringers Quest** na [[Colina de Orlanth Vitorioso]], onde a fronteira entre mundos é mais permeável.
 
+#### A Convocação dos Portadores da Luz
+Na **Estação da Tempestade de 1625**, Kallyr convocou uma assembleia em Boldhome e fez formalmente a **Convocação dos Portadores da Luz** (Lightbringers' Summons):
+
+> *Chaos stalks my world.*  
+> *Broos have bruised me, the Hand has pawed me.*  
+> *I have taken up the impossible path,*  
+> *And seek those who must aid my task.*  
+> *You are not the first of my friends.*  
+> *Others walked with me to Heal.*  
+> *The Devil took them, they died.*  
+> *I failed to save them, Chaos grows.*
+
+Qualquer mestre de um dos sete cultos dos Portadores da Luz deve responder à convocação legítima ou perder todo poder e benefício de seu deus. Os sacerdotes e lords presentes em Boldhome responderam:
+
+> *I hear and stand before you,*  
+> *But I am only one.*  
+> *What would you have of me?*
+
+#### A Estratégia de Kallyr
+Kallyr tomou medidas para limitar os perigos: truncou a quest usando **substitutos (stand-ins)** para as partes mais perigosas — não foi à Costa Ocidental (pessoas a carregariam em conchas), mal entrou no Submundo (mantendo o caminho para o que conhecia). O ritual culminaria no Palácio Real de Boldhome com uma estátua poluída representando Wakboth, destruída ritualmente pelos participantes.
+
+A ideia era que, ao trazer o reino divino à proximidade ([[Proximate Holy Realm]]), mesmo substitutos trariam a magia desejada sem tanto perigo.
+
+#### Jar-eel e o Fracasso
+O que Kallyr não sabia é que **[[Jar-eel]]** havia aprendido a usar o Proximate Holy Realm como uma estrada, e entrou entre os substitutos — surpreendendo Kallyr e sua casa. Argrath já conhecia esta técnica e a havia explorado em várias ocasiões.
+
+Além disso, Kallyr realizou a quest no auge de seu poder, enquanto Argrath tentaria a sua no nadir — o que, segundo Jeff Richard, reduz as chances de sucesso. heroquests são mais eficazes quando o quester está no fundo do poço.
+
+#### A Chuva Má
 Apesar das precauções, quando Kallyr começou sua **Lightbringers Quest**, ela convocou a **[[A Chuva Má|Chuva Má]]**, que manifestou todos os seus medos e culpas subconscientes. Muitos foram mortos, mas a Chuva Má foi expulsa e o ritual tornou-se um heroquest:
 
 > "As culpas, fracassos e medos de Kallyr eram grandes também e ela achou fácil convocar a Chuva Má. Seus medos do que ela estava trazendo ao mundo — Escuridão, Desordem e Caos — se manifestaram e precisaram ser combatidos a grande custo."

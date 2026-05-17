@@ -86,6 +86,35 @@ Heroquesters interagem com ambos os reinos. São mortais, nascidos no Tempo, mas
 - **País Sagrado de Belintar**: Belintar manteve o Proximate Holy Realm através do Torneio dos Mestres da Sorte e da Morte. Era fácil cruzar para o reino divino e vice-versa, especialmente durante o Torneio. Terminou quando Jar-eel matou Belintar em 1616.
 - **Hero Wars**: muitos filósofos acreditam que Dragon Pass permanece perto de um Proximate Holy Realm durante as Hero Wars, seja pelos esforços Lunares para mudar o reino divino ou pelos True Dragons despertados desde o Dragonrise.
 
+### Contextos de Heroquesting
+Jeff Richard distingue três contextos principais para heroquesting, com diferentes motivações e resultados:
+
+1. **Conhecimento e Preparação:** heroquests para ganhar poder, derrotar inimigos, explorar reinos míticos, aprender segredos mágicos. Esta é a abordagem dos [[God Learners]] e dos Lunares pós-Deusa Vermelha. Requerem conhecimento, preparação e poder mágico. Porém, questers que tratam heroquests primariamente como meios materialistas de arrancar poder do reino divino estão condenados — tornam-se presos na **teia de [[Arachne Solara]]** se não forem cuidadosos e respeitosos.
+
+2. **Necessidade Pessoal Desesperada:** quando se perdeu tudo e nada mais pode ser perdido, Arachne Solara mostra um caminho através do ermo. A [[Deusa Vermelha]] é o exemplo máximo desta categoria. Há paralelos interessantes com a estrutura dos **12 passos de AA/NA** — em ambas, o quester atinge um ponto onde está perdido e derrotado, precisa **aceitar** isso, e só então pode continuar.
+
+3. **Necessidade Cósmica:** o contexto mais poderoso. Quando o próprio cosmos precisa do herói para não ser destruído pelo Caos, Glorantha (ou sua ghost) auxilia a quest. Alguns sacerdotes especulam que a **Lightbringers Quest** completa requer tanto necessidade pessoal desesperada quanto necessidade cósmica.
+
+> "E é por isso que aqueles que tratam heroquests primariamente como meios materialistas de arrancar poder do reino divino estão condenados. E também por que aqueles com necessidade pessoal desesperada combinada com necessidade cósmica sucedem em quests muito maiores do que qualquer coisa na imaginação dos God Learners."
+
+> "Kallyr pushou pela LBQ no auge de seu poder. Argrath tentou no seu nadir."
+
+### Ganhando Poder Através de Heroquesting
+Poderes ganhos em heroquests podem ser classificados em três categorias:
+
+- **Pessoais:** únicos ao quester, não compartilhados. Exemplos: Sarostip (matar com o olho), Hofstaring Treeleaper (lança voadora), Harrek (White Bear Cloak), Jaldon Goldentooth (morder paredes).
+- **Subculto:** quando seguem os passos do deus e podem ser incorporados ao culto existente. Exemplo: Garundyer ganhou Hailstones de Siglolf Cloudcrusher, formando a base do subculto Cloudcrusher de Orlanth Thunderous.
+- **Novo culto:** quando a magia está fora do mythos do culto original. Exemplo: Hon-eel trouxe Bless Maize como base de seu culto; Argrath trouxe o White Bull como Spirit Cult popular em Prax.
+
+A diferença entre estas categorias pode ser nebulosa, mas em geral:
+- Poderes ganhos seguindo os passos do deus são mais fáceis de incorporar ao culto
+- Poderes de quests novas e repetíveis fora do mythos do culto tornam-se novos cultos
+- Poderes não compartilhados permanecem pessoais
+
+Estes poderes operam mecanicamente como Magia Rúnica, mas também é possível ganhar Magia Espiritual poderosa (que não conta contra limites de manutenção, ou de duração permanente). Alguns efeitos não se encaixam em nenhuma categoria — envelhecimento, falta de sombra, ausência de suor.
+
+> "É importante manter em mente que habilidades ganhas através de heroquests são exceções às regras gerais de magia. São exemplos de interações diretas com a fonte bruta de magia, ao invés das expressões mais formulares de magia rúnica, espiritual ou feitiçaria."
+
 ### As Hero Wars e o Retorno ao Heroquesting Experimental
 Esta abordagem ao heroquesting era bastante comum no final da Primeira Era e ao longo da Segunda Era. A maioria das pessoas a evitou após as catástrofes que encerraram aquela Era. **Mas não em todos os lugares** — no Império Lunar e no País Santo, este tipo de exploração espiritual permaneceu, embora por fins muito diferentes. E Sartar e sua dinastia herdam as técnicas desenvolvidas no País Santo.
 

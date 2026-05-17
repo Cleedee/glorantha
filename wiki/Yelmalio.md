@@ -41,6 +41,21 @@ Todas estas qualidades — honra, promessas, resistência, dever, fraternidade m
 ### Culto e Sun Domes
 O culto de Yelmalio é centrado nos Sun Domes — comunidades fortificadas de guerreiros dedicados ao Cold Sun. Em [[Sartar]], após a heroquest de Monrogh Lantern (séc. XVI), Yelmalio foi reconhecido como a verdadeira identidade do deus cultuado como [[Elmal]], unificando o culto. Muitos ex-Elmali migraram para o Sun Dome County.
 
+### Números do Culto em Dragon Pass
+Segundo Jeff Richard, há **~18.000 membros do culto de Yelmalio em Dragon Pass**:
+- **6.000** em Sartar (concentrados no Sun Dome, Alda-Chur e Boldhome)
+- **12.000** em Tarsh
+- Números negligenciáveis em outras áreas
+
+No **Rio dos Berços** (Zola Fel, Prax): ~4.500 cultistas:
+- **4.000** em Sun County
+- **500** em Pavis County
+
+Para comparação, os cultos de Ernalda (~112.000), Orlanth (~85.000) e Sete Mães (~66.500) são muito maiores em Dragon Pass.
+
+### Culto em Alda-Chur
+No **Far Place** (região de Alda-Chur), dos 1.700 cultistas de Yelmalio, **1.400** estão em Alda-Chur ou entre a tribo Vantaros. [[Harvar Ironfist]], um Yelmalion Rune Lord, usou o apoio Lunar e a organização centralizada do culto para dominar a confederação tribal, apesar dos Orlanthi serem numericamente superiores.
+
 ## Referências Cruzadas
 - [[Elmal]]
 - [[Yelm]]
@@ -49,10 +64,15 @@ O culto de Yelmalio é centrado nos Sun Domes — comunidades fortificadas de gu
 - [[Sun County]]
 - [[Monrogh Lantern]]
 - [[Orlanth]]
+- [[Harvar Ironfist]]
+- [[Far Place]]
+- [[Alda-Chur]]
 
 ## Referências
 - Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html)
+- Fonte: [Journal of Runic Studies #31](https://godlearners.com/journal-of-runic-studies-31/)
 
 ## Questões em Aberto
 - [ ] Yelmalio tem outros epítetos além de Cold Sun e Preserver of Light?
 - [ ] Quais as diferenças rituais entre o culto de Yelmalio em Sartar e em Dara Happa?
+- [ ] Como o culto de Yelmalio em Tarsh difere do de Sartar?

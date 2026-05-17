@@ -250,6 +250,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 26]] | 26ª edição; Weapons & Equipment PDF, manuscrito do Elf Pack concluído, Secrets of HeroQuesting POD, Periplus of Southern Genertela | `periódico` `malkioni` `Weapons & Equipment` `Elf Pack` `Simon Phipp` `Martin Helsdon` | draft |
 | [[Journal of Runic Studies 27]] | 27ª edição; tatuagens de Vasana, sobreviventes do Godtime, demografia de Dragon Pass, Colina de Orlanth Vitorioso, Morcego Carmesim, Sheng Seleris, Karse, Triolini | `periódico` `malkioni` `Jeff Richard` `Vasana` `Crimson Bat` `Karse` `Glowline` | draft |
 | [[Journal of Runic Studies 28]] | 28ª edição; Sacred Time, review Starter Set, densidade urbana, Sheng Seleris timeline, Jar-Eel bio, Grande Compromisso, Deadwood, EWF, Meio Mar, Irmãs da Misericórdia, timeline Argrath | `periódico` `malkioni` `Jeff Richard` `Sheng Seleris` `Jar-Eel` `Deadwood` | draft |
+| [[journal-of-runic-studies-31]] | 31ª edição; heroquesting (3 contextos), Lightbringers Summons de Kallyr, população tribal de Boldhome, números de Yelmalio, Alda-Chur, Jar-eel no Proximate Holy Realm, Sartar Homeland boxed set | `periódico` `malkioni` `heroquesting` `Kallyr` `Boldhome` `Yelmalio` `Alda-Chur` `Sartar Homeland` | draft |
 | [[journal-of-runic-studies-68]] | 68ª edição (2022); clipping incompleto — menções a pântanos de Pelória, magia de Oslira, Broo | `periódico` `malkioni` `Oslira` `Pelória` `Broo` | draft |
 | [[journal-of-runic-studies-69]] | 69ª edição (2022); Heroquesting (inconsciente coletivo, arquétipos), finanças Lunares, Stafford House Campaign | `periódico` `malkioni` `Heroquesting` `finanças` `Stafford House` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |
@@ -336,5 +337,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-16 (JRS 30)*
+*Última atualização: 2026-05-16 (JRS 31)*
 

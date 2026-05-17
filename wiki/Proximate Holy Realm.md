@@ -47,6 +47,17 @@ Era fácil cruzar para o reino divino e vice-versa, especialmente durante o Torn
 ### Hero Wars
 Muitos filósofos acreditam que **Dragon Pass permanece perto de um Proximate Holy Realm**, especialmente durante as **Hero Wars**. Alguns afirmam que isso se deve aos esforços Lunares para mudar o próprio reino divino; outros acham que é resultado dos **True Dragons** que foram despertados em Dragon Pass, começando com o **Dragonrise**. Qualquer que seja a razão, o heroquesting selvagem era cada vez mais comum entre todos os participantes das Hero Wars, argumentavelmente ainda mais do que nas Guerras de Gbaji.
 
+### A Estrada de Jar-eel
+**[[Jar-eel]]** aprendeu a usar o Proximate Holy Realm como uma **estrada** para intrusão em heroquests alheios. Durante a Lightbringers Quest de [[Kallyr Testa-Estrelada]] em 1625, Jar-eel entrou entre os substitutos (stand-ins) no ritual, surpreendendo Kallyr e sua casa. [[Argrath]] já conhecia esta técnica e a havia explorado em várias ocasiões.
+
+A técnica funciona porque o Proximate Holy Realm aproxima os reinos divino e mundano, criando sobreposição suficiente para que um heroquester habilidoso possa navegar pelo espaço entre eles. Isto é diferente de simplesmente realizar o mesmo heroquest ao mesmo tempo — Jar-eel não queria aparecer como uma figura mítica na Lightbringers Quest (o que a limitaria), mas como **ela mesma** (ou como a Deusa Vermelha), usando o Proximate Holy Realm como atalho.
+
+### Substitutos (Stand-ins) no Proximate Holy Realm
+Uma abordagem comum para heroquests dentro do Proximate Holy Realm é o uso de **substitutos** — pessoas que representam figuras míticas no ritual, realizando a quest como uma cerimônia dentro do reino sagrado em vez de uma jornada heróica completa. Isto reduz significativamente os perigos, desde que os substitutos possam verdadeiramente se identificar com a figura que representam.
+
+### Manifestações do Reino Divino
+Quando o reino divino é aproximado, manifestações espontâneas ocorrem: batalhas no céu, pegadas ardentes, árvores marchando, o Lobo Noturno, o Comedor Negro. Durante o Tempo Sagrado de 1625, tais eventos foram relatados por todo Sartar.
+
 ## Referências Cruzadas
 - [[Heroquesting]]
 - [[Hero Plane]]
@@ -58,10 +69,14 @@ Muitos filósofos acreditam que **Dragon Pass permanece perto de um Proximate Ho
 - [[Hero Wars]]
 - [[Orlanth]]
 - [[Ernalda]]
+- [[Kallyr Testa-Estrelada]]
+- [[Argrath]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #30](https://godlearners.com/journal-of-runic-studies-30/)
+- Fonte: [Journal of Runic Studies #31](https://godlearners.com/journal-of-runic-studies-31/)
 
 ## Questões em Aberto
 - [ ] Qual a diferença exata entre Hero Plane e God Plane?
 - [ ] Como os True Dragons despertados afetam a proximidade com o reino divino?
+- [ ] Quem mais pode ter aprendido a usar o Proximate Holy Realm como estrada?
