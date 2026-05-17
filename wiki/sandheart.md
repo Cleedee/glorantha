@@ -2,7 +2,7 @@
 title: "Sandheart"
 category: "Fonte"
 tags: [Jonstown Compendium, série de aventuras, Prax, Jon Webb, Michael O'Brien]
-sources: ["https://godlearners.com/journal-of-runic-studies-19/", "https://godlearners.com/journal-of-runic-studies-20/", "https://godlearners.com/journal-of-runic-studies-24/", "https://rlyehreviews.blogspot.com/2020/03/jonstown-jottings-10-corn-dolls.html", "https://rlyehreviews.blogspot.com/2019/11/jonstown-jottings-1-tales-of-sun-county_29.html"]
+sources: ["https://godlearners.com/journal-of-runic-studies-19/", "https://godlearners.com/journal-of-runic-studies-20/", "https://godlearners.com/journal-of-runic-studies-24/", "https://rlyehreviews.blogspot.com/2019/11/jonstown-jottings-1-tales-of-sun-county_29.html", "https://rlyehreviews.blogspot.com/2020/03/jonstown-jottings-10-corn-dolls.html", "https://rlyehreviews.blogspot.com/2020/09/jonstown-jottings-28-tradition.html"]
 last_updated: 2026-05-17
 status: draft
 ---
@@ -19,7 +19,7 @@ status: draft
 |--------|--------|---------|--------|
 | 1 | **Tales of the Sun County Militia: Sandheart Volume 1** | Jon Webb | Lançado |
 | 2 | **The Corn Dolls: Sandheart Volume 2** | Jon Webb | Lançado |
-| 3 | — | Jon Webb | Lançado |
+| 3 | **Tradition: Sandheart Volume Three** | Jon Webb | Lançado |
 | 4 | **The God Skin & Mad Prax** | Jon Webb, Michael O'Brien | Lançado (outubro de 2021, POD novembro 2021) |
 
 ### Volume 1: Tales of the Sun County Militia: Sandheart Volume 1
@@ -50,6 +50,19 @@ A premissa: a milícia é enviada a Cliffheath para investigar uma praga que inf
 
 Requer o volume 1 e [[RuneQuest - Roleplaying in Glorantha (RQG)]]. Suplementos opcionais recomendados: ***[[Cults of Terror]]***, ***[[Lords of Terror]]***, ***[[Sun County]]***, *The River of Cradles* e *Tales of The Reaching Moon issue 14*.
 
+### Volume 3: Tradition: Sandheart Volume Three
+Terceiro volume da série, 89 páginas, full colour (PDF e capa dura). Localizado em **Dark Watch Cave**, na fronteira oeste de [[Sun County]]. Diferente dos volumes anteriores, não é uma aventura tradicional, mas sim um **framework de campanha** que estrutura os eventos do Volume 1 e 2 (e outras aventuras a critério do Mestre) ao longo de 4 anos consecutivos.
+
+A premissa: por tradição, a milícia deve visitar a caverna Dark Watch anualmente para realizar uma cerimônia — acender vários braseiros e manter vigília durante a noite. Nada nunca acontece, e ninguém sabe por que o ritual é realizado. Até que, gradualmente, ano após ano, algo começa a mudar.
+
+A caverna abriga um **demônio das trevas e do engano** tentando escapar de sua prisão. Ao longo de quatro **testes**, a vigilância dos PJs é desafiada com intensidade crescente: dos primeiros encontros quase cômicos (oportunidade para roleplay leve) até ameaças viciosas que se espalham para a região. O clímax, se os PJs falharem (provável), exige uma **Hero Quest** para derrotar a escuridão — uma mudança radical de ritmo e estrutura, com cenas fantásticas especialmente para cultistas de [[Yelmalio]] combatendo as trevas.
+
+**Estrutura episódica:** recomendado jogar entre e durante os eventos dos Volumes 1 e 2. Aventuras complementares sugeridas: *Jorthan's Rescue Redux*, *Rock's Fall*, e *Blue Moon, White Moon*.
+
+Inclui 3 handouts, estatísticas completas de NPCs e monstros, e múltiplos mapas da Dark Watch Cave.
+
+Requer [[RuneQuest - Roleplaying in Glorantha (RQG)]]. *RuneQuest Glorantha Bestiary* pode ser útil.
+
 ### Volume 4: The God Skin & Mad Prax
 O quarto e último volume da série Sandheart contém duas aventuras — uma de Jon Webb e outra de Michael O'Brien. Conta com contribuições de múltiplos colaboradores, incluindo [[Ludovic]] (que contribuiu "um pouquinho" em todos os volumes). Tornou-se disponível em print-on-demand em novembro de 2021.
 
@@ -68,11 +81,13 @@ O quarto e último volume da série Sandheart contém duas aventuras — uma de 
 - Fonte: [Journal of Runic Studies #20](https://godlearners.com/journal-of-runic-studies-20/)
 - Fonte: [Jonstown Jottings #1: Tales of the Sun County Militia — Rlyeh Reviews](https://rlyehreviews.blogspot.com/2019/11/jonstown-jottings-1-tales-of-sun-county_29.html)
 - Fonte: [Jonstown Jottings #10: The Corn Dolls: Sandheart Volume 2 — Rlyeh Reviews](https://rlyehreviews.blogspot.com/2020/03/jonstown-jottings-10-corn-dolls.html)
+- Fonte: [Jonstown Jottings #28: Tradition: Sandheart Volume Three — Rlyeh Reviews](https://rlyehreviews.blogspot.com/2020/09/jonstown-jottings-28-tradition.html)
 - [Sandheart Volume 1 — DriveThruRPG](https://www.drivethrurpg.com/product/307912/Tales-of-the-Sun-County-Militia-Sandheart-Volume-1)
 - [The Corn Dolls: Sandheart Volume 2 — DriveThruRPG](https://www.drivethrurpg.com/product/307914/The-Corn-Dolls-Sandheart-Volume-2)
+- [Tradition: Sandheart Volume Three — DriveThruRPG](https://www.drivethrurpg.com/product/319251/Tradition-Sandheart-Volume-Three)
 - [Sandheart Volume 4 — DriveThruRPG](https://www.drivethrurpg.com/product/375994/The-God-Skin--Mad-Prax-Sandheart-Volume-Four)
 
 ## Questões em Aberto
-- [ ] Qual o título do Volume 3 da série Sandheart?
+- [x] Qual o título do Volume 3 da série Sandheart? → **Tradition: Sandheart Volume Three**
 - [ ] Quem é Jon Webb?
 - [ ] O que são os 'specials' da Milícia do Condado do Sol e como funcionam em jogo?
