@@ -67,6 +67,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Proximate Holy Realm]] | Estado em que o reino divino é aproximado do mundo mortal; EWF, Belintar, Hero Wars | `heroquest` `plano divino` `EWF` `Belintar` | draft |
 | [[Men-of-All]] | Campeões Malkioni que rompem o sistema de castas; dominam 4 tarefas de Malkion; Hrestol | `Malkioni` `Hrestol` `cavalaria` `castas` | draft |
 | [[Feitiçaria em Glorantha]] | Sistema mágico Malkioni; palácios de memória; God Time; virtualmente ilimitado | `Malkioni` `zzaburi` `palácios de memória` `God Time` | draft |
+| [[Eel-ariash]] | Clã nobre Lunar de Doblian; descendentes de Sandene; família de Hon-eel, Chain Dancer, Farangold, Jar-eel | `clã` `nobreza` `Lunar` `Hon-eel` `Jar-eel` `Dart Warriors` | draft |
 | [[RuneQuest]] | Sistema d100 criado por Steve Perrin e Greg Stafford (1978); combate realista, strike ranks, locais de impacto; 7ª ed em 2018 | `sistema` `RPG` `d100` `Chaosium` `franquia` | draft |
 | [[Hrunda]] | Deus macaco louco; culto no Old Woods de Esrolia; Temple of Bones; Monster of the Month Vol 2 | `deus` `macaco` `Esrolia` `Eurmal` | draft |
 | [[Gimgim the Grim]] | Agente secreto do Imperador Vermelho; operava em Pavis; coletava inteligência em Prax | `agente` `Imperador Vermelho` `Pavis` `Prax` | draft |
@@ -79,6 +80,15 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Dronar]] | Último filho de Malkion; muitos filhos trabalhadores; progenitor dos Dronari | `Malkioni` `agricultura` `Dronari` | draft |
 | [[Zzabur]] | Filho de Malkion; Primeiro Mago; mestre dos Brithini; feitiçaria destruiu nações; desapareceu com Brithos | `Malkioni` `feitiçaria` `Brithos` `Primeiro Mago` | draft |
 | [[Hrestol]] | Filho de Froalar; primeiro Men-of-All; matou Ifttala; fundou cavalaria Malkioni | `Malkioni` `Men-of-All` `Seshnela` `cavalaria` | draft |
+| [[Lodril]] | Deus Fogo & Céu, Pelorian farmer/fighter god, Veskarthan vulcânico; pai de Caladra e Aurelion; casal divino com Oria | `deus` `fogo` `vulcão` `Pelória` `Lunar` `Caladraland` | draft |
+| [[Oria]] | Deusa da Terra Peloriana, Mãe do Milho (Maize Mother); esposa de Lodril; associada à fertilidade agrícola | `deusa` `terra` `Pelória` `milho` `agricultura` | draft |
+| [[Dendara]] | Esposa de Yelm; deusa da Terra doméstica Dara Happana; irmã de Gorgorma; contraparte "bem-comportada" de Ernalda | `deusa` `terra` `Dara Happa` `Yelm` `lar` | draft |
+| [[Oslira]] | Deusa do rio Oslir; irrigação e agricultura peloriana; ~165k cultistas no Coração Lunar | `deusa` `rio` `Oslir` `Pelória` `irrigação` `Lunar` | draft |
+| [[Jajagappa]] | Psicopompo Dara Happano; combate os mortos que escapam do Submundo; culto <10k nas Províncias Lunares | `deus` `psicopompo` `Dara Happa` `Submundo` `mortos` | draft |
+| [[Surenslib]] | Deusa Garça dos pântanos; ancestrais dos Darjiini; culto localizado mas massivo (115k) em Darjiin e Doblian | `deusa` `garça` `pântanos` `Darjiini` `Pelória` `Lunar` | draft |
+| [[Aeol]] | Herói de culto do Aeolianismo; revelou que os deuses são emanações do Deus Invisível | `herói` `culto` `Aeolianismo` `Malkionismo` `Deus Invisível` | draft |
+| [[Diros]] | Deus dos Barcos, originado no Império do Meio Mar (God Learners); sobrevive em cidades portuárias | `deus` `barcos` `navegação` `Middle Sea Empire` `God Learners` | draft |
+| [[Lanbril]] | Deus dos Ladrões Heortling; crime profissional organizado; distinto de Eurmal | `deus` `ladrões` `Heortling` `crime` `Orlanthi` | draft |
 
 ---
 
@@ -155,7 +165,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Sartar Homeland Boxed Set]] | Boxed set RQ; arte Ossi Hiekkala/Anna Orlova; cultos; clãs; demografia 157 clãs; moda; Pockets Boldhome | `boxed set` `sartar` `arte` `clãs` `culto` `demografia` | draft |
 | [[Prax]] | Região de nômades; tribos Bison, High Llama, Impala, Pol-Joni, Sable, Morokanth; Wastes, White Bull Society, Jaldon Goldentooth, No-Feet-on-the-Ground | `região` `nômades` `Prax` `tribos` `Argrath` `Wastes` `White Bull` | draft |
 | [[Esrolia]] | Rica terra matriarcal; Nochet é a maior cidade de Glorantha; centro do culto à Terra | `Esrolia` `Nochet` `matriarcado` `Ernalda` `País Santo` | draft |
-| [[Grazelands]] | Colinas gramadas dos Pony Breeders; Feathered Horse Queen; sociedade patriarcal rígida | `Grazelands` `Pony Breeders` `Feathered Horse Queen` `Dragon Pass` | draft |
+| [[Grazelands]] | 40k habitantes divididos em agricultores, pastores e urbanos; Feathered Horse Queen; Ernalda como maior culto; Humakt como deus da guerra | `Grazelands` `Pony Breeders` `Feathered Horse Queen` `Dragon Pass` `Ernalda` `Yelm` | draft |
+| [[Refuge]] | Cidade portuária Brithini em God Forgot; sistema de castas; templo do Deus Invisível; refugiados de Heortland desde 1620 | `cidade` `porto` `Brithini` `God Forgot` `Malkioni` `País Santo` | draft |
+| [[God Forgot]] | Região pré-Hrestoli Malkioni no sul de Heortland; enclave Brithini; castas rígidas; 100k habitantes | `região` `Malkioni` `Brithini` `Heortland` `País Santo` `Deus Invisível` | draft |
 | [[Heortland & Hendrikland]] | Sourcebook Jeff Richard + Harald Smith; Durengard; Aeolianos/Esvularing; Rikard the Tiger-Hearted; tribo Bandori | `sourcebook` `região` `Heortland` `Aeolianos` | draft |
 | [[The Dragon's Eye]] | Coleção de locais de Dragon Pass por Jonathan Tweet; manuscrito finalizado Jul 2021 | `aventura` `Jonathan Tweet` `Dragon Pass` | draft |
 | [[Glorantha Cookbook]] | Receitas + guia de viagem; Yanioth e Sorala; 95% | `culinária` `viagem` | draft |
@@ -338,5 +350,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-18 (Jonstown Jottings 54)*
+*Última atualização: 2026-05-18 (Journal of Runic Studies #33)*
 

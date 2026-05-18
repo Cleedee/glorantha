@@ -128,6 +128,99 @@ Em comunidades onde o deus é central (Orlanth em clã Orlanthi, Pavis na Real C
 ### O Imperador Vermelho e a Reivindicação Universal
 O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele é o chefe de todos os lugares que a luz da Lua Vermelha toca, e isso é o mundo inteiro. No entanto, o Imperador Vermelho não está necessariamente atrás de governar o mundo inteiro. Ele aceita que bárbaros distantes **submetam-se a ele** ou **sejam seus aliados**. O que importa é que reconheçam sua posição como o **pilar único de legitimidade** no mundo.
 
+### Demografia das Províncias Lunares
+
+Segundo [[Jeff Richard]], as **Províncias Lunares** (Aggar, Holay, Imther, Tarsh, Vanch) têm pouco menos de **1,4 milhão de humanos**. Os maiores cultos (com mais de 10k cultistas cada) são:
+
+| Culto | Membros |
+|-------|---------|
+| [[Ernalda]] | 167k |
+| [[Sete Mães]] | 164k |
+| [[Orlanth]] | 132k |
+| [[Yelmalio]] | 72k |
+| [[Oria]] (Pelora) | 52k |
+| [[Hon-eel]] | 51k |
+| [[Lodril]] | 41k |
+| [[Hwarin Dalthippa]] | 40k |
+| [[Issaries]] | 20k |
+| [[Oslira]] | 20k |
+| [[Chalana Arroy]] | 18k |
+| [[Lhankor Mhy]] | 13k |
+
+**Observações:**
+- [[Etyries]] tem menos de 10k — os comerciantes das Províncias preferem Issaries
+- [[Jajagappa]] tem menos de 10k cultistas
+- Existem enclaves do culto de [[Shargash]] e mais de 5k wagoneers
+- Há três vezes mais cultistas de [[Storm Bull]] em Aggar do que em [[Sartar]] — provavelmente devido à proximidade de [[Dorastor]]
+
+As Províncias são **majoritariamente Orlanthi** culturalmente, com um cinturão Lunar que se estende de New Lolon a Furthest, centrado em Mirin's Cross.
+
+### Demografia do Coração Lunar
+
+O Coração Lunar (Heartlands) abriga quase **5,4 milhões de humanos**. O centro da cultura e religião Lunar, com a Lua Vermelha pairando sobre a Cratera.
+
+- **Sete Mães:** ~850k cultistas (combinando adoração coletiva e individual), um dos Três Grandes da Genertela Central
+- Somando Províncias Lunares e Reaches Ocidentais: acima de 1 milhão de membros
+
+Maiores cultos (com mais de 100k):
+
+| Culto | Membros |
+|-------|---------|
+| [[Lodril]] | 500k |
+| [[Oria]] | 350k |
+| [[Dendara]] | 170k |
+| [[Oslira]] | 165k |
+| [[Yelm]] | 150k |
+| [[Hon-eel]] | 135k |
+| [[Surenslib]] | 115k |
+
+O "backbone" do antigo panteão Dara Happano (Yelm + Lodril + Oria + Dendara + Oslira) ainda existe, mas as [[Sete Mães]] os eclipsaram. A Deusa Vermelha tem cerca de **8.000 iniciados** — dado que requer ser Mestre de Runas de um culto qualificante e ser Iluminado.
+
+### Hero Cults (Cultos de Heróis Vivos)
+
+Muitos heróis e "deuses vivos" têm cultos enquanto vivem. Estes cultos proveem ao herói **recursos mágicos** — mas não concedem diretamente magia Rúnica aos adoradores. Em vez disso, garantem que o herói continue a proteger, defender e abençoar a comunidade.
+
+Em termos mecânicos ([RuneQuest]]), estes cultos provavelmente proveem ao herói **Hero Soul points** (Pontos de Alma Heroica), obtidos durante heroquests. Estes pontos funcionam como Rune Points, mas são recarregados quando pessoas **adoram o herói**, não quando o herói adora um deus.
+
+Exemplos notáveis:
+- **[[Imperador Vermelho]]**: o exemplo mais difundido de culto de "deus vivo"
+- **[[Belintar]]**: no País Santo, tinha templos e inúmeros membros leigos (ver [[País Santo]])
+- **Sir Ethilrist**
+- **[[Cragspider]]** (Rainha dos Trolls)
+- **[[Jaldon Goldentooth]]**
+- **[[Jar-Eel]]**
+- **[[Godunya]]**: culto de natureza muito diferente
+
+Mecânica dos cultos de heróis:
+- Têm sacerdotes, alguns "secundados" de outros cultos associados (ex: culto do Imperador Vermelho construído sobre a infraestrutura de Yelm Imperator; Jaldon Goldentooth usando o culto existente de [[Waha]])
+- Os benefícios materiais para os adoradores incluem acesso a **espíritos** ou **magia espiritual especial**
+- Quando um herói está associado a um culto existente, seu culto pode funcionar como **subculto** que provê acesso a magia Rúnica especial do deus — não do herói. O herói é o guia que mostra o caminho, não a fonte
+
+Exemplo — Belintar: além de prover recursos mágicos massivos, suas cerimônias estavam conectadas ao [[Torneio dos Mestres da Sorte e da Morte]], e Belintar cuidadosamente assegurava que os vários deuses do [[País Santo]] tivessem representantes em seu "culto".
+
+### Posse de Terra — Sistema Sartarita vs. Lunar
+
+#### Sartarita (Orlanthi)
+Em teoria, toda terra arável pertence à **Deusa da Terra**. Na prática, a terra é alocada pelo marido local da deusa (em Sartar, o culto tribal de [[Orlanth]] ou o clã, ou ambos). O clã reivindica o que pode defender e trabalhar, e a tribo apoia isso.
+
+O culto de [[Babeester Gor]] é responsável por **fazer cumprir** os direitos de terra — ninguém mexe com as pedras que demarcam os lotes.
+
+Terras de pastagem são diferentes: o gado pasta onde pode ser defendido. Se um clã ou tribo não consegue proteger seu gado em terras de outro, perde o acesso.
+
+O sistema é inerentemente **turbulento**, mas a Dinastia Sartar proveu um meio não-violento de resolver disputas — apelar ao Príncipe. Fronteiras mudam quando um clã ou tribo perde a capacidade de proteger sua terra e o Templo da Terra não mais os reconhece como protetores.
+
+#### Lunar (Coração Lunar)
+Sistema complexo e hierárquico:
+- **Imperador Vermelho**: possui propriedade pessoal e real. Exerce domínio sobre terras conquistadas, podendo dá-las a quem quiser. Os donos originais raramente são deslocados, mas dividem lucros
+- **Nobres**: podem possuir terra de forma restrita ou irrestrita, por compra ou por presente do Imperador. Presentes imperiais às vezes exigem devolução na morte do dono
+- **Instituições**: exército, templos e cargos públicos podem possuir terra recebida do Imperador, mas o ocupante do cargo não é dono
+- **Plebeus**: não podem possuir terra individualmente, mas têm acesso através de grupos de parentesco ou da vila. A terra é redistribuída se ficar inculta por dois anos ou se a família se mudar
+
+#### Conquistas
+- **Lunar**: o Imperador Vermelho (através de procuradores) reivindica o direito de dispor das terras conquistadas — geralmente significando receber uma porção da colheita ou taxas de mercado
+- **Sartarita**: mais limitada — a localidade derrotada é forçada a reconhecer a autoridade do vencedor, e pode ser forçada a se juntar à tribo vitoriosa
+- **Argrath**: nas Guerras Heroicas, geralmente assumia as propriedades que o governo Lunar reservara para si, deixando os outros arranjos de lado
+
 ## Referências Cruzadas
 - [[Glowline]]
 - [[Morcego Carmesim]]

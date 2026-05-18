@@ -1,9 +1,11 @@
 ---
 title: "Caladraland"
 category: "Localização"
-tags: [região, vulcões, Lodril, Caladra, Aurelion, País Santo, Gemborg]
-sources: ["https://godlearners.com/journal-of-runic-studies-18/"]
-last_updated: 2026-05-14
+tags: [região, vulcões, Lodril, Caladra, Aurelion, País Santo, Gemborg, Ernalda, Veskarthan]
+sources:
+  - "https://godlearners.com/journal-of-runic-studies-18/"
+  - "https://godlearners.com/journal-of-runic-studies-33/"
+last_updated: 2026-05-18
 status: draft
 ---
 
@@ -57,6 +59,23 @@ Seu reino sofreu terrivelmente com uma década de invasões bárbaras, mas ele m
 - **Rhigos:** Porto considerável no sul de Esrolia, não muito longe de Nochet. Governado pela "Demivierge" desde 1610 — título mantido por uma rainha que é "sexualmente promíscua" mas ainda virgem, um artifício para manter sua posição como Alta Sacerdotisa de **Delaina** (a "irmã pura e contida de Ernalda", deusa padroeira de Rhigos)
 - **Porthomeka:** Pequena região rica entre Esrolia e Caladraland, governada por warlords originalmente exilados de Caladraland, já foi parte de Esrolia
 
+### Demografia de Cultos
+
+Segundo [[Jeff Richard]], os quatro maiores cultos de Caladraland como um todo (Highvale, Porthomeka, Vinavale, Thomble) são:
+
+| Culto | Membros |
+|-------|---------|
+| [[Ernalda]] | 102k |
+| [[Caladra e Aurelion]] | 59k |
+| [[Lodril]] | 30k |
+| [[Orlanth]] | 30k |
+
+Em Highvale, Caladra e Aurelion são **maiores que Ernalda e Lodril** — o único lugar onde isto ocorre.
+
+O culto de Lodril como **Veskarthan** (deus vulcão) foi "desarticulado pelos God Learners" com seu culto de Caladra e Aurelion. Os God Learners perceberam que Caladra (culto centrado na Ventania em Caladraland) estava ligado a Aurelion (culto na ilha de [[Jrustela]]). Ambos podiam ser contactados juntos em **Meetinghall Mountain** em [[Slontos]]. Os sacerdotes de cada culto rapidamente abraçaram a conexão, percebendo que seu culto tinha uma divindade gêmea!
+
+O culto foi promulgado por todo o Império do Meio Mar a partir de Jrustela, Slontos e Caladraland. Com o colapso do Império, o culto sobreviveu apenas em Caladraland e áreas vizinhas.
+
 ## Referências Cruzadas
 - [[País Santo]]
 - [[Belintar]]
@@ -69,6 +88,8 @@ Seu reino sofreu terrivelmente com uma década de invasões bárbaras, mas ele m
 
 ## Referências
 - Fonte: [Journal of Runic Studies #18](https://godlearners.com/journal-of-runic-studies-18/)
+- Fonte: [Journal of Runic Studies #33](https://godlearners.com/journal-of-runic-studies-33/)
+- Jeff Richard no RuneQuest Facebook Group, 2022
 
 ## Questões em Aberto
 - [ ] Qual é a situação atual de Caladraland nas Guerras Heroicas?

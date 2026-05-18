@@ -89,6 +89,33 @@ Após a Batalha do Muro em Construção (Building Wall Battle), os Lunares sabia
 - Fazzur decretou que Karse não seria saqueada (tinha objetivos próprios).
 - Os Wolf Pirates ficaram de mãos vazias. Após isso, Harrek rejeitou qualquer oferta Lunar, e prejudicar o Império tornou-se um tesouro tão valioso quanto ouro ou prata.
 
+### God Forgot e Refuge
+
+God Forgot, ao sul de [[Heortland & Hendrikland|Heortland]], é uma região dominada por uma variante **pré-Hrestoli do Malkionismo**. Com aproximadamente **100 mil habitantes** (divididos entre God Forgot e os territórios continentais), mais da metade dos adultos (20k) não adora nenhum deus exceto o [[Deus Invisível]], seguindo rigidamente o sistema de castas brithini.
+
+A cidade de [[Refuge]] é um entreposto Brithini cujo governante é irmão do Talar de God Forgot. Um terço da população de Refuge segue os Malkioni de God Forgot, 10% são [[Aeolianos]], e o restante é mistura de Heortlandeses, Praxianos, Boat People e Esrolianos. Recebeu uma enchente de refugiados de Heortland a partir de 1620, sobrecarregando seus templos de Orlanth e Ernalda (ver [[Refuge]] para detalhes).
+
+Ver páginas dedicadas: [[God Forgot]], [[Refuge]].
+
+### Caladraland
+
+Caladraland é uma das regiões do País Santo frequentemente negligenciada. Os quatro maiores cultos em Caladraland como um todo (Highvale, Porthomeka, Vinavale, Thomble) são:
+
+| Culto | Membros |
+|-------|---------|
+| [[Ernalda]] | 102k |
+| [[Caladra e Aurelion]] | 59k |
+| [[Lodril]] | 30k |
+| [[Orlanth]] | 30k |
+
+**Observações:**
+- Caladra e Aurelion são os filhos gêmeos de [[Lodril]] com [[Asrelia]], irmãos de Ernalda e Maran Gor
+- Somando Caladraland e Esrolia, Lodril tem cerca de **90k cultistas** no País Santo — mais que qualquer Lightbringer menor, e empatado com Argan Argar
+- O culto de Lodril como **Veskarthan** (deus vulcão) é mais prevalente em Caladraland
+- Os God Learners unificaram Caladra (culto centrado na Ventania) e Aurelion (culto da ilha de Jrustela) em **Meetinghall Mountain** em Slontos, criando o culto dual. Com o colapso do Império do Meio Mar, o culto sobreviveu apenas em Caladraland e áreas vizinhas
+
+Ver página dedicada: [[Caladraland]].
+
 ## Referências Cruzadas
 - [[Belintar]]
 - [[Cidade das Maravilhas]]
