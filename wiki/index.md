@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-17
+last_updated: 2026-05-18
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -263,7 +263,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hofstaring Treeleaper]] | Herói Culbrea; habilidade de saltar; lança autônoma; morto na Rebelião de Starbrow | `herói` `Culbrea` `Sartar` `rebelião` | draft |
 | [[Yara Aranis]] | Guardiã do Templo da Lua Crescente; teias expandem a Glowline | `entidade` `Lunar` `Glowline` `teia` | draft |
 | [[Cups of Clearwine]] | Sourcebook Beer With Teeth; bairro nobre Clearwine; Colymar; POD | `sourcebook` `Clearwine` `Colymar` `Jonstown` | draft |
-| [[The Black Spear]] | Saga Hero Wars "gonzo comunista"; Nick Brooke; Mike O'Connor; previsto out/2021 | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` | draft |
+| [[The Black Spear]] | Campanha 172p RQG; Nick Brooke; 1627 ST; Apple Lane→Pavis→Zola Fel; Dragonrise→Hero Wars; 7 atos; "Heart of Darkness" Gloranthano | `Nick Brooke` `Hero Wars` `Jonstown` `aventura` `RuneQuest` `Valley of Cradles` `Argrath` | em_revisao |
 | [[Crimson King]] | Cenário roleplay-heavy de Nick Brooke; 1627 S.T.; dignitários lunares num jantar com conspiração e reviravolta | `Nick Brooke` `Jonstown` `aventura` `Lunar` `1627` | draft |
 | [[Adventurers From The Lunar Provinces]] | Suplemento de Peter Hart para personagens das províncias lunares (Tarsh, Aggar, Imther, Vanch, Holay); 20 pré-gerados | `Peter Hart` `Jonstown` `Lunar` `Tarsh` | draft |
 | [[Kalayde Waters]] | Aventura de tribunal Orlanthi; dois amantes desaparecidos, famílias rivais; regras de julgamento | `Jonstown` `aventura` `tribunal` `Orlanthi` `Lhankor Mhy` | draft |
@@ -338,5 +338,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-17 (JRS 32)*
+*Última atualização: 2026-05-18 (Jonstown Jottings 54)*
 
