@@ -252,3 +252,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 ## [2026-05-17] ingest | Processado "Jonstown Jottings #28: Tradition: Sandheart Volume Three" (Rlyeh Reviews, 2020-09-12) — 1 página expandida: Sandheart (Vol 3 titulado/descrito: Tradition, 89p, framework campanha, Dark Watch Cave, 4 testes, demônio das trevas, heroquest final; fonte adicionada; questão em aberto resolvida). Index atualizado.
 
 ## [2026-05-18] ingest | Processado "Jonstown Jottings 54 Black Spear.md" (Rlyeh Reviews, 2022-02-13) — 1 página reescrita: [[The Black Spear]] (de 42 para 95 linhas; adicionados setting Apple Lane→Zola Fel→Pavis, 1627 ST, 7 atos, mecânica Runas/Paixões, poesia/música/encenação, "Heart of Darkness" com mitologia da Idade do Bronze, verdicto Sim/Não/Talvez; status draft→em_revisao; fonte original adicionada). Index e log atualizados.
+
+## [2026-05-18] create | Criada página wiki/Journal of Runic Studies 33.md (Fonte) — página descritiva da 33ª edição do periódico God Learners.
