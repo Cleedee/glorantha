@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/clippings/Journal of Runic Studies 29.md",
+                "file": "wiki/The Black Spear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal of Runic Studies 29"
+              "title": "The Black Spear"
             }
           }
         ]
@@ -197,32 +197,33 @@
   },
   "active": "daa140db23f4975e",
   "lastOpenFiles": [
+    "raw/clippings/Jonstown Jottings 28 Tradition Sandheart Volume Three.md",
+    "wiki/QuestWorlds.md",
+    "wiki/Mito de Criação de Glorantha.md",
+    "wiki/The Final Riddle.md",
+    "wiki/The Fall of Whitewall.md",
+    "raw/clippings/Journal of Runic Studies 32.md",
+    "wiki/Journal of Runic Studies 32.md",
+    "wiki/sandheart.md",
+    "raw/clippings/Jonstown Jottings 1 Tales of the Sun County Militia Sandheart Volume 1.md",
+    "wiki/journal-of-runic-studies-31.md",
+    "wiki/Sun County.md",
+    "wiki/Cults of RuneQuest - Lords of Terror.md",
+    "raw/clippings/Jonstown Jottings 10 The Corn Dolls Sandheart Volume 2.md",
+    "wiki/katrin-dirim.md",
+    "raw/clippings/Journal of Runic Studies 31.md",
+    "wiki/Journal of Runic Studies 30.md",
+    "raw/clippings/EXCAVATING GLORANTHA A LOOK AT THE RUNEQUEST WEAPONS & EQUIPMENT GUIDE.md",
+    "wiki/Cultura Material de Dragon Pass.md",
+    "wiki/RuneQuest Weapons & Equipment.md",
+    "raw/clippings/The Sons of Umath The Kóryos Myth in Gloranthan Gaming.md",
+    "wiki/Kóryos.md",
+    "raw/clippings/Journal of Runic Studies 30.md",
+    "wiki/Two Hour Town.md",
+    "wiki/A Video on the Terramare Culture.md",
+    "wiki/Hidetaka Mizayaki’s Inspirations.md",
+    "wiki/Elsewhere on Arachne Solara’s Web.md",
     "scripts/migrate_sources.py",
-    "wiki/Cultos e o Chaos.md",
-    "wiki/Second Age.md",
-    "wiki/David Scott.md",
-    "wiki/Mad Knight Castings.md",
-    "wiki/Infinity Engine.md",
-    "wiki/Vistikos Left-eye.md",
-    "wiki/Rostand the Speaker.md",
-    "wiki/White Bear God.md",
-    "wiki/Irrippi Ontor.md",
-    "wiki/Gimgim the Grim.md",
-    "wiki/Gunda.md",
-    "wiki/Arangorf.md",
-    "wiki/Hrunda.md",
-    "wiki/Hredmarinos.md",
-    "wiki/Nralar.md",
-    "wiki/Olodo.md",
-    "wiki/Timinits.md",
-    "wiki/Thank you for reading.md",
-    "wiki/Felix Figure Paintings’ Gloranthan Works.md",
-    "wiki/Painted Mad Knight Pre-gens.md",
-    "wiki/RuneQuest Year Zero Podcast.md",
-    "wiki/Community Roundup.md",
-    "wiki/Cults Friendly or Neutral to Chaos.md",
-    "wiki/Summarizing the Second Age.md",
-    "wiki/Memes in the Second Age.md",
     "scripts/ingest_source.py",
     "scripts/check_uningested.py",
     "wiki/index.md~",
@@ -234,7 +235,6 @@
     "Pasted image 20260414100001.png",
     "Pasted image 20260414095718.png",
     "Pasted image 20260414095652.png",
-    "raw/notas",
-    "raw/clippings"
+    "raw/notas"
   ]
 }

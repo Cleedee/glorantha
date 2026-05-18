@@ -31,7 +31,7 @@ Membros menos conhecidos dos Lightbringers:
 - **Ginna Jar** — Figura de conhecimento limitado; mencionada em fontes antigas.
 
 ### O Grande Compromisso
-Para impedir que o Caos entrópico retornasse, os deuses fizeram grandes juramentos e pactos, resultando no **Grande Compromisso** (Great Compromise). Os mortais chamam isto de **Tempo**. Ao alterar o mundo, os deuses o salvaram, e a história começou.
+Para impedir que o Caos entrópico retornasse, os deuses fizeram grandes juramentos e pactos, resultando no [[Grande Compromisso]] (Great Compromise). Os mortais chamam isto de **Tempo**. Ao alterar o mundo, os deuses o salvaram, e a história começou.
 
 ### Era dos Deuses — Etapas
 Para detalhes das eras individuais (Green Age, Golden Age, Storm Age, Chaos Age, etc.), ver [[As Eras de Glorantha]].
