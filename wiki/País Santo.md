@@ -1,16 +1,21 @@
 ---
 title: "País Santo"
 category: "Localização"
-tags: [kethaela, belintar, deus-rei, holy country]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-11/"]
-last_updated: 2026-05-09
+tags: [kethaela, belintar, deus-rei, holy country, sixths, sextos]
+sources:
+  - "https://godlearners.com/journal-of-runic-studies-2/"
+  - "https://godlearners.com/journal-of-runic-studies-6/"
+  - "https://godlearners.com/journal-of-runic-studies-7/"
+  - "https://godlearners.com/journal-of-runic-studies-11/"
+  - "https://godlearners.com/journal-of-runic-studies-34/"
+last_updated: 2026-05-18
 status: draft
 ---
 
 # País Santo
 
 ## Resumo
-Região de Kethaela governada por Belintar, o Deus-Rei a partir de 1318; conhecida como "Disneyland Mitológica", com a Cidade das Maravilhas onde deuses e mortais conviviam.
+Região de Kethaela governada por Belintar, o Deus-Rei a partir de 1318; conhecida como "Disneyland Mitológica", com a [[Cidade das Maravilhas]] onde deuses e mortais conviviam. Belintar serviu como escola de heroquesting para sartaritas e mentor da Dinastia Sartar.
 
 ## Conteúdo
 ### História
@@ -26,6 +31,24 @@ Região de Kethaela governada por Belintar, o Deus-Rei a partir de 1318; conheci
 - Usava amigos e aliados para guardar suas fronteiras.
 - Enviava mensageiros e mercadores para oeste, através de Maniria até Ralios.
 - Descrito como diferente de "governantes que sempre reencarnam" e de "Império do Entretenimento".
+- Belintar raramente se envolvia diretamente no governo mundano dos Sextos, mas quando líderes de culto recusavam seu conselho, ele trazia o próprio deus do culto para a discussão.
+
+### Os Seis Sextos (Sixths)
+
+O País Santo era dividido em seis regiões temáticas, cada uma associada a uma Runa Elemental, no sentido horário a partir do sul:
+
+1. **Rightarm Islands** (Água)
+2. **Caladraland** (Fogo)
+3. **Esrolia** (Terra)
+4. **Shadow Plateau** (Escuridão)
+5. **Heortland** (Ar)
+6. **God Forgot** (Runa do Homem ou da Lua — representando espiritualidade)
+
+Cada Sexto seguia suas próprias tradições, mas transformado pela presença de Belintar. **Estradas Mágicas** conectavam os Sextos à Cidade das Maravilhas. O culto de Belintar mantinha sacerdotes em cada Sexto que lhe ofereciam pontos de magia e incenso, auxiliando-o a realizar milagres e manter as Estradas Mágicas.
+
+### Belintar como Mentor
+
+Cada vez mais, Belintar é visto como o **mentor/padrinho da Dinastia Sartar** e depois da **Sartar Magical Union**. A ênfase dos Orlanthi de Sartar em comércio e heroquesting — que os diferencia dos Orlanthi de *King of Dragon Pass* — veio da interação com o País Santo e com Belintar.
 
 ### Cidade das Maravilhas (City of Wonders)
 - Equivalent ao "Main Street, U.S.A." da Disney.
@@ -136,6 +159,7 @@ Ver página dedicada: [[Caladraland]].
 - Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Fonte: [Journal of Runic Studies #6](https://godlearners.com/journal-of-runic-studies-6/)
 - Fonte: [Journal of Runic Studies #7](https://godlearners.com/journal-of-runic-studies-7/)
+- Fonte: [Journal of Runic Studies #34](https://godlearners.com/journal-of-runic-studies-34/)
 - Jeff Richard no RuneQuest Facebook Group
 - Mapa de Greg Stafford para o País Santo
 - Mapa de Colin Driver © 2021 Chaosium Inc.

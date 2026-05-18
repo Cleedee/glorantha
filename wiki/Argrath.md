@@ -55,30 +55,41 @@ A capacidade de Argrath de abraçar contradições conecta-se à sua natureza co
 ### Resumo da Vida de Argrath (até 1627)
 Jeff Richard e Greg Stafford compilaram um resumo da trajetória de Argrath:
 
-- Nasceu em **Starfire Ridge** na Tribo Colymar
+- Nasceu em **Starfire Ridge** na Tribo Colymar, parte da Dinastia Sartar (ramo menor)
 - Maniski morto na queda de Sartar
 - Yanioth morta (pelos Telmori?)
 - Iniciado em Orlanth
-- Proscrito de Starfire Ridge
-- Tornou-se escravo entre os Bison Riders
-- Descobriu White Bull, fundou sociedade secreta
+- **Exilado para Prax** como juventude; tornado escravo pela **Tribo dos Bison**
+- Como escravo, encontrou/libertou o espírito do **White Bull** (filho de Storm Bull/irmão de Waha — os Praxianos acreditam que ele liderará a batalha final contra Gbaji/Chaos)
+- Fundou a White Bull Society — uma sociedade mágica secreta que, graças aos Lunares, espalhou-se rapidamente entre todas as tribos Praxianas
 - Tornou-se Wind Lord de Orlanth, ganhou uma entidade dracônica como espírito aliado
+- **Heroquester experimental** desde o início — buscava coisas nos recessos mais estranhos do Plano Heróico (Cauldron do Giant Beberrão, Dragonteeth, etc.)
 - Adotou o nome **Garrath Sharpsword** e residiu em New Pavis
 - Quest do Cauldron do Giant Beberrão
-- Giant's Cradle
-- Encontrou [[Harrek]]
-- Circun-navegou o Mundo, muitas aventuras
+- **Giant's Cradle** — um bebê gigante nasceu como efeito colateral inesperado de um heroquest; Argrath a protegeu em sua viagem ao mar
+- Encontrou [[Harrek]] no Giant's Cradle
+- **Circun-navegou o Mundo** com Harrek, saqueando e aventurando-se — sacerdotes solares teshnitas, Teleositas, bat-hsunchen em Laskal, Doraddi, cultistas de Ompalam fonritianos, ruínas de Jrustela, feiticeiros Seshengi. Ao chegar ao País Santo, era uma das pessoas mais viajadas de Glorantha.
 - Batalha de Pennel Ford
 - Foi amante da Rainha Samastina
-- Partiu para Prax, reuniu a White Bull Society e convocou [[Jaldon Goldentooth]]
-- Libertou Pavis
+- Retornou a Prax (País Santo → Prax), reuniu a White Bull Society e convocou [[Jaldon Goldentooth]]
+- **Libertou New Pavis** dos Lunares (1624) e desenrolou as guarnições Lunares no River of Cradles
 - Libertou Corflu
-- Derrotado em Hender's Ruins
+- **Primeiro grande revés**: tentou conquistar Dragon Pass com aliados praxianos, mas foi derrotado pelo **Lunar College of Magic em Hender's Ruins**. Retornou a New Pavis para recuperar-se.
+- Enquanto isso, o **Dragonrise** aconteceu e Kallyr Starbrow foi aclamada Princesa de Sartar (1625 — data inicial de RuneQuest Glorantha)
 - Fundou a primeira Magical Union, ganhou os Dragon Teeth
-- Derrotou o Exército Lunar em Far Place, libertou Alda-Chur
-- Tornou-se Príncipe de Sartar
+- O governo de Kallyr foi curto; Argrath retornou a Dragon Pass com um exército de Praxianos e aventureiros
+- Forçou os Lunares a sair de **Alda-Chur**, marchou sobre Boldhome e foi **aclamado Príncipe de Sartar (1627)**
+- Pequena relação com líderes tradicionais sartaritas — apoiado por Orlanth Aventureiro, Storm Bull, tricksters, Praxianos, aventureiros, foras-da-lei, sacerdotes marginais, xamãs e estranhos
 
 Jeff e Greg compararam os primeiros anos de Argrath a **Alexandre o Grande** e **Napoleão Bonaparte** — as atividades maníacas de Argrath parecem razoáveis em comparação! Mas Argrath tem o caminho mais longo a percorrer para tornar-se um par de figuras como o Imperador Vermelho, Gunda the Guilty, Beat-Pot ou Sir Ethilirist.
+
+### A Teoria dos "Múltiplos Argraths"
+
+Existiu uma teoria de que todos os feitos atribuídos a "Argrath" foram na verdade realizados por múltiplas pessoas, já que *obviamente uma pessoa não poderia ter feito tudo isso*. Até a Glorantha Wiki (à época) abraçava esta teoria. Mas ela foi **oficialmente abandonada** por Greg Stafford e Jeff Richard:
+
+> "Greg e eu concluímos que os 'múltiplos Argraths' se mostraram um fracasso e um obstáculo para jogadores. E um pesadelo se quiséssemos fazer ficção de RQ. Abandonamos essa abordagem no Guide to Glorantha, Glorantha Sourcebook, e tudo desde então."
+
+Isto não significa que não haja histórias contraditórias sobre Argrath — como qualquer figura histórica importante, há contos que o colocam em Nochet ao mesmo tempo que em Pavis ou saqueando tumbas em Jrustela. O mesmo vale para Jar-Eel, Harrek, Arkat, etc.
 
 ### Reencarnação de Arkat
 > "É interessante que Argrath É uma encarnação — uma reencarnação — de Arkat. Isso é mais que um mero fio de background do cenário, mas uma verdade criativa sobre a origem de ambos os personagens na escrita."
