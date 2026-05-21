@@ -34,6 +34,16 @@ Trouxeram o **Deus Invisível** consigo, embora os locais continuassem adorando 
 
 O Malkionismo dos Príncipes Mercadores é basicamente **adoração de Issaries** (como ancestral, então é ok!), com zzaburi importados para dar respeitabilidade.
 
+### O Poder do Templo de Issaries
+
+O templo de Issaries tem forte interesse em garantir que seus membros não sejam enganados — e enviará Espíritos de Represália contra membros que trapaceiem ou roubem. A Guilda dos Mercadores é poderosa e rica, e geralmente se incomoda com desfalques ou outros crimes dentro da organização. O próprio deus também se incomoda.
+
+Se o templo de Jonstown se recusar a agir, isto pode envolver os **Príncipes Mercadores**, pois ameaça a capacidade de organizar caravanas. E qualquer coisa que chame a atenção dos Príncipes Mercadores pode envolver Boldhome e o Príncipe — especialmente Argrath, mais sensível às necessidades financeiras da guerra que Kallyr.
+
+Os **Merchant Princes** (Príncipes Mercadores) são descritos como:
+
+> "These are the merchant priests of the Goldentongue cult whose caravans travel the roads of Sartar carrying goods and other valuables. Their primary concern is with themselves and their livelihood. The Merchant Princes sometimes combine together to form big caravans that may consist of hundreds of armed people – however, they are official neutral in the conflicts between the Empire and Sartar. They seek peace and protection for their caravans, and cooperate with each other to protect themselves and their profits. They have much wealth and can provide many things which adventurers desire."
+
 ### Estrutura de Poder
 Os Príncipes Mercadores governam as cidades que pontilham a Estrada Maniriana. As cidades não são muito grandes e seus líderes frequentemente discutem entre si, mas funciona:
 - As tribos locais trabalham com eles porque são **juízes neutros bons**
