@@ -2,8 +2,8 @@
 title: "Yelm"
 category: "Entidade"
 tags: [deus, sol, imperador, Fogo/Céu, mitologia, cosmologia, Dara Happa, Lightbringers]
-sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://elruneblog.blogspot.com/2025/09/cults-of-runequest-gods-of-fire-and-sky.html", "https://godlearners.com/journal-of-runic-studies-29/"]
-last_updated: 2026-05-16
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://elruneblog.blogspot.com/2025/09/cults-of-runequest-gods-of-fire-and-sky.html", "https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-35/"]
+last_updated: 2026-05-19
 status: draft
 ---
 
@@ -39,6 +39,12 @@ O próprio ciclo das Eras de Glorantha espelha este padrão: explorar novos pode
 
 ### Relação com o Chaos
 Yelm é um **Inimigo do Chaos Primordial**. Ele faz algumas exceções caóticas — [[Deusa Vermelha]] e [[Nysalor]] — mas em geral odeia o Chaos.
+
+[[Jeff Richard]] nota que esta associação paradoxal de Yelm com dois deuses do Chaos é intrigante:
+
+> "Talvez sejam as reivindicações de Yelm ao governo universal, que incluiria o Chaos junto com tudo o mais. Ou talvez seja a **incapacidade de Yelm de ver sua própria Sombra**."
+
+O que coloca Yelm numa posição única entre as divindades celestiais: sua própria pretensão de totalidade força uma relação ambígua com aquilo que está fora do cosmos.
 
 ### Relação com Orlanth
 Yelm é **Neutro** em relação a Orlanth — não Hostil, muito menos Inimigo. E vice-versa.

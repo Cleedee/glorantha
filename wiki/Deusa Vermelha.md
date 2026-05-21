@@ -2,8 +2,8 @@
 title: "Deusa Vermelha"
 category: "Entidade"
 tags: [lunar, deusa, orlanthi, história]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-80/", "https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history", "https://godlearners.com/journal-of-runic-studies-28/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-35/", "https://godlearners.com/journal-of-runic-studies-80/", "https://rqwiki.chaosium.com/glorantha/myth-and-history.html#the-beginning-of-history", "https://godlearners.com/journal-of-runic-studies-28/"]
+last_updated: 2026-05-19
 status: draft
 ---
 
@@ -31,6 +31,13 @@ A Lua Vermelha paira estacionária acima de [[Glamour]], não nascendo nem se po
 Em [[Pelória]], o cruel **Império Carmaniano** conquistou a antiga civilização Dara Happana fundada por [[Yelm]]. Os Carmanianos ameaçaram extinguir as últimas luzes de Pelória até que sete heroquesters desesperados conspiraram para reviver uma deusa morta — a **Lua Vermelha**, vítima da Grande Escuridão, despedaçada e espalhada pelos mundos. Após quests profundas no Submundo, ela foi reformada como a **Deusa Vermelha**.
 
 A Deusa Vermelha incorporava Constância e Mudança, Vida e Morte, Amor e Indiferença — todas as dicotomias do Universo, incluindo o [[Caos]]. Após viver brevemente em Glorantha, ascendeu ao céu, onde permanece em sua beleza cíclica, vendo a terra que deixou a sua família. O sempre-reencarnante **Imperador Vermelho** é seu filho e seu orgulho.
+
+### O Pato-Coelho de Wittgenstein
+Jeff Richard oferece uma das melhores sínteses da ambiguidade da Deusa Vermelha:
+
+> "Num certo nível, a Deusa Vermelha é algo como o **pato-coelho de Wittgenstein**. Ela ameaça a existência do cosmos ou ela nos liberta do medo? Ambas as coisas podem ser verdade, dependendo do observador!"
+
+Ver: [Ilusão pato-coelho](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion)
 
 ### A Deusa Vermelha e sua Sombra
 A Deusa Vermelha foi a primeira entre os cultos do Fogo/Céu a abraçar sua própria Sombra, rejeitando a tradição anterior que via o reconhecimento da Sombra como tabu. Isto ocorreu como parte de sua **Goddess Quest**:

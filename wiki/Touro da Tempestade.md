@@ -23,7 +23,7 @@ O Touro da Tempestade também é conhecido como **Vento do Deserto**, um título
 ### Culto e Sociedade Guerreira
 O culto do Touro da Tempestade é uma das principais **sociedades guerreiras** de [[Sartar]] e [[Prax]]. Membros do culto são berserkers que canalizam a fúria divina contra o Caos. Em [[Sartar]], estima-se que cada clã tenha cerca de 12 iniciados do Touro da Tempestade. Os **Filhos do Touro da Tempestade** são mencionados habitando Stormwalk Mountain.
 
-O Touro da Tempestade também é um dos **Protetores do Marido** (Husband Protectors) de [[Ernalda]].
+O Touro da Tempestade também é um dos **Protetores-Marido** (Husband Protectors) de [[Ernalda]].
 
 ### Culto em RuneQuest
 O Touro da Tempestade é um culto detalhado em **[[Cults of RuneQuest - The Lightbringers]]**. Sua classe de personagem em **[[13th Age in Glorantha]]** é o **Berserker**, representando sua natureza violenta e caótica.

@@ -2,8 +2,8 @@
 title: "Iluminação"
 category: "Conceito"
 tags: [Iluminação, Nysalor, Gbaji, Sevening, esoterismo, exoterismo, Lua, Lunares, enigmas, Arkat]
-sources: ["https://andrewloganmontgomery.blogspot.com/2022/10/writing-riddles-illumination-in.html", "https://elruneblog.blogspot.com/2024/07/cults-of-runequest-lunar-way-review.html"]
-last_updated: 2026-05-16
+sources: ["https://andrewloganmontgomery.blogspot.com/2022/10/writing-riddles-illumination-in.html", "https://elruneblog.blogspot.com/2024/07/cults-of-runequest-lunar-way-review.html", "https://godlearners.com/journal-of-runic-studies-35/"]
+last_updated: 2026-05-19
 status: draft
 aliases:
   - "Illumination"
@@ -53,6 +53,13 @@ Este padrão repete-se nas três Eras:
 - Latim: *re-ligio* = "estar amarrado/atado" (donde "ligadura")
 - Iluminação: "liberação" — ser *liberto* dos vínculos
 - Um amarra, o outro desamarra
+
+### Iluminação e o Chaos
+Segundo [[Jeff Richard]], a Iluminação permite uma perspectiva radicalmente diferente sobre o [[Chaos]]:
+
+> "A Iluminação permite compreender que [o Chaos] não é *per se* mau e não temê-lo ou odiá-lo. Mas para todos os outros, essa é uma ponte longe demais — incluindo para seres contaminados pelo Chaos como broo, homens-escorpião, vampiros, ogros e afins."
+
+Isto significa que a Iluminação não apenas transcende as divisões entre cultos, mas a própria divisão entre Cosmos e Caos — o que explica por que a maioria das civilizações gloranthanas trata Iluminados como perigosos ou caóticos.
 
 ### Perigos
 A Iluminação pode ser abusada e corrompida. Discípulos de Nysalor usaram sua libertação da ética para criar doenças apenas para espalhá-las e curá-las. Os Senhores Vampiros de Tanisor foram mais longe. O [[Império Lunar]] monitora Iluminados em busca de Oclusão. A maioria das outras civilizações mataria um Iluminado instantaneamente — a acusação primária é que a Iluminação é uma forma de Caos.

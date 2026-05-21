@@ -265,6 +265,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[journal-of-runic-studies-31]] | 31ª edição; heroquesting (3 contextos), Lightbringers Summons de Kallyr, população tribal de Boldhome, números de Yelmalio, Alda-Chur, Jar-eel no Proximate Holy Realm, Sartar Homeland boxed set | `periódico` `malkioni` `heroquesting` `Kallyr` `Boldhome` `Yelmalio` `Alda-Chur` `Sartar Homeland` | draft |
 | [[Journal of Runic Studies 32]] | 32ª edição; A Short Detour (Ludovic), QuestWorlds copy editing, colonização de Tarsh (Arim/Sorana Tor/Twin Dynasty), cult demographics Heartlands, iniciados vs leigos, dados Pavis/Sun County, notas sobre anões (Openhandism, Isidilian, Inviolate Palace) | `periódico` `malkioni` `Jeff Richard` `Tarsh` `Saird` `cultos` `demographics` `Lunars` `Mostali` `dwarfs` `QuestWorlds` | draft |
 | [[Journal of Runic Studies 33]] | 33ª edição; demografia Províncias Lunares e Coração Lunar, Feathered Horse Queen, Eel-ariash, Alkoth, Karse, God Forgot, Caladraland, Hero Cults, land ownership | `periódico` `malkioni` `Jeff Richard` `Grazelands` `Lunars` `demographics` `Alkoth` `Karse` `Caladraland` | draft |
+| [[Journal of Runic Studies 34]] | 34ª edição; Belintar expandido (culto, Sextos, corte, morte), Argrath timeline 1627, Only Old One, Trindade do Inverno, Safelster, Great Sister, Rokari, Stygianism | `periódico` `malkioni` `Belintar` `Argrath` `Valind` `Safelster` | draft |
+| [[Journal of Runic Studies 35]] | 35ª edição; Runic Rants: Detect Enemies, trailer Starter Set, Chaos cosmology (Jeff's Notes), Yelm paradoxo Caos, Deusa Vermelha duck-rabbit Wittgenstein, Vistas of New Pavis | `periódico` `malkioni` `Chaos` `Yelm` `Deusa Vermelha` `Starter Set` `Pavis` | draft |
 | [[journal-of-runic-studies-68]] | 68ª edição (2022); clipping incompleto — menções a pântanos de Pelória, magia de Oslira, Broo | `periódico` `malkioni` `Oslira` `Pelória` `Broo` | draft |
 | [[journal-of-runic-studies-69]] | 69ª edição (2022); Heroquesting (inconsciente coletivo, arquétipos), finanças Lunares, Stafford House Campaign | `periódico` `malkioni` `Heroquesting` `finanças` `Stafford House` | draft |
 | [[Korolstead]] | Companheiro de The Smoking Ruin; John Lawson; mapas, NPCs, facções | `sourcebook` `Smoking Ruin` `John Lawson` `Jonstown` | draft |
@@ -351,5 +353,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-18 (Journal of Runic Studies #33)*
+*Última atualização: 2026-05-19 (Journal of Runic Studies #35)*
 
