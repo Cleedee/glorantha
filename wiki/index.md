@@ -89,6 +89,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Aeol]] | Herói de culto do Aeolianismo; revelou que os deuses são emanações do Deus Invisível | `herói` `culto` `Aeolianismo` `Malkionismo` `Deus Invisível` | draft |
 | [[Diros]] | Deus dos Barcos, originado no Império do Meio Mar (God Learners); sobrevive em cidades portuárias | `deus` `barcos` `navegação` `Middle Sea Empire` `God Learners` | draft |
 | [[Lanbril]] | Deus dos Ladrões Heortling; crime profissional organizado; distinto de Eurmal | `deus` `ladrões` `Heortling` `crime` `Orlanthi` | draft |
+| [[Arachne Solara]] | Mãe do Tempo; sua Teia de fios de mitos é a base do heroquesting e do Grande Compromisso | `Arachne Solara` `World Spider` `heroquesting` `Great Compromise` `Teia` | draft |
 
 ---
 
@@ -293,6 +294,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[King of Sartar]] | Livro de Greg Stafford; fonte de Prince of Sartar; mitos e narrativas de Sartar; O Armamento de Orlanth, Jarosar, Leika | `livro` `Greg Stafford` `Sartar` `mitologia` | draft |
 | [[Dark Side of the Moon]] | Compilação de apócrifa Lunar herética; textos de Greg Stafford, Seleric Verses, write-ups alternativos das Sete Mães | `Jonstown` `Lunar` `apócrifa` `Sedenya` `Greg Stafford` | draft |
 | [[Cults of Glorantha]] | Slipcase set Chaosium 2022; 2 livros de cultos + Prosopaedia; organizado por panteões | `Chaosium` `suplemento` `cultos` `Prosopaedia` | draft |
+| [[Journal of Runic Studies 36]] | 36ª edição; Teia de Arachne Solara, Telmori Wolfbrothers, Sociedade Malkioni, Raça e Etnia, regras de heroquesting | `periódico` `malkioni` `Arachne Solara` `Telmori` `heroquesting` | draft |
 
 ---
 
@@ -321,6 +323,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Exército Sartarita]] | Milícias, thanes, sociedades guerreiras e mercenários de Sartar; transformação sob Argrath | `Sartar` `militar` `thanes` `Argrath` | draft |
 | [[Nômades Animais]] | Povos nômades das Terras Ermas que montam bestas exóticas; sociedade fundada por Waha | `nômades` `animais` `Prax` `Wastes` `xamanismo` `montaria` | draft |
 | [[Hyalorings]] | Cavaleiros descendentes dos Dara Happans que fugiram de Nivorah durante o Tempo dos Deuses; cultura jogável em Six Ages | `cultura` `Dara Happa` `Hyalor` `cavalos` `Nivorah` | draft |
+| [[Telmori]] | Wolfbrothers — lobisomens de Glorantha; transformam-se em lobos no Wildday mas mantêm controle e lealdade | `Telmori` `Wolfbrothers` `werewolves` `Wildday` `Sartar` `Boldhome` | draft |
 | [[Tusk Riders]] | Meio-trolls que montam javalis gigantes; sacrifícios a Gouger; caminhos secretos; capturados por Leika | `meio-trolls` `javalis` `Uz` `Gouger` `Colymar` | draft |
 | [[Império do Meio Mar]] | Maior nação de Glorantha; Jrustela + Seshnela (789); God Learners; Monomito; conquistou Ralios (740) | `Middle Sea Empire` `Jrustela` `Seshnela` `God Learners` `Malkioni` | draft |
 | [[Brithos]] | Ilha-mãe Malkioni; lar de Zzabur; desapareceu no Closing of the Seas | `Malkioni` `Zzabur` `ilha` `desaparecida` | draft |
@@ -353,5 +356,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-19 (Journal of Runic Studies #35)*
+*Última atualização: 2026-05-20 (Journal of Runic Studies #36)*
 

@@ -65,6 +65,22 @@ A maioria das pessoas — talares, soldados e trabalhadores — usa uma combina�
 ### O Caminho de Hrestol
 **Hrestol** rompeu com este sistema ao buscar ser **todas as quatro castas simultaneamente** — o primeiro **Men-of-All** (Homem-de-Tudo). Ele se tornou o melhor espadachim, aprendeu os segredos da terra dos agricultores, estudou o livro sagrado de Malkion (base do Código de Hrestol), domou o cavalo selvagem e aprendeu a lutar montado.
 
+### Suporte Social a Feiticeiros
+
+A sociedade Malkioni é logicamente organizada para melhor apoiar (e controlar) feiticeiros. Ser bom em feitiçaria requer intelecto e uma alma poderosa — e aprender feitiçaria leva muitos anos, até décadas, de treinamento. Isto significa que a vasta maioria de qualquer população humana não será boa especialista em feitiçaria.
+
+Em termos de regras de RuneQuest, é necessário INT acima da média (mínimo 13, mas pouco se faz sem INT muito maior).
+
+Cada feiticeiro precisa ser apoiado por:
+
+1. **Muitos trabalhadores** (principalmente agricultores, mas também artesãos, operários, etc.) — para gerar excedente de alimento suficiente para que o feiticeiro possa focar exclusivamente em seu ofício.
+2. **Guerreiros** — para defendê-los, pois são vulneráveis a ataques físicos e têm tendência a irritar pessoas, especialmente estrangeiros.
+3. **Líderes comunitários** — capazes de resolver disputas entre o feiticeiro e o resto da comunidade, e com estrangeiros.
+
+Este sistema se assemelha ao modelo de *Ars Magica*, onde magi são cercados por companions e grogs. Uma campanha de personagens Zzaburi poderia usar Ars Magica como modelo.
+
+> "Voila! The Malkioni system. Clearly every sorcerer agrees this is the best way to organize human society (and in their secret hearts, I am sure the Lhankor Mhy cult knows this!). The only question is where to get the workers, fighters, and community leaders – and how to make sure they keep supporting the sorcerer!" — Jeff Richard
+
 ## Referências Cruzadas
 - [[Malkion]]
 - [[Zzabur]]
