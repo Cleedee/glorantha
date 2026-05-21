@@ -63,6 +63,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[As Runas]] | Arquétipos cósmicos: Elementos (roda elemental), Poderes, Formas e Condições; inclui tabela de associações Runa por divindade | `Runas` `Elementos` `Poderes` `Formas` `Condições` `cosmologia` | draft |
 | [[Bebidas Alcoólicas de Glorantha]] | Catálogo de bebidas por região: Lunar, Dragon Pass, País Santo; associações com Ernalda, Hon-eel, Lodril, Lhankor Mhy | `álcool` `bebidas` `cerveja` `vinho` `Ernalda` `Hon-eel` | draft |
 | [[Vida Inconsciente e Espiritualidade]] | Framework de Jeff Richard para alocação percentual da vida inconsciente em propósitos espirituais | `espiritualidade` `cultos` `inconsciente` `iniciação` `Jeff Richard` | draft |
+| [[Títulos e Governantes Pelorianos]] | Sistema de títulos Dara Happan/New Pelorian: Imperador, Sátrapa, Sultão, Conde, Duque, etc. | `títulos` `governantes` `Dara Happa` `Império Lunar` `política` | draft |
 | [[Kóryos]] | Tradição indo-europeia de warbands iniciáticas (guerreiros-lobo/cão); modelo mitológico para os Filhos de Umath (Orlanth, Humakt, Touro da Tempestade) em Cults of Prax | `kóryos` `proto-indo-europeu` `warband` `iniciação` `guerreiros-lobo` `Cults of Prax` `Sons of Umath` | draft |
 | [[Iluminação]] | Transcendência espiritual; tensão exotérico vs esotérico; tema central de Glorantha; estrutura Lunar | `Nysalor` `Gbaji` `Lua` `Sevening` `Arkat` `exoterismo` `esoterismo` | draft |
 | [[Cultos e o Chaos]] | Lista de cultos amigáveis/neutros ao Chaos Primordial; sneak peek dos Cults books | `Chaos` `cultos` `Humakt` `Yelm` `Hon-eel` `Yara Aranis` | draft |
@@ -298,6 +299,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of Glorantha]] | Slipcase set Chaosium 2022; 2 livros de cultos + Prosopaedia; organizado por panteões | `Chaosium` `suplemento` `cultos` `Prosopaedia` | draft |
 | [[Journal of Runic Studies 36]] | 36ª edição; Teia de Arachne Solara, Telmori Wolfbrothers, Sociedade Malkioni, Raça e Etnia, regras de heroquesting | `periódico` `malkioni` `Arachne Solara` `Telmori` `heroquesting` | draft |
 | [[Journal of Runic Studies 37]] | 37ª edição; bebidas alcoólicas regionais, vida inconsciente e espiritualidade, fichas de heroquesting, templo de Issaries | `periódico` `malkioni` `álcool` `espiritualidade` `Issaries` | draft |
+| [[Journal of Runic Studies 38]] | 38ª edição; city wyters de Sartar, títulos pelorianos, geografia do Coração Lunar, Caos no Grande Compromisso, Arachne Solara | `periódico` `malkioni` `Grande Compromisso` `Arachne Solara` `títulos` | draft |
 
 ---
 
@@ -359,5 +361,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-21 (Journal of Runic Studies #37)*
+*Última atualização: 2026-05-21 (Journal of Runic Studies #38)*
 

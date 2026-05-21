@@ -58,6 +58,22 @@ A parábola da teia de Arachne Solara reflete a experiência dos jogadores:
 
 Cada experiência com este material é diferente — em um nível é o mesmo, mas em outro pode ser muito diferente. É por isso que quando Argrath convocou o Campeão de Pavis, uma dúzia de Mestres das Runas diferentes apareceu, cada um carregando o Machado de Balastar!
 
+### O Mito do Grande Compromisso: Aracne Contra o Caos
+
+A história completa, conforme contada pelos God Learners, dá a Arachne Solara o papel central no estabelecimento do Grande Compromisso:
+
+Aranha construiu uma grande teia mágica feita de muitas coisas não mais encontradas no mundo, e deu a teia a todos os deuses para segurarem entre si, para usar como rede. Quando o Caos entrou em seu reino, os deuses lançaram a rede sobre o Diabo e o seguraram firme. Enquanto as outras divindades distraíam o Diabo, Arachne Solara saltou sobre ele com vingança e força de desespero e esplendor místico. Ela envolveu o deus do Caos em suas muitas pernas e lutou poderosamente, e por fim **devorou a alma maligna**.
+
+Após isto, Arachne Solara provou ser capaz de se comunicar com a **Voz Sem Ser do Eter** (Beingless Voice of Eternity). Através dela, e com a Voz, os deuses fizeram pactos imutáveis e esculpiram-se em poderosos feitiços. Arachne Solara liderou uma grande dança, reconstruindo a matriz cósmica despedaçada, ligando todos os deuses sobreviventes em uma teia imutável de pactos e juramentos. Ela revelou seu **filho**, nascido depois que devorou o Diabo. A criança é o **Tempo**, o Penhor dos Deuses.
+
+Isto significa que o **Caos foi incluído nas tramas do universo intencionalmente** como parte do acordo.
+
+### A Deusa Vermelha e a Teia (Expansão)
+
+A Deusa Vermelha contactou Arachne Solara, **não foi destruída**, e ganhou um conhecimento ou bênção secreto dela. Isto é o que os Lunares querem dizer quando afirmam que a Deusa Vermelha a "superou" (overcame) — não a derrotou em combate. O encontro é um dos **Sete Passos da Deusa Vermelha** (Seven Steps).
+
+> "She Who Waits is not Arachne Solara, nor is the Red Goddess."
+
 ### Orlanth e a Teia
 
 Orlanth, rival da Deusa Vermelha, é definido pela **Runa da Maestria** (Mastery Rune). Mais do que qualquer outro deus em Glorantha, ele é o patrono de heróis e aventureiros. Enquanto a Deusa Vermelha tem uma forte conexão com a **Runa do Destino** (Fate Rune) através de Arachne Solara, Orlanth representa o forjar do próprio caminho.

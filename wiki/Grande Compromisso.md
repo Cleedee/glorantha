@@ -33,6 +33,24 @@ A maioria das divindades tratou as regras mais como "diretrizes do que regras re
 
 A [[Deusa Vermelha]] é a violação mais notória: ela apareceu durante o Tempo, abraça o [[Caos]], e sua própria existência viola o Compromisso Cósmico. Muitos dos Deuses Antigos recusaram-se a reconhecê-la por causa disso — sua vitória no [[Castle Blue]] forçou-os a reconhecer seu poder.
 
+### O Papel de Arachne Solara
+
+A história do Grande Compromisso conforme contada pelos God Learners dá a Arachne Solara um papel central:
+
+> "The Spider Woman constructed a great and magical web made of many things no longer found in the world, and then she gave the web to all the gods to hold ready between them, to use as a net. When Chaos entered their realm, the gods cast the net upon the Devil and held him tight. While the other deities had distracted the Devil, Arachne Solara leapt upon him with vengeance and a strength of desperation and mystical splendor. She enwrapped the Chaos god in her many legs and struggled mightily, and at last devoured the evil soul."
+
+Após a teia prender o Caos, Arachne Solara provou ser capaz de se comunicar com a **Voz Sem Ser do Eter** (Beingless Voice of Eternity). Através dela, os deuses fizeram pactos imutáveis e esculpiram-se em poderosos feitiços. Arachne Solara liderou uma grande dança, reconstruindo a matriz cósmica despedaçada, ligando todos os deuses sobreviventes em uma teia imutável de pactos e juramentos, vínculos e relações, conjurações e criações.
+
+Os deuses juraram-se em um **Grande Compromisso com o Caos**, onde o Mundo Antigo e o Novo Mundo (da Morte e do Caos) coexistiriam, alternando suas forças e poderes ao longo das miríades de tramas dentro da matriz do universo. Ela revelou seu filho, nascido depois que ela devorou o Diabo. A criança é o **Tempo**, o Penhor dos Deuses, e toda existência jurou por ele para manter seus acordos.
+
+Isto significa que o **Caos foi incluído nas tramas do universo intencionalmente**. Este é o conflito central sobre o Império Lunar — sua relação com o Caos, e se isto é progresso ou mentira destrutiva. A resposta, nas palavras de Jeff Richard, é **ambos**.
+
+### A Deusa Vermelha e o Compromisso
+
+A Deusa Vermelha contactou Arachne Solara, **não foi destruída**, e ganhou um conhecimento ou bênção secreto dela. Isto é o que os Lunares querem dizer quando afirmam que a Deusa Vermelha a "superou" (overcame). Ela não derrotou Arachne Solara em combate — sobreviveu ao encontro e obteve um boon.
+
+O encontro da Deusa Vermelha com Arachne Solara no submundo é um dos mais antigos e conhecidos **Sete Passos da Deusa Vermelha** (Seven Steps of the Red Goddess), documentados no Well of Daliath e no Prince of Sartar webcomic.
+
 ## Referências Cruzadas
 - [[Guerra dos Deuses]]
 - [[Deusa Vermelha]]
