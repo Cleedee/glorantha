@@ -2,8 +2,11 @@
 title: "Sistemas de Magia em RuneQuest"
 category: "Magia"
 tags: [RuneQuest, Battle Magic, Rune Magic, feitiçaria, sorcery, mitologia, sistemas mágicos, alquimia, RQ3]
-sources: ["https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
-last_updated: 2026-05-16
+sources:
+  - "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html"
+  - "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"
+  - "https://godlearners.com/journal-of-runic-studies-41/"
+last_updated: 2026-05-22
 status: draft
 ---
 
@@ -54,6 +57,37 @@ Os três sistemas não são apenas mecânicas de jogo — representam camadas mi
 - Feitiçaria: mitologia ocidental moderna (pós-Iluminismo)
 
 Para detalhes sobre a evolução da feitiçaria em RQG, ver [[sorcery-in-rq-part-three]].
+
+### Os Três Tipos de Magia (Jeff Richard)
+
+Jeff Richard oferece uma explicação integrada dos três sistemas:
+
+#### Rune Magic (Magia Rúnica)
+A mais antiga. Mortais empunham o poder dos deuses através de um **vínculo** entre deus e mortal, onde o mortal pode acessar o poder do Tempo Deus do deus. Inicialmente era fácil — Orlanth era seu bisavô e podia ensiná-lo. Mas com a Grande Escuridão e o advento do Tempo, o vínculo passou a exigir **iniciação nos segredos do deus**, transmitida por outros iniciados. Requer **sacrifício** (pontos de magia, comida, tesouros) e especialistas sustentados pela comunidade. Cultos rúnicos exigem excedente comunitário, e portanto tendem a surgir em **sociedades agrárias ou pastoris assentadas**.
+
+#### Spirit Magic (Magia Espiritual)
+Inevitável num mundo onde espíritos estão em toda parte. Embora a maioria dos xamãs seja treinada por mestres, alguns são auto-iniciados. É a **magia de todos** — a mais fácil de acessar. Mas é, em última análise, menos poderosa que a Rune Magic.
+
+Jeff descreve o funcionamento interno: feitiços de Spirit Magic envolvem **fundir espíritos em si mesmo** — espíritos extremamente básicos que servem uma única função (Bladesharp, Heal). Você "veste" esses espíritos como um cinto com ferramentas. É por isso que **CHA** é o fator limitante: você precisa que suas ferramentas gostem de você o suficiente para ficar.
+
+> "Há inúmeros espíritos além dos descritos no Bestiário. Espíritos estão em TODA PARTE em Glorantha. Cada pedra, cada folha, cada planta, cada inseto tem espírito e potencialmente 'pessoalidade'."
+
+Diferente da Rune Magic, a Spirit Magic não exige grande infraestrutura social ou econômica — bandos de caçadores-coletores podem ter acesso extenso a ela.
+
+#### Sorcery (Feitiçaria)
+Intelectual e racional — uma **abordagem materialista** para comandar a magia através da vontade mortal. Pode ser tão poderosa quanto a Rune Magic, embora não tão fácil ou rápida de conjurar — compensa com seu **alcance de possibilidades**.
+
+É mais "cara" que a Rune Magic, exigindo muitos anos de estudo especializado. Sociedades baseadas em feitiçaria são construídas em torno do desenvolvimento e suporte de especialistas. **Alfabetização ou vidas muito longas** são necessárias para formar novos especialistas. Quase todas as sociedades de feitiçaria são **assentadas, letradas e urbanas**.
+
+#### Incompatibilidade entre Spirit Magic e Sorcery
+A abordagem mental envolvida na Spirit Magic é **antitética** à vontade de poder materialista da feitiçaria:
+
+> "Feiticeiros tendem a evitar Spirit Magic e tratá-la como abaixo de sua consideração."
+
+#### Riscos Pessoais
+- **Spirit Magic:** menor risco pessoal. Espíritos raramente pedem muito além de respeito e mana suficiente.
+- **Rune Magic:** permite usar o poder de um deus — e aí está o perigo. O iniciado torna-se **agente do deus no Tempo**, continuando os conflitos da Guerra dos Deuses. Os deuses fazem exigências que podem restringir ações e compelir comportamento.
+- **Sorcery:** perigo oposto. Feiticeiros estão sujeitos apenas à **própria vontade e imaginação**. Suas escolas podem ensinar o contrário, mas os God Learners mostraram os perigos da **hubris feiticeira**.
 
 ## Referências Cruzadas
 - [[sorcery-in-rq-part-three]]

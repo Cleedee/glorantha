@@ -94,6 +94,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Diros]] | Deus dos Barcos, originado no Império do Meio Mar (God Learners); sobrevive em cidades portuárias | `deus` `barcos` `navegação` `Middle Sea Empire` `God Learners` | draft |
 | [[Lanbril]] | Deus dos Ladrões Heortling; crime profissional organizado; distinto de Eurmal | `deus` `ladrões` `Heortling` `crime` `Orlanthi` | draft |
 | [[Arachne Solara]] | Mãe do Tempo; sua Teia de fios de mitos é a base do heroquesting e do Grande Compromisso | `Arachne Solara` `World Spider` `heroquesting` `Great Compromise` `Teia` | draft |
+| [[Ernaldela]] | Reino mítico das Deusas da Terra no Plano Heroico, situado atrás de Esrolia; acessível pelo Proximate Holy Realm | `Ernaldela` `Ernalda` `Esrolia` `Plano Heroico` `Terra` | draft |
+| [[Heróis da Era de Prata]] | Figuras míticas da transição Grande Escuridão→Alvorecer: Merngala, Heort, Vogarth, Kalops, Tessele, Aram ya-Udram, Panaxles, Sestarto | `Silver Age` `heróis` `Esrolia` `Merngala` `Heort` `Vogarth` | draft |
 | [[Arte Gloranthana]] | História da arte em Glorantha: estilos Theyalano, Dara Happano, Esroliano, Lunar, Carmaniano, Sartarita; renascença de Belintar; aplicação em storytelling ambiental | `arte` `história da arte` `Theyalan` `Dara Happan` `Esrolian` `Lunar` `EWF` `Belintar` | draft |
 | [[Tatius the Bright]] | General do Exército Provincial Lunar durante a Windstop; esperava colapso do culto de Orlanth | `Tatius` `Lunar` `General` `Windstop` `Províncias Lunares` | draft |
 | [[Rei Broyan]] | Herói Orlanthi que reverteu a Windstop junto com Kallyr; participante do Torneio dos Mestres | `Broyan` `Whitewall` `heroquest` `Windstop` `Orlanthi` | draft |
@@ -315,6 +317,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 38]] | 38ª edição; city wyters de Sartar, títulos pelorianos, geografia do Coração Lunar, Caos no Grande Compromisso, Arachne Solara | `periódico` `malkioni` `Grande Compromisso` `Arachne Solara` `títulos` | draft |
 | [[Journal of Runic Studies 39]] | 39ª edição; Hsunchen/Uncolings, Kallyr's LBQ rota e GM options, repopulação de Dragon Pass, Runegate, heroquesting Cat 1/2 | `periódico` `malkioni` `Hsunchen` `Kallyr` `heroquesting` `Dragon Pass` | draft |
 | [[Journal of Runic Studies 40]] | 40ª edição; Windstop, Arte Gloranthana (5 partes), Grazelanders duopolio, recomendações heroquesting | `periódico` `malkioni` `Windstop` `Arte Gloranthana` `Grazelanders` `heroquesting` | draft |
+| [[Journal of Runic Studies 41]] | 41ª edição; Pavis sob Argrath, Dendara/Goddess Switch, 3 tipos de magia, Esrolia 4-part series, Silver Age heroes, Shadowlands | `periódico` `malkioni` `Pavis` `Esrolia` `Dendara` `magia` `Silver Age` | draft |
 | [[QAD Pimper's Block]] | Coleção massiva de 2000 páginas com 520 NPCs detalhados e 2600 de esquadrão para RQG, cobrindo 10 culturas; por QAD (Drew Baker) no Jonstown Compendium | `Jonstown Compendium` `NPC` `personagens` `RuneQuest` `QAD` `Drew Baker` | draft |
 
 ---
@@ -377,5 +380,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-22 (Journal of Runic Studies #40 — Arte Gloranthana, Windstop, Tatius, Rei Broyan, Grazelands)*
+*Última atualização: 2026-05-22 (Journal of Runic Studies #41 — Esrolia, Pavis, Dendara, Silver Age Heroes, Ernaldela, Magia)*
 
