@@ -94,6 +94,18 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Diros]] | Deus dos Barcos, originado no Império do Meio Mar (God Learners); sobrevive em cidades portuárias | `deus` `barcos` `navegação` `Middle Sea Empire` `God Learners` | draft |
 | [[Lanbril]] | Deus dos Ladrões Heortling; crime profissional organizado; distinto de Eurmal | `deus` `ladrões` `Heortling` `crime` `Orlanthi` | draft |
 | [[Arachne Solara]] | Mãe do Tempo; sua Teia de fios de mitos é a base do heroquesting e do Grande Compromisso | `Arachne Solara` `World Spider` `heroquesting` `Great Compromise` `Teia` | draft |
+| [[Arte Gloranthana]] | História da arte em Glorantha: estilos Theyalano, Dara Happano, Esroliano, Lunar, Carmaniano, Sartarita; renascença de Belintar; aplicação em storytelling ambiental | `arte` `história da arte` `Theyalan` `Dara Happan` `Esrolian` `Lunar` `EWF` `Belintar` | draft |
+| [[Tatius the Bright]] | General do Exército Provincial Lunar durante a Windstop; esperava colapso do culto de Orlanth | `Tatius` `Lunar` `General` `Windstop` `Províncias Lunares` | draft |
+| [[Rei Broyan]] | Herói Orlanthi que reverteu a Windstop junto com Kallyr; participante do Torneio dos Mestres | `Broyan` `Whitewall` `heroquest` `Windstop` `Orlanthi` | draft |
+ 
+---
+
+## Evento
+> Batalhas, grandes sessões, heroquestes, marcos temporais
+
+| Página | Resumo | Tags | Status |
+|--------|--------|------|--------|
+| [[Windstop]] | Ano de 1621-1622 em que Orlanth e Ernalda estiveram mortos em Dragon Pass por heroquest lunar; cultos associados preencheram o vácuo; revertido por Kallyr e Broyan | `Windstop` `Orlanth` `Ernalda` `Whitewall` `Império Lunar` `Tatius` `heroquesting` | draft |
 
 ---
 
@@ -364,5 +376,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-22 (QAD Pimper's Block)*
+*Última atualização: 2026-05-22 (Journal of Runic Studies #40 — Arte Gloranthana, Windstop, Tatius, Rei Broyan, Grazelands)*
 
