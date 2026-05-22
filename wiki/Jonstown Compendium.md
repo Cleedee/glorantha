@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-80/"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-80/", "https://andrewloganmontgomery.blogspot.com/2021/08/qad-pimpers-block-complete-collection.html"]
 last_updated: 2026-05-13
 status: draft
 ---
@@ -29,8 +29,8 @@ Em 2021, dois produtos do Jonstown Compendium foram nomeados na categoria "Commu
 ### Armies and Enemies of Dragon Pass
 **Martin Helsdon**, autor da referência militar *The Armies and Enemies of Dragon Pass*, anunciou progresso em uma versão Print-on-Demand — 50 páginas da formatação estavam pendentes.
 
-### QAD: Pimper's Block
-**Drew Baker** compilou toda a série "Quick and Dirty" em um gigantesco PDF de **2000 páginas**. Inclui personagens detalhados, esquadrões de NPCs "mook", e notas sobre ocupações e culturas para todas as terras natais do RuneQuest rulebook.
+### [[QAD Pimper's Block]]
+**Drew Baker** compilou toda a série "Quick and Dirty" em um gigantesco PDF de **2000 páginas** (10 volumes). Inclui 520 personagens detalhados, 2600 NPCs de esquadrão, e notas sobre ocupações e culturas para todas as terras natais do RQG. [Resenha de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/2021/08/qad-pimpers-block-complete-collection.html).
 
 ### Desire for Knowledge
 Aventura de **Niall Sullivan** em [[Jonstown]], ideal para quem terminou o Starter Set. Um sábio na Biblioteca de Jonstown contrata os PJs para recuperar um pergaminho perigoso em uma casa assombrada, antigamente pertencente a um oficial do Império Lunar.

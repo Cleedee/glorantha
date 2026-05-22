@@ -302,6 +302,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 37]] | 37ª edição; bebidas alcoólicas regionais, vida inconsciente e espiritualidade, fichas de heroquesting, templo de Issaries | `periódico` `malkioni` `álcool` `espiritualidade` `Issaries` | draft |
 | [[Journal of Runic Studies 38]] | 38ª edição; city wyters de Sartar, títulos pelorianos, geografia do Coração Lunar, Caos no Grande Compromisso, Arachne Solara | `periódico` `malkioni` `Grande Compromisso` `Arachne Solara` `títulos` | draft |
 | [[Journal of Runic Studies 39]] | 39ª edição; Hsunchen/Uncolings, Kallyr's LBQ rota e GM options, repopulação de Dragon Pass, Runegate, heroquesting Cat 1/2 | `periódico` `malkioni` `Hsunchen` `Kallyr` `heroquesting` `Dragon Pass` | draft |
+| [[QAD Pimper's Block]] | Coleção massiva de 2000 páginas com 520 NPCs detalhados e 2600 de esquadrão para RQG, cobrindo 10 culturas; por QAD (Drew Baker) no Jonstown Compendium | `Jonstown Compendium` `NPC` `personagens` `RuneQuest` `QAD` `Drew Baker` | draft |
 
 ---
 
@@ -363,5 +364,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-21 (Journal of Runic Studies #39)*
+*Última atualização: 2026-05-22 (QAD Pimper's Block)*
 
