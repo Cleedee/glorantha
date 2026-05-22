@@ -8,7 +8,9 @@ sources:
   - https://godlearners.com/journal-of-runic-studies-12/
   - https://godlearners.com/journal-of-runic-studies-23/
   - https://godlearners.com/journal-of-runic-studies-27/
-last_updated: 2026-05-16
+  - https://godlearners.com/journal-of-runic-studies-31/
+  - https://godlearners.com/journal-of-runic-studies-39/
+last_updated: 2026-05-21
 status: draft
 aliases:
   - "Kallyr Starbrow"
@@ -57,6 +59,22 @@ Qualquer mestre de um dos sete cultos dos Portadores da Luz deve responder à co
 > *I hear and stand before you,*  
 > *But I am only one.*  
 > *What would you have of me?*
+
+#### A Rota da Lightbringers Quest
+
+A Lightbringers Quest de Kallyr começa na **Colina de Orlanth Vitorioso** (Hill of Orlanth Victorious) e viaja **widdershins** (sentido anti-horário) ao redor das Montanhas Quivin, seguindo tanto o Plano Heroico quanto o Mundo Mundano, até chegar em **Boldhome** para a culminação da cerimônia. O caminho forma uma **Runa do Ar** sobre Sartar.
+
+A quest ocorre durante o **Tempo Sagrado** (Sacred Time), um período em que o mundo mundano e o Plano Heroico estão em proximidade. A massiva liberação de energia mágica faz com que o **Reino Proximado** (Proximate Realm) se sobreponha ao mundo mortal. Muitas pessoas se veem interagindo com o Plano Heroico — o mais seguro é permanecer em lugares magicamente protegidos (templos, lares, lareiras, chão sagrado) e fazer cuidadosamente as cerimônias tradicionais do Tempo Sagrado, enquanto Kallyr e seus companheiros deslizam pelos fios da mitologia.
+
+**Jar-eel**, sendo uma viajante habilidosa da teia de Arachne Solara, é capaz de navegar até o clímax da cerimônia de Kallyr com efeito terrível.
+
+#### Opções para o Mestre (GM)
+
+Jeff Richard recomenda três abordagens para envolver os jogadores:
+
+1. **Ajudantes de Kallyr** — interessante mas perigoso; os jogadores atuam como coadjuvantes.
+2. **Adversários de Kallyr** — muitas tribos querem testar Kallyr. Os Colymar em particular a colocam à prova. Podem tirar um poder dela ou acabar devendo uma dívida mágica.
+3. **Participantes que exploram** — recomendado. Os jogadores participam do ritual e exploram o reino mítico FORA da história principal. Podem encontrar Uleria/Tarndisi, Redeye ou o Cão devorador da Luz, vaguear pelo Gap e encontrar-se no Abismo das Almas Perdidas.
 
 #### A Estratégia de Kallyr
 Kallyr tomou medidas para limitar os perigos: truncou a quest usando **substitutos (stand-ins)** para as partes mais perigosas — não foi à Costa Ocidental (pessoas a carregariam em conchas), mal entrou no Submundo (mantendo o caminho para o que conhecia). O ritual culminaria no Palácio Real de Boldhome com uma estátua poluída representando Wakboth, destruída ritualmente pelos participantes.

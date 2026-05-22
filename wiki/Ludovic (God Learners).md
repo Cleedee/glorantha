@@ -2,7 +2,7 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-36/", "https://godlearners.com/journal-of-runic-studies-37/", "https://godlearners.com/journal-of-runic-studies-38/"]
+sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-36/", "https://godlearners.com/journal-of-runic-studies-37/", "https://godlearners.com/journal-of-runic-studies-38/", "https://godlearners.com/journal-of-runic-studies-39/"]
 last_updated: 2026-05-13
 status: draft
 ---

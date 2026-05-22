@@ -20,8 +20,13 @@ Planícies, colinas e montanhas que abrigam múltiplos reinos: [[Sartar]], [[Esr
 Único corredor entre o [[Império Lunar]] ao norte e as terras livres ao sul. Rico em **[[Lugares Sagrados de Dragon Pass]]** — sítios de poder onde a fronteira do Tempo dos Deuses é permeável, ideais para [[heroquesting]].
 
 ### Eventos Históricos
-- **1120:** [[Dragonkill War]] — dragões massacraram exércitos humanos
-- **1492:** Fundação de [[Sartar]]
+- **1120:** [[Dragonkill War]] — dragões massacraram exércitos humanos; segue-se a Ocupação Inumana (beastfolk, Aldryami, Uz dominam a região)
+- **~1250:** Humanos retornam a Dragon Pass — remanescentes dos Pure Horse People de Prax
+- **~1300:** Primeiros Orlanthi do [[País Santo]] começam a se estabelecer no sul de Dragon Pass; os **Colymar** são o primeiro grupo, ao redor de Clearwine
+- **~1330:** Primeiros Orlanthi de [[Pelória]] no norte de Dragon Pass (trickle inicial); torna-se enchente após as **Campanhas da Filha** (Daughter's Campaigns) em Saird, que levam Arim o Mendigo a fundar o Reino de [[Tarsh]]
+- **~1400:** Orlanthi superam numericamente os Pure Horse People, confinados ao sudoeste; ascensão da [[Feathered Horse Queen]] forma os **Grazelanders/Pony Breeders**
+- **1470:** [[Sartar]] chega a Dragon Pass e transforma as tribos ao redor das Montanhas Quivin em um reino, com cidades, estradas e mercados
+- **1490:** [[Hon-eel]] chega; os Lunares tornam-se uma facção no norte
 - **1602:** Conquista Lunar de Boldhome
 - **1625:** [[Dragonrise]] — um Dragão Verdadeiro destruiu o Templo da Lua Crescente
 

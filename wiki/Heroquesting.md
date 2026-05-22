@@ -199,6 +199,25 @@ Os **Mapas da Era Mítica** do *Guide to Glorantha* são úteis aqui — provave
 #### Criação de Novos Mitos
 GMs **podem e devem criar seus próprios eventos míticos** que se encaixem nos temas e arquétipos de Glorantha. Não é necessário conhecimento aprofundado do material da Chaosium.
 
+### Os Dois Tipos de Heroquesting nas Hero Wars
+
+Jeff Richard distingue dois tipos principais de heroquesting praticados durante as Hero Wars:
+
+#### Categoria 1: O Que Sempre Fizemos
+Seguimos o caminho estabelecido e não saímos dele. Há forte pressão social e dos cultos para que todos ajam assim — Orlanthi, Lunares, Praxianos, Malkioni, todos. Os boons desta categoria reforçam o que já se conhece — magia e habilidades existentes do culto. É possível obter poderes e maldições como os de Hofstaring Treeleaper ou Vamastal Greyskin.
+
+#### Categoria 2: Mergulho Profundo
+Para os desesperados, perdidos, loucos e aspirantes a deuses — em outras palavras, para os heróis. Há forte pressão social e dos cultos contra isto, pois mesmo se bem-sucedido, o que se experiencia pode mudar tudo dramaticamente.
+
+Até recentemente, a porta para a categoria 2 estava geralmente fechada. Figuras como a Deusa Vermelha, Imperador Vermelho, Belintar, Hwarin Dalthippa, Hon-eel, Feathered Horse Queen, Sir Ethilrist e Sartar a atravessaram — mas raramente mais de um ou dois por geração.
+
+As **Hero Wars** são aterrorizantes porque abrem a porta para a categoria 2. Argrath e o Imperador Vermelho encorajam isto. Dezenas de pessoas fazem mergulhos profundos — incluindo personagens dos jogadores. Heróis como Jar-eel e Harrek foram tão fundo que estão reescrevendo os fios da teia.
+
+> "What I see raised so often in discussions – 'oh how do I fix some aspect of my cult that I don't like' – occurs so rarely as to be a statistical blip. Heroquests change cults, but almost never because someone sets out to do that. Instead, cults change because heroquesters are directly interacting with the mythic realm and have different experiences than the received lore."
+
+#### Boons e Experiências
+- Categoria 2 não são planejados — são o resultado do mergulho no desconhecido. Alakoring estava desesperado em sua guerra contra o EWF e viajou caminhos previamente desconhecidos que o levaram a lutar contra Dragões e vencer. No processo tornou-se Rex divino, mudou o culto de Orlanth e ganhou poderes terríveis contra os dragões.
+
 ## Referências Cruzadas
 - [[RuneQuest]]
 - [[QuestWorlds]]
