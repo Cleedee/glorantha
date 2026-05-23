@@ -2,7 +2,7 @@
 title: "Império Lunar"
 category: "Cultura"
 tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-32/", "https://godlearners.com/runic-rants-a-history-of-the-glowline/"]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-32/", "https://godlearners.com/runic-rants-a-history-of-the-glowline/", "https://godlearners.com/journal-of-runic-studies-42/"]
 last_updated: 2026-05-17
 status: draft
 ---
@@ -126,7 +126,32 @@ Maiores cultos: Ernalda 9.700 (incluindo 4.375 iniciados da Grain Goddess), Yelm
 Em comunidades onde o deus é central (Orlanth em clã Orlanthi, Pavis na Real City), a maioria dos membros são iniciados. Em outras (Pavis em New Pavis), a maioria é leiga.
 
 ### O Imperador Vermelho e a Reivindicação Universal
-O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele é o chefe de todos os lugares que a luz da Lua Vermelha toca, e isso é o mundo inteiro. No entanto, o Imperador Vermelho não está necessariamente atrás de governar o mundo inteiro. Ele aceita que bárbaros distantes **submetam-se a ele** ou **sejam seus aliados**. O que importa é que reconheçam sua posição como o **pilar único de legitimidade** no mundo.
+O Imperador Vermelho reivindica governo universal baseado em três pilares:
+1. **Ser encarregado dos assuntos de sua Mãe Divina** (a [[Deusa Vermelha]]) no Mundo Temporal
+2. **Ser o deputado de [[Yelm]]** no Mundo Mundano
+3. **Ser um deus por direito próprio**
+
+Ele é encarregado de prover paz e ordem ao mundo inteiro. Isto não significa que precise governar o mundo — aceita clientes e aliados, e permite que se governem. Mas estes precisam reconhecer seu status supremo. Estados independentes fora deste sistema são fundamentalmente ilegítimos — rebeldes contra a ordem divina. Sartar, o [[País Santo]], os Voor-ash, as tribos Praxianas, Loskalm — todos são iguais.
+
+**Relação com Raças Anciãs:**
+- **Trolls**: o Imperador geralmente tem uma atitude de "viver e deixar viver" — concedeu status de Aliado aos trolls do [[Shadow Plateau]] e aos Yolp Mountain Trolls
+- **Anões**: mesma abordagem com os anões de Jord e das Brass Mountains
+- **Elfos**: o Imperador frequentemente fala de amizade, mas é geralmente ignorado por eles
+- **Ralzakark**: tratado como um par — alguns anti-Lunares sugerem laços de parentesco
+
+O Imperador Vermelho **"não reconhece a existência de outros pares"** — ele é o chefe de todos os lugares que a luz da Lua Vermelha toca, e isso é o mundo inteiro. No entanto, ele não está necessariamente atrás de governar o mundo inteiro. Aceita que bárbaros distantes **submetam-se a ele** ou **sejam seus aliados**. O que importa é que reconheçam sua posição como o **pilar único de legitimidade** no mundo.
+
+Importante: o Império Lunar **não tem fronteiras ou limites fixos** — exceto a própria [[Glowline]].
+
+### O Movimento White Moon
+Ver página dedicada: [[White Moon]]
+
+O [[White Moon]] (Lua Branca) é um movimento herético dentro das [[Sete Mães]] que acredita que a [[Deusa Vermelha]] nunca pretendeu estabelecer um Império permanente — apenas espalhar seu Caminho como filosofia. É considerado uma heresia política, não teológica, pois desafia a autoridade do [[Imperador Vermelho]]. O movimento foi suprimido por [[Jar-Eel]] através de debates e, finalmente, por violência do Imperador Vermelho, resultando em uma rebelião que paralisou o Império durante a crise de 1625.
+
+### A Ameaça Voor-ash e Dranz Goloi
+Ver páginas dedicadas: [[Dranz Goloi]], [[Voor-Ash]]
+
+Enquanto as publicações focam no conflito com [[Sartar]], o [[Imperador Vermelho]] considera a ameça de [[Dranz Goloi]] e seus [[Voor-Ash]] — nômades Pent que canalizam o legado de [[Sheng Seleris]] — muito mais grave. Em 1625, após o Dragonrise e a Batalha de Diavizzi Ford, o Imperador foi forçado a despojar as guarnições das Províncias Lunares para defender First Blessed. Isto deixou Dragon Pass vulnerável e permitiu o avanço de [[Argrath]].
 
 ### Demografia das Províncias Lunares
 
@@ -245,5 +270,5 @@ Sistema complexo e hierárquico:
 
 ## Questões em Aberto
 - [ ] Detalhar as relações entre as Máscaras do Imperador Vermelho.
-- [ ] Investigar o Movimento da Lua Branca.
 - [ ] Mapear as facções políticas Dara Happanas no final da 3ª Era.
+- [ ] O que aconteceu ao White Moon após a supressão de 1625?

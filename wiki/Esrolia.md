@@ -5,6 +5,7 @@ tags: [Esrolia, Kethaela, Nochet, matriarcado, Ernalda, Terra, Wolf Pirates, Har
 sources:
   - "https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities"
   - "https://godlearners.com/journal-of-runic-studies-41/"
+  - "https://godlearners.com/journal-of-runic-studies-42/"
 last_updated: 2026-05-22
 status: draft
 ---
@@ -44,6 +45,14 @@ A Rainha **Bruvala** (que reinou até ~1510) casou-se com 15 homens, teve 23 fil
 
 ### Religião
 Esrolia é o centro do culto à Terra. [[Ernalda]] é a divindade principal, e seu culto é onipresente.
+
+### Nochet — A Grande Cidade
+Ver página dedicada: [[Nochet]]
+
+A capital [[Nochet]] é a maior cidade de Glorantha (~600 hectares, comparável a Roma antiga). Abriga dezenas de milhares de iniciados de diversos cultos — 15k de Ernalda, 10k de Orlanth, 5.5k de Issaries, entre outros. Quase todo o comércio oceânico para [[Dragon Pass]] e [[Pelória]] passa por Nochet ou [[Karse]]. Muitos sartaritas têm fortes laços com a cidade através de comércio, cultura e religião.
+
+### Conexões Sartaritas
+Muitos membros da dinastia real de [[Sartar]] viveram em Nochet. [[Argrath]] passou várias temporadas na cidade. [[Vasana]] e [[Yanioth]] lutaram por Nochet contra o [[Império Lunar]]. [[Gorangian Bronzeguts]], Bibliotecário-Chefe de [[Jonstown]], e [[Sorala]] são naturais de Nochet.
 
 ## Referências Cruzadas
 - [[Nochet]]
