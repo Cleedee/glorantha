@@ -327,6 +327,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 40]] | 40ª edição; Windstop, Arte Gloranthana (5 partes), Grazelanders duopolio, recomendações heroquesting | `periódico` `malkioni` `Windstop` `Arte Gloranthana` `Grazelanders` `heroquesting` | draft |
 | [[Journal of Runic Studies 41]] | 41ª edição; Pavis sob Argrath, Dendara/Goddess Switch, 3 tipos de magia, Esrolia 4-part series, Silver Age heroes, Shadowlands | `periódico` `malkioni` `Pavis` `Esrolia` `Dendara` `magia` `Silver Age` | draft |
 | [[Journal of Runic Studies 42]] | 42ª edição; supressão Orlanth, Nochet, Shadow Plateau, Krarsht, Ty Kora Tek, heresia, White Moon, Dranz Goloi | `periódico` `malkioni` `Nochet` `Shadow Plateau` `Krarsht` `White Moon` `Dranz Goloi` | draft |
+| [[Journal of Runic Studies 43]] | 43ª edição; ChaosiumCon, Mad Knight miniatures, Greg Stafford 1994 article, Wheel of the Year | `periódico` `malkioni` `ChaosiumCon` `miniaturas` `Greg Stafford` `Wheel of the Year` | draft |
 | [[QAD Pimper's Block]] | Coleção massiva de 2000 páginas com 520 NPCs detalhados e 2600 de esquadrão para RQG, cobrindo 10 culturas; por QAD (Drew Baker) no Jonstown Compendium | `Jonstown Compendium` `NPC` `personagens` `RuneQuest` `QAD` `Drew Baker` | draft |
 
 ---
@@ -390,5 +391,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-22 (Journal of Runic Studies #42 — Nochet, Shadow Plateau, Krarsht, Ty Kora Tek, White Moon, Dranz Goloi)*
+*Última atualização: 2026-05-22 (Journal of Runic Studies #42 e #43)*
 
