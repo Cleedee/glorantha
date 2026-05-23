@@ -15,15 +15,15 @@ status: draft
 ## Conteúdo
 
 ### Destaques
-- **Supressão do culto de Orlanth**: Sor-eel the Short, Halcyon var Enkorth, Gim Gim the Grim e Moon Masks em Pavis (1621-1624)
-- **Nochet**: Demografia detalhada de cultos, comparação com Roma/Veneza
-- **Shadow Plateau**: População troll (41k), cultos, Mistress Race
-- **Krarsht**: Redesign do culto nos novos Cults books
-- **Ty Kora Tek**: Dia dos Mortos, procissão da Necrópole
-- **Heresia**: White Moon movement, diferença heresia/apostasia/blasfêmia
-- **Dranz Goloi**: Voor-ash Khan, Batalha de Diavizzi Ford (1625)
-- **Amizade e troca de presentes**: Costumes Orlanthi
-- **Sandy Petersen**: Colaboração com Greg Stafford sobre Glorantha
+- **Supressão do culto de Orlanth**: Sor-eel the Short, Halcyon var Enkorth, [[Gimgim the Grim]] e Moon Masks em [[Pavis]] (1621-1624)
+- **[[Nochet]]**: Demografia detalhada de cultos, comparação com Roma/Veneza
+- **[[Shadow Plateau]]**: População troll (41k), cultos, Mistress Race
+- **[[Krarsht]]**: Redesign do culto nos novos Cults books
+- **[[Ty Kora Tek]]**: Dia dos Mortos, procissão da Necrópole
+- **Heresia**: [[White Moon]] movement, diferença heresia/apostasia/blasfêmia
+- **[[Dranz Goloi]]**: Voor-ash Khan, Batalha de Diavizzi Ford (1625)
+- **Amizade e troca de presentes**: Costumes [[Orlanth|Orlanthi]]
+- **[[Sandy Petersen]]**: Colaboração com [[Greg Stafford]] sobre Glorantha
 
 ## Referências
 - Fonte original: [Journal of Runic Studies #42](https://godlearners.com/journal-of-runic-studies-42/)
