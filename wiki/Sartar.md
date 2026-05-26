@@ -2,9 +2,10 @@
 title: "Sartar"
 category: "Localização"
 tags: [Sartar, reino, Dragon Pass, Orlanthi, Boldhome, Kallyr, Argrath, herois]
-last_updated: 2026-05-16
+last_updated: 2026-05-22
 status: draft
 aliases: [Reino de Sartar, Sartaritas]
+sources: ["https://godlearners.com/journal-of-runic-studies-42/"]
 ---
 
 # Sartar
@@ -33,6 +34,11 @@ Estrutura de clãs orlanthis com [[Orlanth]] (Trovejante 50%, Aventureiro 20%, R
 - [[Leika Blacksper]] — Rex dos Colymar
 - [[Sartar]] (herói fundador)
 - [[Hofstaring Treeleaper]] — herói dos Culbrea
+
+### Príncipe como Patrono das Artes
+O Príncipe de Sartar não é apenas um líder militar e político, mas também um patrono das artes e letras — um juiz de qualidade e mérito. Sua aprovação contribui para a aceitação de novas ideias e formas de arte. O fundador Sartar foi amigo do artista e arquiteto **Wilms**, e famoso patrono do culto de [[Lhankor Mhy]], fundando bibliotecas em todas as suas cidades. Todos os Príncipes eram letrados, e vários escreveram obras. [[Kallyr Testa-Estrelada]] e [[Argrath]] são descritos como receptivos a estudiosos e artistas em busca de patronato.
+
+Isto não é exclusivo de Sartar — [[Belintar]], Moirades, e [[Fazzur Wideread]] também eram famosos por seu patronato das artes, e o [[Imperador Vermelho]] frequentemente alega ser um estudioso de amplitude incomparável.
 
 ## Referências Cruzadas
 - [[Boldhome]]

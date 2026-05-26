@@ -2,8 +2,8 @@
 title: "Cultos e o Chaos"
 category: "Conceito"
 tags: [Chaos, cultos, relações, Primal Chaos, Cults of RuneQuest, Hon-eel, Humakt, Yelm]
-sources: ["https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-35/"]
-last_updated: 2026-05-19
+sources: ["https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-35/", "https://godlearners.com/journal-of-runic-studies-42/"]
+last_updated: 2026-05-22
 status: draft
 ---
 
@@ -57,6 +57,16 @@ Divindades cujos cultos são profundamente marcados pela luta contra o Chaos:
 Yelm é **Inimigo do Primal Chaos** mas está estranhamente associado a dois deuses do Chaos: [[Nysalor]] e a [[Deusa Vermelha]]. Jeff Richard especula:
 
 > "Talvez sejam as reivindicações de Yelm ao governo universal, que incluiria o Chaos junto com tudo o mais. Ou talvez seja a **incapacidade de Yelm de ver sua própria Sombra**."
+
+### Krarsht e o Redesign Anti-Storm Bull
+Ver página dedicada: [[Krarsht]]
+
+Em *Cults of Terror*, [[Krarsht]] foi deliberadamente projetada como um culto "anti-Storm Bull" — com Holy Days alinhados, perícia "Sense Order" espelhando "Sense Chaos", e magias como "Defend Against Law" e "Face Law". Nos rascunhos dos novos *Cults of RuneQuest*:
+- Os feitiços anti-Lei foram removidos
+- A perícia "Sense Order" foi removida
+- Os Holy Days permaneceram por importância mitológica
+
+Jeff Richard esclarece que Krarsht **não** é uma "anti-Storm Bull" — ela odeia Storm Bull porque ele quase a destruiu na Guerra dos Deuses, e ela nunca se recuperou totalmente.
 
 ### Notas
 Esta classificação exclui cultos que possuem explicitamente a Runa do Chaos ([[Deusa Vermelha]], [[Nysalor]], [[Thed]], [[Vivamort]], [[Morcego Carmesim]], etc.) e associações caóticas específicas de cultos (como [[Thed]] e [[Daka Fal]]).

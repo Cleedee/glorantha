@@ -2,8 +2,8 @@
 title: "Sheng Seleris"
 category: "Entidade"
 tags: [conquistador, nômades, Império Lunar, Glowline, Terceira Wane, Dara Happa, Yara Aranis, Morcego Carmesim]
-sources: ["https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-5/", "https://wellofdaliath.chaosium.com/notes-on-sheng-seleris-ii/", "https://godlearners.com/journal-of-runic-studies-28/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-5/", "https://wellofdaliath.chaosium.com/notes-on-sheng-seleris-ii/", "https://godlearners.com/journal-of-runic-studies-28/", "https://godlearners.com/journal-of-runic-studies-42/"]
+last_updated: 2026-05-22
 status: draft
 ---
 
@@ -77,13 +77,15 @@ Sheng Seleris forçou o Império Lunar a se adaptar militar e magicamente. A Glo
 Ironicamente, a Glowline que nasceu da necessidade de sobreviver a Sheng tornou-se o instrumento que permitiu ao Império Lunar tornar-se aquilo contra o qual Sheng lutava: um poder expansionista e hegemônico.
 
 ### O Pesadelo Lunar — Sheng no Submundo (1625)
-Sheng Seleris está preso num **Inferno Lunar** — o pesadelo do subconsciente Lunar. Cada Lunar tem pesadelos de sua fuga. Estes pesadelos cresceram em frequência e terror após a ascensão do **Planeta Barco** em 1624. Com as **Terras Vermelhas** (Redlands) em plena revolta e o **Rei das Asas** (Dranz Goloi) tendo derrotado o Exército Lunar do sul e conquistado a satrapia de **Oraya**, a ameaça de fuga de Sheng cresce.
+Sheng Seleris está preso num **Inferno Lunar** — o pesadelo do subconsciente Lunar. Cada Lunar tem pesadelos de sua fuga. Estes pesadelos cresceram em frequência e terror após a ascensão do **Planeta Barco** em 1624. Com as **Terras Vermelhas** (Redlands) em plena revolta e [[Dranz Goloi]] (Rei das Asas) unificando as tribos **Voor-ash** e tendo derrotado o Exército Lunar do sul e conquistado a satrapia de **Oraya**, a ameaça de fuga de Sheng cresce.
 
-Em 1625, o Rei das Asas invadiu **First Blessed** (Primeira Abençoada) e o [[Imperador Vermelho]] foi forçado a pessoalmente impedir uma tentativa de Sheng Seleris de escapar do Submundo. Isto enfraqueceu o Imperador Vermelho, impedindo-o de conter o **Dragonrise** (Despertar do Dragão) — ele teve que usar o restante de suas forças para afugentar o Dragão Verdadeiro despertado.
+Em 1625, Dranz Goloi invadiu **First Blessed** (Primeira Abençoada), saqueando-a junto com grande parte do território. O [[Imperador Vermelho]] foi forçado a pessoalmente impedir uma tentativa de Sheng Seleris de escapar do Submundo. O exército Lunar foi derrotado por Dranz Goloi na **Batalha de Diavizzi Ford**.
 
-O Imperador Vermelho ordenou que a maioria dos guarnições remanescentes das [[Províncias Lunares]] fosse despojada e enviada a First Blessed para defender **Torang**. [[Jar-Eel]] — a Quarta Inspiração de Moonson — foi encarregada de defender o local de nascimento da [[Deusa Vermelha]].
+Isto enfraqueceu o Imperador Vermelho, impedindo-o de conter o **Dragonrise** (Despertar do Dragão) — ele teve que usar o restante de suas forças para afugentar o Dragão Verdadeiro despertado.
 
-Todo bom Lunar teme que tudo isto esteja sendo coordenado por Sheng Seleris, sorrindo em seu reino infernal.
+O Imperador Vermelho ordenou que a maioria dos guarnições remanescentes das [[Províncias Lunares]] fosse despojada e enviada a First Blessed para defender **Torang**. [[Jar-Eel]] — a Quarta Inspiração de Moonson — foi encarregada de comandar os exércitos imperiais restantes e defender First Blessed.
+
+Bandos Pentianos de Dranz Goloi chegaram a saquear os arredores de [[Raibanth]], e penetraram profundamente em [[Imther]] e [[Holay]]. Todo bom Lunar teme que tudo isto esteja sendo coordenado por Sheng Seleris, sorrindo em seu reino infernal.
 
 ### A Insônia do Imperador Vermelho
 Conta-se uma história: o Imperador Vermelho nunca dorme para que Sheng Seleris não entre em seus sonhos. A festa interminável existe para que, sempre que o Imperador se cansar, ele possa ser revigorado através de drogas e devassidão. E quando isto se mostra insuficiente, ele consome algo para que seu sono não tenha sonhos.

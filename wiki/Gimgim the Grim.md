@@ -1,9 +1,9 @@
 ---
 title: "Gimgim the Grim"
 category: "Conceito"
-tags: ["tag_pendente"]
-sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
-last_updated: 2026-05-16
+tags: [agente, Imperador Vermelho, Pavis, Prax, Moon Masks, Orlanth]
+sources: ["https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-42/"]
+last_updated: 2026-05-22
 status: draft
 ---
 
@@ -13,6 +13,18 @@ status: draft
 > One theory is that Harrek’s hatred is very personal (and focused on the Red Goddess, Red Emperor, and the demigods around them) and he didn’t appreciate that Gimgim the Grim or whoever brokered the deal was an agent of the distant Red Emperor. Gimgim the Grim is a secret operative of the Red Emperor, who was at some point posted in Pavis to gather intelligence and run operations in Prax.
 
 ## Conteúdo
+
+### Supressão do Culto de Orlanth em Pavis (1621-1624)
+Durante a ocupação Lunar de [[Sartar]] e [[Prax]], Gimgim the Grim e suas **Moon Masks** foram instrumentais na supressão do culto de [[Orlanth]] em New Pavis:
+
+Sob o governo de **Sor-eel the Short** (até 1621), o templo de Orlanth em New Pavis permaneceu aberto, mas com um padre amplamente considerado Iluminado instalado — uma supressão branda. Quando **Halcyon var Enkorth** substituiu Sor-eel (1621-1624), a repressão tornou-se agressiva:
+
+1. **Fechamento de templos** conhecidos perto de New Pavis — o templo principal em New Pavis, o templo menor em Garhound, e vários santuários e templos menores
+2. **Exílio/banimento** de padres conhecidos e Rune Lords — proibidos de entrar em New Pavis e no Rubble
+3. **Assédio** a iniciados proeminentes — trabalho de Gimgim e das Moon Masks
+4. **Vigilância** de cultos associados ([[Ernalda]], [[Issaries]], [[Lhankor Mhy]], [[Chalana Arroy]]) para adoração encoberta
+
+Em 1624, [[Argrath]] e seu exército nômade derrotaram os Lunares e tomaram a cidade, momento em que **Orlanth Rex** tornou-se o culto governante.
 
 ### Harrek the Berserk
 [Jeff takes a look](https://www.facebook.com/groups/RuneQuest/posts/2135088633333791/) at another big, epic, and iconic figure of the HeroWars: Harrek the Berserk. After all, the original Gloranthan game, [White Bear & Red Moon](https://boardgamegeek.com/boardgame/10884/white-bear-red-moon), was named partially after him, not Argrath or whoever else.
@@ -60,6 +72,7 @@ Gimgim the Grim is a secret operative of the Red Emperor, who was at some point 
 - Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
 
 ## Questões em Aberto
-- [ ] Revisar e expandir conteúdo
-- [ ] Adicionar referências cruzadas relevantes
-- [ ] Verificar consistência com outras páginas
+- [ ] O que aconteceu com Gimgim após 1624?
+- [ ] Quem era Halcyon var Enkorth e qual sua relação com a família Assiday?
+- [ ] Quantas Moon Masks existiam e como operavam?
+- [ ] Verificar consistência com [[Windstop]] e [[Tatius the Bright]]

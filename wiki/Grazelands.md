@@ -5,7 +5,8 @@ tags: [Grazelands, Pony Breeders, Feathered Horse Queen, Dragon Pass, cavalos, p
 sources:
   - "https://rqwiki.chaosium.com/glorantha/dragon-pass.html#other-principalities"
   - "https://godlearners.com/journal-of-runic-studies-33/"
-last_updated: 2026-05-18
+  - "https://godlearners.com/journal-of-runic-studies-40/"
+last_updated: 2026-05-22
 status: draft
 aliases:
   - "Pony Breeders"
@@ -52,6 +53,33 @@ O **Rei Sol** dos Grazelanders tentou protestar, mas perdeu o concurso para a no
 Ela colocou os agricultores sob sua proteção pessoal e derrotou os Sun Lords em concursos mágicos, forçando o **Stallion King** a se submeter e prometer obediência. Ela emitiu o **Concurso Matrimonial** (Marriage Contest) para encontrar aliados, e foi [[Sartar]] o Príncipe que provou seu valor. Sartar construiu entrepostos comerciais com templos aos Lightbringers, emitiu moedas e facilitou o comércio através das Grazelands.
 
 Os entrepostos tornaram-se cidades onde artesãos se congregaram. As Grazelands foram radicalmente transformadas pela Feathered Horse Queen e por Sartar em algo novo: criadores de cavalos e agricultores encontraram uma forma de coexistir através da pessoa da Feathered Horse Queen.
+
+### Duopolio Social (JRS #40)
+
+Jeff Richard descreve as Grazelands como uma **duopolio** chefiado pela Feathered Horse Queen, composto por dois grupos distintos:
+
+**Pastores de Cavalos Semínômades:**
+- Autodenominam-se **Pure Horse People** (Povo do Cavalo Puro)
+- Seriam quase irreconhecíveis para seus parentes distantes em Pent e Erigia
+- Outros os chamam de **Pony Breeders** (Criadores de Pôneis)
+- Movem seus cavalos de pasto em pasto, suplementados por feno cultivado pelos agricultores
+- Recebem alimentos, bens manufaturados etc. das vilas e cidades em quantidades definidas pela Feathered Horse Queen
+- Adoram [[Yelm]] e [[Ernalda]]
+
+**Agricultores e Habitantes Urbanos:**
+- Orlanthi agricultores, artesãos e mercadores
+- Incluem os cultistas de [[Humakt]], que servem como **guarda-costas ferozmente leais** da Feathered Horse Queen
+- Cultivam seus campos, produzem bens e administram os mercados — dando uma porcentagem à Feathered Horse Queen e aos Pony Breeders
+- Adoram [[Orlanth]] Thunderous/[[Barntar]] e [[Ernalda]], além dos outros [[Lightbringers]] e Humakt
+- Muitos têm laços comerciais ou de parentesco com [[Tarsh]] e [[Sartar]]
+
+Esta **codependência** entre agricultores e nômades era comum no mundo real. Agricultores não podem facilmente tornar-se Pony Breeders, mas também não são escravos. Disputas entre os dois grupos são resolvidas pela Feathered Horse Queen, que está acima de ambos como encarnação viva da Deusa da Terra.
+
+> "A Feathered Horse Queen é definitivamente a governante. E ela protege os agricultores dos Pony Breeders E os Pony Breeders dos agricultores! O culto local de Humakt é consagrado a seu serviço (provavelmente como parte de seus ritos de iniciação), e ela controla a fertilidade das terras e dos rebanhos. Vida servida pela Morte."
+
+A sociedade das Grazelands é metade Orlanthi agricultora e metade Yelmite criadora de cavalos há mais de um século. Ambos os cultos competem pelo favor de Ernalda (a Feathered Horse Queen).
+
+A dinastia da Feathered Horse Queen é intimamente relacionada à **Dinastia Sartar** e, desde aproximadamente 1605, à **Dinastia Tarsh** em Furthest.
 
 ### Pure Horse People
 

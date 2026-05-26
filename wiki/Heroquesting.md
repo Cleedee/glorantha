@@ -218,6 +218,22 @@ As **Hero Wars** são aterrorizantes porque abrem a porta para a categoria 2. Ar
 #### Boons e Experiências
 - Categoria 2 não são planejados — são o resultado do mergulho no desconhecido. Alakoring estava desesperado em sua guerra contra o EWF e viajou caminhos previamente desconhecidos que o levaram a lutar contra Dragões e vencer. No processo tornou-se Rex divino, mudou o culto de Orlanth e ganhou poderes terríveis contra os dragões.
 
+### Recomendações de Leitura para Heroquesters
+
+Jeff Richard recomenda as seguintes leituras para quem quer entender heroquesting:
+
+1. **"Liber Novus" (O Livro Vermelho)** de Carl Gustav Jung — exploração do inconsciente coletivo
+2. **"A Descida de Inanna ao Submundo"** — mito sumério de heroquest arquetípico
+3. **"Soldier of the Mist"** de Gene Wolfe — narrativa de um herói navegando entre mundos
+4. **"King of Sartar"** de Greg Stafford — a fonte primária Gloranthana sobre heroquesting
+5. **"Glorantha Sourcebook"** — o guia oficial do cenário
+
+> "Esses três livros combinados com 'King of Sartar' e o 'Glorantha Sourcebook' já te levam grande parte do caminho."
+
+### Mapa do Plano Heróico
+
+Jeff Richard compartilhou um diagrama do Plano Heróico que mapeia parte do Plano Heróico associado à **Quest de Aroka**. Em vez de organizar uma heroquest como uma lista linear de "estações" como nos antigos suplementos de HeroWars, Jeff prefere uma abordagem de **sandbox de cenas**, similar a como se organiza uma aventura normal.
+
 ## Referências Cruzadas
 - [[RuneQuest]]
 - [[QuestWorlds]]

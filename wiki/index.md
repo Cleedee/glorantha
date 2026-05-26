@@ -71,6 +71,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Proximate Holy Realm]] | Estado em que o reino divino é aproximado do mundo mortal; EWF, Belintar, Hero Wars | `heroquest` `plano divino` `EWF` `Belintar` | draft |
 | [[Men-of-All]] | Campeões Malkioni que rompem o sistema de castas; dominam 4 tarefas de Malkion; Hrestol | `Malkioni` `Hrestol` `cavalaria` `castas` | draft |
 | [[Feitiçaria em Glorantha]] | Sistema mágico Malkioni; palácios de memória; God Time; virtualmente ilimitado | `Malkioni` `zzaburi` `palácios de memória` `God Time` | draft |
+| [[White Moon]] | Movimento herético Lunar que acredita que a Deusa Vermelha não queria um império permanente | `heresia` `Lunar` `Sete Mães` `Jar-Eel` | draft |
 | [[Eel-ariash]] | Clã nobre Lunar de Doblian; descendentes de Sandene; família de Hon-eel, Chain Dancer, Farangold, Jar-eel | `clã` `nobreza` `Lunar` `Hon-eel` `Jar-eel` `Dart Warriors` | draft |
 | [[RuneQuest]] | Sistema d100 criado por Steve Perrin e Greg Stafford (1978); combate realista, strike ranks, locais de impacto; 7ª ed em 2018 | `sistema` `RPG` `d100` `Chaosium` `franquia` | draft |
 | [[Hrunda]] | Deus macaco louco; culto no Old Woods de Esrolia; Temple of Bones; Monster of the Month Vol 2 | `deus` `macaco` `Esrolia` `Eurmal` | draft |
@@ -94,6 +95,25 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Diros]] | Deus dos Barcos, originado no Império do Meio Mar (God Learners); sobrevive em cidades portuárias | `deus` `barcos` `navegação` `Middle Sea Empire` `God Learners` | draft |
 | [[Lanbril]] | Deus dos Ladrões Heortling; crime profissional organizado; distinto de Eurmal | `deus` `ladrões` `Heortling` `crime` `Orlanthi` | draft |
 | [[Arachne Solara]] | Mãe do Tempo; sua Teia de fios de mitos é a base do heroquesting e do Grande Compromisso | `Arachne Solara` `World Spider` `heroquesting` `Great Compromise` `Teia` | draft |
+| [[Ernaldela]] | Reino mítico das Deusas da Terra no Plano Heroico, situado atrás de Esrolia; acessível pelo Proximate Holy Realm | `Ernaldela` `Ernalda` `Esrolia` `Plano Heroico` `Terra` | draft |
+| [[Heróis da Era de Prata]] | Figuras míticas da transição Grande Escuridão→Alvorecer: Merngala, Heort, Vogarth, Kalops, Tessele, Aram ya-Udram, Panaxles, Sestarto | `Silver Age` `heróis` `Esrolia` `Merngala` `Heort` `Vogarth` | draft |
+| [[Arte Gloranthana]] | História da arte em Glorantha: estilos Theyalano, Dara Happano, Esroliano, Lunar, Carmaniano, Sartarita; renascença de Belintar; aplicação em storytelling ambiental | `arte` `história da arte` `Theyalan` `Dara Happan` `Esrolian` `Lunar` `EWF` `Belintar` | draft |
+| [[Tatius the Bright]] | General do Exército Provincial Lunar durante a Windstop; esperava colapso do culto de Orlanth | `Tatius` `Lunar` `General` `Windstop` `Províncias Lunares` | draft |
+| [[Rei Broyan]] | Herói Orlanthi que reverteu a Windstop junto com Kallyr; participante do Torneio dos Mestres | `Broyan` `Whitewall` `heroquest` `Windstop` `Orlanthi` | draft |
+| [[Ty Kora Tek]] | Deusa da morte; Dia dos Mortos na procissão da Necrópole até Nochet | `deusa` `morte` `Nochet` `Esrolia` `ancestrais` | draft |
+| [[Krarsht]] | Entidade caótica devoradora; inimiga de Storm Bull; redesign nos Cults books | `Chaos` `devoradora` `Storm Bull` `Krarsht` | draft |
+| [[Dranz Goloi]] | Khan da tribo Voor-ash; Rei das Asas; maior ameaça ao Império Lunar | `Pent` `nômades` `Voor-ash` `Sheng Seleris` `Hero Wars` | draft |
+| [[Sandy Petersen]] | Designer lendário da Chaosium; Call of Cthulhu; Trollpak; colaborador de Greg Stafford | `designer` `Chaosium` `Call of Cthulhu` `Greg Stafford` | draft |
+| [[Valare Addi]] | Heroína Lunar da Primeira Wane; co-autora do Entekiosad; ancestral Valar-telsor | `heroína` `Lunar` `Entekiosad` `Valar-telsor` | draft |
+  
+---
+
+## Evento
+> Batalhas, grandes sessões, heroquestes, marcos temporais
+
+| Página | Resumo | Tags | Status |
+|--------|--------|------|--------|
+| [[Windstop]] | Ano de 1621-1622 em que Orlanth e Ernalda estiveram mortos em Dragon Pass por heroquest lunar; cultos associados preencheram o vácuo; revertido por Kallyr e Broyan | `Windstop` `Orlanth` `Ernalda` `Whitewall` `Império Lunar` `Tatius` `heroquesting` | draft |
 
 ---
 
@@ -167,6 +187,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Cults of RuneQuest - Horned God]] | Vol remanescente; Deus Chifrudo/espírito | `suplemento` `cultos` | draft |
 | [[Cults of RuneQuest - Lords of Terror]] | Vol remanescente; Caos; reedição de Lords of Terror | `suplemento` `cultos` `Caos` | draft |
 | [[Cults of RuneQuest - Invisible God]] | Vol remanescente; Deus Invisível/malkionitas | `suplemento` `cultos` | draft |
+| [[Nochet]] | Capital de Esrolia; maior cidade de Glorantha (~600ha); demografia de cultos; comércio oceânico | `cidade` `Esrolia` `comércio` `cultos` | draft |
+| [[Shadow Plateau]] | Grande centro de trolldom no País Santo; 41k trolls; Kyger Litor, Argan Argar, Zorak Zoran; Orlanthi trolls | `troll` `Uz` `País Santo` `Esrolia` | draft |
 | [[Sartar Homeland Boxed Set]] | Boxed set RQ; arte Ossi Hiekkala/Anna Orlova; cultos; clãs; demografia 157 clãs; moda; Pockets Boldhome | `boxed set` `sartar` `arte` `clãs` `culto` `demografia` | draft |
 | [[Prax]] | Região de nômades; tribos Bison, High Llama, Impala, Pol-Joni, Sable, Morokanth; Wastes, White Bull Society, Jaldon Goldentooth, No-Feet-on-the-Ground | `região` `nômades` `Prax` `tribos` `Argrath` `Wastes` `White Bull` | draft |
 | [[Esrolia]] | Rica terra matriarcal; Nochet é a maior cidade de Glorantha; centro do culto à Terra | `Esrolia` `Nochet` `matriarcado` `Ernalda` `País Santo` | draft |
@@ -302,6 +324,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 37]] | 37ª edição; bebidas alcoólicas regionais, vida inconsciente e espiritualidade, fichas de heroquesting, templo de Issaries | `periódico` `malkioni` `álcool` `espiritualidade` `Issaries` | draft |
 | [[Journal of Runic Studies 38]] | 38ª edição; city wyters de Sartar, títulos pelorianos, geografia do Coração Lunar, Caos no Grande Compromisso, Arachne Solara | `periódico` `malkioni` `Grande Compromisso` `Arachne Solara` `títulos` | draft |
 | [[Journal of Runic Studies 39]] | 39ª edição; Hsunchen/Uncolings, Kallyr's LBQ rota e GM options, repopulação de Dragon Pass, Runegate, heroquesting Cat 1/2 | `periódico` `malkioni` `Hsunchen` `Kallyr` `heroquesting` `Dragon Pass` | draft |
+| [[Journal of Runic Studies 40]] | 40ª edição; Windstop, Arte Gloranthana (5 partes), Grazelanders duopolio, recomendações heroquesting | `periódico` `malkioni` `Windstop` `Arte Gloranthana` `Grazelanders` `heroquesting` | draft |
+| [[Journal of Runic Studies 41]] | 41ª edição; Pavis sob Argrath, Dendara/Goddess Switch, 3 tipos de magia, Esrolia 4-part series, Silver Age heroes, Shadowlands | `periódico` `malkioni` `Pavis` `Esrolia` `Dendara` `magia` `Silver Age` | draft |
+| [[Journal of Runic Studies 42]] | 42ª edição; supressão Orlanth, Nochet, Shadow Plateau, Krarsht, Ty Kora Tek, heresia, White Moon, Dranz Goloi | `periódico` `malkioni` `Nochet` `Shadow Plateau` `Krarsht` `White Moon` `Dranz Goloi` | draft |
+| [[Journal of Runic Studies 43]] | 43ª edição; ChaosiumCon, Mad Knight miniatures, Greg Stafford 1994 article, Wheel of the Year | `periódico` `malkioni` `ChaosiumCon` `miniaturas` `Greg Stafford` `Wheel of the Year` | draft |
 | [[QAD Pimper's Block]] | Coleção massiva de 2000 páginas com 520 NPCs detalhados e 2600 de esquadrão para RQG, cobrindo 10 culturas; por QAD (Drew Baker) no Jonstown Compendium | `Jonstown Compendium` `NPC` `personagens` `RuneQuest` `QAD` `Drew Baker` | draft |
 
 ---
@@ -346,6 +372,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Triolini]] | Povo do mar (ludoch/merfolk); ~33.000 na Baía de Choralinthor; aliados dos marinheiros desde a Abertura dos Mares | `merfolk` `ludoch` `Choralinthor Bay` `Kethaela` `raça anciã` | draft |
 | [[Castle Coast]] | Último remanescente do Hrestolismo; fortaleza anã Rhis; ruínas de Frowal e Laurmal; ~50k habitantes | `Malkioni` `Hrestolismo` `Ralios` `ruínas` | draft |
 | [[Arangorf]] | Inner Dragon abraçado por Orlanth; conceito dracônico central na mística do EWF | `dragão` `Orlanth` `EWF` `dracônico` | draft |
+| [[Voor-Ash]] | Tribo Pentiana unificada por Dranz Goloi; pesadelo Lunar revivido | `Pent` `nômades` `cavaleiros` `Dranz Goloi` `Hero Wars` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
 
@@ -364,5 +391,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-22 (QAD Pimper's Block)*
+*Última atualização: 2026-05-22 (Journal of Runic Studies #42 e #43)*
 
