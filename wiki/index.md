@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-18
+last_updated: 2026-05-27
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -105,6 +105,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Dranz Goloi]] | Khan da tribo Voor-ash; Rei das Asas; maior ameaça ao Império Lunar | `Pent` `nômades` `Voor-ash` `Sheng Seleris` `Hero Wars` | draft |
 | [[Sandy Petersen]] | Designer lendário da Chaosium; Call of Cthulhu; Trollpak; colaborador de Greg Stafford | `designer` `Chaosium` `Call of Cthulhu` `Greg Stafford` | draft |
 | [[Valare Addi]] | Heroína Lunar da Primeira Wane; co-autora do Entekiosad; ancestral Valar-telsor | `heroína` `Lunar` `Entekiosad` `Valar-telsor` | draft |
+| [[Homem Chifrudo]] | O arquétipo cósmico do Primeiro Xamã, fetch de Glorantha | `deus` `xamanismo` `espíritos` | draft |
   
 ---
 
@@ -175,6 +176,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 10]] | 10ª edição; GRRM eulogia Perrin, quatro braços Orlanth, demografia clãs, exército sartarita | `periódico` `Steve Perrin` `Orlanth` `Sartar` `exército` | draft |
 | [[Journal of Runic Studies 11]] | 11ª edição; sete deusas da Terra filhas de Genert, Pendragon/Passions, Valley of Plenty cancelado | `periódico` `Genert` `Earth goddesses` `Valley of Plenty` `Pendragon` | draft |
 | [[Journal of Runic Studies 80]] | 80ª edição; origens Belintar, luas pré-históricas, deuses do mar, legado Arkat, iniciação Aldryami, Valley of Plenty 2e | `periódico` `Belintar` `Aldryami` `Arkat` `Valley of Plenty` `luas` | draft |
+| [[Journal of Runic Studies 85]] | 85ª edição; livros de cultos, Escalation! art, trolls, feitiçaria, Maboder e Dundealos | `periódico` `cultos` `trolls` `feitiçaria` `Maboder` `Dundealos` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); retorno à Chaosium após 30 anos; 448 págs; sistemas de Runas, Paixões, Augment; review completa de ALM | `sistema` `2018` `7ª ed` `review` `Chaosium` `mitologia` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
@@ -373,6 +375,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Castle Coast]] | Último remanescente do Hrestolismo; fortaleza anã Rhis; ruínas de Frowal e Laurmal; ~50k habitantes | `Malkioni` `Hrestolismo` `Ralios` `ruínas` | draft |
 | [[Arangorf]] | Inner Dragon abraçado por Orlanth; conceito dracônico central na mística do EWF | `dragão` `Orlanth` `EWF` `dracônico` | draft |
 | [[Voor-Ash]] | Tribo Pentiana unificada por Dranz Goloi; pesadelo Lunar revivido | `Pent` `nômades` `cavaleiros` `Dranz Goloi` `Hero Wars` | draft |
+| [[Tribo dos Maboder]] | Tribo sartarita dizimada pelos Telmori em 1606, terras tornaram-se Wulfland | `tribo` `Orlanthi` `Sartar` `Telmori` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
 
@@ -391,5 +394,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-22 (Journal of Runic Studies #42 e #43)*
+*Última atualização: 2026-05-27 (Journal of Runic Studies #85)*
 
