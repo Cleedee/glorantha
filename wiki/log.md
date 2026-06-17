@@ -279,3 +279,5 @@ description: "Registro cronológico append-only de todas as ações do sistema"
 
 ## [2026-05-27] ingest | Processado "Journal of Runic Studies 85.md" — 3 páginas criadas: Journal of Runic Studies 85 (Fonte), Tribo dos Maboder (Cultura) e Homem Chifrudo (Entidade). 2 páginas atualizadas: Tribo dos Dundealos (Cultura, adicionada destruição em 1619, ocupação pela tribo Enstalos, exílio em Prax e vingança pós-Dragonrise) e index.md. Index e log atualizados.
 
+## [2026-06-17] ingest | Processado "Adulthood Initiations (2012).md" (Well of Daliath/Moon Design forum) — 3 páginas criadas: Iniciação à Vida Adulta Orlanthi (Conceito, sistema de duas iniciações, flexibilidade para caminhos não-tradicionais), Vinga (Entidade, deusa guerreira Orlanthi, subculto de Orlanth, iniciação temporária para vingança), Nandan (Entidade, homens com Runa da Terra, "Ernaldano na forma de Orlanthi"). Index e log atualizados.
+

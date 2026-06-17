@@ -51,6 +51,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; clãs satrapais (Eel-arish, Taran-il); Chaos Gift; Silver Shadow Satrapy | `lunar` `império` `população` `Dara Happa` `Gbaji` `nobreza` | draft |
 | [[Glorantha]] | Universo de fantasia de Greg Stafford (1966); losanga no Oceano Primeval; Idade do Bronze, bronze divino, wyters, sem "conversão"; influenciou GoT, TES, Warcraft | `Glorantha` `Greg Stafford` `RuneQuest` `Sartar` `Dragon Pass` `Idade do Bronze` | draft |
 | [[Glorantha, Meaning, and Mythology]] | Ensaio de Andrew Logan Montgomery sobre interpretação de mitos; significados, não fatos; 4 ajustes mentais | `mitologia` `significado` `interpretação` `Elmal` `Vinga` | draft |
+| [[Iniciação à Vida Adulta Orlanthi]] | Sistema de duas iniciações Orlanthi: adulthood (despertar de runas) e cult initiation (deus específico); flexibilidade para Vinga e Nandan | `iniciação` `Orlanthi` `adulto` `runas` `Vinga` `Nandan` | draft |
 | [[Bringing RuneQuest to Life]] | Metodologia de ALM para trazer RQ à vida: Reverse Statistics, Runas como Tarô, imersão por comida, associações rúnicas diárias | `runas` `RuneQuest` `GM` `imersão` `narrativa` | draft |
 | [[Regras de Batalha em Massa]] | Sistema de combate em massa RQG; Guiding Passion; posturas; Hero Soul | `regras` `combate` `batalha` `RuneQuest` | draft |
 | [[The Bad Winds]] | Elementais do ar corrompidos por Mallia; invocados acidentalmente | `elementais` `Mallia` `doença` `Jonstown` | draft |
@@ -376,6 +377,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Arangorf]] | Inner Dragon abraçado por Orlanth; conceito dracônico central na mística do EWF | `dragão` `Orlanth` `EWF` `dracônico` | draft |
 | [[Voor-Ash]] | Tribo Pentiana unificada por Dranz Goloi; pesadelo Lunar revivido | `Pent` `nômades` `cavaleiros` `Dranz Goloi` `Hero Wars` | draft |
 | [[Tribo dos Maboder]] | Tribo sartarita dizimada pelos Telmori em 1606, terras tornaram-se Wulfland | `tribo` `Orlanthi` `Sartar` `Telmori` | draft |
+| [[Vinga]] | Deusa Orlanthi, aspecto feminino de Orlanth e filha de Ernalda; padroeiras das guerreiras; iniciação temporária para vingança | `deusa` `Orlanthi` `guerreira` `vingança` `subculto` | draft |
+| [[Nandan]] | Divindade Orlanthi de homens com Runa da Terra; caminho inverso de Vinga; "Ernaldano na forma de Orlanthi" | `deidade` `Orlanthi` `gênero` `Terra` `subculto` | draft |
 ## Cronologia
 > Linhas temporais, eras, calendários
 
