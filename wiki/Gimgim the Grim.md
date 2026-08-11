@@ -2,8 +2,8 @@
 title: "Gimgim the Grim"
 category: "Conceito"
 tags: [agente, Imperador Vermelho, Pavis, Prax, Moon Masks, Orlanth]
-sources: ["https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-42/"]
-last_updated: 2026-05-22
+sources: ["https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-42/", "https://godlearners.com/journal-of-runic-studies-45/"]
+last_updated: 2026-08-11
 status: draft
 ---
 
@@ -25,6 +25,14 @@ Sob o governo de **Sor-eel the Short** (até 1621), o templo de Orlanth em New P
 4. **Vigilância** de cultos associados ([[Ernalda]], [[Issaries]], [[Lhankor Mhy]], [[Chalana Arroy]]) para adoração encoberta
 
 Em 1624, [[Argrath]] e seu exército nômade derrotaram os Lunares e tomaram a cidade, momento em que **Orlanth Rex** tornou-se o culto governante.
+
+### As Moon Masks sob Halcyon (1622-1624)
+Sob o governador **Halcyon var Enkorth**, Gim Gim (ou Gimgim) foi usado de forma muito mais eficaz. Durante esses anos, **as Moon Masks tornaram-se mais uma organização paramilitar/criminosa** — serviram como **exército particular de Gim Gim the Grim**, e acreditava-se que incluíam muitos soldados Lunares.
+
+> "Gim Gim deve ser um cara assustador. No comando de um bando Lunar paramilitar/criminal/enforcers/organized crime gang/soldados de folga, disposto a jogar footsie (ou mais) com cultos do Caos, assassinos e mais — ele é um vilão maravilhoso."
+
+- Gimgim the Grim (às vezes escrito "Gim Gim") foi chefe dos serviços de **inteligência Lunar em Prax até por volta de 1621**, quando foi chamado de volta ao Império Lunar.
+- Sempre usa uma **moon-mask** — ninguém sabe como ele se parece. Jeff o descreve como o resultado de **Ernst Blofeld criado como um Mandalorian**.
 
 ### Harrek the Berserk
 [Jeff takes a look](https://www.facebook.com/groups/RuneQuest/posts/2135088633333791/) at another big, epic, and iconic figure of the HeroWars: Harrek the Berserk. After all, the original Gloranthan game, [White Bear & Red Moon](https://boardgamegeek.com/boardgame/10884/white-bear-red-moon), was named partially after him, not Argrath or whoever else.
@@ -65,11 +73,15 @@ Gimgim the Grim is a secret operative of the Red Emperor, who was at some point 
 
 
 ## Referências Cruzadas
-- <!-- Adicionar referências cruzadas -->
+- [[Halcyon var Enkorth]]
+- [[Sor-eel the Short]]
+- [[Pavis]]
+- [[Império Lunar]]
 
 
 ## Referências
 - Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
+- Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
 
 ## Questões em Aberto
 - [ ] O que aconteceu com Gimgim após 1624?

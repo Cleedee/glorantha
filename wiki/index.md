@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-05-27
+last_updated: 2026-08-11
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -19,6 +19,26 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Rostand the Speaker]] | Ensinou "kernels of draconic consciousness" nos anos 560; precursor da comunicação Orlanthi-dragões | `dragões` `Orlanthi` `560` `EWF` | draft |
 | [[Vistikos Left-eye]] | Estabeleceu "formula and pattern for a draconic human life" nos anos 570; precursor do EWF | `dragões` `EWF` `570` | draft |
 | [[Yelm]] | Imperador Celestial, deus sol; irmão do meio; morte desencadeia Guerra dos Deuses; Lightbringers; Tempo começa com seu retorno; Neutro com Orlanth, Inimigo do Chaos (exceto Deusa Vermelha e Nysalor) | `deus` `sol` `imperador` `Fogo/Céu` `Lightbringers` `Chaos` `Orlanth` | draft |
+| [[Akasta Ironspear]] | Tribal Khan da Tribo Bison; comandante da resistência praxiana à invasão Lunar (nasc. 1582) | `Tribo Bison` `Prax` `khan` `Argrath` `Lunar` | draft |
+| [[Ijiran]] | Filho do khan Sable pro-Lunar Inire the Red; líder dos Red Sables; busca vingar o pai contra Roneer the Hue | `Tribo Sable` `Red Sables` `Prax` `vingança` | draft |
+| [[Inire the Red]] | Tribal Khan pro-Lunar da Tribo Sable; aliou a tribo ao Império Lunar; morto por Roneer the Hue (1624) | `Tribo Sable` `Prax` `Lunar` `khan` | draft |
+| [[Jovanka the Tall]] | Sacerdotisa das Sete Mães da Tribo Impala; banida por ser alta demais; missionária Lunar em Prax (nasc. 1595) | `Tribo Impala` `Sete Mães` `Prax` `Lunar` | draft |
+| [[Narmeed Whirlvishbane]] | Khan da Tribo Bison; leal a Argrath além da morte; tomou Argrath e Yazurkial como escravos (1611) | `Tribo Bison` `Prax` `khan` `Argrath` | draft |
+| [[Orgwaha Eight-Horn]] | Storm Khan; líder do culto de Storm Bull entre os High Llama; lutou em Pennel Ford (1624+) | `High Llama` `Storm Bull` `Prax` `Argrath` | draft |
+| [[Queen Delenda]] | Rainha dos Rock Speakers (Tribo Sable); mestra em manobras políticas entre Lunares e White Bull | `Tribo Sable` `Rock Speakers` `Prax` `política` | draft |
+| [[Queen Lareel]] | Rainha Sable; esposa de Roneer the Hue; feroz anti-imperial; almeja ser Alta Sacerdotisa dos Paps (nasc. 1595) | `Tribo Sable` `Prax` `anti-imperial` `Paps` | draft |
+| [[Roneer the Hue]] | Tribal Khan da Tribo Sable; resistência aos Lunares; matou Inire na Segunda Batalha de Moonbroth (nasc. 1591) | `Tribo Sable` `Prax` `khan` `Moonbroth` `Argrath` | draft |
+| [[Varaneera Cow-eye]] | Esposa sênior do khan Narmeed; Herd Mother da Tribo Bison; sua festa de casamento ambienta conto de Biturian Varosh | `Tribo Bison` `Prax` `Eiritha` `Biturian Varosh` | draft |
+| [[White Bull]] | Espírito-culto de Prax ligado a Argrath; filho de Storm Bull, irmão de Waha; base da White Bull Society | `Prax` `Argrath` `Storm Bull` `White Bull Society` | draft |
+| [[Yazurkial Blue Llama]] | Sacerdote supremo de Waha da Tribo High Llama; mão direita de Argrath; "Fetch of the White Bull" (nasc. 1595) | `High Llama` `Waha` `Prax` `Argrath` | draft |
+| [[Aram ya-Udram]] | Herói orlanthi do Amanhecer; estadista e general; matou o javali divino Gouger e ergueu o Ivory Plinth | `herói` `Amanhecer` `Orlanth` `Ivory Plinth` `Gouger` | draft |
+| [[Beat-Pot Aelwrin]] | High Priest of Moonsword; braço direito e amante de Jar-Eel; Dumuzi da Inanna Lunar; ex-escravo pentano | `Lunar` `Jar-Eel` `Moonsword` `Pent` `Sete Mães` | draft |
+| [[Dorasar]] | Fundador de New Pavis (1550); Rei vitalício até 1579; dinastia de Sartar | `Sartar` `New Pavis` `Pavis` `fundador` | draft |
+| [[Egajia Chewer of Flesh]] | Paps Most Respected Elder; alta sacerdotisa morokanth de Eiritha; negociou o Armistice of Prax | `Morokanth` `Paps` `Eiritha` `Prax` `Lunar` | draft |
+| [[Halcyon var Enkorth]] | 2º Governador Lunar de New Pavis (1622-1624); regime brutal e desonroso; personagem de Jennell Jaquays | `Lunar` `governador` `New Pavis` `Prax` `Gim Gim` | draft |
+| [[Ironhoof]] | Lord of Beast Valley; filho de Orlanth e deusa-cavalo; primeiro Sacred King de Dragon Pass; centauro | `Orlanth` `Beast Valley` `Grazelanders` `Dragon Pass` | draft |
+| [[Natha]] | Deusa do Segundo Submundo; Guardiã do Segundo Inferno; justiça de Jar-Eel; Deusa Devoradora | `deusa` `Lunar` `Segundo Submundo` `Jar-Eel` `vingança` | draft |
+| [[Sor-eel the Short]] | 1º Governador Lunar de New Pavis (1610-1621); administrador esclarecido; clã Eel-ariash | `Lunar` `governador` `New Pavis` `Eel-ariash` | draft |
 
 ---
 
@@ -107,6 +127,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Sandy Petersen]] | Designer lendário da Chaosium; Call of Cthulhu; Trollpak; colaborador de Greg Stafford | `designer` `Chaosium` `Call of Cthulhu` `Greg Stafford` | draft |
 | [[Valare Addi]] | Heroína Lunar da Primeira Wane; co-autora do Entekiosad; ancestral Valar-telsor | `heroína` `Lunar` `Entekiosad` `Valar-telsor` | draft |
 | [[Homem Chifrudo]] | O arquétipo cósmico do Primeiro Xamã, fetch de Glorantha | `deus` `xamanismo` `espíritos` | draft |
+| [[Léxico de Heroquesting]] | Glossário das regras de heroquesting em desenvolvimento (ChaosiumCon 2022); termos provavelmente usados pelos God Learners | `heroquesting` `glossário` `Jeff Richard` `God Learners` | draft |
   
 ---
 
@@ -332,6 +353,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 42]] | 42ª edição; supressão Orlanth, Nochet, Shadow Plateau, Krarsht, Ty Kora Tek, heresia, White Moon, Dranz Goloi | `periódico` `malkioni` `Nochet` `Shadow Plateau` `Krarsht` `White Moon` `Dranz Goloi` | draft |
 | [[Journal of Runic Studies 43]] | 43ª edição; ChaosiumCon, Mad Knight miniatures, Greg Stafford 1994 article, Wheel of the Year | `periódico` `malkioni` `ChaosiumCon` `miniaturas` `Greg Stafford` `Wheel of the Year` | draft |
 | [[QAD Pimper's Block]] | Coleção massiva de 2000 páginas com 520 NPCs detalhados e 2600 de esquadrão para RQG, cobrindo 10 culturas; por QAD (Drew Baker) no Jonstown Compendium | `Jonstown Compendium` `NPC` `personagens` `RuneQuest` `QAD` `Drew Baker` | draft |
+| [[Journal of Runic Studies 44]] | 44ª edição; Léxico de Heroquesting, Prax e as Terras Ermas, pessoas notáveis das tribos High Llama/Bison/Sable/Impala, White Bull Society | `periódico` `malkioni` `heroquesting` `Prax` `White Bull` | draft |
+| [[Journal of Runic Studies 45]] | 45ª edição; desequilíbrio e evolução dos cultos, Morokanth, Oasis People, fundação e ocupação Lunar de New Pavis, figuras das Hero Wars, Orlanthi de Maniria | `periódico` `malkioni` `cultos` `Morokanth` `Pavis` `Hero Wars` `Maniria` | draft |
 
 ---
 
@@ -379,6 +402,18 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Tribo dos Maboder]] | Tribo sartarita dizimada pelos Telmori em 1606, terras tornaram-se Wulfland | `tribo` `Orlanthi` `Sartar` `Telmori` | draft |
 | [[Vinga]] | Deusa Orlanthi, aspecto feminino de Orlanth e filha de Ernalda; padroeiras das guerreiras; iniciação temporária para vingança | `deusa` `Orlanthi` `guerreira` `vingança` `subculto` | draft |
 | [[Nandan]] | Divindade Orlanthi de homens com Runa da Terra; caminho inverso de Vinga; "Ernaldano na forma de Orlanthi" | `deidade` `Orlanthi` `gênero` `Terra` `subculto` | draft |
+| [[Morokanth]] | Tribo não-humana de Prax; tapires sencientes que pastoreiam Herd Men; tradição Waha-Eiritha | `Prax` `não-humanos` `Herd Men` `Waha` `Eiritha` | draft |
+| [[Oasis People]] | Agricultores nativos dos oásis de Prax; descendentes de sobreviventes pré-Escuridão | `Prax` `oásis` `agricultores` `nativos` | draft |
+
+## Localização
+> Regiões, cidades e lugares
+
+| Página | Resumo | Tags | Status |
+|--------|--------|------|--------|
+| [[Ivory Plinth]] | Monumento de marfim erguido por Aram ya-Udram com presa do javali Gouger; hoje lar dos Tusk Riders | `monumento` `Maniria` `Tusk Riders` `Gouger` `Aram ya-Udram` | draft |
+| [[Maniria]] | Região da costa sul de Genertela a oeste do País Santo; quatro confederações Orlanthi; terra dos Trader Princes | `região` `Genertela` `Orlanthi` `Trader Princes` | draft |
+
+---
 ## Cronologia
 > Linhas temporais, eras, calendários
 
@@ -397,5 +432,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-05-27 (Journal of Runic Studies #85)*
+*Última atualização: 2026-08-11 (Journal of Runic Studies #45)*
 

@@ -2,8 +2,8 @@
 title: "Príncipes Mercadores de Maniria"
 category: "Cultura"
 tags: [Malkioni, comércio, Maniria, Issaries, rota comercial]
-sources: ["https://godlearners.com/journal-of-runic-studies-30/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-30/", "https://godlearners.com/journal-of-runic-studies-45/"]
+last_updated: 2026-08-11
 status: draft
 ---
 
@@ -55,6 +55,18 @@ Os Príncipes Mercadores governam as cidades que pontilham a Estrada Maniriana. 
 ### Declínio
 Funcionou bem até a **Abertura** (Opening). De repente, tornou-se mais barato enviar um navio carregado de bens para Handra do que enviá-lo por terra através de Maniria. O colapso paralelo à teoria de Barry Cunliffe sobre o colapso dos Fürstensitze de Hallstatt e a ascensão das migrações guerreiras La Tène.
 
+### As Quatro Confederações Orlanthi de Maniria (JRS #45)
+A oeste de Esrolia há quatro confederações tribais Orlanthi (ver página dedicada [[Maniria]]):
+- **Longsi Land** (leste): sob suserania esroliana; chamada Haradlaro/Harandings em textos antigos; terra natal especulada de [[Aram ya-Udram]]; cidade de Kosh.
+- **Ditali**: os Vathmai vieram desta área no Amanhecer; tradicionalmente mantida por Trader Princes; na última década cooperaram com os Solanthi em ataques e invasões do antigo País Santo.
+- **Solanthi**: mantida pela casa de **Greymane** (senhor da guerra Orlanthi); saquearam Esrolia, aliaram-se aos Esrolianos contra os Lunares e os traíram na **Batalha de Pennel Ford**; confederação em desordem.
+- **Nimistor** (oeste): aliados dos Trader Princes, alianças desgastando-se desde a Opening.
+
+### O Sistema dos Trader Princes (JRS #45)
+- Os Trader Princes tradicionalmente tinham alianças com clãs e tribos Orlanthi autônomos — **as confederações, cada uma centrada numa rede de rios** para o comércio.
+- São "Príncipes" porque **não são reis nem líderes tribais, mas primeiros entre iguais**.
+- O sistema está desmoronando desde a Opening: os **Ditali Trader Princes** tiveram de assumir um papel militar mais ativo para sobreviver; os **Solanthi Trader Princes** agora devem deferir à casa de Greymane e seus herdeiros.
+
 ### Paralelo Histórico
 Jeff compara explicitamente esta rota à **Rota da Seda**, conectando cidades gregas do Mediterrâneo à Ásia Central através das estradas do Império Aquemênida — não apenas oportunidade de negócios e aventura, mas catalisador para troca de ideias e culturas.
 
@@ -72,7 +84,10 @@ Jeff compara explicitamente esta rota à **Rota da Seda**, conectando cidades gr
 
 ## Referências
 - Fonte: [Journal of Runic Studies #30](https://godlearners.com/journal-of-runic-studies-30/)
+- Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
 
 ## Questões em Aberto
 - [ ] Castelain é descendente de Garzeen?
 - [ ] Quando os cultos de Lhankor Mhy da Genertela central começaram a praticar feitiçaria?
+- [ ] Quem é Greymane, o senhor da guerra que domina os Solanthi?
+- [ ] Qual o destino dos Ditali Trader Princes após a militarização?

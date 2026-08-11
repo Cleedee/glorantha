@@ -2,8 +2,8 @@
 title: "Jar-Eel"
 category: "Entidade"
 tags: [lunar, deusa vermelha, heroína, Moonson, Moonsword, Chaos, Imperador Vermelho]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-28/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-28/", "https://godlearners.com/journal-of-runic-studies-45/"]
+last_updated: 2026-08-11
 status: draft
 ---
 
@@ -70,6 +70,35 @@ Jar-Eel não é uma governante, mas mesmo o Imperador Vermelho é frequentemente
 
 A maioria das contas a coloca muito acima das maquinações mundanas e mágicas de seus parentes Eel-ariash, que não obstante ganharam imensamente por sua presença. Mesmo o Imperador Vermelho poderia ter segundos pensamentos antes de agir contra a família da Quarta Inspiração de Moonson.
 
+**Personalidade dominante do Império no 8º Wane (JRS #45):** Jar-Eel ofusca "seu pai", o Imperador Vermelho, e todos os outros. Ela entra na corte e todos os olhos estão nela. Jar-Eel é o que a maioria das pessoas vê quando imagina a Deusa Vermelha.
+
+### Inanna-Babalon — A Mulher Escarlate
+Jeff Richard descreve Jar-Eel em termos de **Inanna** e da **Whore of Babylon**/**Babalon** (o Apocalipse: "vi uma mulher sentada sobre uma besta escarlate..."). A imagem da deusa do amor e da guerra montando o [[Morcego Carmesim|Morcego Escarlate]] (Scarlet Bat), com suas muitas línguas e olhos, é inescapável.
+
+- **Atributos:** amor, beleza, sexo, guerra **e justiça** — e também poder político. Move-se de conquista em conquista como Inanna.
+- **Não** é associada ao casamento, nem a grãos ou fertilidade geral. Tem um filho que se saiba, e isso não é parte-chave de sua identidade como deusa viva. Uma deusa viva do amor e da guerra.
+- O hino a Inanna citado por Jeff: *"Ela agita confusão e caos contra os que lhe são desobedientes, acelerando carnificina e incitando a inundação devastadora, vestida de radiação terrível. É seu jogo acelerar conflito e batalha, incansável, calçando suas sandálias."*
+- **A relação Jar-Eel/Beat-Pot = Inanna/Dumuzi:** Beat-Pot é seu amante, cozinheiro e sacerdote — mas Jar-Eel tem toda a agência. Ela toma outros amantes — prerrogativa de uma deusa viva do amor e da guerra. Se Jar-Eel for morta, Beat-Pot faria bem em lamentá-la, ou teria problemas quando ela saísse do Submundo.
+
+### A Justiça de Natha
+A justiça é um atributo-chave de Jar-Eel — mas **não a justiça moderna**; é a **justiça de [[Natha]]**: retribuição contra os que a merecem e proteção para os que a merecem. Vai além da lei, moderação ou acordo social — é divina e aterrorizante na expressão.
+
+- Natha é a deusa do Segundo Submundo, Guardiã do Segundo Inferno, deusa Lunar do Equilíbrio, a Destruidora Vingadora, uma das sete antigas deusas da Lua, a deusa da Metade Vazia. Dá vida ou morte, luz ou escuridão, baseado no que é necessário para trazer "equilíbrio".
+- Jar-Eel é **Nemesis para quem prejudica o Império Lunar** — justiça implacável contra quem ameaça os seguidores da Lua Vermelha. Daí a contradição Cruel/Misericordiosa: terrível deusa da vingança para os inimigos; benevolente, gentil e amorosa para quem precisa de proteção.
+- **Aos inimigos**, Jar-Eel é a Whore of Glamour, que monta uma Abominação Escarlate e consorte de broos, vampiros e outras monstruosidades — a personificação do Império Lunar e do Mal em si. Talvez apenas Arkat rivalize com ela como figura mais divisiva de Glorantha.
+
+### Amantes e "Libertação Espiritual" de Moirades
+A lista de amantes conhecida (até 1625) inclui **Beat-Pot**, **Moirades** (Rei de Tarsh), pelo menos uma (provavelmente duas) **Mask**, sem dúvida um deus ou três, satrapos, instrutores de ioga e muitos outros. **Moirades morreu em seu momento de iluminação** ("libertação espiritual" — ter relações com Jar-Eel); há representações tântricas de Jar-Eel sobre um Moirades prostrado e beatífico, como Kali sobre Shiva.
+
+### Jar-Eel e Argrath — Sombras Mútuas
+> "Jar-Eel e Argrath são a sombra um do outro. Argrath é o rebelde, o herói aventureiro romântico, a rock star mágica que se reinventa sempre que você acha que o entendeu. Jar-Eel, pelo contrário, é uma deusa do Império."
+
+### Idade e Aparência (1625)
+Nascida em **1588**, Jar-Eel tinha **37 anos (mas aparenta 22)** em 1625. Quando liderou a Guarda Imperial vitoriosa pela falésia do Palácio Real de Boldhome, tinha apenas **14 anos** (1602).
+
+### Jar-Eel salva Beat-Pot
+Jar-Eel salva **Beat-Pot Aelwrin**, e ele se torna seu servo mais devotado e um de seus amantes (ver [[Beat-Pot Aelwrin]]).
+
 ### Crimes Atribuídos
 > De todos os muitos crimes cometidos pela Rainha-Bruxa de Sangue Venenoso do Império Lunar, talvez o maior crime tenha sido quando ela assassinou Belintar, o Deus-Rei, e encerrou a proximidade divina do País Santo.
 
@@ -89,10 +118,14 @@ Apesar da reputação maligna, seu apelido "Rainha-Bruxa de Sangue Venenoso" pod
 - [[Fronela]]
 - [[White Moon Movement]]
 - [[Moonsword]]
+- [[Natha]]
+- [[Beat-Pot Aelwrin]]
+- [[Moirades]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Fonte: [Journal of Runic Studies #28](https://godlearners.com/journal-of-runic-studies-28/)
+- Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
 - Escribas de Argrath
 - Arte: Jon Hodgson © 2021 Chaosium Inc.
 
@@ -103,3 +136,5 @@ Apesar da reputação maligna, seu apelido "Rainha-Bruxa de Sangue Venenoso" pod
 - [ ] Detalhar o culto da Moonsword.
 - [ ] Quem é o White Moon Movement exatamente?
 - [ ] Jar-Eel obtém mais magia de sua Hero Soul ou de sua adoração às divindades Lunares?
+- [ ] Quem são as outras Mask do Imperador Vermelho que teriam sido amantes de Jar-Eel?
+- [ ] O que aconteceu ao filho de Jar-Eel?

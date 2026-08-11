@@ -2,8 +2,8 @@
 title: "Argrath"
 category: "Entidade"
 tags: [herói, Libertador, Pavis, Império Lunar, Griselda, Hero Wars, Arkat, reencarnação]
-sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-27/", "https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html", "https://godlearners.com/journal-of-runic-studies-28/"]
-last_updated: 2026-05-16
+sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-27/", "https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html", "https://godlearners.com/journal-of-runic-studies-28/", "https://godlearners.com/journal-of-runic-studies-45/"]
+last_updated: 2026-08-11
 status: draft
 aliases:
   - "Argrath White Bull"
@@ -51,6 +51,22 @@ Enquanto Kallyr era "literal e inflexível" demais, Argrath — com sua **conex�
 > "O Orlanthi frequentemente diz que um herói é feito de seus fracassos, culpas e medos. Sem eles, não há nada a superar e, portanto, nenhum herói."
 
 A capacidade de Argrath de abraçar contradições conecta-se à sua natureza como reencarnação de [[Arkat Caosban]], que também abraçou sua Sombra ao tornar-se um troll para derrotar [[Nysalor]].
+
+### Argrath=Arkat — a Mesma Entidade
+Jeff Richard desenvolve (JRS #45) a ideia de que, no nível mais fundamental, **o Argrath de Greg É Arkat** e plenamente vivencia/participa dos mitos de Orlanth como mortal. Não se trata de repetir os feitos de Arkat ou Orlanth — muito pelo contrário: **Argrath confronta situações novas como se fosse Arkat ou Orlanth**, e *pretende* fazer algo novo. Isso o torna mais afinado com Orlanth que qualquer outro herói Orlanthi, incluindo Harmast Barefoot.
+
+> "Como Arkat, Argrath lutou contra Gbaji e foi transformado no processo. No fim, a Lua Vermelha foi quebrada e o mundo mudou. Como Arkat, Argrath abraçou monstros para cumprir sua tarefa — Arkat com trolls, Argrath com dragões."
+
+- No mais básico, **Argrath e Arkat eram a MESMA ENTIDADE**: nos primeiros contos de Greg, um herói chamado **Argat/Aragat** lutou contra Gbaji para encerrar a era das lendas; foi posto em *White Bear and Red Moon* como **Argrath, Príncipe de Sartar**, e depois na história gloranthana como **Arkat Chaosbane** — a mesma fonte.
+- Greg e Jeff falaram longamente sobre "Argrat-Arkat-Argrath-Arthur-Alexander". Jeff acrescenta à mistura Arkat-Orlanth **Alexandre e Bowie** para sua própria compreensão: "o herói aventureiro romântico, a rock star mágica que se reinventa sempre que você acha que o entendeu".
+- **Diferença essencial:** Arkat era um materialista racional que precisou abraçar seu monstro irracional para confrontar Gbaji; Argrath era um exilado de fora que precisou encontrar sua comunidade para confrontar Gbaji. "Para superar o Deceiver, precisamos confrontar e lidar com nossa própria Sombra."
+- É possível ver Argrath como **purificando a Deusa da Lua**, removendo sua mancha de Caos para que os ciclos de Glorantha não mais ameacem a existência, mas se tornem plenamente parte dela.
+
+### A Vida de Argrath Paralela à de Orlanth
+> "Vale observar o quanto as experiências de vida de Argrath se parecem com as de Orlanth. Exílio para os Strange Gods das Terras Ermas. Comunicação com espíritos e dragões. Casamento e reinado. E assim por diante. Sua vida é paralela à de seu deus. Não surpreende que as culturas pós-Hero Wars frequentemente os vissem como a mesma entidade!"
+
+- O **exílio de Argrath para os Strange Gods** corresponde à iniciação de Orlanth: no *King of Sartar*, Orlanth e seus irmãos foram "iniciados" quando gigantes os lançaram em situações irritantes — Humakt numa Fighting Pit, Vadrus num Deep Well, Storm Bull no Animal Corral; **Orlanth foi posto entre os Strange Gods**, com quem primeiro brigou e depois fez amizade, retornando. Foi o que Argrath fez em Prax.
+- A chave de seu sucesso: Argrath descobriu que a **repetição do mito é desnecessária e muitas vezes indesejável** — o que importa é a participação com os poderes e arquétipos brutos do mundo e a disposição de causar mudança para preservar o cosmos.
 
 ### Resumo da Vida de Argrath (até 1627)
 Jeff Richard e Greg Stafford compilaram um resumo da trajetória de Argrath:
@@ -106,7 +122,6 @@ Esta conexão vincula Argrath ao mito primordial de **Arkat vs Gbaji**, um confl
 - [[Arkat, o Destruidor]]
 - [[Pavis]]
 - [[Império Lunar]]
-- [[Hero Wars]]
 - [[The Return to Pavis]]
 - [[As the Appearance of Horses]]
 - [[Inkarne]]
@@ -119,6 +134,7 @@ Esta conexão vincula Argrath ao mito primordial de **Arkat vs Gbaji**, um confl
 ## Referências
 - Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
 - Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
+- Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
 - Fonte: [Drops Glorantha #3 - Prince of Sartar](https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 

@@ -2,8 +2,8 @@
 title: "Yelmalio"
 category: "Entidade"
 tags: [deus, sol, Lightfore, Fogo/Céu, Cold Sun, Preserver of Light, Sun Dome, mitologia, Elmal]
-sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://godlearners.com/journal-of-runic-studies-32/"]
-last_updated: 2026-05-17
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://godlearners.com/journal-of-runic-studies-32/", "https://godlearners.com/journal-of-runic-studies-45/"]
+last_updated: 2026-08-11
 status: draft
 ---
 
@@ -68,6 +68,26 @@ Ambas as regiões mantêm laços religiosos e culturais próximos. Dois dos últ
 ### Culto em Alda-Chur
 No **Far Place** (região de Alda-Chur), [[Harvar Ironfist]], um Yelmalion Rune Lord, usou o apoio Lunar e a organização centralizada do culto para dominar a confederação tribal, apesar dos Orlanthi serem numericamente superiores.
 
+### Por que o Culto de Yelmalio Sobrevive (JRS #45)
+Jeff Richard explica as razões da sobrevivência e tenacidade do culto:
+
+1. **Seus adoradores são realmente tenazes** — aprenderam a lutar como soldados e têm coesão interna tremenda. Podem perder muitos duelos para Wind Lords, mas vencem muitas batalhas de formação contra tribos — não por magia, mas por coisas como pike and shield ou o arco de Kuschile.
+2. **Ele não é Yelm** — Yelmalio é muito mais facilmente tolerado pelos Lightbringers, e seu culto não é um desafio político do mesmo modo (mesmo que ambos os cultos sejam igualmente neutros em relação a Orlanth). Pode existir como minoria autônoma.
+3. **Longa tradição de existência** — "a regra da Delta House é real".
+4. **Preenche um nicho importante** — é um culto do Céu que pode coexistir com a Terra e a Tempestade como pares. É realmente bom contra trolls e a escuridão. **Elfos o adoram.**
+
+> "Yelmalio, por exemplo, fornece 4 Rune Spells especiais, todos os Rune Spells comuns, 2 Rune Spells associados, além de gifts. Sua magia é boa para enxergar na escuridão, livrar-se da escuridão, livrar-se de nuvens, comandar falcões, abençoar colheitas e curar o corpo. Seus gifts dão a seus seguidores uma vantagem — potencialmente uma vantagem séria."
+
+- Greg ficou muito satisfeito com Yelmalio precisamente porque **seu culto não é tão magicamente poderoso** em comparação a Orlanth ou Humakt. Mas Yelmalio oferece algo importante — **o conto de ser a Última Luz na Escuridão**. Sobreviveu à Grande Escuridão, mesmo que estivesse muito fraco no fim, e estava lá para saudar o retorno do Sol e dos outros deuses.
+- Yelmalio sobreviveu à Grande Escuridão **sem** uma habilidade mágica de sobrevivência — a luz simplesmente não foi completamente extinta. **Sunbright é essa capacidade**: Yelmalio pode tornar as coisas tão brilhantes quanto um dia ensolarado, mesmo na noite mais escura.
+
+### Contexto: Criação dos Cultos de Poder Desigual (JRS #45)
+Jeff explica a origem dos cultos desbalanceados a partir da **história do Tempo**:
+- No Amanhecer, a maioria adorava **Spirit Cults** fracos (Oakfed, Diros, Telmor, Rathor, Black Fang, Frog Woman, Grain Goddess, Lightning Boys, Yinkin etc.), que davam um punhado de Rune Spells — o que os carregou pela Grande Escuridão e pelas Grey Ages.
+- Os **Theyalans** ("Povo do Amanhecer" — Lightbringers/Orlanthi, termos usados intercambiavelmente) enviaram speakers por Genertela, provando que muitos espíritos eram aspectos dos deuses maiores (Lightning Boy é uma das Quatro Armas Mágicas de Orlanth Aventureiro; a Grain Goddess serve Ernalda; o Urox de Stormwalk é o mesmo deus do Storm Bull do Vento do Deserto).
+- Alguns deuses "fantasticamente úteis na Grey Age e no Amanhecer" permaneceram populares apesar da magia mais fraca — **Yelmalio é o exemplo**.
+- **Não só nem toda atividade humana tem um Rune Spell ligado a ela** — e atividades que têm podem ter apenas poucos mitos trilhados. As novas regras de heroquesting mostram como cultos se formam e mudam no Tempo.
+
 ## Referências Cruzadas
 - [[Elmal]]
 - [[Yelm]]
@@ -84,8 +104,10 @@ No **Far Place** (região de Alda-Chur), [[Harvar Ironfist]], um Yelmalion Rune 
 - Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html)
 - Fonte: [Journal of Runic Studies #31](https://godlearners.com/journal-of-runic-studies-31/)
 - Fonte: [Journal of Runic Studies #32](https://godlearners.com/journal-of-runic-studies-32/)
+- Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
 
 ## Questões em Aberto
 - [ ] Yelmalio tem outros epítetos além de Cold Sun e Preserver of Light?
 - [ ] Quais as diferenças rituais entre o culto de Yelmalio em Sartar e em Dara Happa?
 - [ ] Como o culto de Yelmalio em Tarsh difere do de Sartar?
+- [ ] Quais são exatamente os 4 Rune Spells especiais e os 2 associados de Yelmalio?
