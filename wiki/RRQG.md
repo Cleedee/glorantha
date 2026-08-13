@@ -1,9 +1,9 @@
 ---
 title: "RRQG"
 category: "Conceito"
-tags: [RuneQuest, revisão, RQG, MOB, Mark Morrison, Brian Holland, 2026-2027]
-sources: ["raw/notas/Publicações Futuras.md", "https://wellofdaliath.chaosium.com/a-bit-more-insight-on-the-rqg-revised-project/", "https://wellofdaliath.chaosium.com/update-on-whats-happening-with-rq/"]
-last_updated: 2026-04-14
+tags: [RuneQuest, revisão, RQG, MOB, Mark Morrison, Brian Holland, 2026-2027, The Mouth of Chaos]
+sources: ["raw/notas/Publicações Futuras.md", "https://wellofdaliath.chaosium.com/a-bit-more-insight-on-the-rqg-revised-project/", "https://wellofdaliath.chaosium.com/update-on-whats-happening-with-rq/", "https://www.chaosium.com/blogtable-tales-breaking-the-curse-of-the-empty-table/"]
+last_updated: 2026-08-12
 status: draft
 ---
 
@@ -25,9 +25,14 @@ status: draft
 - **Brian Holland**
 
 ### Status
-- **Previsão:** "Wrapped up soon" (abril 2026)
+- **Previsão:** "Wrapped up soon" (abril 2026); segundo [[Mark Morrison]] (ago/2026), o livro é "para o próximo ano" — **2027**.
 - **Estado:** Excelente progresso
 - **Política:** Não substituirá o RQG de 2018; ambos coexistirão
+
+### Aventura Inclusa: The Mouth of Chaos
+- O novo rulebook incluirá a **aventura curta [[The Mouth of Chaos]]**, escrita por [[Brian Holland]] e projetada para apresentar **novos jogadores** a Glorantha e às mecânicas centrais de RuneQuest.
+- Inclui **aventureiros pré-gerados** de Brian Holland (Titus o Minotauro, Marmar o Pato, Attia a Curandeira), com arte de [[Ossi Hiekkala]].
+- Playtestada pelo grupo de Mark Morrison em agosto de 2026, com ajustes finos resultantes do feedback dos jogadores.
 
 ### Características
 - ~60% do tamanho do reglamento atual

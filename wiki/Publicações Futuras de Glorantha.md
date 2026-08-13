@@ -19,8 +19,9 @@ Lista compilada de **publicações futuras** de [[Glorantha]] pela Chaosium, com
 - Core rules, GM Guide and Bestiary, campanha em 4 partes, player aid pack, standees
 
 ### RRQG (RuneQuest Revisado)
-- **Previsão:** Final 2026 ou início 2027
+- **Previsão:** Final 2026 ou início 2027; segundo [[Mark Morrison]] (ago/2026), o livro é "para o próximo ano" — **2027**.
 - 60% do tamanho atual, erratas corrigidas, compatível com suplementos existentes
+- Incluirá a **aventura curta [[The Mouth of Chaos]]** ([[Brian Holland]]), com pré-gerados de arte de [[Ossi Hiekkala]]
 
 ### Lands of RuneQuest: Sartar
 - **Status:** Indo para layout (nov 2025)

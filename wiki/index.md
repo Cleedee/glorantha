@@ -41,6 +41,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Sor-eel the Short]] | 1º Governador Lunar de New Pavis (1610-1621); administrador esclarecido; clã Eel-ariash | `Lunar` `governador` `New Pavis` `Eel-ariash` | draft |
 | [[Joh Mith]] | Sacerdote Issaries Goldentongue e membro do Conselho de Jonstown; caravana a Balazar (Griffin Mountain); tatuagens registram pactos: Greatway, Vale of Flowers, Mark of Friendly Passage, iniciação dupla Malani/Colymar | `Issaries` `Jonstown` `Goldentongue` `tatuagens` `Balazar` `comércio` `Starter Set` | draft |
 | [[Prince Saronil]] | Príncipe de Sartar retratado "roubando segredos dos anões" na Illustrated History of Sartar (arte Agathe Pitie, Sartar Homeland Boxed Set) | `Sartar` `príncipe` `anões` `Mostali` `história` | draft |
+| [[Mark Morrison]] | Editorial associate da Chaosium; autor da coluna Table Tales; coautor do RRQG; autor do cenário Star in Darkness | `Chaosium` `editorial` `Table Tales` `RRQG` `RuneQuest` | draft |
+| [[Brian Holland]] | Designer da Chaosium; coautor do RRQG; autor de The Mouth of Chaos e seus pré-gerados | `designer` `Chaosium` `RRQG` `The Mouth of Chaos` | draft |
+| [[Ossi Hiekkala]] | Artista de staff da Chaosium; arte dos pré-gerados de The Mouth of Chaos e capas de RuneQuest | `artista` `Chaosium` `RuneQuest` `ilustrador` | draft |
 
 ---
 
@@ -163,6 +166,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[A Pyre for Gods and Heroes]] | Romance inacabado de Stafford; finalizado por Montgomery; 50º aniversário; Harmast's Saga | `romance` `Stafford` `Montgomery` | draft |
 | [[White Bear and Red Moon]] | Jogo de batalha; reedição com regras simplificadas | `tabuleiro` `batalha` | draft |
 | [[Stealing the Eye]] | Aventura breve RuneQuest; infiltração em templo; 14 págs | `aventura` `PDF` | draft |
+| [[The Mouth of Chaos]] | Aventura curta de Brian Holland incluída no novo rulebook de RuneQuest (RRQG); introdução para novos jogadores; pré-gerados Titus (Minotauro), Marmar (Pato) e Attia (Curandeira) | `aventura` `RRQG` `Brian Holland` `introdução` `pré-gerados` | draft |
+| [[Star in Darkness]] | Cenário de convenção de Mark Morrison com cavaleiro de unicórnio; não destinado à impressão | `aventura` `RuneQuest` `unicórnio` `convenção` `Mark Morrison` | draft |
 | [[A Darkness at Runegate]] | Aventura RuneQuest; plaga em Puerta Rúnica; rainha Leika; 35 págs | `aventura` `PDF` | draft |
 | [[The Hunt for the Storm Calf]] | Aventura RuneQuest; demonstração revisada | `aventura` `PDF` | draft |
 | [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi; cenário incluso | `suplemento` `Sartar` `layout` | draft |
@@ -442,5 +447,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-08-11 (Journal of Runic Studies #45)*
+*Última atualização: 2026-08-12 (Table Tales — Breaking the Curse of the Empty Table)*
 
