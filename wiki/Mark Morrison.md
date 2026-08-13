@@ -1,8 +1,8 @@
 ---
 title: "Mark Morrison"
 category: "Entidade"
-tags: [Chaosium, editorial, Table Tales, RRQG, RuneQuest, cenário, convenção]
-sources: ["https://www.chaosium.com/blogtable-tales-breaking-the-curse-of-the-empty-table/"]
+tags: [Chaosium, editorial, Table Tales, RRQG, RuneQuest, cenário, convenção, ChaosiumCon UK]
+sources: ["https://www.chaosium.com/blogtable-tales-breaking-the-curse-of-the-empty-table/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
 last_updated: 2026-08-12
 status: draft
 ---
@@ -16,7 +16,7 @@ status: draft
 
 ### Carreira na Chaosium
 - **Editorial associate** da Chaosium, trabalhando em projetos criativos em várias linhas de jogo.
-- Coautor do [[RRQG]] — o RuneQuest revisado previsto para 2027.
+- Coautor do [[RRQG]] — o RuneQuest revisado previsto para **Q1 2027**; apresentou o projeto no painel "What's New With RuneQuest?" da [[ChaosiumCon UK]] 2026.
 - Escreve a coluna **Table Tales** no blog da Chaosium, sobre a diversão de jogar os jogos da empresa.
 
 ### Cenários e Playtests
@@ -35,9 +35,11 @@ status: draft
 - [[Brian Holland]]
 - [[Michael O'Brien]]
 - [[Chaosium]]
+- [[ChaosiumCon UK]]
 
 ## Referências
 - Fonte: [Table Tales: Breaking the Curse of the Empty Table — Chaosium Blog](https://www.chaosium.com/blogtable-tales-breaking-the-curse-of-the-empty-table/)
+- Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
 
 ## Questões em Aberto
 - [ ] Outros cenários de convenção de Morrison já foram publicados?

@@ -1,9 +1,9 @@
 ---
 title: "QuestWorlds"
 category: "Conceito"
-tags: [sistema, regras, QuestWorlds, SRD, Chaosium, Ian Cooper, storytelling]
-sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://godlearners.com/journal-of-runic-studies-8/", "https://godlearners.com/journal-of-runic-studies-32/"]
-last_updated: 2026-05-17
+tags: [sistema, regras, QuestWorlds, SRD, Chaosium, Ian Cooper, storytelling, genre packs, ChaosiumCon UK]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://godlearners.com/journal-of-runic-studies-8/", "https://godlearners.com/journal-of-runic-studies-32/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
+last_updated: 2026-08-12
 status: draft
 ---
 
@@ -36,6 +36,9 @@ O QuestWorlds esteve ligado a Glorantha desde suas origens (via Hero Wars → He
 ### Lançamentos
 O calendário de lançamentos da Chaosium para o primeiro semestre de 2026 prevê apenas a versão impressa do QuestWorlds — nenhum suplemento adicional por enquanto.
 
+### Genre Packs (2026)
+No painel da [[ChaosiumCon UK]] 2026, foi anunciado que a linha de **genre packs** de QuestWorlds terá **[[QuestWorlds Glorantha]] como o número 2** da série, desenvolvido com [[Ian Cooper]]. O **número 1** da linha é o *QuestWorlds Hero Wars* (o mythic Bronze Age setting do próprio Cooper).
+
 ### Campanhas Ativas
 O sistema já está sendo utilizado em mesas de Glorantha, incluindo:
 - A campanha **[[Valley of Plenty]]** (Saga dos Jaldonkillers) — mestreada por [[Claudio Torcato]]
@@ -49,9 +52,12 @@ O sistema já está sendo utilizado em mesas de Glorantha, incluindo:
 - [[Glorantha]]
 - [[Valley of Plenty]]
 - [[The Horse and His Children]]
+- [[QuestWorlds Glorantha]]
+- [[ChaosiumCon UK]]
 
 ## Referências
 - Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
+- Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
 - [QuestWorlds SRD — GitHub](https://github.com/ChaosiumInc/QuestWorlds)
 - [QuestWorlds — DriveThruRPG](https://www.drivethrurpg.com/en/product/509287/questworlds)
 

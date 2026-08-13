@@ -1,8 +1,8 @@
 ---
 title: "Ossi Hiekkala"
 category: "Entidade"
-tags: [artista, Chaosium, RuneQuest, ilustrador]
-sources: ["https://www.chaosium.com/blogtable-tales-breaking-the-curse-of-the-empty-table/"]
+tags: [artista, Chaosium, RuneQuest, ilustrador, ChaosiumCon UK]
+sources: ["https://www.chaosium.com/blogtable-tales-breaking-the-curse-of-the-empty-table/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
 last_updated: 2026-08-12
 status: draft
 aliases: [Ossi Heikkala]
@@ -18,6 +18,8 @@ aliases: [Ossi Heikkala]
 ### Trabalho em RuneQuest
 - Ilustrou os **aventureiros pré-gerados** de [[The Mouth of Chaos]] (Titus o Minotauro, Marmar o Pato, Attia a Curandeira), aventura de [[Brian Holland]] para o [[RRQG]].
 - Arte de capa de outros produtos de RuneQuest da linha atual (como o [[RuneQuest Starter Set]], o [[RuneQuest Weapons & Equipment]] e [[Lands of RuneQuest - Dragon Pass]]) e arte interior de volumes da série **[[Cults of RuneQuest]]**.
+- **Capas de 2026/2027** (painel da [[ChaosiumCon UK]]): [[Welcome to Boldhome]] (alguém levando um soco no rosto), [[Welcome to Glorantha]], e o **Gamemaster Screen Pack** atualizado (capa do [[Upland Marsh]]). Também fez arte nova para [[Apple Lane]] e a revisão de capa do [[RuneQuest Starter Set]].
+- Produziu os **pré-gerados** de [[The Mouth of Chaos]] em estilo inconfundível, descrito como arte de "minotauro com echarpe".
 
 ### Nota sobre o Nome
 O sobrenome é por vezes grafado erroneamente como **"Heikkala"** em referências da wiki — o nome correto é **Hiekkala**.
@@ -27,9 +29,14 @@ O sobrenome é por vezes grafado erroneamente como **"Heikkala"** em referência
 - [[RRQG]]
 - [[RuneQuest]]
 - [[Chaosium]]
+- [[Welcome to Boldhome]]
+- [[Welcome to Glorantha]]
+- [[Apple Lane]]
+- [[ChaosiumCon UK]]
 
 ## Referências
 - Fonte: [Table Tales: Breaking the Curse of the Empty Table — Chaosium Blog](https://www.chaosium.com/blogtable-tales-breaking-the-curse-of-the-empty-table/)
+- Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
 
 ## Questões em Aberto
 - [ ] Página de perfil/portfólio completo do artista a consolidar.

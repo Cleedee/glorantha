@@ -1,9 +1,9 @@
 ---
 title: "A Pyre for Gods and Heroes"
 category: "Fonte"
-tags: [romance, Greg Stafford, Andrew Logan Montgomery, Primeira Era, Harmast, ficção oficial, 411, Harmast's Saga, Susan O'Brien, Jeff Richard]
-sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html"]
-last_updated: 2026-04-13
+tags: [romance, Greg Stafford, Andrew Logan Montgomery, Primeira Era, Harmast, ficção oficial, 411, Harmast's Saga, Susan O'Brien, Jeff Richard, ChaosiumCon UK]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
+last_updated: 2026-08-12
 status: draft
 ---
 
@@ -16,11 +16,12 @@ status: draft
 
 ### Publicação
 - **Autor original:** Greg Stafford
-- **Completado por:** [[Andrew Logan Montgomery]] (Julho–Dezembro 2025)
+- **Completado por:** [[Andrew Logan Montgomery]] (Julho–Dezembro 2025), com [[Susan O'Brien]] (editora de ficção da Chaosium) trabalhando com ele para terminar "autenticamente com a voz de Greg"
 - **Editora:** Susan O'Brien
 - **Páginas:** 440
 - **Época:** Primeira Era de Glorantha — eventos principais em 411 ST, com material mostrando anos e décadas anteriores
 - **Importância:** Primeira obra de uma nova linha de ficção oficial da Chaosium; projeto do 50º aniversário
+- **Status (2026):** Segundo o painel da [[ChaosiumCon UK]] 2026, Greg deixou **~95% de um romance terminado**; a obra está nas **etapas finais de desenvolvimento, indo para impressão**
 
 ### Nome Original
 O manuscrito era conhecido como **"Harmast's Saga"** (A Saga de Harmast).
@@ -63,14 +64,16 @@ Um trecho do romance, "Invitations", está disponível gratuitamente: [Invitatio
 - [[Susan O'Brien]]
 - [[Michael O'Brien]]
 - [[KaijuCon]]
+- [[ChaosiumCon UK]]
 
 ## Referências
 - Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 - Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html)
 - [Excerto "Invitations" — Chaosium](https://www.chaosium.com/blogread-invitations-an-excerpt-from-greg-staffords-forthcoming-gloranthan-novel-a-pyre-for-gods-and-heroes/)
+- Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
 
 ## Questões em Aberto
-- [ ] Qual é a data de lançamento prevista?
+- [ ] Qual é a data de lançamento prevista? (painel da ChaosiumCon UK 2026: nas etapas finais, indo para impressão — sem data fixa)
 - [ ] Quais outras obras de ficção gloranthana estão planejadas?
 - [ ] O romance será traduzido para outros idiomas?
 - [ ] Haverá versão em audiolivro?

@@ -2,8 +2,8 @@
 title: "Greg Stafford"
 category: "Entidade"
 tags: [criador, designer, Glorantha, RuneQuest, Chaosium, Colymar]
-sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html", "https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
-last_updated: 2026-04-13
+sources: ["https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html", "https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
+last_updated: 2026-08-12
 status: draft
 ---
 
@@ -48,6 +48,9 @@ A visão de Stafford para Glorantha influenciou gerações de jogadores e mestre
 ### Obra Póstuma
 Seu romance inacabado **[[A Pyre for Gods and Heroes]]** (originalmente conhecido como **"Harmast's Saga"**) foi completado por [[Andrew Logan Montgomery]] após cinco meses de trabalho (Julho–Dezembro 2025), com edição de Susan O'Brien. O projeto foi encomendado para o **50º aniversário da Chaosium**. Desde 2015, [[Jeff Richard]] e Susan O'Brien já compilavam os manuscritos de Greg — o romance estava cerca de 90% completo, com Greg deixando notas, rascunhos e diagramas para as partes faltantes.
 
+### Status do Romance (2026)
+Segundo o painel da [[ChaosiumCon UK]] 2026, Greg deixou **~95% de um romance terminado** (não "90% de notas") — o texto agora está nas **etapas finais de desenvolvimento e indo para impressão**, abrindo a nova linha de ficção gloranthana oficial da Chaosium.
+
 ## Referências Cruzadas
 - [[Glorantha]]
 - [[Chaosium]]
@@ -56,10 +59,12 @@ Seu romance inacabado **[[A Pyre for Gods and Heroes]]** (originalmente conhecid
 - [[Hero Wars]]
 - [[Templo da Espada de Madeira]]
 - [[Kallyr Testa-Estrelada]]
+- [[ChaosiumCon UK]]
 
 ## Referências
 - Fonte: [Drops Glorantha #4 - Trollball](https://jogatinasemteresina.blogspot.com/2025/10/drops-glorantha-4-trollball.html)
 - Fonte: [QuestWorlds e Glorantha](https://jogatinasemteresina.blogspot.com/2026/02/questworlds-e-glorantha.html)
+- Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
 
 ## Questões em Aberto
 - [ ] Qual foi o papel exato de Stafford na fundação da Chaosium?

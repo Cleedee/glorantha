@@ -2,8 +2,8 @@
 title: "RuneQuest: Roleplaying in Glorantha (RQG)"
 category: "Fonte"
 tags: [RuneQuest, 7ª edição, 2018, Glorantha, Greg Stafford, Steve Perrin, Jeff Richard, Jason Durall, Andrew Logan Montgomery, review, mitologia, sistema]
-sources: ["https://andrewloganmontgomery.blogspot.com/2018/05/runequest-roleplaying-in-glorantha.html", "https://wellofdaliath.chaosium.com/dual-cult-membership/"]
-last_updated: 2026-05-16
+sources: ["https://andrewloganmontgomery.blogspot.com/2018/05/runequest-roleplaying-in-glorantha.html", "https://wellofdaliath.chaosium.com/dual-cult-membership/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
+last_updated: 2026-08-12
 status: draft
 ---
 
@@ -112,6 +112,9 @@ Três sistemas principais:
 
 Heróis podem combinar duas ou três abordagens. Nem heroquesting nem Iluminação são cobertos neste livro (reservados para o GM Guide).
 
+### O Livro Revisado (RRQG)
+Em 2026, a Chaosium anunciou um **polish pass** do RQG — o **[[RRQG]]** — que **não é uma nova edição**: totalmente compatível, apenas mais enxuto (~60%), claro e voltado a novos jogadores. O RQG de 2018 **continua em catálogo** (ao menos até ~2029, conforme Q&A no painel da [[ChaosiumCon UK]] 2026). Feitiçaria e xamanismo saem do core book revisado, mas permanecem no RQG 2018 e em suplementos.
+
 ## Referências Cruzadas
 - [[RuneQuest]]
 - [[RRQG]]
@@ -131,6 +134,5 @@ Heróis podem combinar duas ou três abordagens. Nem heroquesting nem Iluminaç�
 - Fonte: [Dual Cult Membership](https://wellofdaliath.chaosium.com/dual-cult-membership/)
 
 ## Questões em Aberto
-- [ ] RQG continuará sendo vendido após o lançamento do RRQG?
 - [ ] O Gamemaster's Guide e o Bestiary serão publicados?
 - [ ] A compatibilidade retroativa com RQ2 é total ou parcial?

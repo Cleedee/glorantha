@@ -2,8 +2,8 @@
 title: "Andrew Logan Montgomery"
 category: "Entidade"
 tags: [escritor, A Pyre for Gods and Heroes, Greg Stafford, Chaosium, 50º aniversário, pedagogia, ensino]
-sources: ["https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html", "https://godlearners.com/journal-of-runic-studies-8/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-16/", "https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html", "https://andrewloganmontgomery.blogspot.com/2026/04/the-only-story-you-need-more-thoughts.html", "https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html", "https://andrewloganmontgomery.blogspot.com/2025/01/the-sacred-time-episode.html", "https://andrewloganmontgomery.blogspot.com/2024/12/trial-and-tribulation-look-at-kalayde.html", "https://andrewloganmontgomery.blogspot.com/2024/11/the-return-of-sun-county-re-release-of.html", "https://andrewloganmontgomery.blogspot.com/2024/10/apocrypha-now-look-at-dark-side-of-moon.html", "https://andrewloganmontgomery.blogspot.com/2024/10/lands-of-runequest-dragon-pass.html", "https://andrewloganmontgomery.blogspot.com/2024/05/the-lunar-way-review.html", "https://andrewloganmontgomery.blogspot.com/2023/10/cults-of-runequest-mythology-and.html", "https://andrewloganmontgomery.blogspot.com/2024/06/chaosium-con-australia-personal-report.html", "https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://andrewloganmontgomery.blogspot.com/2023/01/crimson-king-another-runequest-review.html", "https://andrewloganmontgomery.blogspot.com/2023/01/hydra-adventurers-from-lunar-provinces.html", "https://andrewloganmontgomery.blogspot.com/2021/12/excavating-glorantha-look-at-runequest.html"]
-last_updated: 2026-05-14
+sources: ["https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html", "https://godlearners.com/journal-of-runic-studies-8/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-16/", "https://andrewloganmontgomery.blogspot.com/2021/09/the-fall-of-haraborn-again-coming-back.html", "https://andrewloganmontgomery.blogspot.com/2026/04/the-only-story-you-need-more-thoughts.html", "https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html", "https://andrewloganmontgomery.blogspot.com/2025/01/the-sacred-time-episode.html", "https://andrewloganmontgomery.blogspot.com/2024/12/trial-and-tribulation-look-at-kalayde.html", "https://andrewloganmontgomery.blogspot.com/2024/11/the-return-of-sun-county-re-release-of.html", "https://andrewloganmontgomery.blogspot.com/2024/10/apocrypha-now-look-at-dark-side-of-moon.html", "https://andrewloganmontgomery.blogspot.com/2024/10/lands-of-runequest-dragon-pass.html", "https://andrewloganmontgomery.blogspot.com/2024/05/the-lunar-way-review.html", "https://andrewloganmontgomery.blogspot.com/2023/10/cults-of-runequest-mythology-and.html", "https://andrewloganmontgomery.blogspot.com/2024/06/chaosium-con-australia-personal-report.html", "https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://andrewloganmontgomery.blogspot.com/2023/01/crimson-king-another-runequest-review.html", "https://andrewloganmontgomery.blogspot.com/2023/01/hydra-adventurers-from-lunar-provinces.html", "https://andrewloganmontgomery.blogspot.com/2021/12/excavating-glorantha-look-at-runequest.html", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
+last_updated: 2026-08-12
 status: draft
 ---
 
@@ -99,6 +99,9 @@ Montgomery prescreve uma abordagem prática baseada em sua experiência:
 
 Montgomery cita *[[Six Seasons in Sartar]]* como seu modelo para esta abordagem. Todos os seus quatro jogadores atuais começaram como novatos completos usando este método e hoje são "nerds de Glorantha".
 
+### ChaosiumCon UK 2026
+Montgomery participou do painel "What's New With RuneQuest?" da [[ChaosiumCon UK]] 2026, apresentando o romance **[[A Pyre for Gods and Heroes]]** (~95% completo, indo para impressão) e o status do cenário **[[Welcome to Boldhome]]**.
+
 ### Blog
 - Ativo desde 2012
 - [andrewloganmontgomery.blogspot.com](https://andrewloganmontgomery.blogspot.com/)
@@ -167,10 +170,12 @@ Montgomery publicou em março de 2025 um artigo abrangente sobre os [[Nômades A
 - [[The Company of the Dragon]]
 - [[The Seven-Tailed Wolf]]
 - [[Jonstown Compendium]]
+- [[ChaosiumCon UK]]
 
 ## Referências
 - Fonte: [Greg Stafford's "A Pyre for Gods and Heroes" at Long Last](https://andrewloganmontgomery.blogspot.com/2026/01/greg-staffords-pyre-for-gods-and-heroes.html)
 - Fonte: [The Sons of Umath: The Kóryos Myth in Gloranthan Gaming](https://andrewloganmontgomery.blogspot.com/2022/01/the-sons-of-umath-koryos-myth-in.html)
+- Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
 - [Blog de Andrew Logan Montgomery](https://andrewloganmontgomery.blogspot.com/)
 
 ## Questões em Aberto

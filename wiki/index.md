@@ -44,6 +44,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Mark Morrison]] | Editorial associate da Chaosium; autor da coluna Table Tales; coautor do RRQG; autor do cenário Star in Darkness | `Chaosium` `editorial` `Table Tales` `RRQG` `RuneQuest` | draft |
 | [[Brian Holland]] | Designer da Chaosium; coautor do RRQG; autor de The Mouth of Chaos e seus pré-gerados | `designer` `Chaosium` `RRQG` `The Mouth of Chaos` | draft |
 | [[Ossi Hiekkala]] | Artista de staff da Chaosium; arte dos pré-gerados de The Mouth of Chaos e capas de RuneQuest | `artista` `Chaosium` `RuneQuest` `ilustrador` | draft |
+| [[Rick Meints]] | Co-proprietário da Chaosium; escreveu a introdução de Glorantha do RRQG; Q&A sobre RQG 2018 em catálogo | `Chaosium` `co-proprietário` `RRQG` | draft |
 | [[Joh Mith]] | Sacerdote Goldentongue de Issaries, membro do Conselho de Jonstown; comandou caravana a Balazar; tatuagens rúnicas documentadas | `Issaries` `Jonstown` `Balazar` `caravana` `tatuagens` `Goldentongue` | draft |
 | [[David Scott]] | Bibliotecário da Well of Daliath; arquivista da produção online dos designers da Chaosium | `Well of Daliath` `Chaosium` `arquivista` `lore` | draft |
 | [[Studio Deadcrows]] | Estúdio francês da localização oficial de RQG (Game On Tabletop 2019); produtor de Children of the Flame | `editora` `estúdio` `francês` `RuneQuest` `tradução` | draft |
@@ -148,6 +149,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 |--------|--------|------|--------|
 | [[Windstop]] | Ano de 1621-1622 em que Orlanth e Ernalda estiveram mortos em Dragon Pass por heroquest lunar; cultos associados preencheram o vácuo; revertido por Kallyr e Broyan | `Windstop` `Orlanth` `Ernalda` `Whitewall` `Império Lunar` `Tatius` `heroquesting` | draft |
 | [[Batalha dos Heróis]] | Batalha épica de 1628; Argrath derrota o Exército Lunar do Imperador Vermelho e Jar-eel; Harrek mata Jar-eel; pior derrota Lunar desde Sheng Seleris | `Battle of Heroes` `Argrath` `Harrek` `Jar-Eel` `1628` `Hero Wars` | draft |
+| [[ChaosiumCon UK]] | Convenção da Chaosium no Reino Unido (2026); painel "What's New With RuneQuest?" com roadmaps de RQ (RRQG Q1 2027, Welcome to Glorantha, Royal Road, Return to Snake Pipe Hollow, WBRM 50º aniversário, A Pyre for Gods and Heroes) | `convenção` `Chaosium` `painel` `RuneQuest` `roadmap` `2026` | draft |
 
 ---
 
@@ -169,11 +171,15 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hasbro]] | Adquiriu marca HeroQuest em 2020; motivou criação do QuestWorlds | `empresa` `marca` | draft |
 | [[A Pyre for Gods and Heroes]] | Romance inacabado de Stafford; finalizado por Montgomery; 50º aniversário; Harmast's Saga | `romance` `Stafford` `Montgomery` | draft |
 | [[White Bear and Red Moon]] | Jogo de batalha; reedição com regras simplificadas | `tabuleiro` `batalha` | draft |
+| [[Apple Lane]] | Reimpressão ampliada do livro de aventuras do GM Screen Pack (2026); seção de encontros de Sartar + arte nova de Ossi Hiekkala; "atualização canônica" | `aventura` `RuneQuest` `Sartar` `GM Screen Pack` `2026` | draft |
 | [[Stealing the Eye]] | Aventura breve RuneQuest; infiltração em templo; 14 págs | `aventura` `PDF` | draft |
 | [[The Mouth of Chaos]] | Aventura curta de Brian Holland incluída no novo rulebook de RuneQuest (RRQG); introdução para novos jogadores; pré-gerados Titus (Minotauro), Marmar (Pato) e Attia (Curandeira) | `aventura` `RRQG` `Brian Holland` `introdução` `pré-gerados` | draft |
 | [[Star in Darkness]] | Cenário de convenção de Mark Morrison com cavaleiro de unicórnio; não destinado à impressão | `aventura` `RuneQuest` `unicórnio` `convenção` `Mark Morrison` | draft |
 | [[A Darkness at Runegate]] | Aventura RuneQuest; plaga em Puerta Rúnica; rainha Leika; 35 págs | `aventura` `PDF` | draft |
 | [[The Hunt for the Storm Calf]] | Aventura RuneQuest; demonstração revisada | `aventura` `PDF` | draft |
+| [[Welcome to Glorantha]] | Antologia de cenários introdutórios compatível apenas com o Starter Set (Stealing the Eye, Hunt for the Storm Calf, A Darkness at Runegate); Q2 2027 | `aventura` `antologia` `Starter Set` `Q2 2027` | draft |
+| [[RuneQuest on the Royal Road]] | Coleção épica de encontros com PNJs completos na Estrada Real; nascida de capítulo de Lands of RuneQuest: Sartar; fim de 2027 | `aventura` `PNJs` `Royal Road` `2027` | draft |
+| [[Return to Snake Pipe Hollow]] | Aventura nova na dungeon clássica de Snake Pipe Hollow, após o Dragonrise; fim de 2027 | `aventura` `Snake Pipe Hollow` `dungeon` `2027` | draft |
 | [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi; cenário incluso | `suplemento` `Sartar` `layout` | draft |
 | [[Welcome to Boldhome]] | Cenário de 40 páginas em Boldhome; três partes; Andrew Logan Montgomery | `aventura` `Sartar` `Boldhome` | draft |
 | [[cults-earth-goddesses-review]] | Resenha de Andrew Logan Montgomery sobre Cults of RuneQuest: The Earth Goddesses; Imarja, Husband-Protectors, divisão das deusas da Terra | `blog` `review` `Cults of RuneQuest` `Ernalda` `Imarja` `Esrolia` | draft |
@@ -214,7 +220,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 85]] | 85ª edição; livros de cultos, Escalation! art, trolls, feitiçaria, Maboder e Dundealos | `periódico` `cultos` `trolls` `feitiçaria` `Maboder` `Dundealos` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); retorno à Chaosium após 30 anos; 448 págs; sistemas de Runas, Paixões, Augment; review completa de ALM | `sistema` `2018` `7ª ed` `review` `Chaosium` `mitologia` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
-| [[RRQG]] | RQG revisado; 60% tamanho; MOB+Morrison+Holland; compatível total; em breve | `sistema` `revisão` `MOB` | draft |
+| [[RRQG]] | RQG revisado (polish pass, não nova edição); 60% tamanho; MOB+Morrison+Holland; Q1 2027; 5 culturas/9 cultos; inclui The Mouth of Chaos | `sistema` `revisão` `MOB` `Q1 2027` | draft |
 | [[Cults of RuneQuest - Mythology]] | Vol introdutório; Monomyth, mapas míticos, genealogias; 158 págs | `suplemento` `mitologia` `cultos` | draft |
 | [[Cults of RuneQuest - The Prosopaedia]] | Dicionário de deuses/heróis; 140p; Katrin Dirim; sem dados de jogo | `suplemento` `mitologia` `Prosopaedia` | draft |
 | [[Cults of RuneQuest - The Earth Goddesses]] | 16 cultos da Terra; Imarja, Asrelia, Ty Kora Tek, Voria, Grain Goddesses, Bloody Tusk; review | `suplemento` `cultos` `terra` `Ernalda` `Imarja` | draft |
@@ -240,6 +246,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[The Dragonrise]] | Material offstage de Eleven Lights; QuestWorlds; Ian Cooper | `aventura` `QuestWorlds` | draft |
 | [[Fonrit]] | Sourcebook região; comércio de açúcar na Baía de Koraru; QuestWorlds; Ian Cooper | `região` `QuestWorlds` `açúcar` `comércio` | draft |
 | [[QuestWorlds Worlds & Quests]] | Como criar pacotes de gênero; 3 exemplos; Ian Cooper | `suplemento` `QuestWorlds` | draft |
+| [[QuestWorlds Glorantha]] | Genre pack nº 2 da linha QuestWorlds, com Ian Cooper; anunciado na ChaosiumCon UK 2026 | `QuestWorlds` `genre pack` `Glorantha` `Ian Cooper` | draft |
 | [[Gamemaster Sourcebook]] | Regras de heroquestes + batalhas em massa; chassis Pendragon; heroquesting com cartas; Chris Klug; 4º-5º na fila | `suplemento` `mestre` `Pendragon` `heroquesting` | draft |
 | [[Dhole's House]] | Website de criação de personagens para Call of Cthulhu; adquirido pela Chaosium; ferramentas similares planejadas para RQ | `ferramenta` `Chaosium` `Call of Cthulhu` | draft |
 | [[Black Monk Games]] | Distribuidora polonesa da Chaosium; parceira oficial da Moon Design Publications | `empresa` `distribuidora` `Polônia` | draft |

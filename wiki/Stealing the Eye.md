@@ -1,9 +1,9 @@
 ---
 title: "Stealing the Eye"
 category: "Fonte"
-tags: [aventura, RuneQuest, PDF, infiltração, templo, 14 páginas]
-sources: ["https://elruneblog.blogspot.com/search/label/Glorantha"]
-last_updated: 2026-04-13
+tags: [aventura, RuneQuest, PDF, infiltração, templo, 14 páginas, Welcome to Glorantha]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
+last_updated: 2026-08-12
 status: draft
 ---
 
@@ -32,17 +32,19 @@ Os aventureiros devem se infiltrar em um templo inimigo — missão de espionage
 - Recebeu "lavado de cara" com arte e mapas novos
 
 ### Compilação Futura
-Esta aventura será recolhida num **suplemento de aventuras** físico no futuro, junto com outras aventuras curtas lançadas em PDF.
+Esta aventura será recolhida no suplemento de aventuras **[[Welcome to Glorantha]]** (Q2 2027), junto com **[[The Hunt for the Storm Calf]]**, **[[A Darkness at Runegate]]** e outras aventuras curtas. Segundo o painel da [[ChaosiumCon UK]] 2026, o volume será **compatível apenas com o Starter Set** (ver página dedicada).
 
 ## Referências Cruzadas
 - [[RuneQuest]]
 - [[A Darkness at Runegate]]
 - [[The Hunt for the Storm Calf]]
+- [[Welcome to Glorantha]]
+- [[ChaosiumCon UK]]
 
 ## Referências
 - Fonte: [Noticias D100 — Runeblog](https://elruneblog.blogspot.com/search/label/Glorantha)
 - [Stealing the Eye — DriveThruRPG](https://www.drivethrurpg.com/en/product/556838/runequest-stealing-the-eye)
+- Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
 
 ## Questões em Aberto
 - [ ] Em que localização de Glorantha se passa a aventura?
-- [ ] Quando será lançado o suplemento compilado físico?

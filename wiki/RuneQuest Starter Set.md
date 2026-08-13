@@ -1,8 +1,8 @@
 ---
 title: "RuneQuest Starter Set"
 category: "Fonte"
-tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021, Joh Mith, Jonstown]
-sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-46/"]
+tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021, Joh Mith, Jonstown, Welcome to Glorantha]
+sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-46/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
 last_updated: 2026-08-21
 status: draft
 ---
@@ -76,6 +76,9 @@ Dois vídeos de unboxing do Starter Set foram publicados em setembro de 2021:
 ### Autoria
 - **James Coquillat** — um dos autores do SoloQuest, também responsável por entrevistas de design no canal da Chaosium no YouTube
 
+### Revisão de Capa (2026)
+O painel da [[ChaosiumCon UK]] 2026 exibiu a **revisão de capa do Starter Set** em nova arte de [[Ossi Hiekkala]]. O Starter Set continua a ser a porta de entrada para o sistema e segue **em catálogo**; a antologia [[Welcome to Glorantha]] (Q2 2027) será compatível **apenas** com ele.
+
 ### "A Rough Landing" e Joh Mith (2022)
 No **Journal of Runic Studies #46** (2022), [[Jeff Richard]] comentou os materiais do Starter Set: a aventura introdutória **"A Rough Landing"** e a seção de **[[Jonstown]]** de *The World of Glorantha*, apontando o detalhe de que **[[Joh Mith]]**, o famoso sacerdote de Issaries de *Griffin Mountain*, é citado no write-up de Jonstown — um personagem 40 anos mais velho em comparação com sua primeira aparição na década de 1970/1980.
 
@@ -86,6 +89,8 @@ No **Journal of Runic Studies #46** (2022), [[Jeff Richard]] comentou os materia
 - [[Battle of Dangerford]]
 - [[Joh Mith]]
 - [[Journal of Runic Studies 46]]
+- [[Welcome to Glorantha]]
+- [[ChaosiumCon UK]]
 
 ## Referências
 - Fonte: [Review: RuneQuest Starter Set — God Learners (Ludovic)](https://godlearners.com/review-runequest-starter-set/)
@@ -93,6 +98,7 @@ No **Journal of Runic Studies #46** (2022), [[Jeff Richard]] comentou os materia
 - Fonte: [Chaosium Blog — Design Diary 13](https://www.chaosium.com/blogrunequest-starter-set-design-diary-13-writing-the-battle-of-dangerford-soloquest/)
 - [Página de Cadastro](https://www.chaosium.com/runequest-get-the-starter-set/)
 - [SoloQuest gratuito no navegador](https://www.chaosium.com/rq-soloquest-the-battle-of-dangerford/)
+- Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
 
 ## Questões em Aberto
 - [ ] O Starter Set teve reimpressões?
