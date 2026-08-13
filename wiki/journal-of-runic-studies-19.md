@@ -16,7 +16,7 @@ status: draft
 
 ### Chaosium News
 - **RuneQuest Starter Set** — finalmente em 4 dos 5 armazéns (US, EU, AUS, CAN), aguardando UK
-- **RuneQuest en Français** — Studio Deadcrows recebeu cópias físicas da tradução francesa, incluindo o livro extra *Enfants de la Flamme* ("Children of the Flame"), campanha centrada nos [[Tribo dos Dundealos|Dundealos]] com seis cenários ambientados em 1625-1626
+- **RuneQuest en Français** — Studio Deadcrows recebeu cópias físicas da tradução francesa, incluindo o livro extra *Enfants de la Flamme* ("[[Children of the Flame]]"), campanha centrada nos [[Tribo dos Dundealos|Dundealos]] com seis cenários ambientados em 1625-1626
 
 ### Jonstown Compendium
 - **[[The Black Spear]]** (Nick Brooke) — lançado em hardcover standard e premium

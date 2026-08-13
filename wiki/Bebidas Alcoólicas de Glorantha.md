@@ -27,7 +27,7 @@ Glorantha possui uma rica cultura de bebidas alcoólicas, variando por região. 
 - **Cerveja** — Feita de emmer wheat, einkorn ou cevada. A produção é associada ao culto de [[Ernalda]]; a maioria dos cervejeiros são mulheres. Muitas variedades e estilos.
 - **Vinho branco** — Uvas brancas cultivadas em grande parte de Sartar, especialmente em [[Clearwine]]. Associado ao culto de Ernalda; produção majoritariamente feminina. Consumido principalmente em rituais religiosos.
 - **Cerveja de milho** — Popular em Tarsh Lunar. Associada ao culto de Hon-eel.
-- **Kumis** — Leite de égua fermentado popular nas [[Grazelands]]. Variante praxiana popular em Swenstown.
+- **Kumis** — Leite de égua fermentado popular nas [[Grazelands]]. Variante praxiana popular em [[Swenstown]].
 - **Troll beer** — Letal para humanos.
 - **Burned Water (Água da Vida)** — Destilado de cerveja e água. Os Sábios Livres de [[Boldhome]] descobriram o método de destilação. Caro, restrito aos ricos.
 

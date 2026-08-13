@@ -34,7 +34,7 @@ Quinta edição do periódico malkioni, com notícias da Chaosium (Meints Index,
 
 #### Edição Francesa de RuneQuest
 - Enviada para a gráfica; arquivos PDF finais enviados aos apoiadores.
-- Conteúdo extra: dois cenários originais (um no livro de regras, um no Bestiário), livreto de aventura "Children of the Flame" (campanha centrada na [[Tribo dos Dundealos]]).
+- Conteúdo extra: dois cenários originais (um no livro de regras, um no Bestiário), livreto de aventura "[[Children of the Flame]]" (campanha centrada na [[Tribo dos Dundealos]]).
 - Capa reversa do slipcase com ilustração original de Joann Sfar.
 
 ### Jonstown Compendium

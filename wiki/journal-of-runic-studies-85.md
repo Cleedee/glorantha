@@ -38,7 +38,7 @@ O editor destaca duas narrativas distintas sobre tribos sartaritas que sofreram 
 - **Histórico**: A [[Tribo dos Dundealos]] foi considerada oficialmente "destruída" pelo Governo Provincial Lunar em 1619. 
 - **Ocupação**: Suas terras ancestrais foram entregues a colonos das Províncias Lunares, organizados na nova tribo artificial dos **Enstalos**, sob administração direta do Novo Templo Lunar.
 - **Sobrevivência e Retorno**: Embora parte do povo tenha sido escravizada, uma facção significativa fugiu para as Planícies de [[Prax]], unindo-se aos seus parentes Pol-Joni. Após o [[The Dragonrise]] (1625), esse exílio terminou: eles regressaram às suas terras ancestrais e impuseram uma retaliação violenta contra os colonos Enstalos.
-- **Campanhas Relacionadas**: Este arco histórico é o foco da campanha francesa *Les Enfants de la Flamme* ("Children of the Flame").
+- **Campanhas Relacionadas**: Este arco histórico é o foco da campanha francesa *Les Enfants de la Flamme* ("[[Children of the Flame]]").
 
 #### A Tribo dos Maboder
 - **Histórico**: A [[Tribo dos Maboder]] foi dizimada pelos [[Telmori]] em 1606.

@@ -44,6 +44,10 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Mark Morrison]] | Editorial associate da Chaosium; autor da coluna Table Tales; coautor do RRQG; autor do cenário Star in Darkness | `Chaosium` `editorial` `Table Tales` `RRQG` `RuneQuest` | draft |
 | [[Brian Holland]] | Designer da Chaosium; coautor do RRQG; autor de The Mouth of Chaos e seus pré-gerados | `designer` `Chaosium` `RRQG` `The Mouth of Chaos` | draft |
 | [[Ossi Hiekkala]] | Artista de staff da Chaosium; arte dos pré-gerados de The Mouth of Chaos e capas de RuneQuest | `artista` `Chaosium` `RuneQuest` `ilustrador` | draft |
+| [[Joh Mith]] | Sacerdote Goldentongue de Issaries, membro do Conselho de Jonstown; comandou caravana a Balazar; tatuagens rúnicas documentadas | `Issaries` `Jonstown` `Balazar` `caravana` `tatuagens` `Goldentongue` | draft |
+| [[David Scott]] | Bibliotecário da Well of Daliath; arquivista da produção online dos designers da Chaosium | `Well of Daliath` `Chaosium` `arquivista` `lore` | draft |
+| [[Studio Deadcrows]] | Estúdio francês da localização oficial de RQG (Game On Tabletop 2019); produtor de Children of the Flame | `editora` `estúdio` `francês` `RuneQuest` `tradução` | draft |
+| [[Thomas Rey]] | Artista/cartógrafo do Studio Deadcrows; mapas da edição francesa de RQG e de Swenstown | `artista` `cartógrafo` `Studio Deadcrows` `mapas` `Dundealos` | draft |
 
 ---
 
@@ -369,6 +373,14 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 48]] | 48ª edição; YGWV, Cults of Glorantha (96 cultos + ~40), Elmal/Yelmalio (linha do tempo revisada, regicídio, Holy Country/Esrolia), limites de cura de Waha, moedas sartaritas de Kallyr | `periódico` `malkioni` `Elmal` `Yelmalio` `Waha` `Cults of Glorantha` `moedas` `Kallyr` | draft |
 | [[The Six Paths]] | Edan Jones (Jonstown Compendium); gênero entre os Heortlings; 4 sexos e 6 gêneros; write-ups de Heler, Nandan e Vinga; PWYW | `Jonstown Compendium` `gênero` `Heortlings` `Nandan` `Vinga` `Heler` | draft |
 | [[Meints Index to Glorantha]] | Rick Meints; 264 págs de história editorial gloranthana; tiragens de RQ2, miniaturas, fanzines; print-on-demand | `referência` `história editorial` `Rick Meints` `Chaosium` `RQ2` | draft |
+| [[Red Moon and Warring Kingdoms]] | Sourcebook de fãs de 13th Age Glorantha (fanzine Escalation) focado no lado Lunar; Evan Franke; ~140.000 palavras | `13th Age` `13G` `Lunar` `Escalation` `fanzine` `Evan Franke` | draft |
+| [[Journal of Runic Studies 100]] | 100ª edição (falsa); anúncio do fim da publicação; história Wind Whispers; Well of Daliath; Nick Brooke embaixador; Bloody Banquet; Goonies in Glorantha | `periódico` `malkioni` `despedida` `Wind Whispers` `Well of Daliath` `Bloody Banquet` | draft |
+| [[Well of Daliath]] | Repositório online da Chaosium de lore, Q&A e errata de RuneQuest; mantido por David Scott; arquivo central da produção dos designers | `site` `Chaosium` `lore` `arquivo` `errata` `RuneQuest` | draft |
+| [[A Short Detour]] | Primeira aventura de Ludovic no Jonstown Compendium; RQG sobre Caos e corrupção; BOLT80 & Chaosium | `aventura` `RuneQuest` `Ludovic` `Jonstown` `Caos` | draft |
+| [[Bog Struggles]] | Segunda aventura de Ludovic no Jonstown Compendium; previewada na 42ª edição do JRS | `aventura` `RuneQuest` `Ludovic` `Jonstown` | draft |
+| [[The Bloody Banquet]] | One-shot RQG todo-Telmori de Ludovic; jogado na ChaosiumCon 2023; próxima publicação anunciada | `aventura` `RuneQuest` `Telmori` `Ludovic` `one-shot` | draft |
+| [[Goonies in Glorantha]] | Campanha introdutória para crianças/novatos em RuneQuest de Ludovic; apelido interno | `campanha` `RuneQuest` `iniciantes` `Ludovic` | draft |
+| [[Children of the Flame]] | Campanha francesa (Studio Deadcrows) de reforma da tribo Dundealos (1625-1626); livro extra da edição FR de RQG; Swenstown | `campanha` `RuneQuest` `francês` `Dundealos` `Swenstown` `Studio Deadcrows` | draft |
 
 ---
 
@@ -427,6 +439,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Ivory Plinth]] | Monumento de marfim erguido por Aram ya-Udram com presa do javali Gouger; hoje lar dos Tusk Riders | `monumento` `Maniria` `Tusk Riders` `Gouger` `Aram ya-Udram` | draft |
 | [[Maniria]] | Região da costa sul de Genertela a oeste do País Santo; quatro confederações Orlanthi; terra dos Trader Princes | `região` `Genertela` `Orlanthi` `Trader Princes` | draft |
 | [[Teleos]] | Ilha tropical a leste da Poça de Magasta; seis tribos humanas de cores diferentes; Argrath tomou o Sapo Esmeralda e encerrou a maldição das cores | `ilha` `oceano` `seis tribos` `Sapo Esmeralda` `Argrath` | draft |
+| [[Greatway]] | Grande assentamento anão na cordilheira entre Dragon Pass e Balazar; centro do Openhandismo; rota comercial com Joh Mith | `anões` `Mostali` `Balazar` `Dragon Pass` `comércio` `passagem` `Joh Mith` | draft |
+| [[Swenstown]] | Cidade em ruínas graduais, antigo hub comercial entre Sartar e Prax; cenário de Children of the Flame | `cidade` `comércio` `Sartar` `Prax` `Dundealos` `ruínas` | draft |
 
 ---
 ## Cronologia
@@ -447,5 +461,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-08-12 (Table Tales — Breaking the Curse of the Empty Table)*
+*Última atualização: 2026-08-12 (Children of the Flame — campanha francesa dos Dundealos, Swenstown, Studio Deadcrows, Thomas Rey)*
 

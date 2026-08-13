@@ -43,7 +43,7 @@ Em 1619, devido à sua resistência e rebeldia contra o Império Lunar, a tribo 
 Os Dundealos que evitaram a captura fugiram em direção ao leste, alcançando as Planícies de [[Prax]]. Lá, integraram-se aos Pol-Joni (os Orlanthi nômades das Planícies), sobrevivendo no deserto sob duras condições.
 
 #### O Retorno e Vingança (1625)
-Com o levante do [[The Dragonrise]] em 1625 e o colapso da autoridade Lunar em Sartar, os Dundealos exilados retornaram do deserto de Prax. Em um ato de retaliação sangrenta, expulsaram ou mataram os colonos Enstalos e recuperaram suas posses ancestrais. Esse arco dramático constitui a base da campanha *Les Enfants de la Flamme* ("Children of the Flame").
+Com o levante do [[The Dragonrise]] em 1625 e o colapso da autoridade Lunar em Sartar, os Dundealos exilados retornaram do deserto de Prax. Em um ato de retaliação sangrenta, expulsaram ou mataram os colonos Enstalos e recuperaram suas posses ancestrais. Esse arco dramático constitui a base da campanha *Les Enfants de la Flamme* — ver página dedicada: **[[Children of the Flame]]** (com as facções Dundealos espalhadas por Dragon Pass e Prax e a cidade de [[Swenstown]]).
 
 ## Referências Cruzadas
 - [[Orlanthi]]
@@ -57,11 +57,14 @@ Com o levante do [[The Dragonrise]] em 1625 e o colapso da autoridade Lunar em S
 - [[The Dragonrise]]
 - [[Tribo dos Maboder]]
 - [[Os Matadores de Jaldon]]
+- [[Children of the Flame]]
+- [[Swenstown]]
 - [[Journal of Runic Studies 85]]
 
 ## Referências
 - Fonte: [Jogando A Saga dos Matadores de Jaldon](https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html)
 - Fonte adicional: [Journal of Runic Studies #85](https://godlearners.com/journal-of-runic-studies-85/)
+- Fonte: [Journey to Jonstown #83 — Children of the Flame (Chaosium)](https://www.chaosium.com/blogjourney-to-jonstown-83-children-of-the-flame/)
 
 ## Questões em Aberto
 - [ ] Detalhar a organização política interna da tribo Enstalos durante a ocupação (1619-1625).
