@@ -69,6 +69,30 @@ Nunca processe múltiplos arquivos de uma vez. Sempre pause para revisão.
 [git commit com prefixo: feat: / fix: / docs: / chore:]
 ```
 
+### Workflow: Transcribe (Transcrição de Vídeo)
+
+Para fontes em vídeo (ex: painéis da Chaosium no YouTube), transcrever com **`yt-dlp` + `openai/whisper`** antes da ingestão:
+
+```bash
+# 1. Baixar o áudio do vídeo para /raw/clippings/
+yt-dlp -f "bestaudio[ext=m4a]" -o "raw/clippings/<nome-do-video>.m4a" "<URL>"
+
+# 2. Transcrever com whisper (recomendado: model large-v3 para precisão)
+whisper "raw/clippings/<nome-do-video>.m4a" \
+  --model large-v3 \
+  --language en \
+  --output_dir raw/clippings/ \
+  --output_format txt
+```
+
+Regras:
+
+1. **Modelo:** usar `large-v3` quando a precisão importar; `small`/`base` apenas para rascunhos rápidos.
+2. **Idioma:** ajustar `--language` ao idioma falado (ex: `en`, `pt`).
+3. **Frente de matéria:** converter o `.txt` gerado em `.md` com frontmatter (title, source=URL original, author, published, created, description, tags: `["clippings", "transcrição"]`) e **guardar em `/raw/clippings/`** (não versionado). O áudio `.m4a` pode ser removido após a transcrição.
+4. **⚠️ Legendas auto-geradas são imprecisas** — nomes próprios e termos gloranthanos frequentemente saem errados (ex: "Mob" confundido com "Jeff Richard", "On the Royal Road" transcrito como "Under Oil Road"). O LLM **deve** cruzar com o contexto/lore da wiki e registrar discrepâncias nas páginas (campo "Questões em Aberto"), nunca copiar a transcrição crua como fato.
+5. Após a transcrição salva, seguir o **Workflow: Ingest** normalmente.
+
 ### Workflow: Query (Consulta)
 
 1. Consultar primeiro a wiki (`/wiki/index.md` e páginas relevantes).
@@ -242,4 +266,4 @@ git commit -m "docs: atualizar log e index após ingest de fonte"
 
 ---
 
-*Schema versão: 1.0 | Criado em: 2026-04-13*
+*Schema versão: 1.1 | Criado em: 2026-04-13 | Atualizado em: 2026-08-12 (adicionado Workflow: Transcribe com yt-dlp + whisper)*
