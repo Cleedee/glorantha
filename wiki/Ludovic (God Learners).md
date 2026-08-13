@@ -1,8 +1,8 @@
 ---
 title: "Ludovic (God Learners)"
 category: "Entidade"
-tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-36/", "https://godlearners.com/journal-of-runic-studies-37/", "https://godlearners.com/journal-of-runic-studies-38/", "https://godlearners.com/journal-of-runic-studies-39/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-48/"]
+tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest, Journal of Runic Studies 100, Bloody Banquet]
+sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-36/", "https://godlearners.com/journal-of-runic-studies-37/", "https://godlearners.com/journal-of-runic-studies-38/", "https://godlearners.com/journal-of-runic-studies-39/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-48/", "https://godlearners.com/journal-of-runic-studies-100/"]
 last_updated: 2026-08-27
 status: draft
 ---
@@ -26,6 +26,13 @@ status: draft
 - **Sim-Glorantha** — filosofia de design onde cultos modelam a ficção do cenário, não mecânicas de gameplay
 - **Teoria conspiratória Lunar** — Sete Mães são as verdadeiras cabeças do panteão; Deusa Vermelha é uma "atriz"
 - **PCs vs NPCs** — muitos suplementos de cultos são mais úteis para GMs que jogadores
+
+### Journal of Runic Studies #100 — Despedida
+100ª edição (15 de maio de 2023): em tom de pegadinha de Trickster, Ludovic anunciou que a publicação do Journal **termina** (não há 100ª edição de verdade). O boletim começou como *Wind Whispers* (era do podcast *Wind Words*) e foi relançado como Journal quando o podcast virou The God Learners. Planos de 2023: o podcast continua (com **Joerg**); o one-shot todo-**Telmori** *[[The Bloody Banquet]]* (jogado na ChaosiumCon 2023) como próxima publicação; a campanha introdutória para crianças apelidada *"[[Goonies in Glorantha]]"*; arte em livros do [[Jonstown Compendium]]; e Runic Rants/Found Documents ocasionais. Ver [[Journal of Runic Studies 100]].
+
+### Aventuras no Jonstown Compendium
+- **[[A Short Detour]]** (2022) — primeira aventura de Ludovic no JC; RQG sobre Caos e corrupção; selo BOLT80 & Chaosium Inc.
+- **[[Bog Struggles]]** (2022) — segunda aventura no JC; previewada na edição #42 do Journal.
 
 ### Journal of Runic Studies #48
 48ª edição (17 de maio de 2022): artigo de Ludovic sobre o significado de **YGWV/YGMV**; atualização do livro **Cults of Glorantha** (96 cultos + ~40 menores, em layout, revisores profissionais, mudança para lançamento simultâneo); Jonstown (Lost in the Dark de Skull Dixon, Secrets of Dorastor "Personalities Tactics", covers selecionados incl. capa de Ludovic para *To Hunt a God*); e um grande expositor do debate **Elmal/Yelmalio** a partir da thread BRP Central sobre Yelmalio no Holy Country (linha do tempo revisada, regicídio dos Elmali, contexto de design da Hero Wars, para que serve o culto, números no Holy Country/Esrolia) e as limitações de cura de **Waha**. Ver [[Journal of Runic Studies 48]].
@@ -63,6 +70,11 @@ Ludovic é o autor da 12ª edição do Journal of Runic Studies (setembro de 202
 - [[God Learners]]
 - [[Cults of RuneQuest - Mythology]]
 - [[Cults of RuneQuest - The Lunar Way]]
+- [[A Short Detour]]
+- [[Bog Struggles]]
+- [[The Bloody Banquet]]
+- [[Goonies in Glorantha]]
+- [[Journal of Runic Studies 100]]
 
 ## Referências
 - Fonte: [Review: Cults of RuneQuest: Mythology — God Learners](https://godlearners.com/review-cults-of-runequest-mythology/)

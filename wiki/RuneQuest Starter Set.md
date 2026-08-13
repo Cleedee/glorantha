@@ -1,7 +1,7 @@
 ---
 title: "RuneQuest Starter Set"
 category: "Fonte"
-tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021]
+tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021, Joh Mith, Jonstown]
 sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-46/"]
 last_updated: 2026-08-21
 status: draft
@@ -76,11 +76,16 @@ Dois vídeos de unboxing do Starter Set foram publicados em setembro de 2021:
 ### Autoria
 - **James Coquillat** — um dos autores do SoloQuest, também responsável por entrevistas de design no canal da Chaosium no YouTube
 
+### "A Rough Landing" e Joh Mith (2022)
+No **Journal of Runic Studies #46** (2022), [[Jeff Richard]] comentou os materiais do Starter Set: a aventura introdutória **"A Rough Landing"** e a seção de **[[Jonstown]]** de *The World of Glorantha*, apontando o detalhe de que **[[Joh Mith]]**, o famoso sacerdote de Issaries de *Griffin Mountain*, é citado no write-up de Jonstown — um personagem 40 anos mais velho em comparação com sua primeira aparição na década de 1970/1980.
+
 ## Referências Cruzadas
 - [[RuneQuest - Roleplaying in Glorantha (RQG)]]
 - [[Vasana]]
 - [[Campanha White Bull]]
 - [[Battle of Dangerford]]
+- [[Joh Mith]]
+- [[Journal of Runic Studies 46]]
 
 ## Referências
 - Fonte: [Review: RuneQuest Starter Set — God Learners (Ludovic)](https://godlearners.com/review-runequest-starter-set/)

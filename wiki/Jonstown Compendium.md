@@ -1,8 +1,8 @@
 ---
 title: "Jonstown Compendium"
 category: "Fonte"
-tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-80/", "https://andrewloganmontgomery.blogspot.com/2021/08/qad-pimpers-block-complete-collection.html"]
+tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos, Nick Brooke, embaixador]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-100/", "https://andrewloganmontgomery.blogspot.com/2021/08/qad-pimpers-block-complete-collection.html"]
 last_updated: 2026-08-21
 status: draft
 ---
@@ -93,6 +93,9 @@ O bibliotecário dos God Learners iniciou uma lista de todos os "freeforms" (LAR
 
 ### Big Rubble Campaign Map
 **Dario Corallo** mapa colorido do [[Big Rubble e Pavis|Big Rubble]] em estilo campanha.
+
+### Embaixador e Marco de 250 Títulos (2023)
+Durante a era *Wind Whispers* do periódico [[God Learners]], **[[Nick Brooke]]** foi nomeado **embaixador do Jonstown Compendium**. Em maio de 2023 ([[Journal of Runic Studies 100]]), o programa de conteúdo comunitário da Chaosium já contava com **mais de 250 títulos** — descrito por Ludovic como um sucesso imenso. Nesse mesmo boletim, Ludovic anunciou suas próximas publicações: o one-shot *[[The Bloody Banquet]]* e a campanha para iniciantes apelidada *"[[Goonies in Glorantha]]"* (além de [[A Short Detour]] e [[Bog Struggles]]).
 
 ### Glorantha Settlement 16
 **Mikael Mansen** lançou mais um mapa genérico de povoamento da série Settlement (maio 2022).

@@ -20,6 +20,7 @@ status: draft
 - Ilustradora do livro principal de Cults of RuneQuest ao lado de **Loic Muzy** e **Agathe Pitié**
 - Pintou mapa de [[Genertela]] em aquarela e gouache para o cults book
 - Trabalhou em **Corallo's Artpack #3: The Seventeen Foes of Waha** (em colaboração com [[Dario Corallo]])
+- Ilustrou ***A History of Malkionism*** (relançamento de [[Nick Brooke]] no Jonstown Compendium). Em 2022, quando o livro alcançou o nível **Silver Best Seller**, o bônus de conteúdo incluiu **esboços e line-art** de suas **primeiras dezesseis ilustrações** (Before Time, Dawn Age Seshneg, Arkat's Crusade Against Chaos e os God Learners), com notas de direção de arte.
 
 ### History of Malkionism
 Ilustrou *[[Malkionismo|A History of Malkionism]]* de [[Nick Brooke]]. Quando o título alcançou o status **Silver Best Seller** (maio 2022), a dupla adicionou **33 páginas de conteúdo bônus** com os bastidores da criação das primeiras dezesseis ilustrações: e-mails, logs de chat de grupo, esboços e line-art — incluindo as notas de direção de arte e explorações para as cenas de *Before Time*, Seshneg da Era do Amanhecer, a Cruzada de Arkat contra o Caos e Os God Learners (revelando como os God Learners aparecem visualmente).
@@ -33,6 +34,7 @@ Katrin Dirim foi a vencedora do prêmio de 2021. Vencedores anteriores incluem *
 - [[Cults of RuneQuest - The Prosopaedia]]
 - [[Dario Corallo]]
 - [[Jonstown Compendium]]
+- [[Nick Brooke]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #20](https://godlearners.com/journal-of-runic-studies-20/)

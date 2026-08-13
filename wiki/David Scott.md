@@ -1,9 +1,9 @@
 ---
 title: "David Scott"
 category: "Entidade"
-tags: ["site"]
-sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
-last_updated: 2026-05-16
+tags: ["site", "Well of Daliath", "arquivista", "Chaosium", "lore"]
+sources: ["https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-100/"]
+last_updated: 2026-08-12
 status: draft
 ---
 
@@ -23,15 +23,19 @@ There is a whole treasure trove of information in there… I’m a big fan of th
 
 David Scott is the librarian behind the Well of Daliath, but several volunteers help here and there with the website. You can [contact him to get involved](https://wellofdaliath.chaosium.com/want-to-get-involved/)!
 
+### Papel como Arquivista da Comunidade
+Com os designers da Chaosium muito ativos online a partir de 2021, os [[God Learners]] foram inicialmente **os únicos** a tentar arquivar toda essa produção. Segundo o [[Journal of Runic Studies 100]] (2023), **David Scott "deu um passo à frente"** e passou a arquivar quase tudo na Well of Daliath — tornando o site o repositório central da produção online de [[Jeff Richard]] e demais designers.
+
 
 ## Referências Cruzadas
-- <!-- Adicionar referências cruzadas -->
+- [[Well of Daliath]]
+- [[God Learners]]
+- [[Jeff Richard]]
 
 
 ## Referências
 - Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
+- Fonte: [Journal of Runic Studies #100](https://godlearners.com/journal-of-runic-studies-100/)
 
 ## Questões em Aberto
-- [ ] Revisar e expandir conteúdo
-- [ ] Adicionar referências cruzadas relevantes
-- [ ] Verificar consistência com outras páginas
+- [ ] Adicionar outras contribuições de David Scott à comunidade

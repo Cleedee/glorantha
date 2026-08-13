@@ -1,8 +1,8 @@
 ---
 title: "God Learners"
 category: "Fonte"
-tags: [podcast, Dorastor, Simon Phipp, entrevista, torre, malkioni, feitiçaria, arkat, monomito]
-sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-48/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html"]
+tags: [podcast, Dorastor, Simon Phipp, entrevista, torre, malkioni, feitiçaria, arkat, monomito, Mundo dos Espíritos, despedida, Wind Whispers]
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-48/", "https://godlearners.com/journal-of-runic-studies-100/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html"]
 last_updated: 2026-08-27
 status: draft
 ---
@@ -54,6 +54,12 @@ O [episódio mais recente](https://godlearners.com/episode-3-passions-in-runeque
 ### Edição #13
 A 13ª edição do Journal of Runic Studies foi publicada, cobrindo: segundo turno da Batalha das Rainhas, clãs pequenos sartaritas (Culbrea), Gorangian Bronzeguts e escribas, temas das Hero Wars, Deusa Vermelha como Caos, e cidades lunares.
 
+### Edição #46
+A 46ª edição do Journal of Runic Studies (2022) trouxe o **Found Document "On the Concerning Normalization of the Spirit World"** — sobre os efeitos colaterais dos estudos God Learners no **Mundo dos Espíritos** (explica por que o *Red Book of Magic* tem tantos Rune Spells comparados à Spirit Magic), além de notas de [[Jeff Richard]] sobre o **Malkionismo primitivo** e o **[[Arkatismo]]**. Ver [[Journal of Runic Studies 46]].
+
+### Edição #100 — Fim da Publicação
+A 100ª edição (15 de maio de 2023) é um **falso aniversário**: em tom de Trickster, [[Ludovic (God Learners)|Ludovic]] anunciou que a publicação do Journal **termina** — o podcast continua. A edição relembra a história do boletim: começou como *Wind Whispers* (quando o podcast se chamava *Wind Words*) e foi relançado como *Journal of Runic Studies* quando o podcast virou The God Learners. Documenta também o papel dos God Learners como **primeiros arquivistas** da produção online dos designers da Chaosium (antes da ascensão da [[Well of Daliath]] de [[David Scott]]), a nomeação de [[Nick Brooke]] como embaixador do [[Jonstown Compendium]] e o crescimento da base de fãs. Ver [[Journal of Runic Studies 100]].
+
 ### Atividades na Torre
 Continuam limpando e arquivando documentos, tabletes e artefatos deixados por ocupantes anteriores da [[Torre dos God Learners]].
 
@@ -87,6 +93,8 @@ O [Journal of Runic Studies 48](https://godlearners.com/journal-of-runic-studies
 - [[Journal of Runic Studies 46]]
 - [[Journal of Runic Studies 47]]
 - [[Journal of Runic Studies 48]]
+- [[Journal of Runic Studies 100]]
+- [[Well of Daliath]]
 
 ## Referências
 - Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)
