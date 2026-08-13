@@ -71,27 +71,42 @@ Nunca processe múltiplos arquivos de uma vez. Sempre pause para revisão.
 
 ### Workflow: Transcribe (Transcrição de Vídeo)
 
-Para fontes em vídeo (ex: painéis da Chaosium no YouTube), transcrever com **`yt-dlp` + `openai/whisper`** antes da ingestão:
+Para fontes em vídeo (ex: painéis da Chaosium no YouTube), transcrever antes da ingestão.
+
+**Método principal — `youtube-transcript-api`** (busca as legendas existentes do vídeo — automáticas ou manuais — sem API key, sem download de áudio, sem modelo local):
 
 ```bash
-# 1. Baixar o áudio do vídeo para /raw/clippings/
-yt-dlp -f "bestaudio[ext=m4a]" -o "raw/clippings/<nome-do-video>.m4a" "<URL>"
+pip install youtube-transcript-api
+```
 
-# 2. Transcrever com whisper (recomendado: model large-v3 para precisão)
-whisper "raw/clippings/<nome-do-video>.m4a" \
-  --model large-v3 \
-  --language en \
-  --output_dir raw/clippings/ \
-  --output_format txt
+```python
+from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api.formatters import TextFormatter
+
+video_id = "aR0wj1SsU1Q"  # apenas o ID, não a URL completa
+api = YouTubeTranscriptApi()
+fetched = api.fetch(video_id, languages=["en"])  # preferir legenda manual à automática
+text = TextFormatter().format_transcript(fetched.to_raw_data())
+open("raw/clippings/<nome-do-video>.txt", "w").write(text)
+```
+
+- Suporta listar idiomas (`api.list(video_id)`), escolher idioma e traduzir (`translate()`); formatação txt/json/srt/vtt via `TextFormatter`.
+- **Não funciona** em vídeos sem legendas, em vídeos com restrição de idade (cookie auth quebrado) ou se o YouTube mudar endpoints internos (library community-patched).
+
+**Método alternativo/fallback — `yt-dlp` + `openai/whisper`** (quando não houver legendas, ou quando a fidelidade de nomes próprios e termos gloranthanos for crítica — o whisper `large-v3` tende a ser mais preciso que as auto-captions do YouTube):
+
+```bash
+yt-dlp -f "bestaudio[ext=m4a]" -o "raw/clippings/<nome-do-video>.m4a" "<URL>"
+whisper "raw/clippings/<nome-do-video>.m4a" --model large-v3 --language en \
+  --output_dir raw/clippings/ --output_format txt
 ```
 
 Regras:
 
-1. **Modelo:** usar `large-v3` quando a precisão importar; `small`/`base` apenas para rascunhos rápidos.
-2. **Idioma:** ajustar `--language` ao idioma falado (ex: `en`, `pt`).
-3. **Frente de matéria:** converter o `.txt` gerado em `.md` com frontmatter (title, source=URL original, author, published, created, description, tags: `["clippings", "transcrição"]`) e **guardar em `/raw/clippings/`** (não versionado). O áudio `.m4a` pode ser removido após a transcrição.
-4. **⚠️ Legendas auto-geradas são imprecisas** — nomes próprios e termos gloranthanos frequentemente saem errados (ex: "Mob" confundido com "Jeff Richard", "On the Royal Road" transcrito como "Under Oil Road"). O LLM **deve** cruzar com o contexto/lore da wiki e registrar discrepâncias nas páginas (campo "Questões em Aberto"), nunca copiar a transcrição crua como fato.
-5. Após a transcrição salva, seguir o **Workflow: Ingest** normalmente.
+1. **Escolha do método:** preferir `youtube-transcript-api` por padrão (rápido e leve); usar whisper apenas se `NoTranscriptFound`/`TranscriptsDisabled` ou se a transcrição ficar imprecisa em termos gloranthanos.
+2. **Frontmatter:** converter o texto gerado em `.md` com frontmatter (title, source=URL original, author, published, created, description, tags: `["clippings", "transcrição"]`) e **guardar em `/raw/clippings/`** (não versionado). O áudio `.m4a` pode ser removido após a transcrição.
+3. **⚠️ Transcrições são imprecisas** — seja auto-caption do YouTube ou whisper, nomes próprios e termos gloranthanos frequentemente saem errados (ex: "Mob" confundido com "Jeff Richard", "On the Royal Road" transcrito como "Under Oil Road"). O LLM **deve** cruzar com o contexto/lore da wiki e registrar discrepâncias nas páginas (campo "Questões em Aberto"), nunca copiar a transcrição crua como fato.
+4. Após a transcrição salva, seguir o **Workflow: Ingest** normalmente.
 
 ### Workflow: Query (Consulta)
 
@@ -266,4 +281,4 @@ git commit -m "docs: atualizar log e index após ingest de fonte"
 
 ---
 
-*Schema versão: 1.1 | Criado em: 2026-04-13 | Atualizado em: 2026-08-12 (adicionado Workflow: Transcribe com yt-dlp + whisper)*
+*Schema versão: 1.2 | Criado em: 2026-04-13 | Atualizado em: 2026-08-12 (Workflow: Transcribe — youtube-transcript-api como método principal, yt-dlp + whisper como fallback)*
