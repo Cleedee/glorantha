@@ -244,6 +244,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Dhole's House]] | Website de criação de personagens para Call of Cthulhu; adquirido pela Chaosium; ferramentas similares planejadas para RQ | `ferramenta` `Chaosium` `Call of Cthulhu` | draft |
 | [[Black Monk Games]] | Distribuidora polonesa da Chaosium; parceira oficial da Moon Design Publications | `empresa` `distribuidora` `Polônia` | draft |
 | [[Greg Stafford Memorial Award]] | Prêmio Chaosium para contribuição ao fandom de Glorantha; vencedores: Lev Lafayette, Martin Helsdon, Nick Brooke, Katrin Dirim, David Hall | `prêmio` `fandom` `Chaosium` | draft |
+| [[ENNIE Awards]] | Premiação anual votada pelo público de RPG de mesa na Gen Con (desde 2001); Hall da Fama: D&D, Call of Cthulhu (2025), RuneQuest (2026); discurso de Jason Durall | `prêmio` `Gen Con` `Hall da Fama` `RuneQuest` `Jason Durall` | draft |
 | [[Mongoose Publishing]] | Editora Mongoose; licença Glorantha 2006-2010; Laws + Whitaker | `editora` `Mongoose` | draft |
 | [[Glorantha - The Second Age]] | Suplemento Mongoose; 1ª ed 2006 (Laws), 2ª ed 2010 (Laws+Steele+Whitaker) | `suplemento` `Mongoose` | draft |
 | [[Ralios]] | Região de Glorantha; sourcebook Mongoose por Robin Laws | `região` `Mongoose` | draft |
@@ -461,5 +462,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-08-12 (Children of the Flame — campanha francesa dos Dundealos, Swenstown, Studio Deadcrows, Thomas Rey)*
+*Última atualização: 2026-08-12 (ENNIE Awards — Hall da Fama: RuneQuest 2026, discurso de Jason Durall)*
 
