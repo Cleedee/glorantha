@@ -1,7 +1,7 @@
 ---
 title: "13th Age in Glorantha"
 category: "Fonte"
-tags: [sistema, 13th Age, Glorantha, Rob Heinsoo, Jonathan Tweet, Dragon Pass, Hero Wars, sourcebook]
+tags: [sistema, 13th Age, Glorantha, Rob Heinsoo, Jonathan Tweet, Dragon Pass, Hero Wars, sourcebook, Lunar, Escalation, fanzine, heroquesting]
 sources: ["https://andrewloganmontgomery.blogspot.com/2018/03/13th-age-glorantha-review.html", "https://godlearners.com/journal-of-runic-studies-46/"]
 last_updated: 2026-08-21
 status: draft
@@ -98,6 +98,9 @@ O review compara:
 
 Recomendado para quem quer níveis de poder mais altos com abordagem gamista.
 
+### Material de Fãs: Red Moon and Warring Kingdoms
+Em 2022, **Evan Franke** (série *Exploring Glorantha*) desenvolvia o sourcebook de fãs **[[Red Moon and Warring Kingdoms]]** para o fanzine **Escalation**, focado no lado **Lunar** de Glorantha — história e gazetteer para servir de primer aos jogadores de 13G, com novas classes, raças jogáveis e feats. Começou como homebrew e cresceu para ~140.000 palavras.
+
 ## Referências Cruzadas
 - [[Glorantha]]
 - [[Dragon Pass]]
@@ -113,9 +116,11 @@ Recomendado para quem quer níveis de poder mais altos com abordagem gamista.
 - [[Orlanth]]
 - [[Humakt]]
 - [[Ernalda]]
+- [[Red Moon and Warring Kingdoms]]
 
 ## Referências
 - Fonte: [13TH AGE GLORANTHA A REVIEW](https://andrewloganmontgomery.blogspot.com/2018/03/13th-age-glorantha-review.html) — Andrew Logan Montgomery, 2018-03-06
+- Fonte: [Journal of Runic Studies #46 — Community Roundup](https://godlearners.com/journal-of-runic-studies-46/)
 
 ## Questões em Aberto
 - [x] Quais as diferenças específicas entre as classes de 13G e as equivalentes em QuestWorlds?

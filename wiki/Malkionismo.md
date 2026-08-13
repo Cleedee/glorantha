@@ -1,7 +1,7 @@
 ---
 title: "Malkionismo"
 category: "Conceito"
-tags: [malkioni, filosofia, religião, brithini]
+tags: [malkioni, filosofia, religião, brithini, Arkatismo, Rokarismo, Novo Hrestolismo]
 sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-24/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-46/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
 last_updated: 2026-08-21
 status: draft
@@ -54,6 +54,16 @@ Paralelamente existe, desconfortavelmente, o [[Arkatismo]]: com sua ênfase em d
 - **Brithinismo:** Malkionismo conservador dos Brithini, interação direta com deuses.
 - **Hrestolismo:** Ramo divergente (há 1600+ anos), foco diferente na Terceira Era.
 
+### Malkionismo Primitivo
+Segundo [[Jeff Richard]]:
+> "Acredita-se que o Malkionismo primitivo era composto de rituais sacrificiais, técnicas de feitiçaria e feitiços, proscrições legais e especulações filosóficas. O Hrestolismo posterior preservou o racionalismo e os elementos filosóficos do Malkionismo primitivo e desenvolveu novas escolas filosóficas, sendo as mais conhecidas o **Rokarismo** e o **Novo Hrestolismo**."
+
+- Malkionismo é a família de filosofias que traçam suas origens a **Malkion**, feiticeiro mítico de antes do Tempo.
+- As filosofias divergem sobre, por exemplo, se a sociedade deve basear-se em **castas** e se deve haver **mobilidade entre elas** — mas todas concordam sobre a centralidade da feitiçaria.
+
+### Arkatismo — a Sombra da Racionalidade Malkioni
+Paralelamente ao Malkionismo racional existe o **[[Arkatismo]]**, corrente ligada a [[Arkat]] que enfatiza divindades, heroquesting e o respeito às práticas tradicionais apesar das contradições. Com seu monomito de Ar e Escuridão, técnicas de heroquesting próprias (Ranging, Joining, Identify, Awaken, Change) e usos extremos de Power Runes, deixou **traços no pensamento Orlanthi da Segunda e Terceira Era** — particularmente em **Kethaela e Dragon Pass**. Ver página dedicada: [[Arkatismo]].
+
 ### Publicações de Referência
 Nick Brooke relançou **A History of Malkionism**, material out-of-print sobre a Genertela Ocidental, incluindo detalhes sobre os **Brithini**, **Waertagi** e **Vadeli**, com novas ilustrações de [[Katrin Dirim]].
 
@@ -100,6 +110,7 @@ Jeff Richard e Nick Brooke esclarecem que os Malkioni contemporâneos **não sã
 - [[Arkatismo]]
 - [[Seshna Likita]]
 - [[Jeff Richard]]
+- [[Arkatismo]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
