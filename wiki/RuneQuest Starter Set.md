@@ -2,8 +2,8 @@
 title: "RuneQuest Starter Set"
 category: "Fonte"
 tags: [RuneQuest, starter set, Vasana, SoloQuest, Battle of Dangerford, Chaosium, 2021]
-sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/"]
-last_updated: 2026-05-13
+sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-46/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -69,6 +69,9 @@ O canal The Glass Cannon jogou a segunda sessão do primeiro cenário do Starter
 Dois vídeos de unboxing do Starter Set foram publicados em setembro de 2021:
 - **RPG Imaginings:** unboxing patrocinado, mostrando fichários de personagem pré-gerados, marcador de Strike Rank e o Mapa do Norte de Sartar
 - **Jess McDonell:** vídeo rápido de 1 minuto e meio no Twitter, com planos de jogar o Starter Set em seu canal
+
+### Joh Mith no Write-up de Jonstown
+**[[Joh Mith]]**, sacerdote Issaries Goldentongue e membro do Conselho da Cidade, é um dos NPCs do write-up de Jonstown. Na juventude comandava uma famosa caravana comercial até Balazar (*Griffin Mountain*); suas tatuagens registram os pactos de viagem — passagem segura por Greatway (povoado anão), amizade com a Rainha da Tribo das Abelhas no Vale of Flowers e a Mark of Friendly Passage. Ver página dedicada: [[Joh Mith]].
 
 ### Autoria
 - **James Coquillat** — um dos autores do SoloQuest, também responsável por entrevistas de design no canal da Chaosium no YouTube

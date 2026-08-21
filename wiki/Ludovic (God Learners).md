@@ -2,8 +2,8 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-36/", "https://godlearners.com/journal-of-runic-studies-37/", "https://godlearners.com/journal-of-runic-studies-38/", "https://godlearners.com/journal-of-runic-studies-39/"]
-last_updated: 2026-05-13
+sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-36/", "https://godlearners.com/journal-of-runic-studies-37/", "https://godlearners.com/journal-of-runic-studies-38/", "https://godlearners.com/journal-of-runic-studies-39/", "https://godlearners.com/journal-of-runic-studies-46/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -26,6 +26,9 @@ status: draft
 - **Sim-Glorantha** — filosofia de design onde cultos modelam a ficção do cenário, não mecânicas de gameplay
 - **Teoria conspiratória Lunar** — Sete Mães são as verdadeiras cabeças do panteão; Deusa Vermelha é uma "atriz"
 - **PCs vs NPCs** — muitos suplementos de cultos são mais úteis para GMs que jogadores
+
+### Journal of Runic Studies #46
+46ª edição (2 de maio de 2022): documento encontrado traduzido sobre a normalização do Mundo Espiritual pelos God Learners (explica o desbalanceamento Rune/Spirit Magic do Red Book of Magic); VTT Fantasy Grounds; Settlement 16 e extras de History of Malkionism; notas de Jeff sobre as tatuagens de Joh Mith, o Malkionismo primitivo e o **Arkatismo** (com as cinco técnicas: Ranging, Joining, Identify, Awaken, Change); atualização de Red Moon and Warring Kingdoms (13th Age/Escalation). Ver [[Journal of Runic Studies 46]].
 
 ### Journal of Runic Studies #17
 17ª edição (11 de outubro de 2021): Podcast Episódio 4 com Beer With Teeth; Beginner's Guide to Glorantha; Korolstead; A Bad Day at Duck Rock; Jeff's Notes sobre Argrath/Alexander, Exército Livre, Justiça Orlanthi/Dara Happana, Dart Wars, Runas de Dendara, Perigos Anões, Comidas Estranhas.

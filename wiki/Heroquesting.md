@@ -2,8 +2,8 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard, Greg Stafford, Ranging, Joining]
-sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-30/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-30/", "https://godlearners.com/journal-of-runic-studies-46/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -168,6 +168,17 @@ Em grandes heroquests, Rangers e Joiners são tipicamente escolhidos por espíri
 Estas técnicas foram disseminadas através do [[País Santo]], [[Dragon Pass]] e [[Prax]]. Muitas figuras importantes — incluindo [[Kallyr Testa-Estrelada]] e [[Argrath]] — participaram dos Torneios não para buscar o prêmio, mas para aprender estas técnicas em primeira mão.
 
 As técnicas são diferentes daquelas ensinadas e usadas pelo [[Caminho Lunar]], mas potencialmente não menos eficazes.
+
+### As Cinco Técnicas Arkati
+Segundo Jeff Richard, o [[Arkatismo]] preserva um conjunto de **técnicas de heroquesting** — **Ranging, Joining, Identify, Awaken e Change** — todas apresentadas em canção e história, e foco de meditação, prece e outras abordagens de compreensão. Definições conforme entendimento de Ludovic a partir das notas de Jeff no Well of Daliath:
+
+- ***Ranging***: abandonar o "caminho" de um mito no meio e iniciar outro mito.
+- ***Joining***: capturar um mito já em andamento, entrando nele no meio do caminho.
+- ***Identify***: nomear a si mesmo ou a uma entidade encontrada durante a heroquest como um arquétipo mítico específico ("eu sou o deus da Tempestade", "você é o Trickster", etc.).
+- ***Awaken***: trazer alguma "entidade-sombra" do pano de fundo do plano divino para dentro da história — como promover um figurante sem rosto a NPC que efetivamente age.
+- ***Change***: mudar o próprio mito (ver "Mutation" no Well of Daliath).
+
+Estas técnicas são elementos centrais do Arkatismo, junto com um monomito focado em Ar e Escuridão, a aceitação da Escuridão e da Morte como contrapartes da Luz e da Vida, e usos extremos das Runas de Poder em conjunção com seus opostos.
 
 ### O Manuscrito de Greg Stafford sobre Heroquesting
 

@@ -2,8 +2,8 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-80/", "https://andrewloganmontgomery.blogspot.com/2021/08/qad-pimpers-block-complete-collection.html"]
-last_updated: 2026-05-13
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-80/", "https://andrewloganmontgomery.blogspot.com/2021/08/qad-pimpers-block-complete-collection.html"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -93,6 +93,12 @@ O bibliotecário dos God Learners iniciou uma lista de todos os "freeforms" (LAR
 
 ### Big Rubble Campaign Map
 **Dario Corallo** mapa colorido do [[Big Rubble e Pavis|Big Rubble]] em estilo campanha.
+
+### Glorantha Settlement 16
+**Mikael Mansen** lançou mais um mapa genérico de povoamento da série Settlement (maio 2022).
+
+### History of Malkionism — Conteúdo Bônus
+*[[Malkionismo|A History of Malkionism]]* de **Nick Brooke**, ilustrada por [[Katrin Dirim|Katrin Dirim]], alcançou o status **Silver Best Seller** (metade do caminho para Electrum). Para celebrar, adicionaram **26 páginas de conteúdo bônus**, depois ampliadas para **33 páginas**: e-mails de bastidores, logs de chat de grupo, esboços e line-art mostrando como as primeiras dezesseis ilustrações foram criadas (*Before Time*, Seshneg da Era do Amanhecer, a Cruzada de Arkat contra o Caos & Os God Learners) — incluindo as notas de direção de arte e explorações para várias ilustrações. Revela como os God Learners aparecem visualmente.
 
 ### Novidades Recentes (2026)
 

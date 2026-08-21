@@ -2,8 +2,8 @@
 title: "God Learners"
 category: "Fonte"
 tags: [podcast, Dorastor, Simon Phipp, entrevista, torre, malkioni, feitiçaria, arkat, monomito]
-sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html"]
-last_updated: 2026-05-13
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -57,6 +57,9 @@ A 13ª edição do Journal of Runic Studies foi publicada, cobrindo: segundo tur
 ### Atividades na Torre
 Continuam limpando e arquivando documentos, tabletes e artefatos deixados por ocupantes anteriores da [[Torre dos God Learners]].
 
+### Documento Encontrado: A Normalização do Mundo Espiritual
+No JRS 46 (maio 2022), Ludovic traduziu um documento antigo encontrado ao redor da torre — uma petição dos **Capítulos Coletivos em Maniria, Wenelia e Kethaela** ao Conselho. Os autores alertam que, com o orçamento do Coletivo concentrado nos departamentos teórico Rúnico e aplicado Burtae/Srvūli, a taxonomia e o estudo de espíritos foram apressados e simplificados por quatro décadas; projetos como o *Worship Interchange Stability Experimentation and Assessment* deixaram os estudos de espíritos sem financiamento — e suas consequências sobre o Mundo Espiritual começam a ser compreendidas. O documento é a explicação in-universe para o desbalanceamento entre Magia Rúnica e Magia Espiritual no *Red Book of Magic*. Ver [[Journal of Runic Studies 46]].
+
 ## Referências Cruzadas
 - [[Monomito]]
 - [[Arkat Caosban]]
@@ -72,6 +75,7 @@ Continuam limpando e arquivando documentos, tabletes e artefatos deixados por oc
 - [[Journal of Runic Studies 15]]
 - [[Journal of Runic Studies 16]]
 - [[Journal of Runic Studies 17]]
+- [[Journal of Runic Studies 46]]
 
 ## Referências
 - Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)

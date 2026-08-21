@@ -2,8 +2,8 @@
 title: "Proximate Holy Realm"
 category: "Conceito"
 tags: [heroquest, plano divino, Empire of the Wyrms Friends, Belintar, Hero Wars]
-sources: ["https://godlearners.com/journal-of-runic-studies-30/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-30/", "https://godlearners.com/journal-of-runic-studies-46/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -43,6 +43,9 @@ Durante o EWF, sob influência do Proximate Holy Realm, surgiram maravilhas como
 **Belintar** teve uma solução diferente. Seus feitos unindo as terras de Kethaela trouxeram seu **País Sagrado** para perto do Proximate Holy Realm. Ele manteve isso através do **Torneio dos Mestres da Sorte e da Morte**, que convocava heroquesters de longe e perto. O Torneio resultava em um novo Belintar e reunia magicamente o País Sagrado.
 
 Era fácil cruzar para o reino divino e vice-versa, especialmente durante o Torneio. O País Sagrado desfrutou séculos de paz e prosperidade, mas Belintar foi morto por **Jar-eel** em **1616** e o Torneio falhou em produzir um sucessor.
+
+### Traços de Arkatismo
+Muitos elementos do [[Arkatismo]] são visíveis no Proximate Holy Realm da Segunda Era (EWF) e no Torneio dos Mestres da Sorte e da Morte de Belintar — além de versões mais racionalizadas dessas práticas empregadas pelos [[God Learners]]. O Arkatismo, com sua ênfase em divindades, heroquesting e práticas tradicionais contraditórias, é descrito por Jeff Richard como a "Sombra da racionalidade malkioni".
 
 ### Hero Wars
 Muitos filósofos acreditam que **Dragon Pass permanece perto de um Proximate Holy Realm**, especialmente durante as **Hero Wars**. Alguns afirmam que isso se deve aos esforços Lunares para mudar o próprio reino divino; outros acham que é resultado dos **True Dragons** que foram despertados em Dragon Pass, começando com o **Dragonrise**. Qualquer que seja a razão, o heroquesting selvagem era cada vez mais comum entre todos os participantes das Hero Wars, argumentavelmente ainda mais do que nas Guerras de Gbaji.

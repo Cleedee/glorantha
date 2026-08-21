@@ -2,8 +2,8 @@
 title: "Katrin Dirim"
 category: "Entidade"
 tags: [artista, ilustradora, Chaosium, Cults of RuneQuest, Greg Stafford Memorial Award]
-sources: ["https://godlearners.com/journal-of-runic-studies-20/"]
-last_updated: 2026-05-15
+sources: ["https://godlearners.com/journal-of-runic-studies-20/", "https://godlearners.com/journal-of-runic-studies-46/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -20,6 +20,9 @@ status: draft
 - Ilustradora do livro principal de Cults of RuneQuest ao lado de **Loic Muzy** e **Agathe Pitié**
 - Pintou mapa de [[Genertela]] em aquarela e gouache para o cults book
 - Trabalhou em **Corallo's Artpack #3: The Seventeen Foes of Waha** (em colaboração com [[Dario Corallo]])
+
+### History of Malkionism
+Ilustrou *[[Malkionismo|A History of Malkionism]]* de [[Nick Brooke]]. Quando o título alcançou o status **Silver Best Seller** (maio 2022), a dupla adicionou **33 páginas de conteúdo bônus** com os bastidores da criação das primeiras dezesseis ilustrações: e-mails, logs de chat de grupo, esboços e line-art — incluindo as notas de direção de arte e explorações para as cenas de *Before Time*, Seshneg da Era do Amanhecer, a Cruzada de Arkat contra o Caos e Os God Learners (revelando como os God Learners aparecem visualmente).
 
 ### Greg Stafford Memorial Award 2021
 Katrin Dirim foi a vencedora do prêmio de 2021. Vencedores anteriores incluem **Lev Lafayette**, **Martin Helsdon** e **Nick Brooke**.

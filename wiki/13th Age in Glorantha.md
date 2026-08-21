@@ -2,8 +2,8 @@
 title: "13th Age in Glorantha"
 category: "Fonte"
 tags: [sistema, 13th Age, Glorantha, Rob Heinsoo, Jonathan Tweet, Dragon Pass, Hero Wars, sourcebook]
-sources: ["https://andrewloganmontgomery.blogspot.com/2018/03/13th-age-glorantha-review.html"]
-last_updated: 2026-04-27
+sources: ["https://andrewloganmontgomery.blogspot.com/2018/03/13th-age-glorantha-review.html", "https://godlearners.com/journal-of-runic-studies-46/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -80,6 +80,13 @@ Mecânica especial:
 | Tom     | Sombrio   | Erudito   | Passional             |
 | Níveis  | Baixos    | Médio     | Alto                  |
 | Sistema | skills    | keywords  | classes               |
+
+### Projeto de Fã: Red Moon and Warring Kingdoms
+*The Red Moon and Warring Kingdoms* é um sourcebook de 13G em produção pelo fanzine **Escalation** (status maio 2022), focado no lado **Lunar** do cenário:
+- Estabelecerá o conflito central da região, com história e gazetteer — um primer para jogadores de 13G introduzidos pelo livro básico
+- Oferecerá novas classes, raças jogáveis e feats
+- **Evan Franke** (da série Exploring Glorantha) é o autor principal; começou como projeto homebrew e cresceu para ~**140.000 palavras**; quarto ano de desenvolvimento, em edição e desenho de mapas
+- A issue 5 de Escalation já foi um especial Glorantha; todas as issues estão no Vault of the 13th Age
 
 ### Conclusão do Review
 > "13G gets an enthusiastic thumbs up from this Gloranthan grognard."

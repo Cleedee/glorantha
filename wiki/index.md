@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-08-11
+last_updated: 2026-08-21
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -39,6 +39,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Ironhoof]] | Lord of Beast Valley; filho de Orlanth e deusa-cavalo; primeiro Sacred King de Dragon Pass; centauro | `Orlanth` `Beast Valley` `Grazelanders` `Dragon Pass` | draft |
 | [[Natha]] | Deusa do Segundo Submundo; Guardiã do Segundo Inferno; justiça de Jar-Eel; Deusa Devoradora | `deusa` `Lunar` `Segundo Submundo` `Jar-Eel` `vingança` | draft |
 | [[Sor-eel the Short]] | 1º Governador Lunar de New Pavis (1610-1621); administrador esclarecido; clã Eel-ariash | `Lunar` `governador` `New Pavis` `Eel-ariash` | draft |
+| [[Joh Mith]] | Sacerdote Issaries Goldentongue e membro do Conselho de Jonstown; caravana a Balazar (Griffin Mountain); tatuagens registram pactos: Greatway, Vale of Flowers, Mark of Friendly Passage, iniciação dupla Malani/Colymar | `Issaries` `Jonstown` `Goldentongue` `tatuagens` `Balazar` `comércio` `Starter Set` | draft |
 
 ---
 
@@ -79,7 +80,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Tempo Sagrado]] | Período liminar de duas semanas entre anos onde o cosmos renasce; reencenação da Jornada dos Portadores da Luz | `Tempo Sagrado` `liminalidade` `ritual` `heroquest` `calendário` | draft |
 | [[Calendário Gloranthano]] | Sistema de 5 estações (Sea, Fire, Earth, Dark, Storm) + Tempo Sagrado; 294 dias; descrições detalhadas de cada estação | `calendário` `Theyala` `estações` `semanas` `tempo` | draft |
 | [[Cosmologia de Glorantha]] | Losanga (Runa da Terra) no Oceano Primeval; Sky World, Sky Dome, Ar, Mundo Médio, Submundo; Poço de Magasta; jornada do Sol; Genertela e Pamaltela | `cosmologia` `mito` `criação` `Genertela` `Pamaltela` `Yelm` `Magasta` | draft |
-| [[Malkionismo]] | Sistema filosófico-religioso malkioni; escolas Brithinismo, Hrestolismo, Aeolismo; Moorcockiano/Vanceano na 3ª Era | `malkioni` `filosofia` `religião` `Brithini` `Aeolismo` | draft |
+| [[Malkionismo]] | Sistema filosófico-religioso malkioni; escolas Brithinismo, Hrestolismo, Aeolismo; Moorcockiano/Vanceano na 3ª Era; Malkionismo primitivo (rituais, feitiçaria, leis, filosofia) | `malkioni` `filosofia` `religião` `Brithini` `Aeolismo` `Arkatismo` | draft |
+| [[Arkatismo]] | A Sombra da racionalidade malkioni; divindades, heroquesting e tradição; cinco técnicas (Ranging, Joining, Identify, Awaken, Change); traços no pensamento orlanthi de Kethaela e Dragon Pass | `Arkat` `Malkioni` `heroquesting` `Orlanthi` `Kethaela` `Ralios` | draft |
 | [[A Chuva Má]] | A Sombra de Orlanth — escuridão reprimida que emerge como Chuva Má; central para heroquesting Orlanthi e Lightbringers Quest | `Bad Rain` `Orlanth` `Sombra` `heroquesting` `Lightbringers` | draft |
 | [[As Runas]] | Arquétipos cósmicos: Elementos (roda elemental), Poderes, Formas e Condições; inclui tabela de associações Runa por divindade | `Runas` `Elementos` `Poderes` `Formas` `Condições` `cosmologia` | draft |
 | [[Bebidas Alcoólicas de Glorantha]] | Catálogo de bebidas por região: Lunar, Dragon Pass, País Santo; associações com Ernalda, Hon-eel, Lodril, Lhankor Mhy | `álcool` `bebidas` `cerveja` `vinho` `Ernalda` `Hon-eel` | draft |
@@ -355,6 +357,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[QAD Pimper's Block]] | Coleção massiva de 2000 páginas com 520 NPCs detalhados e 2600 de esquadrão para RQG, cobrindo 10 culturas; por QAD (Drew Baker) no Jonstown Compendium | `Jonstown Compendium` `NPC` `personagens` `RuneQuest` `QAD` `Drew Baker` | draft |
 | [[Journal of Runic Studies 44]] | 44ª edição; Léxico de Heroquesting, Prax e as Terras Ermas, pessoas notáveis das tribos High Llama/Bison/Sable/Impala, White Bull Society | `periódico` `malkioni` `heroquesting` `Prax` `White Bull` | draft |
 | [[Journal of Runic Studies 45]] | 45ª edição; desequilíbrio e evolução dos cultos, Morokanth, Oasis People, fundação e ocupação Lunar de New Pavis, figuras das Hero Wars, Orlanthi de Maniria | `periódico` `malkioni` `cultos` `Morokanth` `Pavis` `Hero Wars` `Maniria` | draft |
+| [[Journal of Runic Studies 46]] | 46ª edição; normalização do Mundo Espiritual (documento encontrado), VTT Fantasy Grounds, Settlement 16, extras de History of Malkionism, tatuagens de Joh Mith, Malkionismo primitivo, Arkatismo, Red Moon and Warring Kingdoms | `periódico` `malkioni` `Mundo Espiritual` `Arkatismo` `Joh Mith` `Malkionismo` `13th Age` | draft |
 
 ---
 

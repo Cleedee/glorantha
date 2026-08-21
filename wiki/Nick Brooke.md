@@ -2,8 +2,8 @@
 title: "Nick Brooke"
 category: "Entidade"
 tags: [escritor, Jonstown Compendium, Greg Stafford Memorial Award, Lunar, Malkioni]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-20/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-24/", "https://godlearners.com/journal-of-runic-studies-25/", "https://andrewloganmontgomery.blogspot.com/2023/01/crimson-king-another-runequest-review.html"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-20/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-24/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-46/", "https://andrewloganmontgomery.blogspot.com/2023/01/crimson-king-another-runequest-review.html"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -30,7 +30,7 @@ Brooke é conhecido por um estilo **lúdico, irreverente e tongue-in-cheek** —
 - **ENNIE Award Gold** (2021) — "Best Organized Play" por *A Rough Guide to Glamour*.
 
 ### Contribuições Editoriais
-- Relançou ***A History of Malkionism***, material out-of-print sobre a Genertela Ocidental (Brithini, Waertagi, Vadeli), com novas ilustrações de [[Katrin Dirim]].
+- Relançou ***A History of Malkionism***, material out-of-print sobre a Genertela Ocidental (Brithini, Waertagi, Vadeli), com novas ilustrações de [[Katrin Dirim]]. O título alcançou o status **Silver Best Seller** (maio 2022) e ganhou **33 páginas de conteúdo bônus**: e-mails de bastidores, logs de chat, esboços e line-art mostrando como as primeiras dezesseis ilustrações foram criadas (*Before Time*, Seshneg do Amanhecer, a Cruzada de Arkat contra o Caos & Os God Learners).
 - Layout de ***Armies and Enemies of Dragon Pass*** (Martin Helsdon).
 - Orientou [[Andrew Logan Montgomery]] no layout, produção de arte e impressão para *[[Six Seasons in Sartar]]*.
 - Membro do [[Reaching Moon Megacorp]].

@@ -2,8 +2,8 @@
 title: "Malkionismo"
 category: "Conceito"
 tags: [malkioni, filosofia, religião, brithini]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-24/", "https://godlearners.com/journal-of-runic-studies-25/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
-last_updated: 2026-05-06
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-24/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-46/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in_23.html"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -35,6 +35,20 @@ Segundo Jeff Richard, o Malkionismo é um veículo para explorar lógica e filos
 - Upanishads
 - Brahma Sutras
 - Gaudapada
+
+### O Malkionismo Primitivo
+Segundo Jeff Richard, o Malkionismo inicial acredita-se ter sido composto de quatro elementos:
+- **Rituais sacrificiais**
+- **Técnicas de feitiçaria e feitiços**
+- **Proscrições legais**
+- **Especulações filosóficas**
+
+O **Hrestolismo** posterior preservou o racionalismo e os elementos filosóficos do Malkionismo primitivo e desenvolveu novas escolas filosóficas — os textos principais sendo o **Rokarismo** e o **Novo Hrestolismo**.
+
+O Malkionismo é a família geral de filosofias que remontam a **Malkion**, poderoso mago mítico anterior ao Tempo. As escolas discordam sobre se a sociedade deve ser baseada em castas e se deve haver escolha e mobilidade entre elas — mas todas concordam em magos fazendo coisas de mago: alisar a barba, viver em torres, difamar divindades (que consideram apenas espíritos poderosos que bagunçam as Runas que compõem o universo) e pensar muito sobre coisas de que ninguém liga.
+
+### O Arkatismo — a Sombra do Malkionismo
+Paralelamente existe, desconfortavelmente, o [[Arkatismo]]: com sua ênfase em divindades, heroquesting e respeito pelas práticas tradicionais apesar de suas contradições, é "a **Sombra da racionalidade malkioni**". Deixa muitos traços no pensamento orlanthi da Segunda e Terceira Era — particularmente em Kethaela e Dragon Pass. Ver página dedicada: [[Arkatismo]].
 
 ### Escolas Principais
 - **Brithinismo:** Malkionismo conservador dos Brithini, interação direta com deuses.
@@ -83,6 +97,7 @@ Jeff Richard e Nick Brooke esclarecem que os Malkioni contemporâneos **não sã
 - [[Malkion]]
 - [[Zzabur]]
 - [[Hrestolismo]]
+- [[Arkatismo]]
 - [[Seshna Likita]]
 - [[Jeff Richard]]
 
