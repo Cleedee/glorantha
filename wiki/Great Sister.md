@@ -2,8 +2,8 @@
 title: "Great Sister"
 category: "Entidade"
 tags: [demigod, Lunar, Deusa Vermelha, Imperador Vermelho, Sister's Army, reincarnação]
-sources: ["https://godlearners.com/journal-of-runic-studies-34/"]
-last_updated: 2026-05-18
+sources: ["https://godlearners.com/journal-of-runic-studies-34/", "https://godlearners.com/journal-of-runic-studies-47/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -22,6 +22,9 @@ A Great Sister é descrita como uma **semideusa** que reencarna periodicamente �
 
 A existência da Great Sister ilustra as complexas dinâmicas de poder do [[Império Lunar]]. Embora o Imperador Vermelho seja o governante nominal, seu poder é contido por outras figuras que respondem diretamente à Deusa Vermelha. A Great Sister, com seu exército independente, é uma destas forças que o Imperador precisa acomodar em suas decisões.
 
+### O Assassinato do Imperador Vermelho (1629)
+Após a derrota na Batalha dos Heróis (1628), o Imperador Vermelho fugiu de Furthest para Mirin's Cross e depois Glamour. Durante os ritos do Tempo Sagrado, foi **assassinado pela Great Sister**, iniciando a **Guerra Civil Lunar**. Os egi culparam o Imperador pela derrota — o que resultou em seu sacrifício.
+
 ## Referências Cruzadas
 - [[Império Lunar]]
 - [[Deusa Vermelha]]
@@ -30,6 +33,7 @@ A existência da Great Sister ilustra as complexas dinâmicas de poder do [[Imp�
 
 ## Referências
 - Fonte: [Journal of Runic Studies #34](https://godlearners.com/journal-of-runic-studies-34/)
+- Fonte: [Journal of Runic Studies #47](https://godlearners.com/journal-of-runic-studies-47/)
 - Jeff Richard no RuneQuest Facebook Group, 2022
 
 ## Questões em Aberto

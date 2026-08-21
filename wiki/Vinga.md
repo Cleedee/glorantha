@@ -2,8 +2,8 @@
 title: "Vinga"
 category: "Entidade"
 tags: ["deusa", "Orlanthi", "Vinga", "guerreira", "vingança", "Orlanth", "Ernalda", "subculto", "Storm Tribe"]
-sources: ["https://wellofdaliath.chaosium.com/home/catalogue/websites/moondesign-com/archive-of-of-old-glorantha-discussions-on-moondesign-com/adulthood-initiations/", "https://wellofdaliath.chaosium.com/home/catalogue/websites/moondesign-com/archive-of-of-old-glorantha-discussions-on-moondesign-com/updated-king-sartar/"]
-last_updated: 2026-06-17
+sources: ["https://wellofdaliath.chaosium.com/home/catalogue/websites/moondesign-com/archive-of-of-old-glorantha-discussions-on-moondesign-com/adulthood-initiations/", "https://wellofdaliath.chaosium.com/home/catalogue/websites/moondesign-com/archive-of-of-old-glorantha-discussions-on-moondesign-com/updated-king-sartar/", "https://godlearners.com/journal-of-runic-studies-47/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -67,6 +67,9 @@ Esses dois deveres frequentemente entram em conflito, tornando o personagem desa
 ### Voto de Infertilidade
 
 Vingans podem tomar **votos de infertilidade**, o que pode ser útil para mulheres guerreiras que não desejam interrupções durante raides ou temporadas de combate. Esse voto pode ser compartilhado com outros cultos (como Elmal) e é geralmente aceito pela comunidade quando a personagem é claramente útil ao clã.
+
+### Write-up em The Six Paths
+O livro ***[[The Six Paths]]*** (Edan Jones, ilustrado por [[Katrin Dirim]], [[Jonstown Compendium]] 2022) traz um **write-up detalhado do culto de Vinga**, no contexto dos 4 sexos e 6 gêneros da cultura heortling — junto com Heler e Nandan — além de NPCs pertencentes a esses cultos.
 
 ## Referências Cruzadas
 - [[Orlanth]]

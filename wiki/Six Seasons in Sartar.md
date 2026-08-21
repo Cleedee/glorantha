@@ -26,6 +26,8 @@ Montgomery começou a blogar as sessões como um "afterthought". O blog ganhou t
 ### Retorno ao Jogo (2021)
 Em setembro de 2021, com todos os jogadores totalmente vacinados, o grupo retornou para rejogar a campanha — desta vez adaptada para [[RuneQuest - Roleplaying in Glorantha (RQG)]]. Após completar *Six Seasons*, planejavam seguir para *[[The Company of the Dragon]]*.
 
+Em maio de 2022, Jonathan Springfield e 7Tigers anunciaram que uma **tradução francesa** (*Six Saisons en Sartar*) estava em andamento.
+
 ### Sessão VIP na Chaosium Con Australia (Junho 2024)
 Montgomery foi convidado como International Guest of Honor para a primeira Chaosium Con Australia em Melbourne, onde dirigiu uma sessão VIP de 3 horas do capítulo final da campanha, "The Turning". Para adaptar a complexidade da campanha a uma convenção, criou um sistema de criação rápida de personagens baseado em quatro arquétipos (solução física, charmosa, analítica e ágil), com origens familiares (Gordangar o Chefe, Harvarr o Ferreiro, Savan/Morganeth os sacerdotes, Jorganeth Bladesong/Erinina Copperaxe os guerreiros), seleção simplificada de Runas e magia, e remoção de tramas complexas (Kallyr Starbrow e Shah'vask) para focar na situação imediata do clã.
 

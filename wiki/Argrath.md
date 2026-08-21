@@ -2,8 +2,8 @@
 title: "Argrath"
 category: "Entidade"
 tags: [herói, Libertador, Pavis, Império Lunar, Griselda, Hero Wars, Arkat, reencarnação]
-sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-27/", "https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html", "https://godlearners.com/journal-of-runic-studies-28/", "https://godlearners.com/journal-of-runic-studies-45/"]
-last_updated: 2026-08-11
+sources: ["https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-23/", "https://godlearners.com/journal-of-runic-studies-27/", "https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html", "https://godlearners.com/journal-of-runic-studies-28/", "https://godlearners.com/journal-of-runic-studies-45/", "https://godlearners.com/journal-of-runic-studies-47/"]
+last_updated: 2026-08-21
 status: draft
 aliases:
   - "Argrath White Bull"
@@ -99,6 +99,33 @@ Jeff Richard e Greg Stafford compilaram um resumo da trajetória de Argrath:
 
 Jeff e Greg compararam os primeiros anos de Argrath a **Alexandre o Grande** e **Napoleão Bonaparte** — as atividades maníacas de Argrath parecem razoáveis em comparação! Mas Argrath tem o caminho mais longo a percorrer para tornar-se um par de figuras como o Imperador Vermelho, Gunda the Guilty, Beat-Pot ou Sir Ethilirist.
 
+### As Aventuras do Jovem Argrath (1621–1624)
+Jeff Richard sugere explorar mais a **iconografia** das aventuras de Argrath nesses anos — talvez ele fosse às vezes identificado por um **capacete de elefante**, como Alexandre nas moedas ptolemaicas (quase certo que Alexandre nunca usou tal capacete, mas Argrath já foi desenhado com capacetes mais malucos). Feitos da lista:
+
+- **Teshnos:** derrotou elefantes cortando suas trombas.
+- **[[Teleos]]:** tomou o **Sapo Esmeralda** ("Devorador de Almas") e ganhou a amizade do Povo Púrpura; a maldição que dividia o povo da ilha por cores chegou ao fim.
+- **Flanch (Maslo, Pamaltela):** traído e aprisionado pelas "árvores devoradoras", sobreviveu e vingou-se. Flanch é uma selva com cidades agimori no litoral, em guerra constante contra os elfos amarelos que controlam a mata — seus guerreiros são especializados em combater elfos.
+- **Laskal (Pamaltela):** ajudou [[Harrek the Berserk|Harrek]] contra os **Bat Hsunchen**. Há ~120 mil "povo-morcego" ao redor de Fonrit; as tribos têm totens de morcegos variados, mas o clero principal é associado ao morcego-vampiro. Em 1613 unificaram boa parte dos Hsunchen locais sob o **Império Pujaleg**, poderoso o bastante para cobrar tributo das cidades de Laskal. Argrath e Harrek derrotaram-nos em 1622, e o Urso Branco estabeleceu-se como governante de Banamba (também chamada Laskal) — mas quando pareceu que teriam de governar de fato, fugiram para novas aventuras.
+- **Cidade de Ferro:** Argrath foi um dos que a encontraram em **Jrustela** e ajudou a saqueá-la. Há também uma Cidade de Ferro na borda do gigantesco redemoinho no centro do oceano — pode ser a mesma cidade em dois lugares, ou Greg esqueceu que já havia nomeado algo assim.
+- **Noloswal:** saqueada pelos Wolf Pirates. Grande cidade do sul de Seshnela, à beira do rio Tanier — o maior porto de Seshnela, base da Marinha de Nolos. Talvez contassem com aliados locais: em **Pithdaros**, perto da foz do rio, Argrath teria ajudado **Hunralki**, um poderoso xamã de Jolar.
+- **Idiomas:** como Conan, Argrath fala ao menos um pouco de MUITAS línguas — sartarita, Stormspeech, Tradetalk, Spirit Speech, praxiano, yggite, Old Pavic, Auld Wyrmish, New Pelorian, teshnita, banamban, teleon, seshnelan, esrolian — e talvez flanchite e doraddi.
+
+> "Esta parte de Argrath remonta às suas aparições mais antigas. Ele é o Rei Aventureiro, que pode muito bem ter sido o modelo para o que hoje conhecemos como Orlanth Adventurous. E Orlanth Adventurous foi muito negligenciado no antigo material das Hero Wars. Hoje eu diria que ele pode ser um dos grandes motores do cosmos." — Jeff Richard
+
+### A Revolução de 1627–1629
+Ver página dedicada: [[Batalha dos Heróis]].
+
+O que ocorreu em Dragon Pass entre 1627 e 1629 foi uma revolução tão grande quanto qualquer outra na história gloranthana: o Principado de Sartar, à beira do colapso tribal, tornou-se a potência dominante de Dragon Pass e do antigo País Santo, derrotando frontalmente o Exército Lunar liderado pelo Imperador Vermelho e Jar-eel.
+
+- A cavalaria lunar enfrentou cavalaria praxiana e sartarita igualmente aguerrida; o **Lunar College of Magic** foi superado pela nova **Sartar Magical Union**; e Sartar revelou seus próprios heróis — Harrek e Gunda the Guilty.
+- Na **Batalha dos Heróis** (1628), os Lunares sofreram a pior derrota desde a era de Sheng Seleris. Segundo vários documentos, Harrek matou Jar-eel.
+- Argrath casou-se com **Inkarne**, a Rainha do Cavalo Emplumado, tornando-se **Rei de Dragon Pass** e Líder da Liga Sagrada (seus aliados do País Santo). Furthest cairia em questão de tempo; bestas praxianas passaram a pastar na Ilha Kordros e nos campos de milho ao longo do Oslir.
+- Iniciou-se uma **Idade de Ouro Orlanthi** de aventura e heroísmo, com o Rei de Dragon Pass competindo como par do Imperador Vermelho — mas "é da natureza das Idades de Ouro terminar...".
+- O Império Lunar entrou em crise prolongada: guerra civil e introspecção perigosa. Com a Deusa Vermelha entrando em sua Fase Negra, lembra Jeff: "nada está sempre Morrendo. E até os Mortos voltam à Vida."
+- Comparação útil para campanhas: o período pós-1629 equivale às fases **Conquest** e **Tournament** da *Great Pendragon Campaign*.
+
+O Império subestimara Argrath: imaginavam lidar com uma revolta tradicional ou com o reino de Sartar de circa 1602, com talvez um herói ou outro — e foram completamente superados em unidades mágicas.
+
 ### A Teoria dos "Múltiplos Argraths"
 
 Existiu uma teoria de que todos os feitos atribuídos a "Argrath" foram na verdade realizados por múltiplas pessoas, já que *obviamente uma pessoa não poderia ter feito tudo isso*. Até a Glorantha Wiki (à época) abraçava esta teoria. Mas ela foi **oficialmente abandonada** por Greg Stafford e Jeff Richard:
@@ -130,11 +157,15 @@ Esta conexão vincula Argrath ao mito primordial de **Arkat vs Gbaji**, um confl
 - [[Haraspac]]
 - [[Sartar Magical Union]]
 - [[Prince of Sartar]]
+- [[Batalha dos Heróis]]
+- [[Teleos]]
+- [[Harrek the Berserk]]
 
 ## Referências
 - Fonte: [Noticias D100 abr 2026 — El Runeblog](https://elruneblog.blogspot.com/2026/04/noticias-d100-cthulhu-runequest-mythras.html)
 - Fonte: [Journal of Runic Studies #5](https://godlearners.com/journal-of-runic-studies-5/)
 - Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
+- Fonte: [Journal of Runic Studies #47](https://godlearners.com/journal-of-runic-studies-47/)
 - Fonte: [Drops Glorantha #3 - Prince of Sartar](https://jogatinasemteresina.blogspot.com/2025/09/drops-glorantha-3-prince-of-sartar.html)
 - Jeff Richard no RuneQuest Facebook Group, 2021
 

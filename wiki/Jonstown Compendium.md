@@ -2,7 +2,7 @@
 title: "Jonstown Compendium"
 category: "Fonte"
 tags: [fãs, material comunitário, DriveThruRPG, aventuras, suplementos]
-sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-80/", "https://andrewloganmontgomery.blogspot.com/2021/08/qad-pimpers-block-complete-collection.html"]
+sources: ["https://elruneblog.blogspot.com/search/label/Glorantha", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-10/", "https://godlearners.com/journal-of-runic-studies-11/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-80/", "https://andrewloganmontgomery.blogspot.com/2021/08/qad-pimpers-block-complete-collection.html"]
 last_updated: 2026-08-21
 status: draft
 ---
@@ -99,6 +99,18 @@ O bibliotecário dos God Learners iniciou uma lista de todos os "freeforms" (LAR
 
 ### History of Malkionism — Conteúdo Bônus
 *[[Malkionismo|A History of Malkionism]]* de **Nick Brooke**, ilustrada por [[Katrin Dirim|Katrin Dirim]], alcançou o status **Silver Best Seller** (metade do caminho para Electrum). Para celebrar, adicionaram **26 páginas de conteúdo bônus**, depois ampliadas para **33 páginas**: e-mails de bastidores, logs de chat de grupo, esboços e line-art mostrando como as primeiras dezesseis ilustrações foram criadas (*Before Time*, Seshneg da Era do Amanhecer, a Cruzada de Arkat contra o Caos & Os God Learners) — incluindo as notas de direção de arte e explorações para várias ilustrações. Revela como os God Learners aparecem visualmente.
+
+### The Six Paths (maio 2022)
+**Edan Jones** lançou *[[The Six Paths]]*, livro sobre **gênero entre os Heortlings**, ilustrado por [[Katrin Dirim]]. Explora como podem ser os muitos sexos e gêneros dos Orlanthi (o livro de regras menciona 4 sexos e 6 gêneros), com write-ups detalhados de Heler, Nandan e Vinga, e vários NPCs desses cultos. Pay-what-you-want (mínimo sugerido US$ 0,50 para manter o produto nos rankings), com incentivo a doações a caridades LGBTQ locais.
+
+### DuckPac — Prévia (maio 2022)
+Neil Gibson e Drew Baker provocaram **[[DuckPac]]**, série de suplementos para personagens Durulz modelada segundo a estrutura clássica do Trollpak. Originalmente planejada em 4 livros (lore; criação de personagem; cenários; soloquest "Redfeather Dreaming") — grande demais para livro único, pois >200 páginas vendem menos.
+
+### Andrasta's Ring — Prévia (maio 2022)
+**Ernesto Orellana** (com Xavier) vem provocando um suplemento sobre a **Confederação de Alone**, no norte de Sartar: "um projeto ambicioso com as tribos de Alone e suas intrigas como pano de fundo".
+
+### Six Saisons en Sartar (maio 2022)
+Jonathan Springfield e 7Tigers anunciaram que uma **tradução francesa** de *Six Seasons in Sartar* está em andamento.
 
 ### Novidades Recentes (2026)
 

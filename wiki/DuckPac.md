@@ -2,7 +2,7 @@
 title: "DuckPac"
 category: "Fonte"
 tags: [DuckPac, Durulz, patos, Jonstown Compendium, Drew Baker, Neil Gibson, suplemento]
-sources: ["https://andrewloganmontgomery.blogspot.com/2022/08/looking-fowl-and-feeling-fair-ducks.html"]
+sources: ["https://andrewloganmontgomery.blogspot.com/2022/08/looking-fowl-and-feeling-fair-ducks.html", "https://godlearners.com/journal-of-runic-studies-47/"]
 last_updated: 2026-05-16
 status: draft
 ---
@@ -11,6 +11,15 @@ status: draft
 
 ## Resumo
 Série de 3 livros do [[Jonstown Compendium]] por **Drew Baker** e **Neil Gibson** sobre os [[Durulz]] (patos) de [[Glorantha]]. Segue o modelo do clássico **Trollpak**. Arte de Drew Baker, Neil Gibson, Tania Rodriguez, Rick Hershey, Lee O'Connor, Dominic Reardon, John Spelling e Forge Studios.
+
+## Prévia (maio de 2022)
+Neil Gibson e Drew Baker provocaram a série para lançamento ainda naquele mês no Jonstown Compendium, modelada segundo a estrutura clássica do Trollpak — originalmente planejada em **4 livros**:
+1. **Book One** — "fatos, lore, história & lendas" sobre os patos.
+2. **Book Two** — criação de um aventureiro pato.
+3. **Book Three** — cenários focados em patos.
+4. **Book Four** — extra: o soloquest **"Redfeather Dreaming"**. Neil havia mencionado este soloquest no episódio de gamemastering dos God Learners (Ep. 6), pedindo playtesters.
+
+O conjunto era grande demais para sair como livro único — qualquer coisa acima de ~200 páginas tende a vender muito menos, a menos que o autor corte preços a ponto insustentável. No lançamento final, a série consolidou-se em **3 livros**, com *Redfeather Dreaming* como Book 3.
 
 ## Conteúdo
 

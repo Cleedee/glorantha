@@ -2,7 +2,7 @@
 title: "Heroquesting"
 category: "Conceito"
 tags: [RuneQuest, heroquest, mitologia, magia, runas, Jeff Richard, Greg Stafford, Ranging, Joining]
-sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-30/", "https://godlearners.com/journal-of-runic-studies-46/"]
+sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-80/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-30/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/"]
 last_updated: 2026-08-21
 status: draft
 ---
@@ -245,6 +245,18 @@ Jeff Richard recomenda as seguintes leituras para quem quer entender heroquestin
 
 Jeff Richard compartilhou um diagrama do Plano Heróico que mapeia parte do Plano Heróico associado à **Quest de Aroka**. Em vez de organizar uma heroquest como uma lista linear de "estações" como nos antigos suplementos de HeroWars, Jeff prefere uma abordagem de **sandbox de cenas**, similar a como se organiza uma aventura normal.
 
+### Status das Regras (maio de 2022)
+Informações coletadas de Facebook e BRP Central sobre quando as aguardadas regras de heroquesting para RuneQuest sairão:
+
+1. O também aguardado **RuneQuest Gamemaster Guide** — referenciado no livro de regras quatro anos antes! — terá as regras "centrais" de heroquesting.
+2. Um **livro completo de heroquesting** ("full-fledged heroquesting book") será publicado depois.
+
+O palpite educado de Ludovic é que este segundo livro incluirá uma espécie de **gazetteer dos planos heróico e divino**: mapas (como o WIP do Tournament of Luck and Death compartilhado por Jeff) com detalhes do que se pode encontrar em cada local, quem se pode encontrar, que tipo de desafio darão, e que bênçãos e maldições se pode trazer de volta.
+
+> "[...] é VITAL que acertemos isto. Feedback de convenções, sessões para designers de jogos e outros playtests sugerem que estamos praticamente lá, mas isto se conecta a TANTAS coisas que precisamos fazer certo." — Jeff Richard
+
+Ou seja: não sai até a Chaosium estar satisfeita — o que significa que pode atrasar ainda mais.
+
 ## Referências Cruzadas
 - [[RuneQuest]]
 - [[QuestWorlds]]
@@ -256,4 +268,4 @@ Jeff Richard compartilhou um diagrama do Plano Heróico que mapeia parte do Plan
 
 ## Questões em Aberto
 - [ ] Quais são as regras específicas de bênçãos e maldições?
-- [ ] Quando serão publicadas as regras de heroquesting?
+- [ ] Quando serão publicadas as regras? Plano conhecido (2022): regras centrais no RuneQuest Gamemaster Guide; livro completo de heroquesting depois.

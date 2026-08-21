@@ -2,8 +2,8 @@
 title: "Harrek the Berserk"
 category: "Entidade"
 tags: [Harrek, Rathori, Wolf Pirates, White Bear God, Hero Wars, Argrath, Gunda, Dart Warrior]
-sources: ["https://godlearners.com/journal-of-runic-studies-29/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-29/", "https://godlearners.com/journal-of-runic-studies-47/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -51,6 +51,12 @@ Harrek pode ser pensado como um grande fator aleatório ao longo das Hero Wars. 
 >
 > Harrek é selvagem e incivilizado, mas também foi treinado pelos Lunares, esteve em Dorastor, saqueou cidades em Fronela, Teshnos, Fonrit e Seshnela. Ele definitivamente não é tolo e tem astúcia bestial.
 
+### Feitos nas Guerras do Jovem Argrath (1621–1628)
+- **Laskal (1622):** com Argrath, derrotou os **Bat Hsunchen** de Laskal (Pamaltela) e estabeleceu-se como governante de **Banamba** (também chamada Laskal) — mas abandonou o posto quando pareceu que teria de governar de fato.
+- **Noloswal:** saqueou a maior cidade portuária de Seshnela, à beira do rio Tanier, apesar da Marinha de Nolos ter base ali.
+- **Cidade das Maravilhas:** saqueou e destruiu a mágica capital de Belintar no País Santo — "pare de estragar tudo, Harrek" (embora Jeff note: a Idade de Ouro deve morrer para que a história comece).
+- **Batalha dos Heróis (1628):** segundo vários documentos, **matou Jar-eel** na batalha — mas os historiadores podem estar errados; jogue para descobrir. Também impediu Argrath de marchar sobre Furthest após a vitória, lembrando-o da promessa de atacar Black Horse County.
+
 ## Referências Cruzadas
 - [[Wolf Pirates]]
 - [[Argrath]]
@@ -65,9 +71,12 @@ Harrek pode ser pensado como um grande fator aleatório ao longo das Hero Wars. 
 - [[Gimgim the Grim]]
 - [[Fronela]]
 - [[Hero Wars]]
+- [[Batalha dos Heróis]]
+- [[Cidade das Maravilhas]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #29](https://godlearners.com/journal-of-runic-studies-29/)
+- Fonte: [Journal of Runic Studies #47](https://godlearners.com/journal-of-runic-studies-47/)
 - Jeff Richard no RuneQuest Facebook Group
 - Arte: © 2021 Chaosium Inc.
 

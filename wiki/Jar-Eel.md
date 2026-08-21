@@ -2,8 +2,8 @@
 title: "Jar-Eel"
 category: "Entidade"
 tags: [lunar, deusa vermelha, heroína, Moonson, Moonsword, Chaos, Imperador Vermelho]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-28/", "https://godlearners.com/journal-of-runic-studies-45/"]
-last_updated: 2026-08-11
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-28/", "https://godlearners.com/journal-of-runic-studies-45/", "https://godlearners.com/journal-of-runic-studies-47/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -102,6 +102,10 @@ Jar-Eel salva **Beat-Pot Aelwrin**, e ele se torna seu servo mais devotado e um 
 ### Crimes Atribuídos
 > De todos os muitos crimes cometidos pela Rainha-Bruxa de Sangue Venenoso do Império Lunar, talvez o maior crime tenha sido quando ela assassinou Belintar, o Deus-Rei, e encerrou a proximidade divina do País Santo.
 
+### A Revolução e a Batalha dos Heróis (1627–1628)
+- Jar-eel co-liderou o Exército Lunar com o Imperador Vermelho na tentativa de esmagar a Revolução de Argrath — e foi **frontalmente derrotada**.
+- Na **Batalha dos Heróis** (1628), segundo vários documentos, **Harrek a matou** — mas "quem sabe, talvez os historiadores estejam errados. Jogue para descobrir."
+
 ### Perspectiva Narrativa
 Apesar da reputação maligna, seu apelido "Rainha-Bruxa de Sangue Venenoso" pode fazer alguns torcerem por ela – exceto pelo fato de ter destruído o País Santo.
 
@@ -126,6 +130,7 @@ Apesar da reputação maligna, seu apelido "Rainha-Bruxa de Sangue Venenoso" pod
 - Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
 - Fonte: [Journal of Runic Studies #28](https://godlearners.com/journal-of-runic-studies-28/)
 - Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
+- Fonte: [Journal of Runic Studies #47](https://godlearners.com/journal-of-runic-studies-47/)
 - Escribas de Argrath
 - Arte: Jon Hodgson © 2021 Chaosium Inc.
 

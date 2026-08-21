@@ -2,8 +2,8 @@
 title: "Biturian Varosh"
 category: "Entidade"
 tags: [personagem, viajante, prax, cultos, narração]
-sources: ["https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-21/"]
-last_updated: 2026-05-13
+sources: ["https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-21/", "https://godlearners.com/journal-of-runic-studies-47/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -21,9 +21,11 @@ As viagens de Biturian Varosh são um recurso inovador de design de RPG: uma for
 O podcast God Learners cobriu a terceira parte da jornada de Biturian, de [[Pavis]] a [[Corflu]], com a participação de Drew Baker (autor de Rubble Runners) como guia através de Prax.
 
 ### Cobertura dos God Learners
-O podcast God Learners seguiu as viagens icônicas de Biturian Varosh em dois episódios:
+O podcast God Learners seguiu as viagens icônicas de Biturian Varosh em vários episódios:
 - [Parte 1](https://godlearners.com/episode-3-the-travels-of-biturian-varosh-part-1/)
 - [Parte 2](https://godlearners.com/episode-6-the-travels-of-biturian-varosh-part-2/)
+- Parte 3 (Pavis–Corflu) — com Drew Baker, ver JRS #21
+- [Parte 4 (Episódio 11)](https://godlearners.com/episode-11-the-travels-of-biturian-varosh-part-4/) — Drew Baker retorna como convidado; apropriado em dobro, pois seu livro mais recente é sobre viagens em Dragon Pass
 
 ## Referências Cruzadas
 - [[Cults of Prax]]

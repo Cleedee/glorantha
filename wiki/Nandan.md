@@ -2,8 +2,8 @@
 title: "Nandan"
 category: "Entidade"
 tags: ["deidade", "Orlanthi", "Nandan", "gênero", "Terra", "Ernalda", "subculto", "minoridade"]
-sources: ["https://wellofdaliath.chaosium.com/home/catalogue/websites/moondesign-com/archive-of-of-old-glorantha-discussions-on-moondesign-com/adulthood-initiations/"]
-last_updated: 2026-06-17
+sources: ["https://wellofdaliath.chaosium.com/home/catalogue/websites/moondesign-com/archive-of-of-old-glorantha-discussions-on-moondesign-com/adulthood-initiations/", "https://godlearners.com/journal-of-runic-studies-47/"]
+last_updated: 2026-08-21
 status: draft
 ---
 
@@ -56,6 +56,9 @@ A discussão esclarece que **não existem realmente "papéis de gênero" — exi
 ### Pragmatismo Orlanthi
 
 Na sociedade Orlanthi, mesmo que o clã considere alguém "excêntrico", **ser útil é suficiente para ser aceito**. A sobrevivência do clã é o motor primário, e qualquer membro produtivo é bem-vindo. Pode haver turbulência interna na pessoa e, em menor grau, na família e no clã, mas geralmente as pessoas simplesmente seguem em frente.
+
+### Write-up em The Six Paths
+O livro ***[[The Six Paths]]*** (Edan Jones, ilustrado por [[Katrin Dirim]], [[Jonstown Compendium]] 2022) traz um **write-up detalhado do culto de Nandan**, no contexto dos 4 sexos e 6 gêneros da cultura heortling — junto com Heler e Vinga — além de NPCs pertencentes a esses cultos.
 
 ## Referências Cruzadas
 - [[Vinga]]

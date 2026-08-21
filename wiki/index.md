@@ -139,6 +139,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | Página | Resumo | Tags | Status |
 |--------|--------|------|--------|
 | [[Windstop]] | Ano de 1621-1622 em que Orlanth e Ernalda estiveram mortos em Dragon Pass por heroquest lunar; cultos associados preencheram o vácuo; revertido por Kallyr e Broyan | `Windstop` `Orlanth` `Ernalda` `Whitewall` `Império Lunar` `Tatius` `heroquesting` | draft |
+| [[Batalha dos Heróis]] | Batalha épica de 1628; Argrath derrota o Exército Lunar do Imperador Vermelho e Jar-eel; Harrek mata Jar-eel; pior derrota Lunar desde Sheng Seleris | `Battle of Heroes` `Argrath` `Harrek` `Jar-Eel` `1628` `Hero Wars` | draft |
 
 ---
 
@@ -358,6 +359,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 44]] | 44ª edição; Léxico de Heroquesting, Prax e as Terras Ermas, pessoas notáveis das tribos High Llama/Bison/Sable/Impala, White Bull Society | `periódico` `malkioni` `heroquesting` `Prax` `White Bull` | draft |
 | [[Journal of Runic Studies 45]] | 45ª edição; desequilíbrio e evolução dos cultos, Morokanth, Oasis People, fundação e ocupação Lunar de New Pavis, figuras das Hero Wars, Orlanthi de Maniria | `periódico` `malkioni` `cultos` `Morokanth` `Pavis` `Hero Wars` `Maniria` | draft |
 | [[Journal of Runic Studies 46]] | 46ª edição; normalização do Mundo Espiritual (documento encontrado), VTT Fantasy Grounds, Settlement 16, extras de History of Malkionism, tatuagens de Joh Mith, Malkionismo primitivo, Arkatismo, Red Moon and Warring Kingdoms | `periódico` `malkioni` `Mundo Espiritual` `Arkatismo` `Joh Mith` `Malkionismo` `13th Age` | draft |
+| [[Journal of Runic Studies 47]] | 47ª edição; mudanças editoriais (Well of Daliath), jovem Argrath 1621-1624, Revolução de 1627-1629, Cidade das Maravilhas, The Six Paths, prévia DuckPac, regras de heroquesting | `periódico` `malkioni` `Argrath` `Batalha dos Heróis` `Cidade das Maravilhas` `The Six Paths` `DuckPac` | draft |
+| [[The Six Paths]] | Edan Jones (Jonstown Compendium); gênero entre os Heortlings; 4 sexos e 6 gêneros; write-ups de Heler, Nandan e Vinga; PWYW | `Jonstown Compendium` `gênero` `Heortlings` `Nandan` `Vinga` `Heler` | draft |
+| [[Meints Index to Glorantha]] | Rick Meints; 264 págs de história editorial gloranthana; tiragens de RQ2, miniaturas, fanzines; print-on-demand | `referência` `história editorial` `Rick Meints` `Chaosium` `RQ2` | draft |
 
 ---
 
@@ -415,6 +419,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 |--------|--------|------|--------|
 | [[Ivory Plinth]] | Monumento de marfim erguido por Aram ya-Udram com presa do javali Gouger; hoje lar dos Tusk Riders | `monumento` `Maniria` `Tusk Riders` `Gouger` `Aram ya-Udram` | draft |
 | [[Maniria]] | Região da costa sul de Genertela a oeste do País Santo; quatro confederações Orlanthi; terra dos Trader Princes | `região` `Genertela` `Orlanthi` `Trader Princes` | draft |
+| [[Teleos]] | Ilha tropical a leste da Poça de Magasta; seis tribos humanas de cores diferentes; Argrath tomou o Sapo Esmeralda e encerrou a maldição das cores | `ilha` `oceano` `seis tribos` `Sapo Esmeralda` `Argrath` | draft |
 
 ---
 ## Cronologia
