@@ -17,6 +17,8 @@ Editora fundada por [[Greg Stafford]], criador de [[Glorantha]]. Publicou o [[Ru
 ### História
 Fundada por Greg Stafford na década de 1970, a Chaosium foi pioneira no RPG com sistemas inovadores. RuneQuest (1978) introduziu combate realista com strike ranks e locais de impacto, influenciando toda a indústria. Call of Cthulhu (1981) tornou-se o carro-chefe da empresa.
 
+No início dos anos 1980, a **[[Games Workshop]]** (GW) adquiriu licenças da Chaosium e da TSR para vender e distribuir RuneQuest e D&D no Reino Unido, tornando-se a maior distribuidora de RPGs do país. Quando a Avalon Hill lançou RQ3 em 1984, a GW publicou sua própria edição licenciada de RQ3 como uma série de cinco livros em 1987.
+
 Após 30 anos de RuneQuest fora de casa (Avalon Hill, Mongoose Publishing, The Design Mechanism), a **Moon Design Publications** fundiu-se com a Chaosium, trazendo o jogo de volta ao seu lar original.
 
 ### Equipe Chave

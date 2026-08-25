@@ -18,7 +18,9 @@ status: draft
 - **1ª edição:** Junho 1978 — rush para Origins; "Chaosium" e "Glorantha" errados na contracapa
 - **2ª edição:** Outubro 1979 — capa colorida (Luise Perrin/Luise Perenne); tiragem maior
 - **Edição em caixa:** Livro de regras + folhas de personagem + introdução + booklet de NPCs + aventura Apple Lane
-- **Descontinuado:** 1983
+- **Descontinuado:** 1983 (início dos anos 1980)
+- **Popularidade no Reino Unido:** Um dos RPGs de maior venda no UK, superado apenas por D&D. A [[Games Workshop]] vendia e distribuía RQ2 sob licença da [[Chaosium]]
+- **Fim na Games Workshop:** Quando a Avalon Hill lançou RQ3 em 1984, a GW não pôde mais vender seus produtos RQ2 fabricados no UK
 - **Reimpressão:** 2015 — crowdfunding Moon Design; PDF/POD em 2020
 
 ### Sistema

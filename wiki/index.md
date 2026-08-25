@@ -45,6 +45,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Brian Holland]] | Designer da Chaosium; coautor do RRQG; autor de The Mouth of Chaos e seus pré-gerados | `designer` `Chaosium` `RRQG` `The Mouth of Chaos` | draft |
 | [[Ossi Hiekkala]] | Artista de staff da Chaosium; arte dos pré-gerados de The Mouth of Chaos e capas de RuneQuest | `artista` `Chaosium` `RuneQuest` `ilustrador` | draft |
 | [[Rick Meints]] | Co-proprietário da Chaosium; escreveu a introdução de Glorantha do RRQG; Q&A sobre RQG 2018 em catálogo | `Chaosium` `co-proprietário` `RRQG` | draft |
+| [[Games Workshop]] | Maior jogador do mercado UK de RPG nos anos 80; distribuidora, varejista e editora; vendeu RQ2 e D&D sob licença; publicou 5 livros RQ3 em 1987 | `editora` `distribuidora` `Reino Unido` `RuneQuest` `White Dwarf` | draft |
 | [[Joh Mith]] | Sacerdote Goldentongue de Issaries, membro do Conselho de Jonstown; comandou caravana a Balazar; tatuagens rúnicas documentadas | `Issaries` `Jonstown` `Balazar` `caravana` `tatuagens` `Goldentongue` | draft |
 | [[David Scott]] | Bibliotecário da Well of Daliath; arquivista da produção online dos designers da Chaosium | `Well of Daliath` `Chaosium` `arquivista` `lore` | draft |
 | [[Studio Deadcrows]] | Estúdio francês da localização oficial de RQG (Game On Tabletop 2019); produtor de Children of the Flame | `editora` `estúdio` `francês` `RuneQuest` `tradução` | draft |
@@ -389,6 +390,9 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[The Bloody Banquet]] | One-shot RQG todo-Telmori de Ludovic; jogado na ChaosiumCon 2023; próxima publicação anunciada | `aventura` `RuneQuest` `Telmori` `Ludovic` `one-shot` | draft |
 | [[Goonies in Glorantha]] | Campanha introdutória para crianças/novatos em RuneQuest de Ludovic; apelido interno | `campanha` `RuneQuest` `iniciantes` `Ludovic` | draft |
 | [[Children of the Flame]] | Campanha francesa (Studio Deadcrows) de reforma da tribo Dundealos (1625-1626); livro extra da edição FR de RQG; Swenstown | `campanha` `RuneQuest` `francês` `Dundealos` `Swenstown` `Studio Deadcrows` | draft |
+| [[RuneQuest 3ª Edição — Publicações Games Workshop]] | 5 livros licenciados da RQ3 publicados pela Games Workshop em 1987; evitar VAT; aventura "A Tale to Tell" de Jon Quaife | `RuneQuest` `RQ3` `Games Workshop` `1987` `livros` | draft |
+| [[White Dwarf]] | Revista britânica de RPG da Games Workshop; anúncio dos livros RQ3 na edição #85 (jan/1987) | `revista` `Games Workshop` `RPG` `publicação` | draft |
+| [[MiG3: The Meints Index to Glorantha]] | Livro de referência de Rick Meints; história completa das publicações de Glorantha e RuneQuest | `livro` `Rick Meints` `índice` `Glorantha` `referência` | draft |
 
 ---
 
@@ -469,5 +473,5 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 
 ---
 
-*Última atualização: 2026-08-12 (ENNIE Awards — Hall da Fama: RuneQuest 2026, discurso de Jason Durall)*
+*Última atualização: 2026-08-24 (Ingestão Out of the Suitcase #56 — Games Workshop e RuneQuest 3ª Edição)*
 

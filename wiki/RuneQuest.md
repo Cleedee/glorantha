@@ -18,6 +18,7 @@ status: draft
 | Edição | Ano | Editora | Notas |
 |--------|-----|---------|-------|
 | [[RuneQuest 2ª Edição (RQ2)]] | 1979 | Chaosium | Edição clássica definitiva; 144 p. |
+| [[RuneQuest 3ª Edição — Publicações Games Workshop]] | 1987 | [[Games Workshop]] | 5 livros licenciados da RQ3 (Avalon Hill) |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 2018 | Chaosium | 7ª edição, retorno ao cenário; 448 p. |
 | [[RuneQuest - Fantasy Roleplaying]] | ~2027 | Chaosium | Nova versão simplificada, foco Pavis/Big Rubble |
 
@@ -27,6 +28,9 @@ status: draft
 - **[[Armor Points]]** — armadura absorve dano em vez de dificultar acerto
 - **Melhoria por uso** — personagens melhoram habilidades que efetivamente usam
 - **Sem classes ou níveis** — liberdade total de progressão
+
+### A Era Games Workshop (1984–1989)
+Após a Chaosium, o RuneQuest passou por um período na **[[Games Workshop]]** (GW) no Reino Unido. A GW era a maior distribuidora de RPGs no UK e vendia RQ2 sob licença. Quando a Avalon Hill lançou RQ3 em 1984, a GW perdeu os direitos sobre RQ2 e, para evitar o imposto VAT sobre caixas, publicou cinco livros licenciados de RQ3 em 1987 (incluindo *RuneQuest*, *Advanced RuneQuest*, *Monsters*, *Griffin Island* e *Land of Ninja*). Um sexto livro, *Vikings*, foi cancelado. A aventura "A Tale to Tell" de Jon Quaife, publicada na [[White Dwarf]] #85, depois integraria o suplemento *Shadows on the Borderland* (1993) durante a "RuneQuest Renaissance". A história completa está documentada no [[MiG3: The Meints Index to Glorantha]].
 
 ### O Legado
 RuneQuest influenciou profundamente a indústria: seu sistema d100 originou [[Call of Cthulhu]], *Stormbringer*, *King Arthur Pendragon*, *Nephilim*, e outros. Foi o segundo RPG de maior venda por um período nos anos 80. A mecânica de combate de RQ influenciou jogos como *The Elder Scrolls*, *Fallout* (SPECIAL), e *Warcraft* através de sua linhagem.
