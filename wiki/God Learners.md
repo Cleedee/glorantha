@@ -2,8 +2,8 @@
 title: "God Learners"
 category: "Fonte"
 tags: [podcast, Dorastor, Simon Phipp, entrevista, torre, malkioni, feitiçaria, arkat, monomito]
-sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html"]
-last_updated: 2026-08-21
+sources: ["https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html", "https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-3/", "https://godlearners.com/journal-of-runic-studies-4/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-48/", "https://andrewloganmontgomery.blogspot.com/2023/01/why-i-actually-like-sorcery-in.html"]
+last_updated: 2026-08-27
 status: draft
 ---
 
@@ -66,6 +66,9 @@ Lançado em maio de 2022, com Drew Baker de volta como convidado (ele já partic
 ### Mudanças Editoriais no Journal of Runic Studies
 Com a Chaosium passando a **arquivar adequadamente os posts de Jeff Richard** no [Well of Daliath](https://wellofdaliath.chaosium.com/latest-facebook-posts/) (antes havia apenas texto copiado sem formatação nem mídia), o valor agregado das seções "Jeff Notes" do periódico reduziu-se às anotações. A partir do JRS 47 (maio 2022), Ludovic passou a compilar apenas os links, anotando somente o que considerar interessante. Ver [[Journal of Runic Studies 47]].
 
+### Edição #48: Elmal/Yelmalio e Waha
+O [Journal of Runic Studies 48](https://godlearners.com/journal-of-runic-studies-48/) (maio 2022) trouxe um aprofundamento do debate **Elmal/Yelmalio** a partir da thread BRP Central sobre Yelmalio no Holy Country, com linha do tempo revisada, o regicídio dos Elmali, contexto de design das sourcebooks Hero Wars, os usos do culto (Horse Triarchy, Troll Fighting, infantaria sólida) e números no Holy Country/Esrolia — além das limitações de cura de **Waha** e a atualização do **Cults of Glorantha** (96 cultos + ~40 menores). Ver [[Journal of Runic Studies 48]].
+
 ## Referências Cruzadas
 - [[Monomito]]
 - [[Arkat Caosban]]
@@ -83,6 +86,7 @@ Com a Chaosium passando a **arquivar adequadamente os posts de Jeff Richard** no
 - [[Journal of Runic Studies 17]]
 - [[Journal of Runic Studies 46]]
 - [[Journal of Runic Studies 47]]
+- [[Journal of Runic Studies 48]]
 
 ## Referências
 - Fonte: [Drops Glorantha #5 — Dorastor](https://jogatinasemteresina.blogspot.com/2026/01/drops-glorantha-5-dorastor-e-as.html)

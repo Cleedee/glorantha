@@ -2,8 +2,8 @@
 title: "Ludovic (God Learners)"
 category: "Entidade"
 tags: [reviewer, God Learners, podcast, Glorantha, Cults of RuneQuest]
-sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-36/", "https://godlearners.com/journal-of-runic-studies-37/", "https://godlearners.com/journal-of-runic-studies-38/", "https://godlearners.com/journal-of-runic-studies-39/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/"]
-last_updated: 2026-08-21
+sources: ["https://godlearners.com/review-runequest-starter-set/", "https://godlearners.com/review-cults-of-runequest-mythology/", "https://godlearners.com/review-the-lunar-way/", "https://godlearners.com/journal-of-runic-studies-12/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-14/", "https://godlearners.com/journal-of-runic-studies-15/", "https://godlearners.com/journal-of-runic-studies-16/", "https://godlearners.com/journal-of-runic-studies-17/", "https://godlearners.com/journal-of-runic-studies-36/", "https://godlearners.com/journal-of-runic-studies-37/", "https://godlearners.com/journal-of-runic-studies-38/", "https://godlearners.com/journal-of-runic-studies-39/", "https://godlearners.com/journal-of-runic-studies-46/", "https://godlearners.com/journal-of-runic-studies-47/", "https://godlearners.com/journal-of-runic-studies-48/"]
+last_updated: 2026-08-27
 status: draft
 ---
 
@@ -26,6 +26,9 @@ status: draft
 - **Sim-Glorantha** — filosofia de design onde cultos modelam a ficção do cenário, não mecânicas de gameplay
 - **Teoria conspiratória Lunar** — Sete Mães são as verdadeiras cabeças do panteão; Deusa Vermelha é uma "atriz"
 - **PCs vs NPCs** — muitos suplementos de cultos são mais úteis para GMs que jogadores
+
+### Journal of Runic Studies #48
+48ª edição (17 de maio de 2022): artigo de Ludovic sobre o significado de **YGWV/YGMV**; atualização do livro **Cults of Glorantha** (96 cultos + ~40 menores, em layout, revisores profissionais, mudança para lançamento simultâneo); Jonstown (Lost in the Dark de Skull Dixon, Secrets of Dorastor "Personalities Tactics", covers selecionados incl. capa de Ludovic para *To Hunt a God*); e um grande expositor do debate **Elmal/Yelmalio** a partir da thread BRP Central sobre Yelmalio no Holy Country (linha do tempo revisada, regicídio dos Elmali, contexto de design da Hero Wars, para que serve o culto, números no Holy Country/Esrolia) e as limitações de cura de **Waha**. Ver [[Journal of Runic Studies 48]].
 
 ### Journal of Runic Studies #47
 47ª edição (8 de maio de 2022): anúncio de mudanças editoriais — com a Chaosium arquivando adequadamente os posts de Jeff no Well of Daliath, as seções "Jeff Notes" passariam a compilar apenas links, com anotações mais curtas; Episódio 11 do podcast (Biturian Varosh Parte 4, com Drew Baker); desconto Campaign Coins; prévias do Meints Index to Glorantha (264 págs, print-on-demand); status das regras de heroquesting (regras centrais no RQG Gamemaster Guide + livro completo depois); lançamento de The Six Paths (Edan Jones/Katrin Dirim); prévias de DuckPac e Andrasta's Ring; tradução francesa de Six Seasons in Sartar; notas de Jeff sobre o jovem Argrath (1621–1624), a Revolução de 1627–1629 e a Batalha dos Heróis, a Cidade das Maravilhas, e "diferentes experiências de uma divindade" (Orlanth em Prax vs. Dragon Pass). Ver [[Journal of Runic Studies 47]].

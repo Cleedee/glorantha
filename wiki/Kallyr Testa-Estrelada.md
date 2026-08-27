@@ -10,7 +10,8 @@ sources:
   - https://godlearners.com/journal-of-runic-studies-27/
   - https://godlearners.com/journal-of-runic-studies-31/
   - https://godlearners.com/journal-of-runic-studies-39/
-last_updated: 2026-05-21
+  - https://godlearners.com/journal-of-runic-studies-48/
+last_updated: 2026-08-27
 status: draft
 aliases:
   - "Kallyr Starbrow"
@@ -102,6 +103,16 @@ Os personagens da campanha Colymar realizaram um **Teste da Coroa** (Crown Test)
 - Relatos sugerem que Kallyr e Ernaldesta eram muito próximas, possivelmente um "casamento por amor".
 - Forma um par paralelo com [[Leika Blacksper]] e [[Ereneva Chan]] — duas parcerias rei-fêmea/sacerdotisa-da-Terra em Sartar.
 - Ereneva Chan (esposa de Leika) intensely despreza Kallyr, culpando Starbrow pela morte de seu pai, exílio de sua mãe, e loucura/traição de seu irmão.
+
+### A Moeda de Prata de Kallyr (JRS #48)
+Durante seu curto reinado, Kallyr mandou cunhar uma **moeda de prata sartarita** (arte WIP de Chris Huth, exibida por Jeff Richard em maio de 2022). Detalhes da numismática:
+
+- Os **chifres de carneiro** são parte da iconografia de **Orlanth Rex** e dão ao Príncipe status quase-divino ligado a Orlanth.
+- As **associações celestiais de Kallyr são minimizadas** na moeda, que segue em grande parte o design das moedas sartaritas anteriores.
+- Contexto: **Sartar** cunhou prata com entusiasmo durante seu reinado (1492–1520), e sua dinastia continuou a prática de cunhar **Sovereigns** de prata. Os **Sovereigns sartaritas foram substituídos pelos Lunars após 1602**.
+- "Uma das primeiras coisas que um novo governante faz é cunhar moedas. Anuncia, legitima seu reinado e deixa claro quem manda."
+
+Ver também [[Moeda Gloranthana]].
 
 ## Referências Cruzadas
 - [[Rebelião de Starbrow]]

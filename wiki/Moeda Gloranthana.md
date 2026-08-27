@@ -2,8 +2,8 @@
 title: "Moeda Gloranthana"
 category: "Conceito"
 tags: [moeda, economia, comércio, prata, ouro, cobre, chumbo, Lunars, guilders, wheels, clacks, bolgs, Issaries, Argan Argar]
-sources: ["https://rqwiki.chaosium.com/glorantha/unique-aspects-of-glorantha.html#community"]
-last_updated: 2026-05-15
+sources: ["https://rqwiki.chaosium.com/glorantha/unique-aspects-of-glorantha.html#community", "https://godlearners.com/journal-of-runic-studies-48/"]
+last_updated: 2026-08-27
 status: draft
 ---
 
@@ -26,9 +26,17 @@ O sistema monetário de [[Glorantha]] é baseado na **prata**. A cunhagem foi in
 
 ### Histórico
 - A **primeira moeda** do mundo foi de ouro, trazida pelos **Gold Wheel Dancers** — daí o nome "wheel" para moedas de ouro.
-- O **Middle Sea Empire** introduziu a cunhagem de prata em Glorantha.
+- O **Middle Sea Empire** introduziu a cunhagem de prata em Glorantha (na Segunda Era).
 - Antes da Conquista Lunar, guildas de [[Sartar]] e [[Pavis]] cunhavam moedas de prata chamadas **guilders**.
 - O **Império Lunar** padronizou a moeda de prata como o Lunar (L), estampado com os símbolos da [[Deusa Vermelha]].
+
+### Moedas Sartaritas (JRS #48)
+Jeff Richard forneceu detalhes sobre a moeda de prata sartarita e seu simbolismo:
+
+- O **soberano (Sovereign)** sartarita de prata: **Sartar** cunhou prata com entusiasmo durante seu reinado (1492–1520), e sua dinastia continuou a prática. Os **Sovereigns sartaritas foram substituídos pelos Lunars após 1602**.
+- **Uma das primeiras coisas que um novo governante faz é cunhar moedas** — anuncia, legitima seu reinado e deixa claro quem manda.
+- A moeda de prata cunhada durante o curto reinado do Príncipe **[[Kallyr Testa-Estrelada|Kallyr Starbrow]]**: os **chifres de carneiro** são parte da iconografia de **Orlanth Rex** e dão ao Príncipe status quase-divino ligado a Orlanth. As associações celestiais de Kallyr são minimizadas, seguindo em grande parte o design das moedas sartaritas anteriores.
+- Ludovic conjectura se as mesmas moedas seriam chamadas de "Sartarite Guilders" ou se é outro tipo de moeda (ver "Questões em Aberto").
 
 ### Valor Comparativo
 - 20 L = 1 vaca
@@ -50,8 +58,10 @@ Os trolls usam o **bolg** de chumbo como moeda e também como munição — eles
 
 ## Referências
 - Fonte: [Unique Aspects of Glorantha — RuneQuest RPG Wiki](https://rqwiki.chaosium.com/glorantha/unique-aspects-of-glorantha.html#community)
+- Fonte: [Journal of Runic Studies #48 — God Learners](https://godlearners.com/journal-of-runic-studies-48/)
 
 ## Questões em Aberto
 - [ ] Quem eram os Gold Wheel Dancers?
 - [ ] Há outras moedas regionais em Glorantha?
 - [ ] O valor do bolg é consistente em todas as comunidades troll?
+- [ ] "Sartarite Guilders" são o mesmo que os Sovereigns sartaritas (JRS #48)?

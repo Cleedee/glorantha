@@ -2,8 +2,8 @@
 title: "Elmal"
 category: "Entidade"
 tags: [deus, caça, proteção, Orlanthi, cavalos, Tribo dos Dundealos, sol, Yelmalio, Lightfore, Dragon Pass, Monrogh]
-sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-9/", "https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html"]
-last_updated: 2026-05-09
+sources: ["https://jogatinasemteresina.blogspot.com/2026/03/jogando-saga-dos-matadores-de-jaldon.html", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-7/", "https://godlearners.com/journal-of-runic-studies-9/", "https://godlearners.com/journal-of-runic-studies-48/", "https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html"]
+last_updated: 2026-08-27
 status: draft
 ---
 
@@ -67,6 +67,34 @@ O nome **Elmal** tornou-se sinônimo de traição, assassinato e conflito entre 
 
 ### Legado nos Jogos
 Os livros da **HeroWars** (especialmente o suplemento "Storm Tribe") perpetuaram Elmal no imaginário dos jogadores, listando-o ao lado de Chalana Arroy, Storm Bull, Yinkin, etc. Aparece em questionários de clã como possível divindade do clã, "recebendo adoração comunal de todos os Heortlings em seus dias sagrados". Foi apenas nos livros posteriores de HeroQuest (como *Sartar: Kingdom of Heroes*) que o heroquest de Monrogh Lantern ganhou mais peso, especificando que o culto estava "em declínio" em Sartar e muitos adoradores haviam convertido para Yelmalio ou migrado para o Sun Dome.
+
+### Linha do Tempo Revisada (JRS #48)
+Uma thread do BRP Central sobre Yelmalio no Holy Country culminou em um expositor do debate Elmal/Yelmalio com detalhes dos bastidores das sourcebooks HeroWars/HeroQuest. Pontos-chave:
+
+- **Pré-1500**: o culto do Pequeno Sol em Sartar "pareceria muito com Yelmalio, embora possivelmente sem gifts, sem Cloud Clear e provavelmente sem Sunbright". Agora que o culto do Pequeno Sol foi revelado como Yelmalio, o subculto "Yelmalio-como-Thane de Orlanth" apenas **troca Shield de Yelm por Shield de Orlanth**.
+- **Dawn/Primeira Era**: o culto de Yelmalio era forte, tendo ajudado muita gente na Grande Escuridão mantendo as luzes. Mas os Heortlings não haviam conhecido essas pessoas — por isso tinham o culto mais fraco (Elmal). Monrogh Lantern, com heroquesting exploratório, descobriu que **Elmal é Yelmalio**, e que Yelmalio é muito mais poderoso — suficiente para a esmagadora maioria dos cultistas de Elmal adotar o dogma.
+- **Ao contrário**: "não importa como você corte, o culto pré-Monrogh de Elmal tinha muito menos poder mágico e alcance que o culto pós-Monrogh de Yelmalio".
+
+#### Arqueologia de Publicação
+Jeff Richard detalhou os write-ups problemáticos de Elmal (ver também "Legado nos Jogos"):
+- **Storm Tribe** (HeroWars, 2001): Elmal dava "Blazing Spear".
+- **Book of Heortling Mythology** (2009): histórias de Elmal queimando coisas. Jeff: "Greg tinha pouco a ver com esse write-up" — o livro era cheio de ideias de rascunho sem edição; Greg era ambivalente sobre publicá-lo (como com *Arcane Lore*). Advertência geral: **não acredite em tudo nos livros da Stafford Library** — são "cadernos não editados de Greg".
+- **Sartar: Kingdom of Heroes** (2009/2012): Elmal dispara flechas de fogo e invoca "deuses menores do Fogo". Jeff admitiu: "eu escrevi o write-up de S:KoH. Em retrospecto, errei Elmal (e tinha sérias dúvidas quando escrevi). Se eu relançasse S:KoH, mudaria isso."
+
+#### Contexto de Design (Greg)
+- De ~1991 a 2012, Greg teve **pouco interesse na Terceira Era** — seu foco era a Primeira (e secundariamente a Segunda), trabalhando em seus materiais de **Harmast**. Foi o *Guide* que o trouxe de volta à Terceira Era.
+- O enorme problema de *Thunder Rebels* e *Storm Tribe* (e a linha Hero Wars): materiais criados para a **Primeira Era** foram **reaproveitados e embalados em um sistema de regras que poucos escritores ou editores entendiam**. Pior: Greg não foi o editor desse material — foi alguém com uma "visão MUITO diferente de Glorantha que a de Greg (e não jogava RPGs)". Quando essa pessoa foi removida do processo, as coisas mudaram muito.
+
+### Os Elmali e o Regicídio (JRS #48)
+Conforme a *Making Gods* essay (do *King of Sartar*), o culto de Elmal **não era** de "Friendly Neighbourhood Paladins" para a maioria dos sartaritas. Eram **separatistas, matadores de clã, aliados lunares e regicidas**, responsáveis pela morte de pelo menos **um rei tribal e um Príncipe de Sartar**. A revelação de Yelmalio tornou os Elmali muito menos problemáticos para o Reino de Sartar — podiam "ser suas próprias coisas, aliados de Sartar, mas não parte dele".
+
+Jeff, citando *King of Sartar*, identifica o Príncipe **Jarosar** ("Hothead"), filho de Jarolar:
+> "Príncipe Jarosar foi o quarto, chamado Hothead. Filho de Jarolar. Encontrou a Pedra de Duas Cores. Construiu uma grande estrada. Caiu para veneno, da mão de um amigo."
+
+O príncipe foi morto por **um de seus próprios guarda-costas Elmali** (comparação de Jeff: Indira Gandhi morta por dois de seus guarda-costas Sikhs). Isso refuta o imaginário de "Elmal como Paladino Amigável" criado por KoDP e Storm Tribe. "Não há mais thanes leais. O antigo culto de Elmal acabou. Minhas estimativas populacionais em S:KoH e SC estavam erradas, baseadas em um erro que Greg me corrigiu."
+
+### Elmal no Século XVI — Conclusões
+Por volta de 1560 já havia um culto Yelmalio estabelecido em Sartar, lutando contra trolls, apoiando a Casa de Sartar e os direitos dos Templos da Terra. O nome **Elmal** tornou-se sinônimo de traição, assassinato e conflito entre clãs; exceto alguns teimosos perto de Runegate, a maioria dos cultistas adotou o dogma de Yelmalio ou se mudou para o Sun Dome County.
 
 ## Referências Cruzadas
 - [[Yelmalio]]

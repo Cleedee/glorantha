@@ -2,8 +2,8 @@
 title: "Yelmalio"
 category: "Entidade"
 tags: [deus, sol, Lightfore, Fogo/Céu, Cold Sun, Preserver of Light, Sun Dome, mitologia, Elmal]
-sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://godlearners.com/journal-of-runic-studies-32/", "https://godlearners.com/journal-of-runic-studies-45/"]
-last_updated: 2026-08-11
+sources: ["https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html", "https://godlearners.com/journal-of-runic-studies-32/", "https://godlearners.com/journal-of-runic-studies-45/", "https://godlearners.com/journal-of-runic-studies-48/"]
+last_updated: 2026-08-27
 status: draft
 ---
 
@@ -100,11 +100,42 @@ Jeff explica a origem dos cultos desbalanceados a partir da **história do Tempo
 - [[Far Place]]
 - [[Alda-Chur]]
 
+### Yelmalio no Holy Country e Esrolia (JRS #48)
+- Talvez **~1% da população do Holy Country** siga Yelmalio; a região foi parte das Shadowlands por mais de mil anos. Ainda assim, **1% da população de Esrolia = mais de 10.000 iniciados só em Esrolia** — maior em números absolutos que em Sartar, mas menor em porcentagem.
+- "Há quase tantos palhaços/enganadores de **Eurmal** em Esrolia quanto cultistas de Yelmalio" — o culto é apenas um dos muitos cultos menores da sociedade esroliana.
+- **Lodril** é um deus Fogo/Céu muito mais importante no Holy Country; **Caladraland**, ao lado de Esrolia, tem vulcões reais com magia de lava.
+- Vantagens para as Sacerdotisas da Terra: Yelmalio é **esposo-protetor** (associado e sujeito à magia dela, como *Inviolable*), comprometido a defendê-las, e em **competição com Orlanth** — um contrapeso. Seu culto é pequeno demais para ser um "peer" independente. "Uma forma de ver Yelmalio é como um **esposo secundário de Ernalda**, de status inferior a Orlanth, mas rival pela atenção dela."
+
+### Para Que Serve o Culto (JRS #48)
+Jeff Richard (na mesma thread BRP Central) detalha as contribuições do culto de Elmal/Yelmalio aos Orlanthi:
+- **Horse Triarchy** — tinham o Cavalo do Céu (Yelmalio) como patrono tribal; adoravam cavalos como sagrados e também **Hippoi** e **Hyalor** como deuses equinos. São um dos poucos grupos que **não** se mudaram para o Sun Dome Temple — para eles, o elemento Cavalo era mais importante que o Céu. Para suprir a "magia de cavalo" ausente de Yelmalio, o subculto de Elmal no futuro **Cults of Glorantha** recebe **Command Horse de Hippoi**.
+- **Troll Fighting** — folk especializado em lutar contra trolls; embora os Hendriki fossem aliados de longa data do Only Old One, mantinham seus adoradores da Luz em reserva. O Only Old One preferia o culto aos cultos de Fogo e Luz mais poderosos (manobra política de "mal menor").
+- **Soldados de infantaria sólidos** — como culto pequeno mas coeso num mar de Orlanthi, os Yelmalions sempre foram melhores em coesão e infantaria sólida; remonta à Segunda Era, não é mágico mas uma prática do culto para "lutar acima do seu peso".
+
+### Linha do Tempo do Culto na Segunda Era (JRS #48)
+- Durante a Segunda Era havia uma **rede próspera e vibrante de templos de Yelmalio de Prax a Fronela**. Com a **Dragonkill War**, essa rede foi quebrada e desassociada — templos autônomos, muito perdido ou roubado.
+- Em **Hendrikiland**, o culto Yelmalio local virou pouco mais que um Spirit Cult ligado ao culto maior de Orlanth. Fugiram para **Dragon Pass** depois que **Belintar** se tornou governante (Heortland não precisava de um deus pequeno de Fogo/Céu quando **Lodril** ocupava esse papel). Esse cultozinho entrou em contato com o culto vibrante de Yelm de Pelória — muitos o abandonaram por Yelm; outros se revoltaram contra a realeza Orlanth Rex.
+- **Monrogh** viu através da perda e libertou o Yelmalio perdido por trás do cultozinho, revelou os **Muitos Sóis** dos templos Sun Dome e restaurou a rede Sun Dome.
+- Quase todo o material publicado sobre Sun Dome trata do templo praxiano: **Sun County é um outlier** ("a fronteira da fronteira"); os templos em **Dragon Pass e no sul de Pelória** são provavelmente mais típicos do culto. Chaosium trabalhava num livro sobre o Sun Dome no sul de Sartar.
+
+## Referências Cruzadas
+- [[Elmal]]
+- [[Yelm]]
+- [[Antirius]]
+- [[Lightfore]]
+- [[Sun County]]
+- [[Monrogh Lantern]]
+- [[Orlanth]]
+- [[Harvar Ironfist]]
+- [[Far Place]]
+- [[Alda-Chur]]
+
 ## Referências
 - Fonte: [Fire From the Sky: Thoughts on the Pantheon of Yelm — ALM](https://andrewloganmontgomery.blogspot.com/2024/09/fire-from-sky-thoughts-on-pantheon-of.html)
 - Fonte: [Journal of Runic Studies #31](https://godlearners.com/journal-of-runic-studies-31/)
 - Fonte: [Journal of Runic Studies #32](https://godlearners.com/journal-of-runic-studies-32/)
 - Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
+- Fonte: [Journal of Runic Studies #48](https://godlearners.com/journal-of-runic-studies-48/)
 
 ## Questões em Aberto
 - [ ] Yelmalio tem outros epítetos além de Cold Sun e Preserver of Light?

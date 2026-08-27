@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-08-21
+last_updated: 2026-08-27
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -40,6 +40,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Natha]] | Deusa do Segundo Submundo; Guardiã do Segundo Inferno; justiça de Jar-Eel; Deusa Devoradora | `deusa` `Lunar` `Segundo Submundo` `Jar-Eel` `vingança` | draft |
 | [[Sor-eel the Short]] | 1º Governador Lunar de New Pavis (1610-1621); administrador esclarecido; clã Eel-ariash | `Lunar` `governador` `New Pavis` `Eel-ariash` | draft |
 | [[Joh Mith]] | Sacerdote Issaries Goldentongue e membro do Conselho de Jonstown; caravana a Balazar (Griffin Mountain); tatuagens registram pactos: Greatway, Vale of Flowers, Mark of Friendly Passage, iniciação dupla Malani/Colymar | `Issaries` `Jonstown` `Goldentongue` `tatuagens` `Balazar` `comércio` `Starter Set` | draft |
+| [[Prince Saronil]] | Príncipe de Sartar retratado "roubando segredos dos anões" na Illustrated History of Sartar (arte Agathe Pitie, Sartar Homeland Boxed Set) | `Sartar` `príncipe` `anões` `Mostali` `história` | draft |
 
 ---
 
@@ -360,6 +361,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 45]] | 45ª edição; desequilíbrio e evolução dos cultos, Morokanth, Oasis People, fundação e ocupação Lunar de New Pavis, figuras das Hero Wars, Orlanthi de Maniria | `periódico` `malkioni` `cultos` `Morokanth` `Pavis` `Hero Wars` `Maniria` | draft |
 | [[Journal of Runic Studies 46]] | 46ª edição; normalização do Mundo Espiritual (documento encontrado), VTT Fantasy Grounds, Settlement 16, extras de History of Malkionism, tatuagens de Joh Mith, Malkionismo primitivo, Arkatismo, Red Moon and Warring Kingdoms | `periódico` `malkioni` `Mundo Espiritual` `Arkatismo` `Joh Mith` `Malkionismo` `13th Age` | draft |
 | [[Journal of Runic Studies 47]] | 47ª edição; mudanças editoriais (Well of Daliath), jovem Argrath 1621-1624, Revolução de 1627-1629, Cidade das Maravilhas, The Six Paths, prévia DuckPac, regras de heroquesting | `periódico` `malkioni` `Argrath` `Batalha dos Heróis` `Cidade das Maravilhas` `The Six Paths` `DuckPac` | draft |
+| [[Journal of Runic Studies 48]] | 48ª edição; YGWV, Cults of Glorantha (96 cultos + ~40), Elmal/Yelmalio (linha do tempo revisada, regicídio, Holy Country/Esrolia), limites de cura de Waha, moedas sartaritas de Kallyr | `periódico` `malkioni` `Elmal` `Yelmalio` `Waha` `Cults of Glorantha` `moedas` `Kallyr` | draft |
 | [[The Six Paths]] | Edan Jones (Jonstown Compendium); gênero entre os Heortlings; 4 sexos e 6 gêneros; write-ups de Heler, Nandan e Vinga; PWYW | `Jonstown Compendium` `gênero` `Heortlings` `Nandan` `Vinga` `Heler` | draft |
 | [[Meints Index to Glorantha]] | Rick Meints; 264 págs de história editorial gloranthana; tiragens de RQ2, miniaturas, fanzines; print-on-demand | `referência` `história editorial` `Rick Meints` `Chaosium` `RQ2` | draft |
 

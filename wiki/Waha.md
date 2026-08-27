@@ -2,8 +2,8 @@
 title: "Waha"
 category: "Entidade"
 tags: [herói, fundador, civilizador, Nômades Animais, pacto, Waha, Eiritha]
-sources: ["https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html", "https://godlearners.com/journal-of-runic-studies-45/"]
-last_updated: 2026-08-11
+sources: ["https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html", "https://godlearners.com/journal-of-runic-studies-45/", "https://godlearners.com/journal-of-runic-studies-48/"]
+last_updated: 2026-08-27
 status: draft
 ---
 
@@ -36,6 +36,15 @@ No ensaio de Jeff Richard sobre cultos de poder desigual, Waha é o exemplo de u
 - Possui um **caminho de xamã** e um **caminho de Rune Lord** — "e honestamente, isso é suficiente".
 - Waha é o culto da **tradição de liderança de sobrevivência dos nômades praxianos** — um papel cultural, não um arquétipo de gameplay (Jeff contrasta com cultos de amplo espectro mágico como Orlanth, Ernalda ou Humakt).
 
+### Limites de Cura de Waha (JRS #48)
+Uma diferença marcante do culto é a **limitação de magia de cura**: os iniciados de Waha **nunca aprendem Heal 2 (ou superior)**. Jeff Richard explicou a razão de design por trás do mito:
+
+- A visão de Greg: como **[[Eiritha]]** é a mãe de Waha e está sempre presente, Waha **pode sempre ir às Herd Priestesses** por espíritos amigáveis que curam. Greg insistia que isso era central tanto para o culto quanto para a cultura.
+- "**Waha é o Açougueiro, o Tomador de Vida** (para que possamos viver — comida, em vez de combate)", e isso limita a magia de espírito que seus seguidores podem obter.
+- Embora não tenham Heal 2+, têm **Heal Wound** como **magia comum** — podem sempre invocar o deus para ser curados, mas isso **requer um Rune Point + magic points** (não apenas magic points).
+- Evolução editorial: em RQ2 a cura por espírito tinha custo **duplo**; em RQ3 Greg restringiu a **1 ponto** (muitas formas fáceis de contornar); em RQG Greg e Jeff deram a Waha **Heal Wound** como parte do pacote de Rune Magic Comum — o custo de 1 Rune Point torna a cura muito **cara** (à custa de feitiços mais úteis como Shield ou Summon/Command Earth Elemental).
+- "O ponto-chave é que Waha ser comparativamente fraco em magia de cura está aí desde o início." Greg escreveu vários ensaios sobre o assunto, incluindo um para cultos.
+
 ## Referências Cruzadas
 - [[Eiritha]]
 - [[Touro da Tempestade]]
@@ -47,6 +56,7 @@ No ensaio de Jeff Richard sobre cultos de poder desigual, Waha é o exemplo de u
 ## Referências
 - Fonte: [WANDERERS IN THE WASTES: The Nomads of Glorantha](https://andrewloganmontgomery.blogspot.com/2025/03/wanderers-in-wastes-nomads-of-glorantha.html)
 - Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
+- Fonte: [Journal of Runic Studies #48](https://godlearners.com/journal-of-runic-studies-48/)
 
 ## Questões em Aberto
 - [ ] Waha é adorado apenas como herói ancestral ou como divindade plena?

@@ -2,8 +2,8 @@
 title: "Cults of Glorantha"
 category: "Fonte"
 tags: [Chaosium, suplemento, cultos, Prosopaedia, slipcase, Loic Muzy]
-sources: ["https://godlearners.com/journal-of-runic-studies-30/"]
-last_updated: 2026-05-16
+sources: ["https://godlearners.com/journal-of-runic-studies-30/", "https://godlearners.com/journal-of-runic-studies-48/"]
+last_updated: 2026-08-27
 status: draft
 ---
 
@@ -39,6 +39,14 @@ O conjunto também inclui visão geral da mitologia, monomito, regras de RuneQue
 
 ### Status
 No momento da publicação do JRS 30 (janeiro de 2022), os livros estavam em layout e design gráfico. **Jeff Richard** esperava ter os PDFs prontos "até o final do primeiro trimestre".
+
+### Atualização (JRS #48, maio de 2022)
+Notícias de Jeff Richard (via Facebook, maio de 2022):
+
+- **Boas notícias**: com a arte toda pronta, o livro está **em layout**, faltando "alguns gráficos e elementos menores". A Chaosium está finalmente contratando **revisores profissionais de provas** para evitar os problemas dos livros RuneQuest recentes (o "proof-reading comunitário" dos PDFs foi "sucesso misto na melhor das hipóteses").
+- **Detalhes**: contagem final do "monstro de dois volumes" — **96 cultos distintos + cerca de 40 cultos menores**. Os 96 são write-ups longos similares aos de *Cults of Prax* e *Cults of Terror*. O projeto é maior e mais complicado que o slipcase de *Masks of Nyarlathotep* (Call of Cthulhu).
+- **Más notícias**: a Chaosium estaria **deixando o modelo de lançar PDF primeiro** e **físico depois**, optando por **lançamentos simultâneos** (como no Starter Set). Ludovic questiona a decisão diante da crise de papel e de envios de 2022 — teme que pouco saia naquele ano.
+- Uma prévia do "preview edition" (2018) da GenCon está listada no Well of Daliath, com lista de conteúdo (muito mudou desde então).
 
 ## Referências Cruzadas
 - [[Prosopaedia]]
