@@ -130,7 +130,7 @@ Contribuições são bem-vindas! Se você é um jogador ou mestre de Glorantha:
 |---------|-------|
 | Páginas na wiki | 544 |
 | Fontes referenciadas | 145 |
-| Commits | 181 |
+| Commits | 182 |
 | Última atualização | Agosto 2026 |
 | Idioma | Português Brasileiro (pt-BR) |
 
