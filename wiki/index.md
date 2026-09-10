@@ -1,6 +1,6 @@
 ---
 title: "Índice Mestre — Glorantha Knowledge Base"
-last_updated: 2026-08-27
+last_updated: 2026-09-10
 description: "Catálogo de todas as páginas da wiki organizado por categorias"
 ---
 
@@ -50,6 +50,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[David Scott]] | Bibliotecário da Well of Daliath; arquivista da produção online dos designers da Chaosium | `Well of Daliath` `Chaosium` `arquivista` `lore` | draft |
 | [[Studio Deadcrows]] | Estúdio francês da localização oficial de RQG (Game On Tabletop 2019); produtor de Children of the Flame | `editora` `estúdio` `francês` `RuneQuest` `tradução` | draft |
 | [[Thomas Rey]] | Artista/cartógrafo do Studio Deadcrows; mapas da edição francesa de RQG e de Swenstown | `artista` `cartógrafo` `Studio Deadcrows` `mapas` `Dundealos` | draft |
+| [[Hargro Brightbite]] | Troll escuro Argan Argar de Nochet; apoiador de Argrath; proprietário do Blind Lamp Club (fan-made) | `Argan Argar` `troll` `Nochet` `New Pavis` `fan-made` `PNJ` | draft |
 
 ---
 
@@ -271,6 +272,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Uleria Loves You]] | Aventura 205 págs; festival de Uleria em Apple Lane; CJ Håkansson + Malin Rydén | `aventura` `festival` `Uleria` `Apple Lane` | draft |
 | [[Bad Omens]] | Aventura em Prax; clã Straw Weaver; ritual de presságios; Diana Probst | `aventura` `Jonstown` `Prax` | draft |
 | [[As the Appearance of Horses]] | Campanha Pavis; praga de gafanhotos; Argrath; Vivien Prigent | `campanha` `Jonstown` `Pavis` | draft |
+| [[Rubble Runners]] | Coleção de personagens de Pavis/Big Rubble (Jonstown Compendium); inclui Kars the Prophet e comitiva | `Jonstown` `PNJs` `Pavis` `Big Rubble` `personagens` | draft |
 | [[The Whispering Flowers of Lorthing Vale]] | Investigação no Lorthing Vale; Sia; Lhankor Mhy; Max Bantleman | `aventura` `Jonstown` | draft |
 | [[Nochet - Serpents and Shadows Book 1]] | Campanha em Nochet; 1625; início Hero Wars; Harald Smith | `campanha` `Jonstown` `Nochet` | draft |
 | [[Magra - Grandmother Harpy]] | Culto de harpias; estilo Cults of Terror; Peter Hart | `culto` `Jonstown` `harpias` | draft |
@@ -453,6 +455,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Teleos]] | Ilha tropical a leste da Poça de Magasta; seis tribos humanas de cores diferentes; Argrath tomou o Sapo Esmeralda e encerrou a maldição das cores | `ilha` `oceano` `seis tribos` `Sapo Esmeralda` `Argrath` | draft |
 | [[Greatway]] | Grande assentamento anão na cordilheira entre Dragon Pass e Balazar; centro do Openhandismo; rota comercial com Joh Mith | `anões` `Mostali` `Balazar` `Dragon Pass` `comércio` `passagem` `Joh Mith` | draft |
 | [[Swenstown]] | Cidade em ruínas graduais, antigo hub comercial entre Sartar e Prax; cenário de Children of the Flame | `cidade` `comércio` `Sartar` `Prax` `Dundealos` `ruínas` | draft |
+| [[Blind Lamp Club]] | Casa noturna fan-made em Oldtown/New Pavis pós-Libertação; substitui o Moonlighters; trolls e trollkin de Nochet | `casa noturna` `New Pavis` `Oldtown` `trolls` `Argan Argar` `fan-made` | draft |
 
 ---
 ## Cronologia

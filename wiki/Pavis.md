@@ -81,6 +81,9 @@ Jeff Richard enumera quatro bases para o título de "Rei" de Argrath:
 3. Não podia deixar um bastião Lunar em sua retaguarda
 4. Pavis serve como trampolim para Dragon Pass
 
+### Vida Noturna em New Pavis (pós-Libertação)
+Após a Libertação, a antiga cena social Lunar de Oldtown foi substituída. O clube **Moonlighters** — que atendia oficiais Lunares durante a Ocupação — teve sua gerência morta ou fugida, e [[Argrath]] concedeu o prédio ao troll escuro [[Argan Argar]] de Nochet, **[[Hargro Brightbite]]**, que fundou o **[[Blind Lamp Club]]**: música de dança percussiva, dançarinas gogo trollkin e o restaurante da franquia Thunderbreath Gobbleguts. *Desenvolvimento fan-made relatado em fórum; não-canônico.*
+
 ### Locais Chave
 - [[New Pavis]] — cidade murada
 - [[Big Rubble]] — ruínas ao lado
@@ -105,6 +108,7 @@ Jeff Richard enumera quatro bases para o título de "Rei" de Argrath:
 - Fonte: [Journal of Runic Studies #41](https://godlearners.com/journal-of-runic-studies-41/)
 - Fonte: [Journal of Runic Studies #45](https://godlearners.com/journal-of-runic-studies-45/)
 - Fonte adaptada: *Pavis: Threshold to Danger*
+- Fonte: [Pavis in 1626 — BRP Central](https://basicroleplaying.org/topic/12335-pavis-in-1626/) (desenvolvimento fan-made)
 
 ## Questões em Aberto
 - [ ] Detalhar a Guarda Real de Pavis
