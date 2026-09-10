@@ -2,8 +2,8 @@
 title: "Publicações Futuras de Glorantha"
 category: "Fonte"
 tags: [roadmap, publicações, Chaosium, upcoming, pipeline]
-sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q"]
-last_updated: 2026-08-12
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q", "https://www.chaosium.com/runequest-the-apple-lane-campaign"]
+last_updated: 2026-09-10
 status: draft
 ---
 
@@ -31,9 +31,11 @@ Lista compilada de **publicações futuras** de [[Glorantha]] pela Chaosium, com
 - **Previsão:** **setembro de 2026** (painel ChaosiumCon UK 2026)
 - Livro de entrada de RQG; relação exata com o [[RRQG]] não explicitada no painel
 
-### Apple Lane (Campaign)
-- **Previsão:** antes do fim de 2026; **na gráfica** (jul/2026)
-- Reimpressão ampliada do livro de aventuras de 125 páginas do Gamemaster Screen Pack + seção de encontros de Sartar + arte nova de Ossi Hiekkala
+### RuneQuest: The Apple Lane Campaign
+- **Lançamento:** **4 de novembro de 2026** (confirmado pela Chaosium, set 2026); **na gráfica** (jul/2026)
+- Campanha para iniciantes em 3 partes: defender Apple Lane, reclamá-la como lar e governá-la
+- Reimpressão ampliada do livro de aventuras de 125 páginas do Gamemaster Screen Pack + seção de encontros de Sartar (mesa aleatória old-school e sementes de aventura) + arte nova de Ossi Hiekkala
+- Inclui detalhes da Tribo Colymar e regras de metais rúnicos e cristais mágicos
 - Ver página dedicada: [[Apple Lane]]
 
 ### RuneQuest: Welcome to Glorantha
@@ -56,7 +58,8 @@ Lista compilada de **publicações futuras** de [[Glorantha]] pela Chaosium, com
 - Atualizado para o novo rulebook; **3 painéis** (antes 4); arte nova de Ossi Hiekkala (capa: [[Upland Marsh]]); reimprime o calendário gloranthano; o pack atual está esgotado
 
 ### Lands of RuneQuest: Sartar
-- **Status:** Indo para layout (nov 2025)
+- **Lançamento:** Outubro de 2026 (confirmado pela Chaosium, set 2026)
+- Guia de cenário para Sartar recém-libertado; regras, tribos, Boldhome, cultura Orlanthi
 - Incluirá o cenário **[[Welcome to Boldhome]]** (Andrew Logan Montgomery) também como **PDF separado** — grátis com o livro, vendido à parte; capa de Ossi Hiekkala
 
 ### Pavis and the Big Rubble

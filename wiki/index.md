@@ -172,7 +172,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Hasbro]] | Adquiriu marca HeroQuest em 2020; motivou criação do QuestWorlds | `empresa` `marca` | draft |
 | [[A Pyre for Gods and Heroes]] | Romance inacabado de Stafford; finalizado por Montgomery; 50º aniversário; Harmast's Saga | `romance` `Stafford` `Montgomery` | draft |
 | [[White Bear and Red Moon]] | Jogo de batalha; reedição com regras simplificadas | `tabuleiro` `batalha` | draft |
-| [[Apple Lane]] | Reimpressão ampliada do livro de aventuras do GM Screen Pack (2026); seção de encontros de Sartar + arte nova de Ossi Hiekkala; "atualização canônica" | `aventura` `RuneQuest` `Sartar` `GM Screen Pack` `2026` | draft |
+| [[Apple Lane]] | Campanha 3 partes para iniciantes; reimpressão ampliada do livro do GM Screen Pack + encontros de Sartar; Colymar; lançamento 4 nov 2026 | `campanha` `RuneQuest` `Sartar` `GM Screen Pack` `Colymar` `novembro 2026` | em_revisao |
 | [[Stealing the Eye]] | Aventura breve RuneQuest; infiltração em templo; 14 págs | `aventura` `PDF` | draft |
 | [[The Mouth of Chaos]] | Aventura curta de Brian Holland incluída no novo rulebook de RuneQuest (RRQG); introdução para novos jogadores; pré-gerados Titus (Minotauro), Marmar (Pato) e Attia (Curandeira) | `aventura` `RRQG` `Brian Holland` `introdução` `pré-gerados` | draft |
 | [[Star in Darkness]] | Cenário de convenção de Mark Morrison com cavaleiro de unicórnio; não destinado à impressão | `aventura` `RuneQuest` `unicórnio` `convenção` `Mark Morrison` | draft |
@@ -181,7 +181,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Welcome to Glorantha]] | Antologia de cenários introdutórios compatível apenas com o Starter Set (Stealing the Eye, Hunt for the Storm Calf, A Darkness at Runegate); Q2 2027 | `aventura` `antologia` `Starter Set` `Q2 2027` | draft |
 | [[RuneQuest on the Royal Road]] | Coleção épica de encontros com PNJs completos na Estrada Real; nascida de capítulo de Lands of RuneQuest: Sartar; fim de 2027 | `aventura` `PNJs` `Royal Road` `2027` | draft |
 | [[Return to Snake Pipe Hollow]] | Aventura nova na dungeon clássica de Snake Pipe Hollow, após o Dragonrise; fim de 2027 | `aventura` `Snake Pipe Hollow` `dungeon` `2027` | draft |
-| [[Lands of RuneQuest - Sartar]] | Suplemento com mapas de tribos/clãs; Boldhome; costumes Orlanthi; cenário incluso | `suplemento` `Sartar` `layout` | draft |
+| [[Lands of RuneQuest - Sartar]] | Guia de cenário Sartar; regras Orlanthi, tribos, clãs, Boldhome; lançamento out 2026 | `suplemento` `Sartar` `outubro 2026` | em_revisao |
 | [[Welcome to Boldhome]] | Cenário de 40 páginas em Boldhome; três partes; Andrew Logan Montgomery | `aventura` `Sartar` `Boldhome` | draft |
 | [[cults-earth-goddesses-review]] | Resenha de Andrew Logan Montgomery sobre Cults of RuneQuest: The Earth Goddesses; Imarja, Husband-Protectors, divisão das deusas da Terra | `blog` `review` `Cults of RuneQuest` `Ernalda` `Imarja` `Esrolia` | draft |
 | [[cults-of-runequest-part-one-prosopaedia]] | Resenha de ALM sobre Cults of RuneQuest Part One: filosofia RQ vs CoC, estrutura de cultos (lay/initiate/Rune Priest/Lord), Prosopaedia | `blog` `review` `Cults of RuneQuest` `Prosopaedia` `filosofia` | draft |
