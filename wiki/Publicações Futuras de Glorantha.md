@@ -2,7 +2,7 @@
 title: "Publicações Futuras de Glorantha"
 category: "Fonte"
 tags: [roadmap, publicações, Chaosium, upcoming, pipeline]
-sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q", "https://www.chaosium.com/runequest-the-apple-lane-campaign"]
+sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q", "https://www.chaosium.com/runequest-the-apple-lane-campaign", "https://basicroleplaying.org/topic/26626-will-we-see-pavis-and-big-rubble-setting-for-rqg"]
 last_updated: 2026-09-10
 status: draft
 ---
@@ -66,6 +66,7 @@ Lista compilada de **publicações futuras** de [[Glorantha]] pela Chaosium, com
 - **Autor:** [[Robin D. Laws]]
 - **Status:** Manuscrito movido para edição (novembro de 2021)
 - **Previsão:** Final do próximo ano se tudo ocorrer conforme planejado
+- **Atualização 2026 (BRP Central, thread 26626):** [[Jeff Richard]] confirmou em GaryCon (26/03/2026) que **Pavis and the Big Rubble é o ponto de partida da nova edição** de RuneQuest — escrito como **componente-chave da nova edição** (não como suplemento avulso). Comparou o salto a **Pendragon** entre edições anteriores e a atual (explicitamente NÃO como D&D 4e→5e). Fotos do livro em desenvolvimento foram exibidas no evento.
 
 ### Cults of RuneQuest: Darkness
 - **Status:** Finalizações pré-layout; previsão **fim de 2027** (roadmap ChaosiumCon UK 2026)
@@ -138,6 +139,7 @@ Conforme atualização do editor de linha [[Jason Durall]]:
 ## Referências
 - Fonte: [Publicações Futuras — BRP Central](raw/notas/Publicações Futuras.md)
 - Fonte: [What's New With RuneQuest? — ChaosiumCon UK 2026 (Chaosium)](https://www.youtube.com/watch?v=aR0wj1SsU1Q)
+- Fonte: [Will we see Pavis and Big Rubble setting for RQG? — BRP Central](https://basicroleplaying.org/topic/26626-will-we-see-pavis-and-big-rubble-setting-for-rqg)
 
 ## Questões em Aberto
 - [ ] Esta lista será mantida atualizada conforme novos anúncios?
