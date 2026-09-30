@@ -81,7 +81,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Beastlords]] | Cabala feiticeiros metamorfose; artigo D-Infinity | `feitiçaria` `metamorfose` `animais` | draft |
 | [[Guilda Trabalhadores em Bronze]] | Guilda Boldhome; culto Gustbran; exemplo guildas Sartar | `boldhome` `guilda` `gustbran` | draft |
 | [[Lunar Imperial Finances]] | Economia do Império Lunar; impostos; custos militares; Dragon Pass | `Império Lunar` `economia` `guerra` | draft |
-| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; clãs satrapais (Eel-arish, Taran-il); Chaos Gift; Silver Shadow Satrapy | `lunar` `império` `população` `Dara Happa` `Gbaji` `nobreza` | draft |
+| [[Império Lunar]] | ~8,5M humanos + 1M não-humanos; clãs satrapais (Eel-arish, Taran-il); Chaos Gift; Silver Shadow Satrapy; referências visuais persas/sassânidas e selêucidas (WoD) | `lunar` `império` `população` `Dara Happa` `Gbaji` `nobreza` `persa` `sassânida` | draft |
 | [[Glorantha]] | Universo de fantasia de Greg Stafford (1966); losanga no Oceano Primeval; Idade do Bronze, bronze divino, wyters, sem "conversão"; influenciou GoT, TES, Warcraft | `Glorantha` `Greg Stafford` `RuneQuest` `Sartar` `Dragon Pass` `Idade do Bronze` | draft |
 | [[Glorantha, Meaning, and Mythology]] | Ensaio de Andrew Logan Montgomery sobre interpretação de mitos; significados, não fatos; 4 ajustes mentais | `mitologia` `significado` `interpretação` `Elmal` `Vinga` | draft |
 | [[Iniciação à Vida Adulta Orlanthi]] | Sistema de duas iniciações Orlanthi: adulthood (despertar de runas) e cult initiation (deus específico); flexibilidade para Vinga e Nandan | `iniciação` `Orlanthi` `adulto` `runas` `Vinga` `Nandan` | draft |

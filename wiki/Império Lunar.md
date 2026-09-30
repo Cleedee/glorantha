@@ -1,9 +1,9 @@
 ---
 title: "Império Lunar"
 category: "Cultura"
-tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho]
-sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-32/", "https://godlearners.com/runic-rants-a-history-of-the-glowline/", "https://godlearners.com/journal-of-runic-studies-42/"]
-last_updated: 2026-05-17
+tags: [lunar, império, povos, política, Dara Happa, Yelm, Imperador Vermelho, persa, sassânida, selêucida, arte-visual]
+sources: ["https://godlearners.com/journal-of-runic-studies-2/", "https://godlearners.com/journal-of-runic-studies-5/", "https://godlearners.com/journal-of-runic-studies-6/", "https://godlearners.com/journal-of-runic-studies-13/", "https://godlearners.com/journal-of-runic-studies-18/", "https://godlearners.com/journal-of-runic-studies-25/", "https://godlearners.com/journal-of-runic-studies-27/", "https://godlearners.com/journal-of-runic-studies-32/", "https://godlearners.com/runic-rants-a-history-of-the-glowline/", "https://godlearners.com/journal-of-runic-studies-42/", "https://wellofdaliath.chaosium.com/how-the-lunars-look/"]
+last_updated: 2026-09-30
 status: draft
 ---
 
@@ -20,7 +20,20 @@ Império de Glorantha com ~8,5 milhões de humanos e 1 milhão de não-humanos, 
 
 ### Cultura e Modelo
 - Similaridades com o Império Romano em linguagem e nomes, mas com localização lunar (luas e morcegos em vez de SPQR e águias).
-- Modelo útil para jogos: personagens lunares podem parecer e agir como romanos.
+- Modelo útil para jogos: personagens lunares podem parecer e agir como romanos — mas ver a seção seguinte antes de fixar o modelo visual.
+
+### Referências Culturais — Persas, Selêucidas e Romanas
+Segundo [[Jeff Richard]] no [Well of Daliath, "How the Lunars Look" (13/05/2021)](https://wellofdaliath.chaosium.com/how-the-lunars-look), a leitura "Lunar = Roma" é apenas **uma** das vias possíveis, e não a melhor para o visual:
+
+> The Roman Empire is certainly "a" source of ideas for the Lunar Empire, but visually I don't see the Lunars as being particularly all that Roman – the Persians are probably just as good a visual source of ideas.
+
+- **Receita recomendada:** se começar pela via romana, junte imagens **persas ou selêucidas**; se for longe demais pela via persa, veja *Gladiator* ou *I Claudius*; se estiver equilibrado entre ambas, leia Moorcock, *Dune*, *The Wyrm Ouroboros* ou as aventuras de Conan de John Buscema — "ponha tudo no liquidificador".
+- **Arte:** a cavalaria de elite **sassânida** (Angus McBride, *ELI 110 Sassanian Elite Cavalry*) foi usada como referência para uma princesa e um oficial lunar saindo de Glamour. Jeff também aponta o "casamento da Lua com o Sol" no estandarte de uma unidade (presumivelmente do Lost Sky) e um cocar de culto de [[Yelm]].
+- **Coroa do Imperador Vermelho:** Jeff imagina o portador da Máscara Vermelha com uma coroa de modelo sassânida — mas ressalva: "ele não é o Imperador Vermelho, portanto não é o califa nem o *padishah*".
+- **Cavalaria antes de infantaria:** o Exército Lunar é muito mais orientado à cavalaria do que à infantaria. A influência dos Senhores dos Cavalos (resíduo da Era da Alvorada, de [[Sheng Seleris]], ou das guerras nômades da Quinta Ruína) é evidente em *WBRM*.
+- **Limites da analogia:** o Império Lunar é um império **de rio**; Jeff acha que suas planícies se assemelham ao *Midwest* norte-americano mais do que ao planalto iraniano — Elz Ast como Duluth, Yuthuppa como as cidades gêmeas, Raibanth como Davenport e Alkoth como St. Louis, o que também explica as Expedições Kalikos.
+- **Títulos dos governantes:** "esses sátrapas não parecem bem um sultão de algum lugar" — ver [[Títulos e Governantes Pelorianos]] para as definições completas. **Sátrapa** significa literalmente "protetor da província" (autoridade inerente, mas subordinada e leal ao imperador); **sultão**, "poder" ou "autoridade" (soberania quase total, sem domínio universal). No Império Lunar inicial "sultão" era sinônimo de "sátrapa"; após a queda de [[Sheng Seleris]] o título caiu em favor de "sátrapa", sobrevivendo para governantes de nações bárbaras pacíficas e para sátrapas poderosos. A confusão inicial entre "sultão" e "sátrapa" nas primeiras obras de [[Greg Stafford]] explica-se por essa herança.
+- **O que rompe todos os modelos mundanos:** o **Colégio de Magia Lunar**. Qualquer um pode convocar cavalos — os Pentanos podiam, os Carmanianos também — mas ninguém conseguiu jamais uma sinergia multidisciplinar com magos em massa, nem um demônio do Caos domesticado como força de choque, nem meteoros como artilharia. É aí que o Império Lunar deixa de ser comparável a Roma, Pérsia ou qualquer outro modelo mundano.
 
 ### Nobreza Lunar — Clãs Satrapais
 Poderosas famílias (clãs) cercam o [[Imperador Vermelho]], todas com algum grau de parentesco com ele. Aqueles **"nascidos no vermelho"** (born in the red) — nascidos enquanto o Imperador usava sua Máscara Vermelha divina — são superiores aos nascidos quando a máscara era mera mortal. Especula-se que apenas filhas nascem no vermelho (Hwarin Dalthippa, [[Hon-eel]], [[Jar-Eel]]). Nenhum filho de Moonson é confirmado.
@@ -258,6 +271,8 @@ Sistema complexo e hierárquico:
 - [[Sheng Seleris]]
 - [[Nysalor]]
 - [[Irrippi Ontor]]
+- [[Títulos e Governantes Pelorianos]]
+- [[Lunar Imperial Finances]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #2](https://godlearners.com/journal-of-runic-studies-2/)
@@ -265,6 +280,7 @@ Sistema complexo e hierárquico:
 - Fonte: [Journal of Runic Studies #27](https://godlearners.com/journal-of-runic-studies-27/)
 - Fonte: [Journal of Runic Studies #32](https://godlearners.com/journal-of-runic-studies-32/)
 - Fonte: [Runic Rants: A History of the Glowline](https://godlearners.com/runic-rants-a-history-of-the-glowline/)
+- Fonte: [Jeff Richard — "How the Lunars Look", The Well of Daliath, 13/05/2021](https://wellofdaliath.chaosium.com/how-the-lunars-look/)
 - Jeff Richard no RuneQuest Facebook Group
 - Nick Brooke (expert em Lunares)
 
@@ -272,3 +288,4 @@ Sistema complexo e hierárquico:
 - [ ] Detalhar as relações entre as Máscaras do Imperador Vermelho.
 - [ ] Mapear as facções políticas Dara Happanas no final da 3ª Era.
 - [ ] O que aconteceu ao White Moon após a supressão de 1625?
+- [ ] Quais elementos visuais sassânidas/selêucidas sobreviveram no material oficial de arte (Guia de Glorantha, WBRM 2e) e que outros foram reinterpretados?

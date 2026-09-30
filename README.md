@@ -129,8 +129,8 @@ Contribuições são bem-vindas! Se você é um jogador ou mestre de Glorantha:
 | Métrica | Valor |
 |---------|-------|
 | Páginas na wiki | 548 |
-| Fontes referenciadas | 164 |
-| Commits | 189 |
+| Fontes referenciadas | 165 |
+| Commits | 190 |
 | Última atualização | Setembro 2026 |
 | Idioma | Português Brasileiro (pt-BR) |
 
