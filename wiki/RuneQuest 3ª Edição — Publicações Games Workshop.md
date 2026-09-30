@@ -44,14 +44,14 @@ Em 1987, a **[[Games Workshop]]** publicou uma série de cinco livros licenciado
 - **Versão softcover** do livro de regras publicada em 1989
 
 ### Referência Completa
-A história completa das publicações de RuneQuest pela GW está documentada no livro **[[MiG3: The Meints Index to Glorantha]]** de **[[Rick Meints]]**.
+A história completa das publicações de RuneQuest pela GW está documentada no livro **[[MiG3 - The Meints Index to Glorantha]]** de **[[Rick Meints]]**.
 
 ## Referências Cruzadas
 - [[Games Workshop]]
 - [[RuneQuest]]
 - [[RuneQuest 2ª Edição (RQ2)]]
 - [[White Dwarf]]
-- [[MiG3: The Meints Index to Glorantha]]
+- [[MiG3 - The Meints Index to Glorantha]]
 - [[Rick Meints]]
 
 ## Referências

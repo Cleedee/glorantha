@@ -54,7 +54,7 @@ A arte de capa de **Angus Fieldhouse** para o RuneQuest Rulebook (1987) foi usad
 - [[RuneQuest 3ª Edição — Publicações Games Workshop]]
 - [[White Dwarf]]
 - [[Chaosium]]
-- [[MiG3: The Meints Index to Glorantha]]
+- [[MiG3 - The Meints Index to Glorantha]]
 
 ## Referências
 - Fonte: [Out of the Suitcase #56: Games Workshop and RuneQuest 3rd Edition](https://www.chaosium.com/blogout-of-the-suitcase-56-games-workshop-and-runequest-3rd-edition/)

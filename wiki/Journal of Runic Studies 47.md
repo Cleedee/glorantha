@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies 47
 
 ## Resumo
-47ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (8 de maio de 2022). Destaques: anúncio de mudanças editoriais (arquivamento adequado dos posts de Jeff no Well of Daliath), Episódio 11 do podcast (Biturian Varosh Parte 4), prévias do Meints Index to Glorantha, status das regras de heroquesting para RuneQuest, lançamento de The Six Paths, prévia de DuckPac, e notas de Jeff sobre o jovem Argrath, a Revolução de 1627–1629 e a Cidade das Maravilhas.
+47ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (8 de maio de 2022). Destaques: anúncio de mudanças editoriais (arquivamento adequado dos posts de Jeff no Well of Daliath), Episódio 11 do podcast (Biturian Varosh Parte 4), prévias do Meints Index to Glorantha, status das regras de heroquesting para RuneQuest, lançamento de The Six Paths, prévia de DuckPac, e notas de Jeff sobre o jovem Argrath, a Revolução de 1627–1629 e a Cidade das Maravilhas.
 
 ## Conteúdo
 
@@ -22,7 +22,7 @@ A Chaosium passou a **arquivar adequadamente os posts de Jeff Richard** no [Well
 
 ### Chaosium News
 - **Campaign Coins** — desconto de 10% nas moedas de RuneQuest (código YELMAL10), incluindo todas as moedas descritas no Guide to Glorantha e no livro de regras.
-- **Meints Index to Glorantha** — cópias antecipadas distribuídas na ChaosiumCon; 264 páginas de história editorial gloranthana (todas as tiragens de RuneQuest 2ª edição, linhas de miniaturas, fanzines); saída "em breve", provavelmente via print-on-demand. Ver [[Meints Index to Glorantha]].
+- **Meints Index to Glorantha** — cópias antecipadas distribuídas na ChaosiumCon; 264 páginas de história editorial gloranthana (todas as tiragens de RuneQuest 2ª edição, linhas de miniaturas, fanzines); saída "em breve", provavelmente via print-on-demand. Ver [[MiG3 - The Meints Index to Glorantha]].
 - **Regras de Heroquesting** — esclarecimentos coletados de Facebook e BRP Central: o aguardado **RuneQuest Gamemaster Guide** terá as regras "centrais" de heroquesting (já referenciado no livro de regras quatro anos antes!); um **livro completo de heroquesting** será publicado depois — provavelmente com um gazetteer dos planos heróico e divino, com mapas (como o mapa WIP do Tournament of Luck and Death) detalhando locais, encontros, desafios, bênçãos e maldições. Jeff: *"é VITAL que acertemos isto... precisamos fazer certo"*, indicando possíveis novos atrasos. Ver [[Heroquesting]].
 
 ### Jonstown Compendium
@@ -64,7 +64,7 @@ Post do BRP Central sobre como deuses e cultos diferem entre regiões: "diferent
 - [[Teleos]]
 - [[The Six Paths]]
 - [[DuckPac]]
-- [[Meints Index to Glorantha]]
+- [[MiG3 - The Meints Index to Glorantha]]
 - [[Heroquesting]]
 - [[Biturian Varosh]]
 

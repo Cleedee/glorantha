@@ -383,7 +383,6 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 47]] | 47ª edição; mudanças editoriais (Well of Daliath), jovem Argrath 1621-1624, Revolução de 1627-1629, Cidade das Maravilhas, The Six Paths, prévia DuckPac, regras de heroquesting | `periódico` `malkioni` `Argrath` `Batalha dos Heróis` `Cidade das Maravilhas` `The Six Paths` `DuckPac` | draft |
 | [[Journal of Runic Studies 48]] | 48ª edição; YGWV, Cults of Glorantha (96 cultos + ~40), Elmal/Yelmalio (linha do tempo revisada, regicídio, Holy Country/Esrolia), limites de cura de Waha, moedas sartaritas de Kallyr | `periódico` `malkioni` `Elmal` `Yelmalio` `Waha` `Cults of Glorantha` `moedas` `Kallyr` | draft |
 | [[The Six Paths]] | Edan Jones (Jonstown Compendium); gênero entre os Heortlings; 4 sexos e 6 gêneros; write-ups de Heler, Nandan e Vinga; PWYW | `Jonstown Compendium` `gênero` `Heortlings` `Nandan` `Vinga` `Heler` | draft |
-| [[Meints Index to Glorantha]] | Rick Meints; 264 págs de história editorial gloranthana; tiragens de RQ2, miniaturas, fanzines; print-on-demand | `referência` `história editorial` `Rick Meints` `Chaosium` `RQ2` | draft |
 | [[Red Moon and Warring Kingdoms]] | Sourcebook de fãs de 13th Age Glorantha (fanzine Escalation) focado no lado Lunar; Evan Franke; ~140.000 palavras | `13th Age` `13G` `Lunar` `Escalation` `fanzine` `Evan Franke` | draft |
 | [[Journal of Runic Studies 100]] | 100ª edição (falsa); anúncio do fim da publicação; história Wind Whispers; Well of Daliath; Nick Brooke embaixador; Bloody Banquet; Goonies in Glorantha | `periódico` `malkioni` `despedida` `Wind Whispers` `Well of Daliath` `Bloody Banquet` | draft |
 | [[Well of Daliath]] | Repositório online da Chaosium de lore, Q&A e errata de RuneQuest; mantido por David Scott; arquivo central da produção dos designers | `site` `Chaosium` `lore` `arquivo` `errata` `RuneQuest` | draft |
@@ -394,7 +393,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Children of the Flame]] | Campanha francesa (Studio Deadcrows) de reforma da tribo Dundealos (1625-1626); livro extra da edição FR de RQG; Swenstown | `campanha` `RuneQuest` `francês` `Dundealos` `Swenstown` `Studio Deadcrows` | draft |
 | [[RuneQuest 3ª Edição — Publicações Games Workshop]] | 5 livros licenciados da RQ3 publicados pela Games Workshop em 1987; evitar VAT; aventura "A Tale to Tell" de Jon Quaife | `RuneQuest` `RQ3` `Games Workshop` `1987` `livros` | draft |
 | [[White Dwarf]] | Revista britânica de RPG da Games Workshop; anúncio dos livros RQ3 na edição #85 (jan/1987) | `revista` `Games Workshop` `RPG` `publicação` | draft |
-| [[MiG3: The Meints Index to Glorantha]] | Livro de referência de Rick Meints; história completa das publicações de Glorantha e RuneQuest | `livro` `Rick Meints` `índice` `Glorantha` `referência` | draft |
+| [[MiG3 - The Meints Index to Glorantha]] | Livro de referência de Rick Meints; 264 págs (3ª ed.); história completa das publicações de Glorantha e RuneQuest, Games Workshop, tiragens de RQ2, miniaturas e fanzines | `livro` `Rick Meints` `índice` `Glorantha` `referência` `história editorial` `RQ2` `MIG3` | draft |
 
 ---
 

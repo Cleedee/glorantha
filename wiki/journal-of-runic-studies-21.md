@@ -37,7 +37,7 @@ status: draft
 - [[Dario Corallo]]
 - [[Sandheart]]
 - [[RuneQuest Starter Set]]
-- [[Meints Index to Glorantha]]
+- [[MiG3 - The Meints Index to Glorantha]]
 - [[Argan Argar Atlas]]
 - [[Dorastor]]
 
