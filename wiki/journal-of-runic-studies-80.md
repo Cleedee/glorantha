@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #80
 
 ## Resumo
-80ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]], em Sacred Time 2022. Conteúdo principal: as 4 teorias de origem de [[Belintar]]; luas pré-históricas e a reconstrução da [[Deusa Vermelha]]; os deuses do mar (Magasta, Wachaza, Triolina, etc.); o legado de [[Arkat]]; como se tornar um [[Aldryami]] (elfo); e o retorno dos Jaldonkillers com Valley of Plenty 2e.
+80ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]], em Sacred Time 2022. Conteúdo principal: as 4 teorias de origem de [[Belintar]]; luas pré-históricas e a reconstrução da [[Deusa Vermelha]]; os deuses do mar (Magasta, Wachaza, Triolina, etc.); o legado de [[Arkat]]; como se tornar um [[Aldryami]] (elfo); e o retorno dos Jaldonkillers com Valley of Plenty 2e.
 
 ## Conteúdo
 

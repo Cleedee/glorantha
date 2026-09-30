@@ -51,6 +51,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Studio Deadcrows]] | Estúdio francês da localização oficial de RQG (Game On Tabletop 2019); produtor de Children of the Flame | `editora` `estúdio` `francês` `RuneQuest` `tradução` | draft |
 | [[Thomas Rey]] | Artista/cartógrafo do Studio Deadcrows; mapas da edição francesa de RQG e de Swenstown | `artista` `cartógrafo` `Studio Deadcrows` `mapas` `Dundealos` | draft |
 | [[Hargro Brightbite]] | Troll escuro Argan Argar de Nochet; apoiador de Argrath; proprietário do Blind Lamp Club (fan-made) | `Argan Argar` `troll` `Nochet` `New Pavis` `fan-made` `PNJ` | draft |
+| [[Hippoi]] | Divindade equina da Peloria e da Horse Triarchy; fonte de Command Horse para o subculto de Elmal | `divindade` `cavalos` `Peloria` `Yelmalio` `Lodril` | draft |
 
 ---
 
@@ -208,18 +209,18 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[God Learners]] | Podcast + periódico JRS; estudo de feitiçaria, Monomito e legado dos God Learners históricos | `podcast` `Dorastor` `feitiçaria` `monomito` | draft |
 | [[Desafios Mágicos]] | Prática de provar verdade através de competições thaumaturgicas em Glorantha | `magia` `competição` `heroquesting` `verdade` | draft |
 | [[Wolf Pirates]] | Piratas liderados por Harrek; papel crucial na invasão lunar de 1619; Harrek: Rathori, Dart Warrior (1605), White Bear God como fetch (1609), fator aleatório das Hero Wars | `wolf pirates` `harrek` `mercenários` `Império Lunar` `Rathori` `fetch` | draft |
-| [[Journal of Runic Studies 2]] | 2ª edição do periódico malkioni; insights de Jeff Richard; Lore de Glorantha | `periódico` `malkioni` `Jeff Richard` | draft |
-| [[Journal of Runic Studies 3]] | 3ª edição; Sartar Homeland Boxed Set; Império Lunar moderno; Glorantha plana | `periódico` `sartar` `lunar` `geografia` | draft |
-| [[Journal of Runic Studies 4]] | 4ª edição; Torre God Learners; clãs Sartar; demografia; esportes | `periódico` `sartar` `demografia` `esportes` | draft |
-| [[Journal of Runic Studies 5]] | 5ª edição; Elmal vs Yelmalio; feitiçaria God Learners; conquista Dara Happa; Queda de Arkat | `periódico` `elmal` `arkat` `lunar` `feitiçaria` | draft |
-| [[Journal of Runic Studies 6]] | 6ª edição; paradoxo Lunar, Torneio dos Mestres, desafios mágicos, invasão 1619, pipeline Chaosium | `periódico` `malkioni` `País Santo` `Torneio` `Lunar` | draft |
-| [[Journal of Runic Studies 7]] | 7ª edição; colapso do Torneio, Hero Wars, cultos Orlanth/Ernalda em Sartar, Durengard | `periódico` `Belintar` `Torneio` `Orlanth` `Ernalda` `Sartar` | draft |
-| [[Journal of Runic Studies 8]] | 8ª edição; Pelória, Alkoth, Shargash, The Final Riddle, Tradetalk, QuestWorlds draft | `periódico` `Pelória` `Alkoth` `Shargash` `QuestWorlds` | draft |
-| [[Journal of Runic Studies 9]] | 9ª edição; Steve Perrin, Saird, Pockets Boldhome, Elmal vs Yelmalio | `periódico` `Steve Perrin` `Saird` `Elmal` `Yelmalio` | draft |
-| [[Journal of Runic Studies 10]] | 10ª edição; GRRM eulogia Perrin, quatro braços Orlanth, demografia clãs, exército sartarita | `periódico` `Steve Perrin` `Orlanth` `Sartar` `exército` | draft |
-| [[Journal of Runic Studies 11]] | 11ª edição; sete deusas da Terra filhas de Genert, Pendragon/Passions, Valley of Plenty cancelado | `periódico` `Genert` `Earth goddesses` `Valley of Plenty` `Pendragon` | draft |
-| [[Journal of Runic Studies 80]] | 80ª edição; origens Belintar, luas pré-históricas, deuses do mar, legado Arkat, iniciação Aldryami, Valley of Plenty 2e | `periódico` `Belintar` `Aldryami` `Arkat` `Valley of Plenty` `luas` | draft |
-| [[Journal of Runic Studies 85]] | 85ª edição; livros de cultos, Escalation! art, trolls, feitiçaria, Maboder e Dundealos | `periódico` `cultos` `trolls` `feitiçaria` `Maboder` `Dundealos` | draft |
+| [[journal-of-runic-studies-2]] | 2ª edição do periódico malkioni; insights de Jeff Richard; Lore de Glorantha | `periódico` `malkioni` `Jeff Richard` | draft |
+| [[journal-of-runic-studies-3]] | 3ª edição; Sartar Homeland Boxed Set; Império Lunar moderno; Glorantha plana | `periódico` `sartar` `lunar` `geografia` | draft |
+| [[journal-of-runic-studies-4]] | 4ª edição; Torre God Learners; clãs Sartar; demografia; esportes | `periódico` `sartar` `demografia` `esportes` | draft |
+| [[journal-of-runic-studies-5]] | 5ª edição; Elmal vs Yelmalio; feitiçaria God Learners; conquista Dara Happa; Queda de Arkat | `periódico` `elmal` `arkat` `lunar` `feitiçaria` | draft |
+| [[journal-of-runic-studies-6]] | 6ª edição; paradoxo Lunar, Torneio dos Mestres, desafios mágicos, invasão 1619, pipeline Chaosium | `periódico` `malkioni` `País Santo` `Torneio` `Lunar` | draft |
+| [[journal-of-runic-studies-7]] | 7ª edição; colapso do Torneio, Hero Wars, cultos Orlanth/Ernalda em Sartar, Durengard | `periódico` `Belintar` `Torneio` `Orlanth` `Ernalda` `Sartar` | draft |
+| [[journal-of-runic-studies-8]] | 8ª edição; Pelória, Alkoth, Shargash, The Final Riddle, Tradetalk, QuestWorlds draft | `periódico` `Pelória` `Alkoth` `Shargash` `QuestWorlds` | draft |
+| [[journal-of-runic-studies-9]] | 9ª edição; Steve Perrin, Saird, Pockets Boldhome, Elmal vs Yelmalio | `periódico` `Steve Perrin` `Saird` `Elmal` `Yelmalio` | draft |
+| [[journal-of-runic-studies-10]] | 10ª edição; GRRM eulogia Perrin, quatro braços Orlanth, demografia clãs, exército sartarita | `periódico` `Steve Perrin` `Orlanth` `Sartar` `exército` | draft |
+| [[journal-of-runic-studies-11]] | 11ª edição; sete deusas da Terra filhas de Genert, Pendragon/Passions, Valley of Plenty cancelado | `periódico` `Genert` `Earth goddesses` `Valley of Plenty` `Pendragon` | draft |
+| [[journal-of-runic-studies-80]] | 80ª edição; origens Belintar, luas pré-históricas, deuses do mar, legado Arkat, iniciação Aldryami, Valley of Plenty 2e | `periódico` `Belintar` `Aldryami` `Arkat` `Valley of Plenty` `luas` | draft |
+| [[journal-of-runic-studies-85]] | 85ª edição; livros de cultos, Escalation! art, trolls, feitiçaria, Maboder e Dundealos | `periódico` `cultos` `trolls` `feitiçaria` `Maboder` `Dundealos` | draft |
 | [[RuneQuest - Roleplaying in Glorantha (RQG)]] | 7ª ed (2018); retorno à Chaosium após 30 anos; 448 págs; sistemas de Runas, Paixões, Augment; review completa de ALM | `sistema` `2018` `7ª ed` `review` `Chaosium` `mitologia` | draft |
 | [[RuneQuest - Fantasy Roleplaying]] | Nova versão; foco Pavis/Big Rubble; Jeff Richard+Mike Mearls; 2027+; duas versões de RQ | `sistema` `Pavis` `RQFR` | draft |
 | [[RRQG]] | RQG revisado (polish pass, não nova edição); 60% tamanho; MOB+Morrison+Holland; Q1 2027; 5 culturas/9 cultos; inclui The Mouth of Chaos | `sistema` `revisão` `MOB` `Q1 2027` | draft |
@@ -314,19 +315,19 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Stafford House Campaign]] | Arquivos de Greg Stafford 1978-1981; 84p; Berkeley | `sourcebook` `Chaosium` `arquivo` | draft |
 | [[Eyes' Rise]] | Vilarejo no Rio dos Berços; 19 NPCs; River Folk | `sourcebook` `Jonstown` | draft |
 | [[Cults of Prax]] | Suplemento seminal (1979); primeiro "splatbook"; religião como centro cultural; Biturian Varosh | `suplemento` `clássico` `Prax` `cultos` `Biturian Varosh` | draft |
-| [[Journal of Runic Studies 12]] | 12ª edição; regras batalha em massa, geografia Sartar, Chalana Arroy, Eurmal, Jonstown | `periódico` `malkioni` `Sartar` `Chalana Arroy` `Eurmal` `White Bull` | draft |
-| [[Journal of Runic Studies 13]] | 13ª edição; 2º turno Batalha Rainhas, clãs pequenos Culbrea, Gorangian, Hero Wars, Deusa Caos, cidades lunares | `periódico` `malkioni` `White Bull` `Hero Wars` `Lunars` `Sartar` | draft |
-| [[Journal of Runic Studies 14]] | 14ª edição; GenCon, Starter Set, ENNIE Gold/Bronze, SoloQuest Vasana, Granite Phalanx | `periódico` `malkioni` `GenCon` `Starter Set` `ENNIE` `White Bull` | draft |
-| [[Journal of Runic Studies 15]] | 15ª edição; aftermath Batalha Rainhas, Bearwalkers, Cups of Clearwine POD, The Black Spear, Griselda, freeforms | `periódico` `malkioni` `Bearwalkers` `Rathori` `Starter Set` `White Bull` `Griselda` | draft |
+| [[journal-of-runic-studies-12]] | 12ª edição; regras batalha em massa, geografia Sartar, Chalana Arroy, Eurmal, Jonstown | `periódico` `malkioni` `Sartar` `Chalana Arroy` `Eurmal` `White Bull` | draft |
+| [[journal-of-runic-studies-13]] | 13ª edição; 2º turno Batalha Rainhas, clãs pequenos Culbrea, Gorangian, Hero Wars, Deusa Caos, cidades lunares | `periódico` `malkioni` `White Bull` `Hero Wars` `Lunars` `Sartar` | draft |
+| [[journal-of-runic-studies-14]] | 14ª edição; GenCon, Starter Set, ENNIE Gold/Bronze, SoloQuest Vasana, Granite Phalanx | `periódico` `malkioni` `GenCon` `Starter Set` `ENNIE` `White Bull` | draft |
+| [[journal-of-runic-studies-15]] | 15ª edição; aftermath Batalha Rainhas, Bearwalkers, Cups of Clearwine POD, The Black Spear, Griselda, freeforms | `periódico` `malkioni` `Bearwalkers` `Rathori` `Starter Set` `White Bull` `Griselda` | draft |
 | [[Furthest]] | Cidade lunar fundada com Boldhome; rota comercial cobre; Alexandria Eschate | `cidade` `Lunar` `Dragon Pass` `Hon-eel` | draft |
 | [[RuneQuest Starter Set]] | Conjunto introdutório RQG 2021; 1.38 kg; 4 livretos (272p); 14 PJs; SoloQuest Vasana; Jonstown write-up | `starter set` `RuneQuest` `Vasana` `SoloQuest` `Jonstown` | draft |
-| [[Journal of Runic Studies 16]] | 16ª edição; Black Spear lançado, Jallupel Goodwind, Jeff's Notes (Kheldon, Culbrea, templos lunares), White Bull S2 finale | `periódico` `malkioni` `Black Spear` `Kheldon` `Culbrea` `White Bull` | draft |
+| [[journal-of-runic-studies-16]] | 16ª edição; Black Spear lançado, Jallupel Goodwind, Jeff's Notes (Kheldon, Culbrea, templos lunares), White Bull S2 finale | `periódico` `malkioni` `Black Spear` `Kheldon` `Culbrea` `White Bull` | draft |
 | [[Jallupel Goodwind]] | MOTM por Austin Conrad + Diana Probst; fantasma mesclado de Herói Lunar + Lorde dos Ventos | `MOTM` `Jonstown` `Conrad` `Probst` `fantasma` | draft |
 | [[Six Seasons in Sartar]] | Campanha ALM; best-seller Jonstown Compendium; perto do Platinum; grupo retorna em 2021 adaptado para RQG | `campanha` `Jonstown` `ALM` `Sartar` `Haraborn` | draft |
 | [[The Company of the Dragon]] | Sequência de Six Seasons in Sartar; POD agosto 2021; 45 vendas do Gold | `campanha` `Jonstown` `ALM` `sequência` | draft |
 | [[The Final Riddle]] | Mini-campanha de ALM no Grande Inverno 1622 em New Pavis; expedição aos Ermos; regra opcional de Drives (Paixões Épicas) | `aventura` `ALM` `New Pavis` `Wastes` `Drives` `Heart of Darkness` | draft |
 | [[The Seven-Tailed Wolf]] | Livro planejado por ALM para primavera 2022; material cortado + novo cenário Haraborn | `suplemento` `Jonstown` `ALM` `Haraborn` | draft |
-| [[Journal of Runic Studies 17]] | 17ª edição; Ep.4 podcast, Korolstead, Bad Day at Duck Rock, Dart Wars, Argrath/Alexander, Justiça Orlanthi/Dara Happana | `periódico` `malkioni` `Dart Wars` `Argrath` `Orlanthi` `Dara Happan` | draft |
+| [[journal-of-runic-studies-17]] | 17ª edição; Ep.4 podcast, Korolstead, Bad Day at Duck Rock, Dart Wars, Argrath/Alexander, Justiça Orlanthi/Dara Happana | `periódico` `malkioni` `Dart Wars` `Argrath` `Orlanthi` `Dara Happan` | draft |
 | [[journal-of-runic-studies-18]] | 18ª edição; Armamento de Orlanth expandido, Ranging and Joining, Caladraland, Wilmskirk, heroquests de Harmast, manuscrito de Greg Stafford | `periódico` `malkioni` `Orlanth` `Heroquesting` `Caladraland` `Wilmskirk` `Harmast` `Greg Stafford` | draft |
 | [[journal-of-runic-studies-19]] | 19ª edição; demografia Tarsh Lunar, mapa clãs Sartar, Red Book of Magic review, regras afogamento, Sex and Gender in the Orlanthi, Sandheart V4 | `periódico` `malkioni` `Tarsh` `Red Book of Magic` `Sandheart` `Six Seasons` | draft |
 | [[journal-of-runic-studies-21]] | 21ª edição; Biturian Varosh Part 3 (Pavis–Corflu), Saranioth The Wanderer, Meints Index 3ª ed | `periódico` `malkioni` `Biturian Varosh` `Saranioth` `Meints Index` | draft |
@@ -381,6 +382,7 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[Journal of Runic Studies 45]] | 45ª edição; desequilíbrio e evolução dos cultos, Morokanth, Oasis People, fundação e ocupação Lunar de New Pavis, figuras das Hero Wars, Orlanthi de Maniria | `periódico` `malkioni` `cultos` `Morokanth` `Pavis` `Hero Wars` `Maniria` | draft |
 | [[Journal of Runic Studies 46]] | 46ª edição; normalização do Mundo Espiritual (documento encontrado), VTT Fantasy Grounds, Settlement 16, extras de History of Malkionism, tatuagens de Joh Mith, Malkionismo primitivo, Arkatismo, Red Moon and Warring Kingdoms | `periódico` `malkioni` `Mundo Espiritual` `Arkatismo` `Joh Mith` `Malkionismo` `13th Age` | draft |
 | [[Journal of Runic Studies 47]] | 47ª edição; mudanças editoriais (Well of Daliath), jovem Argrath 1621-1624, Revolução de 1627-1629, Cidade das Maravilhas, The Six Paths, prévia DuckPac, regras de heroquesting | `periódico` `malkioni` `Argrath` `Batalha dos Heróis` `Cidade das Maravilhas` `The Six Paths` `DuckPac` | draft |
+| [[Journal of Runic Studies]] | Periódico malkioni semanal dos God Learners (2021–2023, 100 edições); estrutura, história (Wind Whispers) e catálogo das edições ingeridas | `periódico` `malkioni` `newsletter` `God Learners` `Ludovic` `Well of Daliath` | draft |
 | [[Journal of Runic Studies 48]] | 48ª edição; YGWV, Cults of Glorantha (96 cultos + ~40), Elmal/Yelmalio (linha do tempo revisada, regicídio, Holy Country/Esrolia), limites de cura de Waha, moedas sartaritas de Kallyr | `periódico` `malkioni` `Elmal` `Yelmalio` `Waha` `Cults of Glorantha` `moedas` `Kallyr` | draft |
 | [[The Six Paths]] | Edan Jones (Jonstown Compendium); gênero entre os Heortlings; 4 sexos e 6 gêneros; write-ups de Heler, Nandan e Vinga; PWYW | `Jonstown Compendium` `gênero` `Heortlings` `Nandan` `Vinga` `Heler` | draft |
 | [[Red Moon and Warring Kingdoms]] | Sourcebook de fãs de 13th Age Glorantha (fanzine Escalation) focado no lado Lunar; Evan Franke; ~140.000 palavras | `13th Age` `13G` `Lunar` `Escalation` `fanzine` `Evan Franke` | draft |
@@ -394,6 +396,8 @@ description: "Catálogo de todas as páginas da wiki organizado por categorias"
 | [[RuneQuest 3ª Edição — Publicações Games Workshop]] | 5 livros licenciados da RQ3 publicados pela Games Workshop em 1987; evitar VAT; aventura "A Tale to Tell" de Jon Quaife | `RuneQuest` `RQ3` `Games Workshop` `1987` `livros` | draft |
 | [[White Dwarf]] | Revista britânica de RPG da Games Workshop; anúncio dos livros RQ3 na edição #85 (jan/1987) | `revista` `Games Workshop` `RPG` `publicação` | draft |
 | [[MiG3 - The Meints Index to Glorantha]] | Livro de referência de Rick Meints; 264 págs (3ª ed.); história completa das publicações de Glorantha e RuneQuest, Games Workshop, tiragens de RQ2, miniaturas e fanzines | `livro` `Rick Meints` `índice` `Glorantha` `referência` `história editorial` `RQ2` `MIG3` | draft |
+| [[journal-of-runic-studies-20]] | 20ª edição; data de lançamento do Starter Set, Katrin Dirim no Greg Stafford Memorial Award, pipeline Chaosium, regras de heroquesting com cartas, Jogrampur | `periódico` `malkioni` `Starter Set` `Katrin Dirim` `heroquesting` | draft |
+| [[Journal of Runic Studies 30]] | 30ª edição; foco malkioni — Zzabur, Hrestol, castas, Príncipes Mercadores de Maniria, feitiçaria, Proximate Holy Realm, Valind | `periódico` `malkioni` `feitiçaria` `Hrestol` | draft |
 
 ---
 

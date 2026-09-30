@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #25
 
 ## Resumo
-25ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (6 de dezembro de 2021). Destaques: Jeff's Notes sobre o mapa de grãos de Genertela, Prax e as Terras Ermas, nobreza Lunar, características Caóticas no Império Lunar, comércio em Genertela, e a Wenelia da Era da Alvorada.
+25ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (6 de dezembro de 2021). Destaques: Jeff's Notes sobre o mapa de grãos de Genertela, Prax e as Terras Ermas, nobreza Lunar, características Caóticas no Império Lunar, comércio em Genertela, e a Wenelia da Era da Alvorada.
 
 ## Conteúdo
 

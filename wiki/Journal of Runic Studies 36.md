@@ -42,7 +42,7 @@ status: draft
 
 ## Referências
 - Fonte: [Journal of Runic Studies #36](https://godlearners.com/journal-of-runic-studies-36/)
-- Autor: [[Ludovic]]
+- Autor: [[Ludovic (God Learners)|Ludovic]]
 
 ## Questões em Aberto
 - [ ] Nenhuma por enquanto.

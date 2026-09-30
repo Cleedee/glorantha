@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies 33
 
 ## Resumo
-33ª edição do periódico Malkioni **God Learners**, publicada em 30 de janeiro de 2022. Inclui o lançamento do primeiro produto de [[Ludovic]] no Jonstown Compendium ([[A Short Detour]]), e edição extensa de **Jeff's Notes** com dados demográficos detalhados das [[Províncias Lunares]] e do [[Coração Lunar]], história das [[Grazelands]] e da Feathered Horse Queen, as famílias nobres de [[Alkoth]], a cidade de [[Karse]] pós-Libertação, a região de [[God Forgot]]/[[Refuge]], cultos de heróis vivos, e sistemas de posse de terra.
+33ª edição do periódico Malkioni **God Learners**, publicada em 30 de janeiro de 2022. Inclui o lançamento do primeiro produto de [[Ludovic (God Learners)|Ludovic]] no Jonstown Compendium ([[A Short Detour]]), e edição extensa de **Jeff's Notes** com dados demográficos detalhados das [[Províncias Lunares]] e do [[Coração Lunar]], história das [[Grazelands]] e da Feathered Horse Queen, as famílias nobres de [[Alkoth]], a cidade de [[Karse]] pós-Libertação, a região de [[God Forgot]]/[[Refuge]], cultos de heróis vivos, e sistemas de posse de terra.
 
 ## Conteúdo
 

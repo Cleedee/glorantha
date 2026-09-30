@@ -44,7 +44,7 @@ Conjunto introdutório para [[RuneQuest - Roleplaying in Glorantha (RQG)]], lan�
 - **Book 4 (Adventures):** 3 aventuras + sementes. Aventura 1: premissa simples, boa para migrantes de D&D, mas falta sabor Gloranthano. Aventura 2: investigação. Aventura 3: *The Rainbow Mounds* (atualização de [[Apple Lane]]), dungeon crawl clássica com habitantes que têm agendas.
 
 ### Review de Ludovic (God Learners)
-[[Ludović (God Learners)|Ludovic]] do podcast [[God Learners]] escreveu uma review detalhada publicada em 25 de dezembro de 2021. Destaques:
+[[Ludovic (God Learners)|Ludovic]] do podcast [[God Learners]] escreveu uma review detalhada publicada em 25 de dezembro de 2021. Destaques:
 - O Starter Set é um dos **três melhores Starter Sets do mercado** junto com Call of Cthulhu e Warhammer Fantasy Roleplay
 - **Arte:** impressionante, evocativa, original. A pose de Vasana na capa remete à guerreira original de RQ2.
 - **Novo material:** ~185 páginas de material novo em 272 páginas totais — mais de 2/3 úteis para veteranos

@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #16
 
 ## Resumo
-16ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (4 de outubro de 2021). Destaques: conclusão da 2ª temporada da campanha White Bull; lançamento de *[[The Black Spear]]* (180 páginas); *[[Jallupel Goodwind]]* MOTM; notas de Jeff Richard sobre templos lunares, a Deusa Vermelha, a Tesouraria Lunar de Boldhome, o Templo da Lua Crescente, e as tribos [[Tribo Kheldon|Kheldon]] e [[Tribo Culbrea|Culbrea]]; Glass Cannon finale do Starter Set; review do Starter Set por [[Andrew Logan Montgomery]]; review de *The Smoking Ruin* por Skull Dixon.
+16ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (4 de outubro de 2021). Destaques: conclusão da 2ª temporada da campanha White Bull; lançamento de *[[The Black Spear]]* (180 páginas); *[[Jallupel Goodwind]]* MOTM; notas de Jeff Richard sobre templos lunares, a Deusa Vermelha, a Tesouraria Lunar de Boldhome, o Templo da Lua Crescente, e as tribos [[Tribo Kheldon|Kheldon]] e [[Tribo Culbrea|Culbrea]]; Glass Cannon finale do Starter Set; review do Starter Set por [[Andrew Logan Montgomery]]; review de *The Smoking Ruin* por Skull Dixon.
 
 ## Conteúdo
 

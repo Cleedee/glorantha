@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #12
 
 ## Resumo
-12ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Conteúdo principal: preview das regras de combate em massa da [[Campanha White Bull]] (Batalha das Rainhas); geologia e geografia de [[Sartar]] (trecho do Boxed Set); preceitos de [[Chalana Arroy]] e a divisão Sweepers/Keepers; o papel dos tricksters ([[Eurmal]]) na sociedade Orlanthi; e novidades do [[Jonstown Compendium]].
+12ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Conteúdo principal: preview das regras de combate em massa da [[Campanha White Bull]] (Batalha das Rainhas); geologia e geografia de [[Sartar]] (trecho do Boxed Set); preceitos de [[Chalana Arroy]] e a divisão Sweepers/Keepers; o papel dos tricksters ([[Eurmal]]) na sociedade Orlanthi; e novidades do [[Jonstown Compendium]].
 
 ## Conteúdo
 

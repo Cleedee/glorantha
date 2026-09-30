@@ -2,7 +2,7 @@
 title: "Journal of Runic Studies #69"
 category: "Fonte"
 tags: [periódico, malkioni, God Learners, Ludovic, Heroquesting, Jeff Richard, Stafford House, Lunars, finanças]
-sources: ["https://godlearners.com/journal-of-runic-studies-6/9.md"]
+sources: ["https://godlearners.com/journal-of-runic-studies-69/"]
 last_updated: 2026-05-15
 status: draft
 ---
@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #69
 
 ## Resumo
-69ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (10 de outubro de 2022). Destaques: Jeff's Notes sobre heroquesting (inconsciente coletivo, arquétipos) e finanças do Império Lunar, e o lançamento do Stafford House Campaign.
+69ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (10 de outubro de 2022). Destaques: Jeff's Notes sobre heroquesting (inconsciente coletivo, arquétipos) e finanças do Império Lunar, e o lançamento do Stafford House Campaign.
 
 ## Conteúdo
 

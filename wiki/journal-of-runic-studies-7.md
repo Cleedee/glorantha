@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #7
 
 ## Resumo
-7ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Conteúdo principal: o colapso do [[Torneio dos Mestres da Sorte e da Morte]], a morte de [[Belintar]] em 1616, o papel de [[Jar-Eel]] como caçadora no Portal, e a liberação de energia mágica que alimenta as [[Hero Wars]]. Inclui também dados dos cultos de [[Orlanth]] e [[Ernalda]] em [[Sartar]] do vindouro [[Sartar Homeland Boxed Set]], detalhes sobre [[Durengard]] do livro de Heortland, e Monrogh e a transição Elmal→Yelmalio.
+7ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Conteúdo principal: o colapso do [[Torneio dos Mestres da Sorte e da Morte]], a morte de [[Belintar]] em 1616, o papel de [[Jar-Eel]] como caçadora no Portal, e a liberação de energia mágica que alimenta as [[Hero Wars]]. Inclui também dados dos cultos de [[Orlanth]] e [[Ernalda]] em [[Sartar]] do vindouro [[Sartar Homeland Boxed Set]], detalhes sobre [[Durengard]] do livro de Heortland, e Monrogh e a transição Elmal→Yelmalio.
 
 ## Conteúdo
 

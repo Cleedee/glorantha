@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #11
 
 ## Resumo
-11ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Conteúdo principal: mito das sete deusas da Terra filhas de [[Genert]] que nomeiam as regiões de [[Genertela]]; Pendragon Design Journal e a origem do sistema de Passions; compilação QAD Pimper's Block de 2000 páginas; cancelamento da sequência de [[Valley of Plenty]]; Vingan thane dos Hiording por Katrin Dirim; e edição alemã de RuneQuest 3ª edição.
+11ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Conteúdo principal: mito das sete deusas da Terra filhas de [[Genert]] que nomeiam as regiões de [[Genertela]]; Pendragon Design Journal e a origem do sistema de Passions; compilação QAD Pimper's Block de 2000 páginas; cancelamento da sequência de [[Valley of Plenty]]; Vingan thane dos Hiording por Katrin Dirim; e edição alemã de RuneQuest 3ª edição.
 
 ## Conteúdo
 

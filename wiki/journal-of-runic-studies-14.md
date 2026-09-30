@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #14
 
 ## Resumo
-14ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Conteúdo principal: GenCon 2021 e o lançamento do [[RuneQuest Starter Set]]; ENNIE Awards para o Jonstown Compendium (Gold para *A Rough Guide to Glamour*, Bronze para *Citizens of the Lunar Empire*); design diary do SoloQuest do Starter Set; campanha White Bull (carga contra a Granite Phalanx); e novidades do Jonstown Compendium.
+14ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Conteúdo principal: GenCon 2021 e o lançamento do [[RuneQuest Starter Set]]; ENNIE Awards para o Jonstown Compendium (Gold para *A Rough Guide to Glamour*, Bronze para *Citizens of the Lunar Empire*); design diary do SoloQuest do Starter Set; campanha White Bull (carga contra a Granite Phalanx); e novidades do Jonstown Compendium.
 
 ## Conteúdo
 

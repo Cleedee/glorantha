@@ -11,7 +11,7 @@ note: "Clipping incompleto — apenas metadados e navegação disponíveis"
 # Journal of Runic Studies #68
 
 ## Resumo
-68ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (4 de outubro de 2022). O clipping disponível está incompleto, contendo apenas navegação do site. Baseado na descrição, a edição cobria: pântanos de [[Pelória]], magia de [[Oslira]], um grande broo, teasers do Jonstown Compendium, e actual plays de RuneQuest.
+68ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (4 de outubro de 2022). O clipping disponível está incompleto, contendo apenas navegação do site. Baseado na descrição, a edição cobria: pântanos de [[Pelória]], magia de [[Oslira]], um grande broo, teasers do Jonstown Compendium, e actual plays de RuneQuest.
 
 ## Referências
 - Fonte original: [Journal of Runic Studies #68](https://godlearners.com/journal-of-runic-studies-68/)

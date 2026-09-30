@@ -64,13 +64,13 @@ Inclui 3 handouts, estatísticas completas de NPCs e monstros, e múltiplos mapa
 Requer [[RuneQuest - Roleplaying in Glorantha (RQG)]]. *RuneQuest Glorantha Bestiary* pode ser útil.
 
 ### Volume 4: The God Skin & Mad Prax
-O quarto e último volume da série Sandheart contém duas aventuras — uma de Jon Webb e outra de Michael O'Brien. Conta com contribuições de múltiplos colaboradores, incluindo [[Ludovic]] (que contribuiu "um pouquinho" em todos os volumes). Tornou-se disponível em print-on-demand em novembro de 2021.
+O quarto e último volume da série Sandheart contém duas aventuras — uma de Jon Webb e outra de Michael O'Brien. Conta com contribuições de múltiplos colaboradores, incluindo [[Ludovic (God Learners)|Ludovic]] (que contribuiu "um pouquinho" em todos os volumes). Tornou-se disponível em print-on-demand em novembro de 2021.
 
 ## Referências Cruzadas
 - [[Jonstown Compendium]]
 - [[Jon Webb]]
 - [[Michael O'Brien]]
-- [[Ludovic]]
+- [[Ludovic (God Learners)]]
 - [[Prax]]
 - [[Sun County]]
 - [[Yelmalio]]

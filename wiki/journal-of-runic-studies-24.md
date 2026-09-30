@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #24
 
 ## Resumo
-24ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (29 de novembro de 2021). Destaques: Jeff's Notes sobre os **Aeolianos** de Heortland, a ecologia e personhood dos **Broos**, o código de honra e combate de Glorantha, e a expansão da religião dos Lightbringers pelos missionários Theyalanos.
+24ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (29 de novembro de 2021). Destaques: Jeff's Notes sobre os **Aeolianos** de Heortland, a ecologia e personhood dos **Broos**, o código de honra e combate de Glorantha, e a expansão da religião dos Lightbringers pelos missionários Theyalanos.
 
 ## Conteúdo
 

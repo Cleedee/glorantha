@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #20
 
 ## Resumo
-20ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (novembro de 2021). Destaques: data de lançamento do [[RuneQuest Starter Set]] (10 de novembro), [[Katrin Dirim]] recebe o [[Greg Stafford Memorial Award]] 2021, pipeline de publicações Chaosium (Weapons & Equipment Guide, Homeland Sets, Cults slipcase, Gamemaster Guide, [[Pavis & Big Rubble]]), regras de heroquesting com cartas, notas de Jeff Richard sobre casamentos Orlanthi, adoção em clãs, as [[Irmãs Respiradoras]] em [[Boldhome]], o deus inventado [[Jogrampur]] dos God Learners, e Malkioni da Terceira Era como espada e feitiaria Moorcockiana.
+20ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (novembro de 2021). Destaques: data de lançamento do [[RuneQuest Starter Set]] (10 de novembro), [[Katrin Dirim]] recebe o [[Greg Stafford Memorial Award]] 2021, pipeline de publicações Chaosium (Weapons & Equipment Guide, Homeland Sets, Cults slipcase, Gamemaster Guide, [[Pavis & Big Rubble]]), regras de heroquesting com cartas, notas de Jeff Richard sobre casamentos Orlanthi, adoção em clãs, as [[Irmãs Respiradoras]] em [[Boldhome]], o deus inventado [[Jogrampur]] dos God Learners, e Malkioni da Terceira Era como espada e feitiaria Moorcockiana.
 
 ## Conteúdo
 
@@ -103,7 +103,7 @@ Castas Malkioni: **talars** (nobres), **zzaburi** (feiticeiros/filósofos), **ho
 - **Eight Arms And The Mask** — Effy conta a história de como [[Chalana Arroy]] surgiu no universo
 
 ## Referências Cruzadas
-- [[Ludovic]]
+- [[Ludovic (God Learners)]]
 - [[God Learners]]
 - [[RuneQuest Starter Set]]
 - [[Katrin Dirim]]

@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #10
 
 ## Resumo
-10ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Conteúdo principal: mais eulogias a [[Steve Perrin]] incluindo [[George R.R. Martin]] (conexão Wild Cards/Superworld); conclusão da campanha White Bull no "Dragon of Thunder Hill"; os quatro braços de [[Orlanth]]; demografia detalhada dos clãs de Sartar; navegação na Baía Mirrorsea (Seapolis, tubs, nets, triremes); descrição do exército sartarita; e atualizações do Jonstown Compendium.
+10ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Conteúdo principal: mais eulogias a [[Steve Perrin]] incluindo [[George R.R. Martin]] (conexão Wild Cards/Superworld); conclusão da campanha White Bull no "Dragon of Thunder Hill"; os quatro braços de [[Orlanth]]; demografia detalhada dos clãs de Sartar; navegação na Baía Mirrorsea (Seapolis, tubs, nets, triremes); descrição do exército sartarita; e atualizações do Jonstown Compendium.
 
 ## Conteúdo
 

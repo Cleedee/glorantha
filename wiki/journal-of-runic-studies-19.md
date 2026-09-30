@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #19
 
 ## Resumo
-19ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (24 de outubro de 2021). Destaques: Jeff's Notes sobre demografia de [[Tarsh]] Lunar (Maize Belt, Furthest, colonos), mapa de tribos e clãs de Sartar com The Far Place, cult memberships por homeland no vindouro Cults Book, review do [[Red Book of Magic]], regras de afogamento por [[Diana Probst]], artigo "Sex and Gender in the Orlanthi" de [[Andrew Logan Montgomery]], e novidades do Jonstown Compendium (Black Spear hardcover, The Howling Tower, Stone and Bone, Sandheart Volume 4).
+19ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (24 de outubro de 2021). Destaques: Jeff's Notes sobre demografia de [[Tarsh]] Lunar (Maize Belt, Furthest, colonos), mapa de tribos e clãs de Sartar com The Far Place, cult memberships por homeland no vindouro Cults Book, review do [[Red Book of Magic]], regras de afogamento por [[Diana Probst]], artigo "Sex and Gender in the Orlanthi" de [[Andrew Logan Montgomery]], e novidades do Jonstown Compendium (Black Spear hardcover, The Howling Tower, Stone and Bone, Sandheart Volume 4).
 
 ## Conteúdo
 
@@ -43,7 +43,7 @@ O vindouro **Cults Book** de RuneQuest conterá uma decomposição de membros de
 - **Sex and Gender in the Orlanthi** — [[Andrew Logan Montgomery]] escreveu sobre os rituais de iniciação de *[[Six Seasons in Sartar]]*, explorando como a sociedade Orlanthi separa sexo biológico (apenas para procriação) de gênero (natureza interior, papel social e chamado divino)
 
 ## Referências Cruzadas
-- [[Ludovic]]
+- [[Ludovic (God Learners)]]
 - [[God Learners]]
 - [[Furthest]]
 - [[Tarsh]]

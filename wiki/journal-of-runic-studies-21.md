@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #21
 
 ## Resumo
-21ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (8 de novembro de 2021). Destaques: The Travels of Biturian Varosh Part 3 (Pavis a Corflu), Found Documents sobre espíritos de Dragon Pass por Saranioth, Meints Index to Glorantha 3ª ed, e arte de capa do Starter Set por Ossi Hiekkala.
+21ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (8 de novembro de 2021). Destaques: The Travels of Biturian Varosh Part 3 (Pavis a Corflu), Found Documents sobre espíritos de Dragon Pass por Saranioth, Meints Index to Glorantha 3ª ed, e arte de capa do Starter Set por Ossi Hiekkala.
 
 ## Conteúdo
 

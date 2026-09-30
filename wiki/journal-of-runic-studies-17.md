@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #17
 
 ## Resumo
-17ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (11 de outubro de 2021). Destaques: Podcast Episódio 4 com [[Beer with Teeth]] sobre escrita de aventuras; Jeff's Notes sobre [[Argrath]] como Alexandre o Grande, a Justiça Orlanthi vs Dara Happana, as [[Dart Wars]], Dendara, e curiosidades diversas; lançamentos *Korolstead* e *A Bad Day at Duck Rock*.
+17ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (11 de outubro de 2021). Destaques: Podcast Episódio 4 com [[Beer with Teeth]] sobre escrita de aventuras; Jeff's Notes sobre [[Argrath]] como Alexandre o Grande, a Justiça Orlanthi vs Dara Happana, as [[Dart Wars]], Dendara, e curiosidades diversas; lançamentos *Korolstead* e *A Bad Day at Duck Rock*.
 
 ## Conteúdo
 

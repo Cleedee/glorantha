@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #18
 
 ## Resumo
-18ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (17 de outubro de 2021). Destaques: Jeff's Notes sobre o mito expandido do Armamento de [[Orlanth]], a técnica avançada de heroquesting [[Heroquesting|Ranging and Joining]], lore de [[Caladraland]] e [[Wilmskirk]], heroquests de [[Harmast, o Descalço]], manuscrito de [[Greg Stafford]] sobre heroquesting, e textos God Learners sobre as origens do Cosmos.
+18ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (17 de outubro de 2021). Destaques: Jeff's Notes sobre o mito expandido do Armamento de [[Orlanth]], a técnica avançada de heroquesting [[Heroquesting|Ranging and Joining]], lore de [[Caladraland]] e [[Wilmskirk]], heroquests de [[Harmast, o Descalço]], manuscrito de [[Greg Stafford]] sobre heroquesting, e textos God Learners sobre as origens do Cosmos.
 
 ## Conteúdo
 

@@ -20,7 +20,7 @@ status: draft
 O ***Weapons & Equipment*** sourcebook foi lançado em PDF. Mais do que uma lista de estatísticas de equipamento, o livro ancora firmemente os itens no cenário, oferecendo informações valiosas sobre o **cotidiano dos povos de Dragon Pass**. A review de [[Andrew Logan Montgomery]] descreve: *"Even just reading random sections of it, Glorantha springs to life. It is like going from 2D to 3D."* RPG Imaginings destaca que o suplemento *"deftly avoids one of my biggest gripes in fantasy TTRPGs: it is not about bigger numbers for your hit-point smasher."* A Beer With Teeth ([[Diana Probst]]) contribuiu com toques arqueológicos no texto.
 
 #### ChaosiumCon 2022
-Lista preliminar de eventos divulgada: seminários, sessões VIP, sessões de criadores de conteúdo comunitário, leilão, LARP Gloranthano. Inscrições para submissão de eventos abertas. [[Ludovic]] (God Learners) planeja comparecer.
+Lista preliminar de eventos divulgada: seminários, sessões VIP, sessões de criadores de conteúdo comunitário, leilão, LARP Gloranthano. Inscrições para submissão de eventos abertas. [[Ludovic (God Learners)|Ludovic]] (God Learners) planeja comparecer.
 
 #### Primers sobre Orlanth e Ernalda
 **James Coquillat** iniciou uma série de entrevistas em vídeo com **Jeff Richard** sobre as divindades de Glorantha. Os dois primeiros vídeos cobrem [[Orlanth]] e [[Ernalda]] — primers curtos e acessíveis para novos jogadores de RuneQuest.

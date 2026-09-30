@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #9
 
 ## Resumo
-9ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Conteúdo principal: obituário de [[Steve Perrin]] (1946-2021), co-criador de RuneQuest, com a série "Creating RuneQuest" em seis partes; o debate [[Elmal]] vs [[Yelmalio]] com novos detalhes sobre a traição Elmali e o assassinato do Príncipe Jarosar; descrição dos **Pockets de Boldhome** (moradias anãs); história detalhada da região de [[Saird]]; atualizações do Jonstown Compendium (Company of the Dragon POD, Ennies 2021); e a campanha White Bull no "Dragon of Thunder Hills".
+9ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Conteúdo principal: obituário de [[Steve Perrin]] (1946-2021), co-criador de RuneQuest, com a série "Creating RuneQuest" em seis partes; o debate [[Elmal]] vs [[Yelmalio]] com novos detalhes sobre a traição Elmali e o assassinato do Príncipe Jarosar; descrição dos **Pockets de Boldhome** (moradias anãs); história detalhada da região de [[Saird]]; atualizações do Jonstown Compendium (Company of the Dragon POD, Ennies 2021); e a campanha White Bull no "Dragon of Thunder Hills".
 
 ## Conteúdo
 

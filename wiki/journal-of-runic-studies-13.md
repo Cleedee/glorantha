@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #13
 
 ## Resumo
-13ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Conteúdo principal: segundo turno da Batalha das Rainhas ([[Campanha White Bull]]); clãs pequenos sartaritas em crise; Gorangian Bronzeguts e a cultura dos escribas em Sartar; temas das Guerras Heroicas; a Deusa Vermelha como divindade do Caos; e geopolítica das cidades Lunares.
+13ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Conteúdo principal: segundo turno da Batalha das Rainhas ([[Campanha White Bull]]); clãs pequenos sartaritas em crise; Gorangian Bronzeguts e a cultura dos escribas em Sartar; temas das Guerras Heroicas; a Deusa Vermelha como divindade do Caos; e geopolítica das cidades Lunares.
 
 ## Conteúdo
 

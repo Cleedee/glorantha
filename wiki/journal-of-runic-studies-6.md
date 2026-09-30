@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #6
 
 ## Resumo
-6ª edição do periódico malkioni publicado por [[Ludovic]] e os [[God Learners]]. Esta edição cobre: o paradoxo do Império Lunar e Gbaji como abordagem ao cosmos, o Torneio dos Mestres da Sorte e da Morte no [[País Santo]], desafios mágicos como prática cultural, a invasão lunar de 1619 e o papel dos Wolf Pirates, pesquisa jrustelana sobre heroquesting (níveis de imersão de Jirtsyl), e atualizações do pipeline de produção da Chaosium.
+6ª edição do periódico malkioni publicado por [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Esta edição cobre: o paradoxo do Império Lunar e Gbaji como abordagem ao cosmos, o Torneio dos Mestres da Sorte e da Morte no [[País Santo]], desafios mágicos como prática cultural, a invasão lunar de 1619 e o papel dos Wolf Pirates, pesquisa jrustelana sobre heroquesting (níveis de imersão de Jirtsyl), e atualizações do pipeline de produção da Chaosium.
 
 ## Conteúdo
 

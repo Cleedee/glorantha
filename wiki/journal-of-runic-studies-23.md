@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #23
 
 ## Resumo
-23ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (22 de novembro de 2021). Destaques: Jeff's Notes sobre a **Chuva Má** (Bad Rain) como a Sombra de [[Orlanth]] e sua importância central no heroquesting, os **Irmãos do Trovão** (Thunder Brothers) inspirados nos Maruts védicos como modelo para companheiros do Príncipe, o lançamento do RuneQuest Starter Set SoloQuest, e a abertura do RuneQuest Wiki oficial.
+23ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (22 de novembro de 2021). Destaques: Jeff's Notes sobre a **Chuva Má** (Bad Rain) como a Sombra de [[Orlanth]] e sua importância central no heroquesting, os **Irmãos do Trovão** (Thunder Brothers) inspirados nos Maruts védicos como modelo para companheiros do Príncipe, o lançamento do RuneQuest Starter Set SoloQuest, e a abertura do RuneQuest Wiki oficial.
 
 ## Conteúdo
 

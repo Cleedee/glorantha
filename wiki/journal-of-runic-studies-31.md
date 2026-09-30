@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies 31
 
 ## Resumo
-31ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (16 de janeiro de 2022). Destaques: Jeff's Notes sobre heroquesting (contextos de poder, desespero e necessidade cósmica), a Lightbringers Summons de [[Kallyr Testa-Estrelada]] em 1625, população tribal de [[Boldhome]], números do culto de [[Yelmalio]] em Dragon Pass, demografia do [[The Far Place|Far Place]]/Alda-Chur, evolução do culto de Yelmalio no Rio dos Berços, sistema de resgate/prisioneiros, relações de [[Kyger Litor]], e novidades do Chaosium (Sartar Homeland boxed set com campanha 1625-1627, Montgomery trabalhando em iniciações).
+31ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (16 de janeiro de 2022). Destaques: Jeff's Notes sobre heroquesting (contextos de poder, desespero e necessidade cósmica), a Lightbringers Summons de [[Kallyr Testa-Estrelada]] em 1625, população tribal de [[Boldhome]], números do culto de [[Yelmalio]] em Dragon Pass, demografia do [[The Far Place|Far Place]]/Alda-Chur, evolução do culto de Yelmalio no Rio dos Berços, sistema de resgate/prisioneiros, relações de [[Kyger Litor]], e novidades do Chaosium (Sartar Homeland boxed set com campanha 1625-1627, Montgomery trabalhando em iniciações).
 
 ## Conteúdo
 
@@ -99,7 +99,7 @@ Hostil a todos os Sete Portadores da Luz (inclusive Chalana Arroy), todos os cul
 - [[Far Place]]
 - [[Sun County]]
 - [[God Learners]]
-- [[Ludovic]]
+- [[Ludovic (God Learners)]]
 
 ## Referências
 - Fonte: [Journal of Runic Studies #31](https://godlearners.com/journal-of-runic-studies-31/)

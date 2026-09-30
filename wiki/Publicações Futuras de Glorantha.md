@@ -2,8 +2,8 @@
 title: "Publicações Futuras de Glorantha"
 category: "Fonte"
 tags: [roadmap, publicações, Chaosium, upcoming, pipeline]
-sources: ["raw/notas/Publicações Futuras.md", "https://godlearners.com/journal-of-runic-studies-6/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q", "https://www.chaosium.com/runequest-the-apple-lane-campaign", "https://basicroleplaying.org/topic/26626-will-we-see-pavis-and-big-rubble-setting-for-rqg"]
-last_updated: 2026-09-10
+sources: ["https://godlearners.com/journal-of-runic-studies-6/", "https://www.youtube.com/watch?v=aR0wj1SsU1Q", "https://www.chaosium.com/runequest-the-apple-lane-campaign", "https://basicroleplaying.org/topic/26626-will-we-see-pavis-and-big-rubble-setting-for-rqg"]
+last_updated: 2026-09-30
 status: draft
 ---
 
@@ -93,7 +93,7 @@ Conforme atualização do editor de linha [[Jason Durall]]:
 - **[[Grazelands]]:** Sendo trabalhado por [[Chris Klug]].
 - **[[Prax]]:** Em hiato, mas [[David Scott]] (especialista em Prax e xamanismo) deve assumir em breve. Diferente do projeto [[Pavis & Big Rubble]] (Robin Laws).
 - **Lunar Homeland / Old Tarsh Homeland:** Sem planos.
-- **[[Weapons & Equipment sourcebook]]** e **[[Gamemaster Guide]]:** Também em desenvolvimento, fora dos projetos Homeland.
+- **[[Weapons & Equipment sourcebook]]** e **[[Gamemaster Guide]]:** Também em desenvolvimento, fora dos projetos Homeland. Nota: o *Weapons & Equipment* já tinha **cópia antecipada da edição impressa em maio de 2022** (enviada pelo impressor polonês da Chaosium), muito antes de qualquer anúncio oficial de data.
 
 ### Outros (sem detalhes recentes, provavelmente distantes)
 - **Elder Races book** — 12 raças

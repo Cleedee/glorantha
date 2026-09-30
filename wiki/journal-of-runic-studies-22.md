@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #22
 
 ## Resumo
-22ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (14 de novembro de 2021). Destaques: Jeff's Notes sobre mito como arquétipo e o motivo do **Cavaleiro e da Deusa** (Horse Rider) em Sartar ocidental, e o lançamento oficial do RuneQuest Starter Set.
+22ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (14 de novembro de 2021). Destaques: Jeff's Notes sobre mito como arquétipo e o motivo do **Cavaleiro e da Deusa** (Horse Rider) em Sartar ocidental, e o lançamento oficial do RuneQuest Starter Set.
 
 ## Conteúdo
 

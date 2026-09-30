@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #15
 
 ## Resumo
-15ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]] (26 de setembro de 2021). Destaques: conclusão do aftermath da Batalha das Rainhas na campanha White Bull; lançamento de [[Bearwalkers]] (sourcebook Rathori) e [[Cups of Clearwine]] em POD; teasing de *The Black Spear*; nova história de [[Griselda]] em produção; lista de freeforms Gloranthanos; e unboxings do [[RuneQuest Starter Set]].
+15ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]] (26 de setembro de 2021). Destaques: conclusão do aftermath da Batalha das Rainhas na campanha White Bull; lançamento de [[Bearwalkers]] (sourcebook Rathori) e [[Cups of Clearwine]] em POD; teasing de *The Black Spear*; nova história de [[Griselda]] em produção; lista de freeforms Gloranthanos; e unboxings do [[RuneQuest Starter Set]].
 
 ## Conteúdo
 

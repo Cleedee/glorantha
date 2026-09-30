@@ -1,8 +1,8 @@
 ---
 title: "Jeff Richard"
 category: "Entidade"
-tags: [Jeff Richard, Chaosium, autor, designer, Glorantha, RQG, Prince of Sartar, Well of Daliath]
-last_updated: 2026-05-16
+tags: [Jeff Richard, Chaosium, autor, designer, Glorantha, RQG, Prince of Sartar, Well of Daliath, vídeo, entrevista]
+last_updated: 2026-09-30
 status: draft
 ---
 
@@ -37,6 +37,14 @@ Também escreveu perfis de clã (Hiording, Varmandi, Ernaldori), documentou fina
 ### Colaboração com Greg Stafford
 Desde 2015, compilou os manuscritos de Stafford para o romance póstumo *A Pyre for Gods and Heroes* (completado por [[Andrew Logan Montgomery]]). Sua direção de arte para RQG trouxe influências do subcontinente indiano e Oriente Próximo antigo.
 
+### Presença Pública e Videochats
+
+Além das notas em texto no [[Well of Daliath]] e no grupo de Facebook de RuneQuest, Jeff tem aparecido em vídeos e entrevistas:
+
+- **Mitologia do mundo real vs. Gloranthana** (maio de 2022, perguntas de **James Coquillat**): Jeff explica que os **arquétipos divinos de Glorantha estão enviesados** num sentido ou outro face aos panteões do mundo antigo por **considerações de jogabilidade** — os deuses não são cópias de deuses reais, são construções de jogo. Também observa que há **demasiada magia de guerra** em Glorantha (Ludovic concordou: a magia de combate dá bônus grandes às competências de combate, enquanto a magia não-combatente tende a dar bônus modestos).
+- **RPGs vs. filmes e séries de televisão** (mesmo mês): Jeff fala sobre as diferenças entre o meio, numa entrevista que não é diretamente sobre Glorantha mas que tocou em como o meio molda as escolhas.
+- **RuneQuest Homelands** (outubro de 2022): entrevista em vídeo por James Coquillat sobre as seis terras natais apresentadas como opções de personagem no core rulebook, com recomendações para quem está a escolher.
+
 ## Referências Cruzadas
 - [[Greg Stafford]]
 - [[Chaosium]]
@@ -44,9 +52,13 @@ Desde 2015, compilou os manuscritos de Stafford para o romance póstumo *A Pyre 
 - [[Prince of Sartar]]
 - [[Andrew Logan Montgomery]]
 - [[Well of Daliath]]
+- [[Journal of Runic Studies]]
 
 ## Referências
 - Fonte: [[RuneQuest - Roleplaying in Glorantha (RQG)]]
 - Fonte: [[Greg Stafford]]
 - Fonte: [[Prince of Sartar]]
+- Fonte: [Jeff Richard on real-world mythology and TTRPGs (YouTube)](https://www.youtube.com/watch?v=nKXC5T7UQbg)
+- Fonte: [Jeff Richard sobre RPGs vs. cinema e televisão (YouTube)](https://www.youtube.com/watch?v=pxd0AuYwtbg)
+- Fonte: [RuneQuest Homelands — entrevista a Jeff Richard](https://godlearners.com/journal-of-runic-studies-69/)
 - Fonte: Múltiplas edições do [[Journal of Runic Studies]]

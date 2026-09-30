@@ -10,7 +10,7 @@ status: draft
 # Journal of Runic Studies #8
 
 ## Resumo
-8ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Conteúdo principal: geografia e história da [[Pelória]] (Bacia Pelória, clima, vestuário, pré-história), a cidade de [[Alkoth]] (portal para o Submundo, culto de [[Shargash]]), os pântanos de Darjiin e Henjarl, a deusa-garça [[Biselenslib]], o teaser de "The Final Riddle" de [[Andrew Logan Montgomery]], o artigo "50 Years of Text Games" sobre [[King of Dragon Pass]], o fim da revista [[Tradetalk]], e atualizações do [[QuestWorlds]].
+8ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Conteúdo principal: geografia e história da [[Pelória]] (Bacia Pelória, clima, vestuário, pré-história), a cidade de [[Alkoth]] (portal para o Submundo, culto de [[Shargash]]), os pântanos de Darjiin e Henjarl, a deusa-garça [[Biselenslib]], o teaser de "The Final Riddle" de [[Andrew Logan Montgomery]], o artigo "50 Years of Text Games" sobre [[King of Dragon Pass]], o fim da revista [[Tradetalk]], e atualizações do [[QuestWorlds]].
 
 ## Conteúdo
 

@@ -2,8 +2,8 @@
 title: "RuneQuest Weapons & Equipment (Guia de Armas e Equipamentos)"
 category: "Fonte"
 tags: [RuneQuest, Chaosium, material culture, Dragon Pass, equipamento, armas, review, Andrew Logan Montgomery]
-sources: ["https://andrewloganmontgomery.blogspot.com/2021/12/excavating-glorantha-look-at-runequest.html", "https://www.chaosium.com/runequest-weapons-equipment-pdf/"]
-last_updated: 2026-05-16
+sources: ["https://andrewloganmontgomery.blogspot.com/2021/12/excavating-glorantha-look-at-runequest.html", "https://www.chaosium.com/runequest-weapons-equipment-pdf/", "https://basicroleplaying.org/topic/15225-out-now-in-pdf-%E2%80%93-runequest-weapons-equipment/#comment-253211"]
+last_updated: 2026-09-30
 status: draft
 ---
 
@@ -87,6 +87,11 @@ Publicado pela [[Chaosium]] em Dezembro de 2021, o *RuneQuest Weapons & Equipmen
 
 #### 12. Itens Exóticos (*Exotic Items*)
 - Maioritariamente mágicos — o tipo de tesouro que os PJs sempre desejam
+- Inclui **montarias exóticas** com preços na ordem dos **400 a 1200 L** (Ludovic brincou com esta gama ao anunciar a versão impressa)
+
+### Versão Impressa
+
+Embora o PDF fosse o único formato disponível durante grande parte de 2022, a **edição em papel** entrou em produção: em **maio de 2022**, MOB publicou fotografias de uma **cópia antecipada** enviada pelo **impressor polonês** usado pela Chaosium — o livro em "dead tree version". A impressão polaca é a mesma utilizaada pela [[Black Monk Games]] para o [[RuneQuest Starter Set]].
 
 ### Arte em Destaque
 

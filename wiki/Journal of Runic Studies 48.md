@@ -23,10 +23,18 @@ status: draft
 - Contagem final do "monstro de dois volumes": **96 cultos distintos + cerca de 40 cultos menores**; os 96 são write-ups longos similares aos de *Cults of Prax* e *Cults of Terror*. O projeto é maior e mais complicado que o slipcase de *Masks of Nyarlathotep*.
 - Mudança de modelo de publicação: a Chaosium estaria **deixando de lançar primeiro o PDF** e depois o físico, preferindo **lançamentos simultâneos** (como no Starter Set). Ludovic questiona a decisão diante da crise de papel e de envios em 2022.
 
+### Chaosium News — Jeff sobre mitologia do mundo real e TTRPGs como mídia
+- **Vídeo 1** (perguntas de **James Coquillat**): Jeff fala da relação entre a mitologia do mundo real e a mitologia gloranthana, notando que os **arquétipos divinos de Glorantha estão enviesados** num sentido ou outro face aos panteões do mundo antigo, por **considerações de jogabilidade**. Ver [[Jeff Richard]].
+- **Vídeo 2** (não diretamente ligado a Glorantha, mas com Jeff): pontos interesantes sobre a **diferença entre RPGs e filmes/séries de televisão**.
+- **Crítica de Ludovic:** concorda com a observação de Jeff de que há *demasiada magia de guerra* em Glorantha. Na sua leitura, a magia de combate costuma dar bônus grandes (senão massivos) a competências de combate, enquanto a magia não-combate tende a dar apenas bônus modestos a competências não-combatentes — mesmo que isso fosse diferente, ainda lhe falta perceber formas interessantes de envolver magia de fertilidade em cenários, tanto narrativa como mecanicamente.
+
+### Chaosium News — Weapons & Equipment Guide em papel
+Ainda não totalmente fora do Pdf, mas a **versão impressa existe**: MOB publicou fotografias de uma **cópia antecipada** enviada pelo **impressor polonês** usado pela Chaosium — "in dead tree version". Ludovic brincou com os preços das **montarias exóticas de 400 a 1200 L** ("segurem as suas montarias exóticas…"). Ver [[RuneQuest Weapons & Equipment (Guia de Armas e Equipamentos)]].
+
 ### Jonstown Compendium
 - **Lost in the Dark** — aventura curta de 11 páginas de Josh "Skull" Dixon com um novo espírito da Escuridão sobre "estar perdido".
 - **Secrets of Dorastor** — atualização de Simon Phipp com documento "Personalities Tactics" (~70 páginas de táticas de Personalidades de Alto Nível).
-- Covers do Compendium selecionados pela Chaosium; a capa de Ludovic para *To Hunt a God* (Austin Conrad) foi selecionada.
+- Covers do Compendium selecionados pela Chaosium: a capa de Ludovic para *To Hunt a God* (Austin Conrad) foi selecionado; entre as outras escolhas estavam a arte de **Katrin Dirim** para *The Six Paths* e a capa de **Mark Smylie** para *The Armies & Enemies of Dragon Pass*.
 
 ### Jeff's Notes — Elmal/Yelmalio (BRP Central)
 Thread sobre "Elmal/Yelmalio no Holy Country" (basicroleplaying.org) que se desenrola em outro expositor do debate. Ver páginas [[Elmal]] e [[Yelmalio]] para os detalhes. Pontos-chave:
@@ -37,8 +45,18 @@ Thread sobre "Elmal/Yelmalio no Holy Country" (basicroleplaying.org) que se dese
 - **Elmali como regicidas**: os Elmali eram separatistas, matadores de clã, aliados lunares e regicidas — responsáveis pelas mortes de pelo menos um rei tribal e um Príncipe de Sartar. Jeff cita *King of Sartar*: o Príncipe **Jarosar** ("Hothead") "caiu para veneno, de uma mão amiga" — morto por um de seus próprios guarda-costas Elmali (comparação com Indira Gandhi). Isso torna os Elmali muito menos "Friendly Neighbourhood Paladins" do que o imaginário de KoDP/Storm Tribe sugeria. "Não há mais thanes leais. O antigo culto de Elmal acabou."
 - **Linha do tempo do culto na Segunda Era**: rede próspera de templos de Yelmalio de Prax a Fronela; com a **Dragonkill War** foi quebrada, com templos autonomizados e muito perdido/roubado. Em Hendrikiland, o culto virou pouco mais que um Spirit Cult ligado ao culto de Orlanth; fugiu para Dragon Pass depois que **Belintar** virou governante (Heortland não precisava de um deus pequeno de Fogo/Céu quando **Lodril** ocupava esse papel). Monrogh revelou os "Muitos Sóis" dos templos Sun Dome e restaurou a rede. A maioria do material publicado sobre Sun Dome é sobre o templo praxiano — "Sun County é um outlier, a fronteira da fronteira; os templos em Dragon Pass e no sul de Pelória são provavelmente mais típicos do culto".
 
+### Jeff's Notes — O Príncipe Saronil a Roubar Segredos aos Anões
+Agathe Pitie (arteira do *Cults of Glorantha*) trabalhava no **Sartar Homeland boxed set**. A imagem "Prince Saronil stealing secrets from the dwarves" vem da *Illustrated History of Sartar*:
+
+> Acho muito importante apresentar a história de Sartar visualmente, particularmente para quem está agora a entrar no jogo. — [[Jeff Richard]]
+
+Ver [[Prince Saronil]].
+
+### Jeff's Notes — Moedas de Prata Sartaritas
+Analogia direta com a moeda de **Alexandre o Grande** com o capacete de elefante mencionada no [[Journal of Runic Studies 47]]: Jeff imaginou uma **moeda de prata com Kallyr Starbrow** (arte de Chris Huth), o príncipe rebelde que se tornou Prince. Ver [[Kallyr Testa-Estrelada]] e [[Moeda Gloranthana]] para a numismática completa (chifres de carneiro do Orlanth Rex, Sovereigns 1492–1520, substituição pelos Lunars após 1602).
+
 ### Para Que Serve Elmal/Yelmalio
-- **Horse Triarchy**: estas pessoas tinham o Cavalo do Céu (Yelmalio) como patrono tribal; adoravam cavalos, e também **Hippoi** e **Hyalor** como deuses especificamente equinos. Não se mudaram para o Sun Dome porque o elemento Cavalo era mais importante que o Céu. O subculto de Elmal no futuro **Cults of Glorantha** ganha **Command Horse de Hippoi**.
+- **Horse Triarchy**: estas pessoas tinham o Cavalo do Céu (Yelmalio) como patrono tribal; adoravam cavalos, e também **Hippoi** e **Hyalor** como deuses especificamente equinos. Não se mudaram para o Sun Dome porque o elemento Cavalo era mais importante que o Céu. O subculto de Elmal no futuro **Cults of Glorantha** ganha **Command Horse de Hippoi**. Ver [[Hippoi]].
 - **Troll Fighting**: folk especializado em lutar contra trolls; os Hendriki eram aliados há muito tempo do Only Old One, mas mantinham seus adoradores da Luz em reserva; o Only Old One preferia o culto a cultos de Fogo e Luz mais poderosos.
 - **Soldados de infantaria sólidos**: como culto pequeno mas coeso em um mar de Orlanthi, os Yelmalions sempre foram melhores em coesão e infantaria sólida — remonta à Segunda Era, não é mágico, é algo que o culto faz para "lutar acima de seu peso".
 
@@ -72,7 +90,7 @@ Sobre por que o culto de [[Waha]] nunca permite seus iniciados aprenderem **Heal
 - [[Hippoi]]
 - [[Hyalor]]
 - [[Sun County]]
-- [[Príncipe Saronil]]
+- [[Prince Saronil]]
 - [[Esrolia]]
 
 ## Referências

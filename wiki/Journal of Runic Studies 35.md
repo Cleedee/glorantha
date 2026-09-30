@@ -15,7 +15,7 @@ aliases:
 # Journal of Runic Studies #35
 
 ## Resumo
-35ª edição do periódico malkioni de [[Ludovic]] e os [[God Learners]]. Inclui: artigo Runic Rants sobre a magia **Detect Enemies**; trailer do [[RuneQuest Starter Set]] narrado por **Becca Scott**; anedota de **Rick Meints** sobre materiais promocionais do RQ3 (1983); **Matthew Cole** teasando "Vistas of New Pavis"; e sobretudo notas extensas de [[Jeff Richard]] sobre a natureza do [[Chaos]] — sua posição fora do cosmos, a associação paradoxal de [[Yelm]] com [[Nysalor]] e a [[Deusa Vermelha]], e a [[Deusa Vermelha]] como "duck-rabbit" de Wittgenstein.
+35ª edição do periódico malkioni de [[Ludovic (God Learners)|Ludovic]] e os [[God Learners]]. Inclui: artigo Runic Rants sobre a magia **Detect Enemies**; trailer do [[RuneQuest Starter Set]] narrado por **Becca Scott**; anedota de **Rick Meints** sobre materiais promocionais do RQ3 (1983); **Matthew Cole** teasando "Vistas of New Pavis"; e sobretudo notas extensas de [[Jeff Richard]] sobre a natureza do [[Chaos]] — sua posição fora do cosmos, a associação paradoxal de [[Yelm]] com [[Nysalor]] e a [[Deusa Vermelha]], e a [[Deusa Vermelha]] como "duck-rabbit" de Wittgenstein.
 
 ## Conteúdo
 
